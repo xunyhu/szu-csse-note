@@ -4,7 +4,7 @@ using namespace std;
 
 /*课后练习题：程序分析*/
 
-/*
+
 //求s的结果
 class A {
     public:
@@ -22,11 +22,10 @@ int A::fun(int x) {
 
 int main() {
     A a;
-    int s = a.fun(6.0) + a.fun(2);
-    cout << s<<endl;
+    int s = a.fun(6.0) + a.fun(2);  //3+4
+    cout<< s<<endl; 
     return 0;
-}
-*/
+};
 
 
 //给出程序结果
@@ -112,6 +111,7 @@ float bigger(int x, float y)
     else return y;
 }
 
+/*
 int main()
 {
     int x1=10, y1=20;
@@ -125,3 +125,4 @@ int main()
     cout<<b<<endl;
     return 0;
 }
+*/
