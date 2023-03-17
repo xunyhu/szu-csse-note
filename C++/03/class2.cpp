@@ -2,7 +2,12 @@
 using namespace std;
 
 /**
- * 第三节 类的静态成员 P108
+ * 析构函数 P105
+ * 与构造函数一样，析构函数也是成员的一种，它的名字也与类名相同，但要在类名前面加一个“~”字符以区别构造函数。
+ * 析构函数没有参数，也没有返回值。一个类中有且仅有一个析构函数，默认析构函数的函数体为空。
+ * 对象创建时自动调用构造函数，对象消亡时自动调用析构函数。
+ * 析构函数用于做一些善后工作，例如：在创建对象时使用new运算符动态分配了内存空间，则在析构函数中应该使用delete释放这部分占用的空间。
+ * ** 析构函数的调用执行顺序与构造函数刚好相反 **
  */
 class myDate
 {
@@ -132,6 +137,28 @@ public:
 
 int main()
 {
-    
+    // 例3-19 对象数组与delete语句
+    //  Student *ss = new Student[2];
+    //  delete []ss; //使用delete释放动态数组时，通过“[]”告诉编译器是数组
+
+    // 例3-20 对象指针数组与delete
+    //  Student *ss[2] = {new Student(), new Student()};
+    //  delete ss[0];
+    //  delete ss[1];
+
+    Samp *p;
+    p = new Samp[5];
+    if (!p)
+    {
+        cout << "内存分配错误\n";
+        return 1;
+    }
+    for (int j = 0; j < 5; j++)
+        p[j].Setij(j, j);
+    for (int k = 0; k < 5; k++)
+    {
+        cout << "Muti[" << k << "] 值是：" << p[k].GetMuti() << endl;
+    }
+    delete []p;
     return 0;
 };
