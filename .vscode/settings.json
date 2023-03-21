@@ -5,6 +5,8 @@
         "*.wxs": "javascript",
         "*.ts": "typescript",
         "iostream": "cpp",
-        "ostream": "cpp"
-    }
+        "ostream": "cpp",
+        "new": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
