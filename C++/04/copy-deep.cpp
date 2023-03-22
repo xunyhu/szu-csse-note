@@ -22,8 +22,20 @@ public:
         if (this != &tempp)
         {
             a = tempp.a;
-            p = tempp.p;
+            p = new int();
+            *p = *tempp.p;
         }
+    }
+    ~pointer()
+    {
+        if (p!=NULL) delete p;
+    }
+    pointer &operator=(const pointer &c)
+    {
+        if (this == &c) return *this;
+        delete this->p;
+        this->p = new int(*c.p);
+        return *this;
     }
 };
 
