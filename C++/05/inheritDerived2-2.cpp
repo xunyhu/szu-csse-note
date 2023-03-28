@@ -13,129 +13,63 @@ using namespace std;
             2. 派生类的对象可以用来初始化基类引用
             3. 派生类对象的地址可以赋值给基类指针，即派生类的指针可以赋值给基类的指针。
             上述3条规则反过来是不成立的。不能把基类对象赋值给派生类对象。
+    3. 私有继承
 */
 
-class Base
+class A
 {
-public:
-    int vBpub;
-protected:
-    int vBpro;
-private:
-    int vBpri;
-public:
-    Base()
-    {
-        vBpub = 10;
-        vBpro = 20;
-        vBpri = 30;
-    };
-    void SetPriValue(int);
-    void SetProValue(int, int);
-    int GetPriValue();
-    int GetProValue();
-};
-void Base::SetPriValue(int k)
-{
-    vBpri = k;
-}
-void Base::SetProValue(int m, int n)
-{
-    vBpro = m;
-    vBpri = n;
-}
-int Base::GetPriValue()
-{
-    return vBpri;
-}
-int Base::GetProValue()
-{
-    return vBpro;
-}
+    int an;
 
-class Derived : public Base
-{
 public:
-    int vDpub, vBpub;
-protected:
-    int vDpro;
-private:
-    int vDpri;
-public:
-    Derived()
+    A() {}
+    A(int n)
     {
-        vDpub = 100;
-        vDpro = 200;
-        vDpri = 300;
-        vBpub = 15;
-    };
-    void SetPriValue(int);
-    void SetProValue(int, int);
-    int GetPriValue();
-    int GetProValue();
-    void PrintValue();
+        an = n;
+    }
+    void print()
+    {
+        cout << "A的对象：";
+        cout << "an: " << an;
+    }
+    void print(int k) // 不同的输出格式
+    {
+        cout << "an: " << an;
+    }
 };
-void Derived::SetPriValue(int k)
-{
-    vDpri = k;
-}
-void Derived::SetProValue(int m, int n)
-{
-    vDpro = m;
-    vDpri = n;
-    Base::vBpro = 2*m;
-    // Base::vBpri = 2*n; //不可以直接访问从基类继承的私有成员变量
 
-    /**
-     * 从基类继承的公有成员、保护成员        派生类中可以直接访问
-     * 从基类继承的私有成员                 派生类中不可以直接访问
-    */
-}
-int Derived::GetPriValue()
+class B : public A
 {
-    return vDpri;
-}
-int Derived::GetProValue()
-{
-    return vDpro;
-}
-void Derived::PrintValue()
-{
-    cout<<"在派生类中访问基类"<<endl;
-    cout<<"基类公有变量："<<vBpub<<endl;
-    // cout<<Base::vBpri<<endl;   不能直接访问基类的私有变量
-     /**
-     *        各成员                    派生类中                基类与派生类外
-     *       公有成员                   直接访问                直接访问 
-     *       保护成员                   直接访问                调用公有函数访问
-     *       私有成员                 调用公有函数访问           调用公有函数访问
-    */
-    cout<<"从基类继承的保护变量："<<Base::vBpro<<endl;  
-}
+    int bn;
+
+public:
+    B(int n) : A(2 * n)
+    {
+        bn = n;
+    }
+    void print()
+    {
+        cout << "\nB的对象：";
+        A::print();
+        cout << ",bn=" << bn << endl;
+    }
+};
 
 int main()
 {
-    Base bObj;
-    Derived dObj;
-    cout<<"在主函数中访问基类Base"<<endl;
-    cout<<"公有成员："<<bObj.vBpub<<endl;
-    /**
-     *        各成员                        派生类中             基类与派生类外
-     * 从基类继承的公有成员                 可以直接访问            可以直接访问 
-     * 从基类继承的保护成员                 不可以直接访问          调用公有函数访问
-     * 从基类继承的私有成员                 调用公有函数访问         调用公有函数访问
-    */
-    // cout<<"保护成员："<<bObj.vBpro<<endl;   不能直接访问保护成员变量
-    // cout<<"私有成员："<<bObj.vBpri<<endl;   
-    cout<<"保护成员："<<bObj.GetProValue()<<endl;
-    cout<<"私有成员："<<bObj.GetPriValue()<<endl;
-    cout<<"在主函数中访问派生类Derived"<<endl;
-    cout<<"公有成员："<<dObj.vBpub<<endl;
-    cout<<"      保护成员："<<dObj.GetProValue()<<endl;
-    cout<<"基类  保护成员："<<dObj.Base::GetProValue()<<endl;
-    cout<<"私有成员："<<dObj.GetPriValue()<<endl;
-    cout<<"dObj.vBpub="<<dObj.vBpub<<endl;
-    cout<<"dObj.Base::vBpub="<<dObj.Base::vBpub<<endl;
-    dObj.PrintValue();
+    A a(10);
+    B b(20);
+    a.print();
+    b.print();
+    a = b;
+    a.print();
+    b.print();
+    A &r = b;
+    r.print();
+    A *pa = &b;
+    pa->print();
+    B *pb = &b;
+    pb->print();
+    pa = pb;
+    pa->print();
     return 0;
 }
