@@ -139,6 +139,7 @@ Boolean operator*(const Boolean &objl, const Boolean &obj2)
 //     return 0;
 // }
 
+/*
 template <class T>
 void func1(T s[])
 {
@@ -168,10 +169,194 @@ void func2(double s[], double w[])
 int main()
 {
     double s[6], w[3];
-    func1(s);  //1 2 3 4 5 6 
+    func1(s);  //1 2 3 4 5 6
     cout << endl
-         << "平均值："; 
+         << "平均值：";
     func2(s, w); //2 5
 
+    return 0;
+}
+*/
+
+/*
+class Samp
+{
+public:
+    void SetMuti(int a, int b)
+    {
+        i = a;
+        j = b;
+    }
+    ~Samp() { cout << "析构..." << i << endl; }
+    int GetMuti() { return i * j; }
+
+protected:
+    int i, j;
+};
+int main()
+{
+    Samp *p;
+    int N = 3;
+    p = new Samp[N];
+    if (!p)
+    {
+        cout << "内存分配错误\n";
+        return 1;
+    }
+    for (int i = 0; i < N; i++)
+        p[i].SetMuti(i, i + 1);
+    for (int i = 0; i < N; i++)
+        cout << "Muti[" << i << "]值是：" << p[i].GetMuti() << endl;  //p[0]:0, p[1]:2, p[2]:6
+    delete[] p;
+    return 0;
+}
+*/
+
+/*
+class Computer
+{
+public:
+    Computer() { cout << "Computer constructor" << endl; }
+    virtual void subscribe() = 0;
+    void read() { cout << "Read paper" << endl; }
+    ~Computer() { cout << "Computer destructor" << endl; }
+};
+class Design : public Computer
+{
+public:
+    Design() { cout << "Design constructor" << endl; }
+    virtual void subscribe() { cout << "Subscribing Design" << endl; }
+    void read() { cout << "Reading Design" << endl; }
+    ~Design() { cout << "Design destructor" << endl; }
+};
+int main()
+{
+    Design journal;
+    Computer *p_journal = &journal;
+    journal.subscribe(); //"Computer constructor" -> "Design constructor" -> "Subscribing Design"
+    journal.read();
+    p_journal->read();   //"Read paper" ->  "Design destructor"  ->  "Computer destructor"
+    return 0;
+}
+*/
+
+/*
+class A
+{
+private:
+    int n;
+
+public:
+    A(int i) { n = i; }
+    A operator++()
+    {
+        n++;
+        return *this;
+    }
+    A operator++(int)
+    {
+        n += 2;
+        return *this;
+    }
+    void Display() { cout << "n=" << n << endl; }
+};
+int main()
+{
+    A a(2), b(2);
+    a++; // 调用后置函数 operator++(int)
+    ++b; // 调用operator++()
+    a.Display();
+    b.Display();
+    return 0;
+}
+*/
+
+// 根据下面类中Sum函数成员的原型和注释写出它的类外定义。（5分）
+class AA
+{
+    int *a, n, MS;
+
+public:
+    void InitAA(int aa[], int nn, int ms)
+    {
+        if (nn > ms)
+        {
+            cout << "Error!" << endl;
+            return;
+        }
+        MS = ms;
+        a = new int[MS];
+        for (int i = 0; i < n; i++)
+            a[i] = aa[i];
+    }
+    int Sum(); // 求出并返回数组a中前n个元素之和
+};
+
+int AA::Sum()
+{
+    int res;
+    for (int i = 0; i < n; i++)
+        res += a[i];
+    return res;
+}
+
+// 程序设计题：请声明Student类，类中包含数据成员姓名和分数，成员函数compare（用于比较两名学生的分数）。在主函数中输入n名学生的信息后，输出其中最高分和最低分学生的姓名及分数。（10分）
+
+/*
+class Student
+{
+public:
+    string name;
+    int score;
+    void compare(Student _stu);
+    Student(string _name, int _score):name(_name),score(_score){}
+};
+
+void Student::compare(Student _stu) {
+    if (_stu.score < score)
+        cout<<"最高分学生姓名："<<name<<", 分数："<<score<<endl;
+    else
+        cout<<"最高分学生姓名："<<_stu.name<<", 分数："<<_stu.score<<endl;
+};
+
+
+int main()
+{
+    Student a("hurui", 99), b("hu", 100), c("rui", 66);
+    a.compare(b);
+    return 0;
+}
+*/
+
+// 参考答案
+class student
+{
+public:
+    char name[10];
+    int score;
+    friend int compare(student &sl, student &s2);
+};
+int compare(student &sl, student &s2)
+{
+    if (sl.score >= s2.score)
+        return 1;
+    else
+        return -1;
+}
+int main()
+{
+    student st[100];
+    int i, n, min = 0, max = 0;
+    cin >> n;
+    for (i = 0; i < n; i++)
+    {
+        cin >> st[i].name >> st[i].score;
+        if (compare(st[max], st[i]) == -1)
+            max = i;
+        if (compare(st[min], st[i]) == 1)
+            min = i;
+    }
+    cout << "最高分：" << st[max].score << "，姓名：" << st[max].name << endl;
+    cout << "最低分：" << st[min].score << "，姓名：" << st[min].name << endl;
     return 0;
 }

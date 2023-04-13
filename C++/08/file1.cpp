@@ -3,6 +3,8 @@
 #include <iomanip>
 using namespace std;
 
+//P308
+
 // 实现一个程序，从键盘输入学生的学号、姓名和成绩，将它们存入文件score.txt中。假设学号不超过10个字节，姓名不超过20个字节
 int main()
 {
