@@ -2,4 +2,5 @@
 ./**/.DS_Store
 /**/**.txt
 C++/**/**.exe
+C/**/**.exe
 C++/Code.xcodeproj
