@@ -8,6 +8,11 @@
 - [2023 年上半年深圳考区报考简章](http://szeb.sz.gov.cn/szzkw/qt/tzgg/content/post_10418681.html)
 - [全国英语等级考试（PETS）报考、培训招生简章- 深圳开放大学](https://www.szou.edu.cn/html/notice/2018-12-25/3585.html)
 
-### 备考
+## 备考
 
 - [公共英语 3 级 PETS3 备考经验](https://zhuanlan.zhihu.com/p/414809626)
+
+## 英语语法
+
+- [一个视频说清整个英语语法体系](https://www.youtube.com/watch?v=is7vn5URVcc)
+- [英语兔](https://www.youtube.com/@yingyutu/playlists)
