@@ -1,0 +1,19 @@
+TypeScript for the New Programmer
+
+Congratulations on choosing TypeScript as one of your first languages — you’re already making good decisions!
+You’ve probably already heard that TypeScript is a “flavor” or “variant” of JavaScript. The relationship between TypeScript (TS) and JavaScript (JS) is rather unique among modern programming languages, so learning more about this relationship will help you understand how TypeScript adds to JavaScript.
+
+祝贺您选择 TypeScript 作为您的首选语言之一——您已经做出了正确的决定！
+您可能已经听说过 TypeScript 是 JavaScript 的“风味”或“变体”。 TypeScript (TS) 和 JavaScript (JS) 之间的关系在现代编程语言中相当独特，因此更多地了解这种关系将有助于您了解 TypeScript 如何添加到 JavaScript 中。
+
+What is JavaScript? A Brief History
+JavaScript (also known as ECMAScript) started its life as a simple scripting language for browsers. 
+At the time it was invented, it was expected to be used for short snippets of code embedded in a web page — writing more than a few dozen lines of code would have been somewhat unusual. 
+Due to this, early web browsers executed such code pretty slowly. 
+Over time, though, JS became more and more popular, and web developers started using it to create interactive experiences.
+
+JavaScript（也称为 ECMAScript）最初是一种用于浏览器的简单脚本语言。
+在它被发明的时候，它被期望用于嵌入网页的短代码片段——编写超过几十行的代码有点不寻常。
+因此，早期的网络浏览器执行此类代码的速度非常慢。
+不过，随着时间的推移，JS 变得越来越流行，Web 开发人员开始使用它来创建交互式体验。
+

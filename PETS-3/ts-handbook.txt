@@ -1,0 +1,18 @@
+The TypeScript Handbook
+
+About this Handbook
+Over 20 years after its introduction to the programming community, JavaScript is now one of the most widespread cross-platform languages ever created. 
+Starting as a small scripting language for adding trivial interactivity to webpages, JavaScript has grown to be a language of choice for both frontend and backend applications of every size. 
+While the size, scope, and complexity of programs written in JavaScript has grown exponentially, the ability of the JavaScript language to express the relationships between different units of code has not. 
+Combined with JavaScript’s rather peculiar runtime semantics, this mismatch between language and program complexity has made JavaScript development a difficult task to manage at scale.
+
+在引入编程社区 20 多年后，JavaScript 现在是有史以来最广泛使用的跨平台语言之一。
+JavaScript 最初是一种用于向网页添加琐碎交互性的小型脚本语言，现已发展成为各种规模的前端和后端应用程序的首选语言。
+虽然用 JavaScript 编写的程序的大小、范围和复杂性呈指数增长，但 JavaScript 语言表达不同代码单元之间关系的能力却没有。
+结合 JavaScript 相当奇特的运行时语义，语言和程序复杂性之间的这种不匹配使得 JavaScript 开发成为一项难以大规模管理的任务。
+
+Get Started
+Before getting started with The Basics, we recommend reading one of the following introductory pages. 
+These introductions are intended to highlight key similarities and differences between TypeScript and your favored programming language, and clear up common misconceptions specific to those languages.
+在开始使用基础知识之前，我们建议阅读以下介绍性页面之一。
+这些介绍旨在强调 TypeScript 与您喜欢的编程语言之间的主要相似点和不同点，并澄清特定于这些语言的常见误解。
