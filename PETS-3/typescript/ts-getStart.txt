@@ -1,3 +1,5 @@
+【TypeScript官方文档翻译】https://www.typescriptlang.org/
+
 TypeScript for the New Programmer
 
 Congratulations on choosing TypeScript as one of your first languages — you’re already making good decisions!

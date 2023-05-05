@@ -1,11 +1,14 @@
 可可英语-每日新闻摘录
 
 04-28
-Twenty young female scientists and five scientific teams researching various fields were awarded for major breakthroughs on Saturday by the All-China Women's Federation (ACWF) and the China Association for Science and Technology (CAST).
+Twenty young female scientists and five scientific teams researching various fields were awarded for major breakthroughs on Saturday by 
+the All-China Women's Federation (ACWF) and the China Association for Science and Technology (CAST).
 
-At a ceremony hosted by the ACWF and CAST, Shen Yueyue, vice chairperson of the National Committee of the Chinese People's Political Consultative Conference and president of the ACWF, encouraged female scientists to bear in mind fundamental national interests and people's concern.
+At a ceremony hosted by the ACWF and CAST, Shen Yueyue, vice chairperson of the National Committee of the Chinese People's Political Consultative Conference and president of the ACWF, 
+encouraged female scientists to bear in mind fundamental national interests and people's concern.
 
-Shen called on them to achieve breakthroughs in original and pioneering scientific and technological research and brave and tackle bottleneck problems in key and core technologies to enhance the country's self-reliance and strength in science and technology.
+Shen called on them to achieve breakthroughs in original and pioneering scientific and technological research 
+and brave and tackle bottleneck problems in key and core technologies to enhance the country's self-reliance and strength in science and technology.
 
 星期六，中华全国妇女联合会（ACWF）和中国科学技术协会（CAST）为20名年轻女科学家和5个研究各个领域的科学团队颁发了重大突破奖。
 
@@ -13,12 +16,41 @@ Shen called on them to achieve breakthroughs in original and pioneering scientif
 
 沉要求，要在原创性、开创性科技研究上取得突破，勇于攻克关键核心技术瓶颈，增强国家科技自立和科技实力。
 
+female  n. 妇女
+scientists  n. 科学家（scientist 的复数）
+scientific  adj. 科学的，与科学有关的；细致严谨的，使用科学方法的
+researching     n. 研究, 研究员
+research        n. （尤指大学或科研机构进行的）研究，探讨；研究工作，调查工作; v. 研究，探索；为……收集资料，调查
+breakthrough    n. 突破，重大进展
+major           adj. 重大的，主要的
+ceremony        n. 仪式，典礼；礼节，礼仪，客套
+vice            adj. 副的；代替的，代理的
+committee       n. 委员会；<英>受托人，监护人；<美>精神病者监护人
+political       adj. 政治（上）的，政府的；政党的，党派的；对政治感兴趣的，参与政治的；反政府的；（组织内部人际间）牵涉权力关系的，争权夺利的
+consultative    adj. 咨询的，顾问的
+conference      n. （大型、正式的）会议，研讨会；（小型正式的）商讨，讨论；体育协会（或联合会）
+president       会长
+chairperson     主席
+achieve         v. （经努力）达到，取得，实现；获得成功
+pioneering      adj. 首创的，先驱的；有开创者特点的
+technological   adj. 技术的，科技的，工艺的
+technologies    n. 技术；科技（technology 的复数）
+brave           adj. 勇敢的，无畏的；非常好的；华丽的，盛装的
+tackle          v. 应付，解决（难题或局面）；
+bottleneck      n. 瓶颈；障碍物
+enhance         v. 增强，提高，改善
+reliance        n. 依靠，信任；<古>被依赖的人（或物）
+strength        n. 体力，力量；实力，影响力；
+science         n. 科学，科学知识；专门科学；（大学学习的）学科；理科；技术，技巧
+
 04-27
 The 13th Beijing International Film Festival (BJIFF) lifted its curtain in Beijing on Saturday.
 
-This year, the number of films that registered for the Tiantan Award worldwide reached a record high of 1,488 entries from 93 countries and regions. Among them, foreign films accounted for more than 80 percent of the entries.
+This year, the number of films that registered for the Tiantan Award worldwide reached a record high of 1,488 entries from 93 countries and regions.
+Among them, foreign films accounted for more than 80 percent of the entries.
 
-The 13th Beijing International Film Festival is offering a diverse range of activities, including offline events such as the "Tiantan Award" ceremony, screenings, forums, a film carnival, a college student film festival, and the closing and award ceremonies, as well as other related events.
+The 13th Beijing International Film Festival is offering a diverse range of activities, including offline events such as the "Tiantan Award" ceremony, screenings, forums, 
+a film carnival, a college student film festival, and the closing and award ceremonies, as well as other related events.
 
 This year, 15 films are competing for the Tiantan Award, and winners will be announced at the closing ceremony on April 29.
 
@@ -30,15 +62,41 @@ This year, 15 films are competing for the Tiantan Award, and winners will be ann
 
 今年天坛奖共有15部影片角逐，获奖名单将于4月29日闭幕式上揭晓。
 
+lift        v. 提起，举起；抬起（身体某一部位）；空运；解除，撤销；高兴起来，使更愉快；消散，消失；n. 电梯，升降机；免费搭车，搭便车； 过去分词lifted
+curtain     n. 窗帘，门帘；帘状物，幕状物（如浓烟或大雨等）；纱幔，帷幔；（舞台上的）幕，幕布；开幕，落幕；灾难性结局
+registered      adj. 已登记的，已注册的；
+worldwide       adj. 世界范围的，全世界的
+reach           v. 到达，抵达；过去式reached
+record          n. 记录，记载；
+entry           n. 进入，加入；出场，莅临；门，入口；进入权，进入许可；参赛；参赛作品，竞赛答题；复数entries
+offer           v. 提供，给予; 现在分词offering
+diverse         adj. 不同的，各式各样的
+compete         v. 竞争，对抗；争夺；参加比赛; 现在分词competing
+announced       v. 宣布，宣告；通知；声称，宣称；宣布（某人）到达；（在广播或电视中）播音，广播（announce 的过去式和过去分词）
 
 04-26
 Clashes erupted north of Sudan’s capital Khartoum on Wednesday night, upending a temporary ceasefire between the Sudanese Army and its rival, the Rapid Support Force, just hours after it was struck.
 
 The two factions have been battling for days, and Wednesday saw fierce fighting in central Khartoum as well as serious clashes at the capital’s main airport.
 
-星期三晚上，苏丹首都喀土穆以北爆发了冲突，破坏了苏丹军队与其竞争对手快速支援部队之间的临时停火，仅在袭击发生后数小时。
+周三晚上，苏丹首都喀土穆北部爆发冲突，苏丹军队与其对手快速支援部队(Rapid Support Force)之间的临时停火协议在遭到袭击几小时后被打破。
 
 两派已经激战数日，周三在喀土穆市中心发生激烈战斗，首都主要机场也发生严重冲突。
+
+capital     n. 首都
+north       adj. 北
+erupted     v. 爆发；长出（erupt 的过去分词）
+clash       n. 冲突，交战；争论，争执；交锋，比赛；复数clashes
+temporary   n. 临时雇员，临时工
+ceasefire   n. 停火（停战）协议；停火命令，停火信号
+upending    v. 翻倒;倒放;使颠倒
+rival       n. 竞争对手，敌手；可与之匹敌者，可与之相比的人（或物）
+struck      v. 打，撞；（用手或武器等）打；（使）碰撞（strike 的过去式和过去分词）
+faction     n. 派系，宗派；派系之争，内讧；纪实与虚构相结合的电影（或书等）
+fierce      adj. 动作或情感）强烈的，激烈的；（人或动物）凶猛的，狂怒的；（天气等）狂暴的，恶劣的
+as well as   也；和……一样；不但……而且
+serious     adj. 严重的
+
 
 04-25
 Elon Musk's SpaceX company's mammoth new rocket, Starship, has exploded on its maiden flight.
@@ -49,7 +107,8 @@ After two to three minutes into the flight, the rocket - the biggest ever develo
 
 Mr Musk has said his company will try again in a couple of months.
 
-SpaceX engineers still class Thursday's mission as a success. They like to "test early and often" and are not afraid to break things. They will have gathered a mass of data to work towards the next flight. A second Starship is almost ready to take flight.
+SpaceX engineers still class Thursday's mission as a success. They like to "test early and often" and are not afraid to break things. 
+They will have gathered a mass of data to work towards the next flight. A second Starship is almost ready to take flight.
 
 "Congrats @SpaceX team on an exciting test launch of Starship! Learned a lot for next test launch in a few months," Mr Musk tweeted.
 
@@ -65,6 +124,19 @@ SpaceX 工程师仍然认为周四的任务是成功的。 他们喜欢“尽早
 
 “祝贺@SpaceX 团队进行了激动人心的星际飞船试射！为几个月后的下一次试射学到了很多东西，”马斯克先生在推特上写道。
 
+mammoth     adj. 巨大的，庞大的; n. 猛犸，毛象；庞然大物
+exploded    v. 爆炸（explode 的过去分词）
+maiden      adj. 首次的，初次的；（女子）未婚的；（赛马）从未跑赢过的；（树木或其他果实植物）生长期第一年内的
+flight      n. 航班，班机；飞行；逃走，逃避；（两个楼层间的）一段楼梯；（一起飞行的）鸟群，机群；v. （足球、板球等）将（球）准确吊传；给（箭，镖）装羽毛（或箭翎）；射击（飞行中的野禽）
+fly         v. 飞，飞翔；（飞机、航天器等）飞行，航行；乘飞机；
+uncrewed    adj. 无人驾驶的；无船员的
+lift off    （火箭等）发射；（直升飞机）起飞
+tumble      v. 翻滚，滚落；摔倒，跌倒；倒塌，坍塌；
+charge      v. 充电；使……承担责任，赋予……责任；n. 电量，电荷；炸药量；掌管，照管；费用，价钱；
+a couple of     三两个……；一对……
+couple      n. 两个，几个；一对夫妇，一对情侣; v. 加上，结合；（把设备等）连接；形成一双，配成一对；
+class       n. 班级；（一节）课，上课时间；v. 把……归类，把……看作；把……编入某一班级；属于……类（或等级），被列为某类（或某级）
+mission     n. 使命，重要任务；
 
 04-24
 India is set to surpass China as the world’s most populous nation, with almost 3 million more people by the middle of this year, data released by the United Nations on Wednesday showed.
