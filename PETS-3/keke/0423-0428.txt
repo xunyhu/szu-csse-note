@@ -3,34 +3,37 @@
 04-28
 Twenty young female scientists and five scientific teams researching various fields were awarded for major breakthroughs on Saturday by 
 the All-China Women's Federation (ACWF) and the China Association for Science and Technology (CAST).
+星期六，中华全国妇女联合会（ACWF）和中国科学技术协会（CAST）为20名年轻女科学家和5个研究各个领域的科学团队颁发了重大突破奖。
 
 At a ceremony hosted by the ACWF and CAST, Shen Yueyue, vice chairperson of the National Committee of the Chinese People's Political Consultative Conference and president of the ACWF, 
 encouraged female scientists to bear in mind fundamental national interests and people's concern.
+在全国妇联和中国科协联合举办的仪式上，全国政协副主席、全国妇联会长沉月月勉励女科学家要以国家根本利益和人民利益为重。
 
 Shen called on them to achieve breakthroughs in original and pioneering scientific and technological research 
 and brave and tackle bottleneck problems in key and core technologies to enhance the country's self-reliance and strength in science and technology.
-
-星期六，中华全国妇女联合会（ACWF）和中国科学技术协会（CAST）为20名年轻女科学家和5个研究各个领域的科学团队颁发了重大突破奖。
-
-在全国妇联和中国科协联合举办的仪式上，全国政协副主席、全国妇联会长沉月月勉励女科学家要以国家根本利益和人民利益为重。
-
 沉要求，要在原创性、开创性科技研究上取得突破，勇于攻克关键核心技术瓶颈，增强国家科技自立和科技实力。
 
-female  n. 妇女
-scientists  n. 科学家（scientist 的复数）
-scientific  adj. 科学的，与科学有关的；细致严谨的，使用科学方法的
+female          n. 妇女
+scientists      n. 科学家（scientist 的复数）
+scientific      adj. 科学的，与科学有关的；细致严谨的，使用科学方法的
 researching     n. 研究, 研究员
 research        n. （尤指大学或科研机构进行的）研究，探讨；研究工作，调查工作; v. 研究，探索；为……收集资料，调查
+various         adj. 各种各样的；迥异的，千差万别的
+field           n. 田地，田野；专业，领域；复数fields
+federation      n. 联邦政府，联邦；联合会；结成联邦（或联盟）
+association     n. 协会，社团，联盟；交往，联合；联系，因果关系；联想
 breakthrough    n. 突破，重大进展
 major           adj. 重大的，主要的
 ceremony        n. 仪式，典礼；礼节，礼仪，客套
 vice            adj. 副的；代替的，代理的
+national        adj. 国家的，全国的；n. 国民，侨民；全国性比赛；全国性报纸
 committee       n. 委员会；<英>受托人，监护人；<美>精神病者监护人
 political       adj. 政治（上）的，政府的；政党的，党派的；对政治感兴趣的，参与政治的；反政府的；（组织内部人际间）牵涉权力关系的，争权夺利的
 consultative    adj. 咨询的，顾问的
 conference      n. （大型、正式的）会议，研讨会；（小型正式的）商讨，讨论；体育协会（或联合会）
-president       会长
-chairperson     主席
+president       n. 会长
+chairperson     n. 主席
+encourage       v. 鼓励，激励；鼓动，怂恿；刺激，促进；过去式encouraged；过去分词encouraged
 achieve         v. （经努力）达到，取得，实现；获得成功
 pioneering      adj. 首创的，先驱的；有开创者特点的
 technological   adj. 技术的，科技的，工艺的
@@ -42,6 +45,10 @@ enhance         v. 增强，提高，改善
 reliance        n. 依靠，信任；<古>被依赖的人（或物）
 strength        n. 体力，力量；实力，影响力；
 science         n. 科学，科学知识；专门科学；（大学学习的）学科；理科；技术，技巧
+fundamental     n. 基本原理；adj. 根本的，基本的；
+concern         n. 担心，忧虑；使人担忧的事物；关心，关爱；重要的事物，关心的事；
+bear in mind    vi. 记住；考虑到
+breakthrough    n. 突破，重大进展
 
 04-27
 The 13th Beijing International Film Festival (BJIFF) lifted its curtain in Beijing on Saturday.
