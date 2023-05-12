@@ -4,10 +4,11 @@
 
 - [语法概论](http://www.tup.com.cn/upload/books/yz/060749-01.pdf)
 
-### 学习课程
+### 学习资料
 
 - [慕课-实用大学英语语法](https://umoocs.unipus.cn/my/course/2633)
 - [国家高等教育智慧教育平台](https://www.chinaooc.com.cn/)
+- [中国大学 MOOC](https://www.icourse163.org/)
 
 ## 第 1 章 语法概述
 
@@ -22,7 +23,7 @@
   - Article（冠词，用来确定名词的含义）
   - Preposition（介词，标示事物之间的关系）如：on、of
   - Pronoun（代词，用来代替名词避免重复）
-  - Numeral（数词，用来确定可数名词的数量）
+  - Numeral（数词，用来确定可数名词的数量） p-['/='`sx
 - 动词（Verb）
   - Adverb（副词，把话说得简短）如：with great care = carefully
   - Conjunction（连词，思想活动的过程）
@@ -73,14 +74,21 @@
 1. 冠词不能离开名词单独使用，必须放在名词前说明名词所指的人或物。
 
 - 冠词分为：定冠词 the、不定冠词 a/an、零冠词（名词前不加冠词）
-- [英语冠词](http://www.yygrammar.com/Article/201702/4968.html)
+- [英语冠词的概念及用法](http://www.yygrammar.com/Article/201702/4968.html)
 
 ### 2.4 数词用法的注意事项
 
 - 序数词，[基数词](http://www.yygrammar.com/Article/201908/5486.html)
-- [英语数词](http://www.yygrammar.com/Article/201506/4056.html)
+- [英语数词用法与要点归纳](http://www.yygrammar.com/Article/201506/4056.html)
+- [第 2 章\_单元测试](https://umoocs.unipus.cn/course/2633/task/194998/show)
 
 ## 第 3 章 代词
 
-- 代词的作用
-- 代词的分类
+- [代词相关语法知识详解](http://www.yygrammar.com/Article/201408/3693.html)
+- [第三章 单元测试](https://umoocs.unipus.cn/course/2633/task/195000/show)
+
+## 第 4 章 形容词和副词
+
+## 第 5 章 动词及基本句型
+
+- [第五章 单元测试]https://umoocs.unipus.cn/course/2633/task/195012/show
