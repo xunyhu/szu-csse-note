@@ -23,7 +23,7 @@
   - Article（冠词，用来确定名词的含义）
   - Preposition（介词，标示事物之间的关系）如：on、of
   - Pronoun（代词，用来代替名词避免重复）
-  - Numeral（数词，用来确定可数名词的数量） p-['/='`sx
+  - Numeral（数词，用来确定可数名词的数量）
 - 动词（Verb）
   - Adverb（副词，把话说得简短）如：with great care = carefully
   - Conjunction（连词，思想活动的过程）
@@ -52,42 +52,36 @@
 
 ## 第 2 章 名词、冠词和数词
 
-### 2.1 名词的分类和单复数
+1. 名词
 
-- 可数名词与不可数名词
-- 复合名词变复数
-- [六类名词的概念和定义](http://www.yygrammar.com/Article/201908/5472.html)
-- [可数名词与不可数名词](http://www.yygrammar.com/Article/201912/5513.html)
-- [名词单数与复数的理解与互变规律](http://www.yygrammar.com/Article/201711/5206.html)
-- [可数名词和不可数名词的语法特点](http://www.yygrammar.com/Article/201711/5208.html)
-- [英语名词用法测试题](http://www.yygrammar.com/Article/201901/5433.html)
-- [元音和辅音](https://www.tingclass.net/show-242-464368-1.html)
+   - [六类名词的概念和定义](http://www.yygrammar.com/Article/201908/5472.html)
 
-### 2.2 名词所有格和名词特殊结构
+2. 冠词
 
-- 名词三种格式：主格（主语）、宾格（宾语）、所有格（定语）
-- 's 所有格， of 所有格，双重所有格
-- [名词所有格](http://www.yygrammar.com/Article/201912/5514.html)
+   - [英语冠词的概念及用法](http://www.yygrammar.com/Article/201702/4968.html)
 
-### 2.3 冠词的用法
+3. 数词
 
-1. 冠词不能离开名词单独使用，必须放在名词前说明名词所指的人或物。
+   - [英语数词用法与要点归纳](http://www.yygrammar.com/Article/201506/4056.html)
 
-- 冠词分为：定冠词 the、不定冠词 a/an、零冠词（名词前不加冠词）
-- [英语冠词的概念及用法](http://www.yygrammar.com/Article/201702/4968.html)
-
-### 2.4 数词用法的注意事项
-
-- 序数词，[基数词](http://www.yygrammar.com/Article/201908/5486.html)
-- [英语数词用法与要点归纳](http://www.yygrammar.com/Article/201506/4056.html)
-- [第 2 章\_单元测试](https://umoocs.unipus.cn/course/2633/task/194998/show)
+4. [第 2 章\_单元测试](https://umoocs.unipus.cn/course/2633/task/194998/show)
 
 ## 第 3 章 代词
+
+[代词](https://baike.baidu.com/item/%E4%BB%A3%E8%AF%8D/19411168)（英文 pronoun，简称 pron.），是指代名词或一句话的一种词类。大多数代词具有名词和形容词的功能。英语中的代词，按其意义、特征及在句中的作用分为：人称代词、物主代词、指示代词、反身代词、相互代词、疑问代词、关系代词、连接代词、不定代词和替代词十种。
+
+- 物主代词
+
+  - 物主代词有形容词性和名词性两种，形容词性物主代词 my, your, his, her, its, our, their 只在名词前作定语，名词性物主代词 mine, yours, his, hers, ours, theirs 不能作定语，但可作主语、宾语、表语或与 of 连用作后置定语。
 
 - [代词相关语法知识详解](http://www.yygrammar.com/Article/201408/3693.html)
 - [第三章 单元测试](https://umoocs.unipus.cn/course/2633/task/195000/show)
 
 ## 第 4 章 形容词和副词
+
+- [副词的分类](http://www.yygrammar.com/Article/200805/340.html)
+- [英语副词的句法功能](http://www.yygrammar.com/Article/200802/145.html)
+- [副词在句中的位置特点](http://www.yygrammar.com/Article/200805/318.html)
 
 ## 第 5 章 动词及基本句型
 

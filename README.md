@@ -1,9 +1,8 @@
-#### 深大自考本
+#### 深大自考本课程笔记
+
+**专业简介**
 
 - [专业简介](https://mp.weixin.qq.com/s/H1L4ViN397NQcKXh1v0QAA)
-
-**考试课程**
-![image](./IMG_1156.JPG)
 
 **相关网站**  
 考试信息发布：[广东省教育考试院](https://eea.gd.gov.cn/)  
