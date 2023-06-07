@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>(一)、网络层服务 | R</title>
+    <meta name="generator" content="VuePress 1.9.9">
+    <link rel="icon" href="https://xunyhu.github.io/image/favicon.ico">
+    <meta name="description" content="">
+    <meta name="theme-color" content="#3eaf7c">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    
+    <link rel="preload" href="/assets/css/0.styles.1a8e0fbc.css" as="style"><link rel="preload" href="/assets/js/app.3b4388ed.js" as="script"><link rel="preload" href="/assets/js/2.10b3e4ea.js" as="script"><link rel="preload" href="/assets/js/48.b84c555f.js" as="script"><link rel="prefetch" href="/assets/js/10.d5aef7bd.js"><link rel="prefetch" href="/assets/js/11.bb90b8c9.js"><link rel="prefetch" href="/assets/js/12.6cfcf9c3.js"><link rel="prefetch" href="/assets/js/13.2d9ed724.js"><link rel="prefetch" href="/assets/js/14.9c217a9e.js"><link rel="prefetch" href="/assets/js/15.70a3c708.js"><link rel="prefetch" href="/assets/js/16.be337503.js"><link rel="prefetch" href="/assets/js/17.88c2ce55.js"><link rel="prefetch" href="/assets/js/18.4a06556f.js"><link rel="prefetch" href="/assets/js/19.81a2041b.js"><link rel="prefetch" href="/assets/js/20.be789981.js"><link rel="prefetch" href="/assets/js/21.825d0143.js"><link rel="prefetch" href="/assets/js/22.e6efa1d3.js"><link rel="prefetch" href="/assets/js/23.dd7746f1.js"><link rel="prefetch" href="/assets/js/24.85415efa.js"><link rel="prefetch" href="/assets/js/25.21ab202f.js"><link rel="prefetch" href="/assets/js/26.de7afa6a.js"><link rel="prefetch" href="/assets/js/27.a9f64598.js"><link rel="prefetch" href="/assets/js/28.3fcaa6f2.js"><link rel="prefetch" href="/assets/js/29.35702d9b.js"><link rel="prefetch" href="/assets/js/3.d3d6240c.js"><link rel="prefetch" href="/assets/js/30.5d380278.js"><link rel="prefetch" href="/assets/js/31.458edbca.js"><link rel="prefetch" href="/assets/js/32.cbce3cde.js"><link rel="prefetch" href="/assets/js/33.b9019a77.js"><link rel="prefetch" href="/assets/js/34.17cfd457.js"><link rel="prefetch" href="/assets/js/35.7fb8274c.js"><link rel="prefetch" href="/assets/js/36.2e3a3866.js"><link rel="prefetch" href="/assets/js/37.2c161539.js"><link rel="prefetch" href="/assets/js/38.38a8b365.js"><link rel="prefetch" href="/assets/js/39.3be76881.js"><link rel="prefetch" href="/assets/js/4.0f570684.js"><link rel="prefetch" href="/assets/js/40.7dc697fb.js"><link rel="prefetch" href="/assets/js/41.a5ccdda3.js"><link rel="prefetch" href="/assets/js/42.ca5b907b.js"><link rel="prefetch" href="/assets/js/43.23621d4f.js"><link rel="prefetch" href="/assets/js/44.a6f2fefe.js"><link rel="prefetch" href="/assets/js/45.2dc33749.js"><link rel="prefetch" href="/assets/js/46.c7101c66.js"><link rel="prefetch" href="/assets/js/47.d24c7011.js"><link rel="prefetch" href="/assets/js/49.fa4326aa.js"><link rel="prefetch" href="/assets/js/5.734ae6af.js"><link rel="prefetch" href="/assets/js/50.290b69d5.js"><link rel="prefetch" href="/assets/js/51.1d05fccf.js"><link rel="prefetch" href="/assets/js/52.9f9563ae.js"><link rel="prefetch" href="/assets/js/53.31b84813.js"><link rel="prefetch" href="/assets/js/54.6ea1177f.js"><link rel="prefetch" href="/assets/js/55.4b34c753.js"><link rel="prefetch" href="/assets/js/56.1af848c0.js"><link rel="prefetch" href="/assets/js/57.7f5ccefc.js"><link rel="prefetch" href="/assets/js/58.0b7e93b1.js"><link rel="prefetch" href="/assets/js/59.1b598669.js"><link rel="prefetch" href="/assets/js/6.814edb6d.js"><link rel="prefetch" href="/assets/js/60.3c263ff3.js"><link rel="prefetch" href="/assets/js/61.dbab0bee.js"><link rel="prefetch" href="/assets/js/62.fc9ffb8c.js"><link rel="prefetch" href="/assets/js/7.3852f5ef.js"><link rel="prefetch" href="/assets/js/8.a3583ec9.js"><link rel="prefetch" href="/assets/js/9.d6d7619e.js">
+    <link rel="stylesheet" href="/assets/css/0.styles.1a8e0fbc.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container"><header class="navbar"><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div> <a href="/" class="home-link router-link-active"><!----> <span class="site-name">R</span></a> <div class="links"><div class="search-box"><input aria-label="Search" autocomplete="off" spellcheck="false" value=""> <!----></div> <nav class="nav-links can-hide"><div class="nav-item"><a href="/guide/" class="nav-link">
+  指南
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="深大自考" class="dropdown-title"><span class="title">深大自考</span> <span class="arrow down"></span></button> <button type="button" aria-label="深大自考" class="mobile-dropdown-title"><span class="title">深大自考</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="/szu/pest3/" class="nav-link">
+  PEST-3
+</a></li><li class="dropdown-item"><!----> <a href="/szu/c++/" class="nav-link">
+  C++程序设计
+</a></li><li class="dropdown-item"><!----> <a href="/szu/structure/" class="nav-link">
+  数据结构导论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/os/" class="nav-link">
+  操作系统概论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/software/" class="nav-link">
+  软件开发工具
+</a></li><li class="dropdown-item"><!----> <a href="/szu/database/" class="nav-link">
+  数据库系统原理
+</a></li><li class="dropdown-item"><!----> <a href="/szu/network/" class="nav-link router-link-active">
+  计算机网络原理
+</a></li><li class="dropdown-item"><!----> <a href="/szu/history/" class="nav-link">
+  中国近现代史纲要
+</a></li><li class="dropdown-item"><!----> <a href="/szu/marx/" class="nav-link">
+  马克思主义基本原理概论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/business/" class="nav-link">
+  网络经济与企业管理
+</a></li></ul></div></div><div class="nav-item"><a href="https://v1.vuepress.vuejs.org" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  VuePress
+  <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></div> <!----></nav></div></header> <div class="sidebar-mask"></div> <aside class="sidebar"><nav class="nav-links"><div class="nav-item"><a href="/guide/" class="nav-link">
+  指南
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="深大自考" class="dropdown-title"><span class="title">深大自考</span> <span class="arrow down"></span></button> <button type="button" aria-label="深大自考" class="mobile-dropdown-title"><span class="title">深大自考</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="/szu/pest3/" class="nav-link">
+  PEST-3
+</a></li><li class="dropdown-item"><!----> <a href="/szu/c++/" class="nav-link">
+  C++程序设计
+</a></li><li class="dropdown-item"><!----> <a href="/szu/structure/" class="nav-link">
+  数据结构导论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/os/" class="nav-link">
+  操作系统概论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/software/" class="nav-link">
+  软件开发工具
+</a></li><li class="dropdown-item"><!----> <a href="/szu/database/" class="nav-link">
+  数据库系统原理
+</a></li><li class="dropdown-item"><!----> <a href="/szu/network/" class="nav-link router-link-active">
+  计算机网络原理
+</a></li><li class="dropdown-item"><!----> <a href="/szu/history/" class="nav-link">
+  中国近现代史纲要
+</a></li><li class="dropdown-item"><!----> <a href="/szu/marx/" class="nav-link">
+  马克思主义基本原理概论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/business/" class="nav-link">
+  网络经济与企业管理
+</a></li></ul></div></div><div class="nav-item"><a href="https://v1.vuepress.vuejs.org" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  VuePress
+  <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></div> <!----></nav>  <ul class="sidebar-links"><li><section class="sidebar-group depth-0"><p class="sidebar-heading open"><span>《计算机网络原理》</span> <!----></p> <ul class="sidebar-links sidebar-group-items"><li><a href="/szu/network/" aria-current="page" class="sidebar-link">课程简介</a></li><li><a href="/szu/network/chapter-1.html" class="sidebar-link">第1章 网络概述</a></li><li><a href="/szu/network/chapter-2.html" class="sidebar-link">第2章 网络应用</a></li><li><a href="/szu/network/chapter-3.html" class="sidebar-link">第3章 传输层</a></li><li><a href="/szu/network/chapter-4.html" aria-current="page" class="active sidebar-link">第4章 网络层</a><ul class="sidebar-sub-headers"><li class="sidebar-sub-header"><a href="/szu/network/chapter-4.html#一-、网络层服务" class="sidebar-link">(一)、网络层服务</a></li><li class="sidebar-sub-header"><a href="/szu/network/chapter-4.html#二-、数据报网络与虚电路网络" class="sidebar-link">(二)、数据报网络与虚电路网络</a></li><li class="sidebar-sub-header"><a href="/szu/network/chapter-4.html#三-、网络互连与网络互连设备" class="sidebar-link">(三)、网络互连与网络互连设备</a></li><li class="sidebar-sub-header"><a href="/szu/network/chapter-4.html#四-、网络层拥塞控制" class="sidebar-link">(四)、网络层拥塞控制</a></li><li class="sidebar-sub-header"><a href="/szu/network/chapter-4.html#五-、internet-网络层" class="sidebar-link">(五)、Internet 网络层</a></li><li class="sidebar-sub-header"><a href="/szu/network/chapter-4.html#六-、路由算法与路由协议" class="sidebar-link">(六)、路由算法与路由协议</a></li></ul></li><li><a href="/szu/network/chapter-5.html" class="sidebar-link">第5章 数据链路层与局域网</a></li><li><a href="/szu/network/chapter-6.html" class="sidebar-link">第6章 物理层</a></li><li><a href="/szu/network/chapter-7.html" class="sidebar-link">第7章 无线与移动网络</a></li><li><a href="/szu/network/chapter-8.html" class="sidebar-link">第8章 网络安全基础</a></li></ul></section></li></ul> </aside> <main class="page"> <div class="theme-default-content content__default"><h2 id="一-、网络层服务"><a href="#一-、网络层服务" class="header-anchor">#</a> (一)、网络层服务</h2> <ul><li>概念：
+<ul><li>网络层是介于传输层与数据链路层之间，传输层提供端到端的进程间通信服务，数据链路层提供物理链路层直接相连的两个结点之间的数据帧传输服务，</li> <li><strong>网络层关注的是如何将承载传输层报文段的网络层数据报从源主机送达目的主机。</strong></li></ul></li> <li>网络层两项重要功能：
+<ul><li>1.转发。通过一条输入链路接收到一个分组后，路由器需要决策通过哪条输入链路将分组发送出去，并将分组从输入接口转移到输出接口。</li> <li>2.路由选择。当分组从源主机流向目的主机时，必须通过某种方式决定分组经过的路由或路径，计算分组所经过的路径的算法被称为路由选择算法，或称为路由算法。
+<ul><li>路由选择通过路由选择算法来实现</li> <li>路由器转发表：交换或收集路由信息；计算路由；路由信息存储在转发表</li></ul></li></ul></li></ul> <h2 id="二-、数据报网络与虚电路网络"><a href="#二-、数据报网络与虚电路网络" class="header-anchor">#</a> (二)、数据报网络与虚电路网络</h2> <ol><li><p>数据报网络</p> <ul><li>概念：按照目的主机地址进行路由选择的网络称为数据报网络。因特网的 IP 都是按照目的地址进行路由选择的，因此因特网是一个数据报网络。</li> <li>特点：
+<ul><li>数据报中每个分组都被单独处理，<code>每个分组称为一个数据报</code>，每个数据报都携带源主机地址和目的主机地址的信息。在双方开始通信之前，不需要建立连接，因此被称为<code>“无连接”</code>。</li> <li>分组到达交换机时，交换机检查该分组的目的地址，然后转发给某台相邻的交换机。这个过程，交换机需要有一个目的地址——输出链路映射关系的<code>转发表</code>。</li> <li>接收方收到分组后要根据相应的协议，对分组重新排序，从而生成原始的完整报文，这个任务通常由传输层来完成。</li></ul></li></ul></li> <li><p>虚电路网络</p> <ul><li>概念：虚电路在网络层提供面向连接的分组交换服务。</li> <li>特点：
+<ul><li>通信之前，双方需要先建立虚电路，结束后再拆除虚电路</li> <li>虚电路是在源主机到目的主机的一条路径上建立的一条网络层逻辑连接，为了区别于电路交换中的电路，称之为虚电路。</li> <li>每条虚电路有虚电路号<strong>VCID</strong></li></ul></li> <li>虚电路三个要素
+<ul><li>1.从源主机到目的主机之间的一条路径（即一系列的链路和分组交换机）</li> <li>2.该路径上的每条链路各有一个虚电路标识（VCID）</li> <li>3.该路径上每台分组交换机的转发表中记录虚电路标识的接续关系。</li></ul></li> <li>虚电路两种类型
+<ul><li>1.永久型。是一种提前建立、长期使用的虚电路，虚电路的建立时间开销基本上可以忽略。</li> <li>2.交换型。是根据通信需要而临时建立的虚电路，通信结束后立即拆除，虚电路的建立和拆除时间开销有时相对影响较大。</li></ul></li></ul></li> <li><p>虚电路与数据报网络的区别</p> <ul><li>主要差别在于是将顺序控制、差错控制和流量控制等功能交由网络来完成，还是由端系统来完成。</li> <li>虚电路网络（如 ATM 网络）通常由网络完成这些功能，而端系统则可以很简单。</li> <li>数据报网络（如 Internet）通常网络实现的功能很简单，如基本的路由与转发，而顺序控制、差错控制和流量控制等功能则由端系统来完成。</li></ul></li></ol> <h2 id="三-、网络互连与网络互连设备"><a href="#三-、网络互连与网络互连设备" class="header-anchor">#</a> (三)、网络互连与网络互连设备</h2> <ol><li><p>异构网络互联</p> <ul><li>异构网络概念：网络拓扑中存在许多不同类型的网络，如 WAN、LAN 等，网络层的下一层数据链路层使用了多种不同的协议如以太网、802.11 等，在网络的各个层次广泛应用着大量协议，网络之间是异构的。</li> <li>异构网络主要是指两个网络的通信技术和运行的协议的不同。</li> <li>异构网络的互联策略：
+<ul><li>协议转换。通过路由器、交换机、应用网关等。</li> <li>构建虚拟互连网络。在现有异构的基础上，构建一个同构的虚拟互联网络，异构网络均只需要封装虚拟互联网分组，通过中间设备互联异构网络，实现转发虚拟互联网的数据分组。</li> <li>IP 网络就是虚拟互联网，Internet 利用 IP 网络实现全球互联，采用同构的网络层协议——IP 与网络寻址——IP 地址，引入网络互联设备——IP 路由器。</li></ul></li> <li>除了异构网络互联之外，<code>同构网络互联的典型技术是隧道技术</code>。</li></ul></li> <li><p>路由器</p> <ul><li>概念：路由器是一种具有多个输入端口和多个输出端口的专用计算机，主要任务是获取与维护路由信息以及转发分组。从功能角度，可以分为输入端口、交换结构、输出端口与路由处理器。</li> <li>1.输入端口
+<ul><li>输入端口从物理接口接收信号，还原数据链路层帧，提取 IP 数据报根据 IP 数据报的目的 IP 地址检索路由表，决策需要将该 IP 数据报交换到哪个输出端口。</li></ul></li> <li>2.交换结构
+<ul><li>概念：输入端口决策分组要转发到哪个输出端口后，具体的转发工作由交换结构来完成。</li> <li>3 种交换结构：
+<ul><li>基于内存交换。性能最低，但是价格最便宜。</li> <li>基于总线交换</li> <li>基于网络交换。性能最好，价格最贵。</li></ul></li></ul></li> <li>3.输出端口
+<ul><li>从链路层的帧组装成数据报</li></ul></li> <li>4.路由处理器
+<ul><li>路由处理器是路由器的 CPU，复制执行路由器的各种指令，包括路由协议的运行、路由计算以及路由表的更新维护等。</li> <li><code>转发与路由选择</code>是路由器两项最重要的基本功能。</li></ul></li></ul></li></ol> <h2 id="四-、网络层拥塞控制"><a href="#四-、网络层拥塞控制" class="header-anchor">#</a> (四)、网络层拥塞控制</h2> <ol><li><p>网络拥塞</p> <ul><li>概念：网络中需要传输的信息总量大于其传输能力，以至于某些网络节点（如路由器）因缓冲区已满，无法接收新到达的分组，此时就发生了拥塞现象。</li> <li>拥塞是一种赤溪过载的网络状态，此时用户对网络资源（包括链路带宽、存储空间和处理器能力等）的总需求超过了网络固有的容量。</li> <li>发生拥塞的原因主要有 4 种：1.缓冲区容量有限；2.传输线路的带宽有限；3.网络结点的处理能力有限；4.网络中某些部分发生了故障。</li></ul></li> <li><p>流量感知路由</p> <ul><li>概念：根据网络负载动态调整，将网络流量引导到不同的链路上，均衡网络负载，从而延缓或避免拥塞的发生。流量感知路由是一种拥塞预防措施。</li></ul></li> <li><p>准入控制</p> <ul><li>准入控制是一种广泛应用于虚电路网络的拥塞预防技术。</li></ul></li> <li><p>流量调节</p> <ul><li>在网络发生拥塞时，可以通过调整发送方向网络发送数据的速率来消除拥塞。</li> <li>流量调节需要解决两个基本问题
+<ul><li>如何感知以及发生了拥塞？ 通过路由器过去一段时间内的排队延迟及当前的瞬时排队延迟的加权组合来评判。</li> <li>如何通知到其上游结点？
+<ul><li>1.抑制分组。给数据报的源主机返回一个抑制分组。</li> <li>2.背压。使抑制分组发挥作用的背压方法，可以使拥塞节点很快得到缓解，代价使抑制分组的每一跳都需要分配更大的缓冲区。</li></ul></li></ul></li></ul></li> <li><p>负载脱落</p> <ul><li>负载脱落使消除拥塞的另一种方法，即通过有选择地主动丢弃一些数据报，来减轻网络负载，从而缓解或消除拥塞。</li></ul></li></ol> <h2 id="五-、internet-网络层"><a href="#五-、internet-网络层" class="header-anchor">#</a> (五)、Internet 网络层</h2> <ol><li><p>Internet 网路层主要协议：<strong>IP 协议、路由协议、ICMP 协议</strong></p> <ul><li>IPv4 结构表格与字段含义</li> <li><img src="https://akaedu.github.io/book/images/tcpip.ipformat.png" alt="image"></li> <li><a href="https://www.jianshu.com/p/809dca1072fc" target="_blank" rel="noopener noreferrer">IPv4 数据报的格式<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></li></ul></li> <li><p>IP 数据报分片</p> <ul><li><code>MTU(最大传输单元)最大 1500 字节</code></li> <li>IP 数据报的标志字段占 3 未，其中最高位保留，DF(Don't Fragment)是禁止分片标志，MF(More Fragment)是更多分片标志。
+<ul><li>DF=0 表示允许分片，DF=1 表示禁止分片。</li> <li>MF=0 表示该 IP 数据报是一个未被分片的 IP 数据报或者是被分片 IP 数据报的最后一片，具体是哪种要结合片偏移字段确定。</li> <li>MF=1 表示一定是一个 IP 数据报的分片，并且不是最后一个分片。</li> <li>片偏移量为 0 时，MF=0 表示是一个未被分片的数据报，MF=1 表示是一个分片且是第一个分片。</li></ul></li> <li>掌握 P146-147 实例，理解表格计算</li></ul></li> <li><p>IPv4 编址格式：</p> <ul><li>长度是 32bit，常用四个十进制数方便表示，以&quot;.&quot;分隔</li> <li>每个整数对应 8bit 二进制码，所以每个整数范围 0~255</li> <li>十进制整数是为了方便用户记忆，实际上网络底层全部用二进制表示</li> <li>还有十六进制表示方式</li></ul></li> <li><p>掌握 IP 地址三种格式的转换</p> <ul><li>熟背十进制转二进制</li> <li>2^4=16,2^5=32,2^6=64,2^7=128,2^8=256,2^9=512,2^10=1024</li></ul></li> <li><p>一个<strong>IP 地址分为两个部分：子网地址（前缀）+ 主机地址（后缀）</strong><br>
+IPv4 分类地址：前缀部分长度固定，分为 ABCDE</p> <ul><li>A 类，1+3，首数字 0-127（第一位 10 进制数，8 个 0~8 个 1）</li> <li>B 类，2+2，首数字 128-191</li> <li>C 类，3+1，首数字 192-223</li> <li>D 类，特殊用途，首数字 224-239</li> <li>E 类，特殊用途，首数字 240-255</li> <li>熟背 ABC 类的网络数量和 IP 地址总数</li></ul></li> <li><p>子网划分，采用 CIDR 技术，通过子网掩码标识子网地址长度</p> <ul><li>子网表示一段范围内的 IP 地址，子网内的 IP 直接相互通信，无需再寻址</li> <li><strong>IP 地址=子网地址+主机地址/子网掩码</strong> <ul><li>子网地址格式上是一个 IP 地址，含义是一个子网，表示一段范围内的 IP</li> <li>主机地址格式上是一个 IP 地址，含义是一个子网中某台电脑的 IP</li> <li>子网掩码格式上是一个 IP 地址，含义是表示子网的范围</li> <li>子网地址=IP 地址 and 子网掩码</li></ul></li> <li>子网掩码的含义
+<ul><li>子网掩码是 32bit 中，前 n 个位是 1，后（32-n）个位是 0，不存在 0 与 1 混杂，必定是前 1 后 0</li> <li>若掩码中 1 个数是 x，则 2^(32-x)表示子网的 IP 数</li></ul></li> <li>给出任意 IP 地址和掩码长度 n,求解子网参数
+<ul><li>子网参数：子网掩码\子网地址\广播地址\IP 地址总数\可分配 IP 地址范围</li> <li>子网地址 = IP 地址 and 子网掩码</li> <li>IP 地址总数 = 32-n，做 2 的 n 次方</li> <li>广播地址 = 子网地址 + IP 总数 - 1</li> <li>可分配 IP 地址 = IP 总数 - 2</li> <li>分配 IP 地址范围最小值 = 子网地址 + 1</li> <li>分配 IP 地址范围最大值 = 广播地址 - 1 = 子网地址 + IP 总数 - 2</li> <li>在一个子网段中，首尾四个 IP 地址含义
+<ul><li>第 1 个 IP 是子网地址，第 2 个 IP 是最小可分配 IP 地址</li> <li>倒数第 2 个 IP 是最大可分配地址，最后一个 IP 是广播地址</li></ul></li> <li>以上公式是假设主机地址集中在 IP 的第 4 个数字</li> <li>如果主机地址跨越了 IP 第 3、4 个数字，要找出第 3 个数字表示主机的长度
+<ul><li>子网地址 = 公式不变</li> <li>IP 地址总数 = 公式不变</li> <li>广播地址 = 前 2 个数字不变+第 3 数字+主机部分表示最大值+第 4 数字+255</li> <li>可分配 IP 地址 = 公式不变</li> <li>分配 IP 地址范围最小值 = 公式不变</li> <li>分配 IP 地址范围最大值 = 公式不变</li></ul></li></ul></li> <li>子网掩码划分子网
+<ul><li>子网掩码 32bit 从高到低，每把一个 0 变成 1，子网就划分为 2 个子网，IP 总数和 IP 范围就分为两半</li> <li>一般情况下，对半分的两个小子网规则
+<ul><li>第一个小子网的子网地址=原子网地址，原掩码+1,</li> <li>第二个小子网的子网地址=原子网地址+半 IP 总数，原掩码+1,</li> <li>这里的掩码加 1 是指 1 的个数加 1，不是十进制数值加 1</li></ul></li></ul></li></ul></li> <li><p>路由聚合</p> <ul><li>路由聚合是为了提高路由效率，减少路由表项数，尽可能将能够聚合在一起的子网聚合成一个大的子网。路由聚合可以视为是子网划分的逆过程。</li></ul></li> <li><p>动态主机配置协议 DHCP</p> <ul><li>当一个组织分配到一个网络地址块后，就可以为该组织内的主机和路由器接口分配 IP 地址。可以由网管手动配置，也可以通过动态主机配置协议（DHCP）来动态分配。</li> <li>DHCP 服务过程
+<ul><li>DHCP 在应用层实现，传输层使用 UDP。</li> <li>提供动态 IP 地址分配的网络，需要运行 DHCP 服务器（端口号为 67），并配置其可以为其他主机进行动态地址分配的 IP 地址范围等。</li></ul></li></ul></li> <li><p>网络地址转换 NAT</p></li> <li><p>互联网控制报文协议 ICMP</p> <ul><li>作用：在主机或路由器间，实现差错信息报告。因此 ICMP 的主要功能是进行主机或路由器间的网络层差错报告与网络探测。</li> <li>ICMP 报文格式</li> <li>ICMP 报文类型</li></ul></li> <li><p>IPv6</p> <ul><li>IPv6 地址空间巨大</li> <li>IPv6 地址格式
+<ul><li>长度是 128bit，用 8 组十六进制表示，每组 16bit 用 4 个十六进制数</li> <li>连续多组 0000 可以用::压缩表示，只能用一次</li> <li>最后 32bit 可以点分十进制混合表示，即十六进制和点十进制混合组合，或全点分十进制都可以</li></ul></li></ul></li></ol> <h2 id="六-、路由算法与路由协议"><a href="#六-、路由算法与路由协议" class="header-anchor">#</a> (六)、路由算法与路由协议</h2> <ol><li><p>路由选择问题实际就是选择最佳路径</p></li> <li><p>把网络抽象成为带权无向图</p></li> <li><p>路由算法分为</p> <ul><li>全局式路由选择
+<ul><li>链路状态路由选择算法，简称 LS 算法</li> <li>迪杰斯特拉算法</li></ul></li> <li>分布式路由选择
+<ul><li>距离向量路由选择算法，简称 DV 算法</li></ul></li></ul></li> <li><p>层次化路由选择</p> <ul><li>自治系统</li> <li>自治系统间路由协议</li></ul></li> <li><p>Internet 路由选择协议</p> <ul><li>分为 IGP 和 BGP
+<ul><li>IGP：RIP 协议、用跳数来衡量；OSPF 协议，基于链路状态选择算法；</li> <li>BGP: BGP，BGP4</li></ul></li></ul></li></ol> <h3 id="考核内容与要求"><a href="#考核内容与要求" class="header-anchor">#</a> 考核内容与要求</h3> <ul><li>网络层服务
+<ul><li>识记：网络层服务</li> <li>领会：网络层寻址；转发与路由的基本概念；转发与路由的区别与联系</li></ul></li> <li>数据报网络与虚电路网络
+<ul><li>识记： 虚电路网络特点；数据报网络特点</li> <li>领会：虚电路网络工作过程；数据报网络工作过程；虚电路网络的转发与路由；数据报网络的转发与路由；虚电路网络的转发表；数据报网络的转发表</li></ul></li> <li>网络互连与网络互连设备
+<ul><li>领会：网络互连的必要性；网络互连的基本方法；典型网络互连设备；路由器体系结构。</li></ul></li> <li>网络层拥塞控制
+<ul><li>识记：网络层拥塞基本概念；拥塞控制基本策略</li> <li>领会：流量感知路由基本原理；准入控制基本原理；流量调节基本方法；负载脱落基本原理</li></ul></li> <li>Internet 网络层
+<ul><li>识记：Internet 网络层主要协议及其功能；IP 数据报结构。</li> <li>领会：MTU 的基本概念；特殊 IP 地址；私有 IP 地址；ICMP；DHCP；默认网关；NAT 的原理。</li> <li>应用：IP 数据报的分片；IP 地址；子网划分与子网掩码；CIDR；路由聚合；路由表。</li></ul></li> <li>路由算法与路由协议
+<ul><li>识记：路由选择基本原理；路由算法分类</li> <li>领会：链路状态路由算法基本原理；距离向量路由算法基本原理；层次化路由基本原理；RIP；OSPF；BGP。</li> <li>应用：基于链路状态路由算法的路由计算；基于距离向量路由算法的路由计算；距离向量路由算法的无穷计数问题分析。
+<strong>重点、难点</strong><br>
+本章重点是转发与路由概念的理解、虚电路网络与数据报网络工作原理、IP 数据报结构、IP 数据报分片、IP 地址、子网划分、子网掩码、CIDR、路由聚合、路由表、ICMP、DHCP、NAT、链路状态路由算法、距离向量路由算法、层次化路由、RIP、OSPF、BGP 基本工作过程；
+本章难点是 IP 数据报分片、IP 地址、子网划分、子网掩码、CIDR、路由聚合、路由表、路由计算、层次化路由、OSPF、BGP。</li></ul></li></ul> <h3 id="参考阅读"><a href="#参考阅读" class="header-anchor">#</a> 参考阅读</h3> <p><a href="https://www.taogenjia.com/2019/09/05/computer-network-4-network-layer/" target="_blank" rel="noopener noreferrer">深入理解计算机网络（四）：网络层<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></p></div> <footer class="page-edit"><!----> <!----></footer> <div class="page-nav"><p class="inner"><span class="prev">
+      ←
+      <a href="/szu/network/chapter-3.html" class="prev">
+        第3章 传输层
+      </a></span> <span class="next"><a href="/szu/network/chapter-5.html">
+        第5章 数据链路层与局域网
+      </a>
+      →
+    </span></p></div> </main></div><div class="global-ui"></div></div>
+    <script src="/assets/js/app.3b4388ed.js" defer></script><script src="/assets/js/2.10b3e4ea.js" defer></script><script src="/assets/js/48.b84c555f.js" defer></script>
+  </body>
+</html>

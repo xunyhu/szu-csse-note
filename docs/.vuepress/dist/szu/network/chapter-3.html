@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>(一)、传输层的基本服务 | R</title>
+    <meta name="generator" content="VuePress 1.9.9">
+    <link rel="icon" href="https://xunyhu.github.io/image/favicon.ico">
+    <meta name="description" content="">
+    <meta name="theme-color" content="#3eaf7c">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    
+    <link rel="preload" href="/assets/css/0.styles.1a8e0fbc.css" as="style"><link rel="preload" href="/assets/js/app.3b4388ed.js" as="script"><link rel="preload" href="/assets/js/2.10b3e4ea.js" as="script"><link rel="preload" href="/assets/js/47.d24c7011.js" as="script"><link rel="prefetch" href="/assets/js/10.d5aef7bd.js"><link rel="prefetch" href="/assets/js/11.bb90b8c9.js"><link rel="prefetch" href="/assets/js/12.6cfcf9c3.js"><link rel="prefetch" href="/assets/js/13.2d9ed724.js"><link rel="prefetch" href="/assets/js/14.9c217a9e.js"><link rel="prefetch" href="/assets/js/15.70a3c708.js"><link rel="prefetch" href="/assets/js/16.be337503.js"><link rel="prefetch" href="/assets/js/17.88c2ce55.js"><link rel="prefetch" href="/assets/js/18.4a06556f.js"><link rel="prefetch" href="/assets/js/19.81a2041b.js"><link rel="prefetch" href="/assets/js/20.be789981.js"><link rel="prefetch" href="/assets/js/21.825d0143.js"><link rel="prefetch" href="/assets/js/22.e6efa1d3.js"><link rel="prefetch" href="/assets/js/23.dd7746f1.js"><link rel="prefetch" href="/assets/js/24.85415efa.js"><link rel="prefetch" href="/assets/js/25.21ab202f.js"><link rel="prefetch" href="/assets/js/26.de7afa6a.js"><link rel="prefetch" href="/assets/js/27.a9f64598.js"><link rel="prefetch" href="/assets/js/28.3fcaa6f2.js"><link rel="prefetch" href="/assets/js/29.35702d9b.js"><link rel="prefetch" href="/assets/js/3.d3d6240c.js"><link rel="prefetch" href="/assets/js/30.5d380278.js"><link rel="prefetch" href="/assets/js/31.458edbca.js"><link rel="prefetch" href="/assets/js/32.cbce3cde.js"><link rel="prefetch" href="/assets/js/33.b9019a77.js"><link rel="prefetch" href="/assets/js/34.17cfd457.js"><link rel="prefetch" href="/assets/js/35.7fb8274c.js"><link rel="prefetch" href="/assets/js/36.2e3a3866.js"><link rel="prefetch" href="/assets/js/37.2c161539.js"><link rel="prefetch" href="/assets/js/38.38a8b365.js"><link rel="prefetch" href="/assets/js/39.3be76881.js"><link rel="prefetch" href="/assets/js/4.0f570684.js"><link rel="prefetch" href="/assets/js/40.7dc697fb.js"><link rel="prefetch" href="/assets/js/41.a5ccdda3.js"><link rel="prefetch" href="/assets/js/42.ca5b907b.js"><link rel="prefetch" href="/assets/js/43.23621d4f.js"><link rel="prefetch" href="/assets/js/44.a6f2fefe.js"><link rel="prefetch" href="/assets/js/45.2dc33749.js"><link rel="prefetch" href="/assets/js/46.c7101c66.js"><link rel="prefetch" href="/assets/js/48.b84c555f.js"><link rel="prefetch" href="/assets/js/49.fa4326aa.js"><link rel="prefetch" href="/assets/js/5.734ae6af.js"><link rel="prefetch" href="/assets/js/50.290b69d5.js"><link rel="prefetch" href="/assets/js/51.1d05fccf.js"><link rel="prefetch" href="/assets/js/52.9f9563ae.js"><link rel="prefetch" href="/assets/js/53.31b84813.js"><link rel="prefetch" href="/assets/js/54.6ea1177f.js"><link rel="prefetch" href="/assets/js/55.4b34c753.js"><link rel="prefetch" href="/assets/js/56.1af848c0.js"><link rel="prefetch" href="/assets/js/57.7f5ccefc.js"><link rel="prefetch" href="/assets/js/58.0b7e93b1.js"><link rel="prefetch" href="/assets/js/59.1b598669.js"><link rel="prefetch" href="/assets/js/6.814edb6d.js"><link rel="prefetch" href="/assets/js/60.3c263ff3.js"><link rel="prefetch" href="/assets/js/61.dbab0bee.js"><link rel="prefetch" href="/assets/js/62.fc9ffb8c.js"><link rel="prefetch" href="/assets/js/7.3852f5ef.js"><link rel="prefetch" href="/assets/js/8.a3583ec9.js"><link rel="prefetch" href="/assets/js/9.d6d7619e.js">
+    <link rel="stylesheet" href="/assets/css/0.styles.1a8e0fbc.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container"><header class="navbar"><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div> <a href="/" class="home-link router-link-active"><!----> <span class="site-name">R</span></a> <div class="links"><div class="search-box"><input aria-label="Search" autocomplete="off" spellcheck="false" value=""> <!----></div> <nav class="nav-links can-hide"><div class="nav-item"><a href="/guide/" class="nav-link">
+  指南
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="深大自考" class="dropdown-title"><span class="title">深大自考</span> <span class="arrow down"></span></button> <button type="button" aria-label="深大自考" class="mobile-dropdown-title"><span class="title">深大自考</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="/szu/pest3/" class="nav-link">
+  PEST-3
+</a></li><li class="dropdown-item"><!----> <a href="/szu/c++/" class="nav-link">
+  C++程序设计
+</a></li><li class="dropdown-item"><!----> <a href="/szu/structure/" class="nav-link">
+  数据结构导论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/os/" class="nav-link">
+  操作系统概论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/software/" class="nav-link">
+  软件开发工具
+</a></li><li class="dropdown-item"><!----> <a href="/szu/database/" class="nav-link">
+  数据库系统原理
+</a></li><li class="dropdown-item"><!----> <a href="/szu/network/" class="nav-link router-link-active">
+  计算机网络原理
+</a></li><li class="dropdown-item"><!----> <a href="/szu/history/" class="nav-link">
+  中国近现代史纲要
+</a></li><li class="dropdown-item"><!----> <a href="/szu/marx/" class="nav-link">
+  马克思主义基本原理概论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/business/" class="nav-link">
+  网络经济与企业管理
+</a></li></ul></div></div><div class="nav-item"><a href="https://v1.vuepress.vuejs.org" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  VuePress
+  <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></div> <!----></nav></div></header> <div class="sidebar-mask"></div> <aside class="sidebar"><nav class="nav-links"><div class="nav-item"><a href="/guide/" class="nav-link">
+  指南
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="深大自考" class="dropdown-title"><span class="title">深大自考</span> <span class="arrow down"></span></button> <button type="button" aria-label="深大自考" class="mobile-dropdown-title"><span class="title">深大自考</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="/szu/pest3/" class="nav-link">
+  PEST-3
+</a></li><li class="dropdown-item"><!----> <a href="/szu/c++/" class="nav-link">
+  C++程序设计
+</a></li><li class="dropdown-item"><!----> <a href="/szu/structure/" class="nav-link">
+  数据结构导论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/os/" class="nav-link">
+  操作系统概论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/software/" class="nav-link">
+  软件开发工具
+</a></li><li class="dropdown-item"><!----> <a href="/szu/database/" class="nav-link">
+  数据库系统原理
+</a></li><li class="dropdown-item"><!----> <a href="/szu/network/" class="nav-link router-link-active">
+  计算机网络原理
+</a></li><li class="dropdown-item"><!----> <a href="/szu/history/" class="nav-link">
+  中国近现代史纲要
+</a></li><li class="dropdown-item"><!----> <a href="/szu/marx/" class="nav-link">
+  马克思主义基本原理概论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/business/" class="nav-link">
+  网络经济与企业管理
+</a></li></ul></div></div><div class="nav-item"><a href="https://v1.vuepress.vuejs.org" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  VuePress
+  <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></div> <!----></nav>  <ul class="sidebar-links"><li><section class="sidebar-group depth-0"><p class="sidebar-heading open"><span>《计算机网络原理》</span> <!----></p> <ul class="sidebar-links sidebar-group-items"><li><a href="/szu/network/" aria-current="page" class="sidebar-link">课程简介</a></li><li><a href="/szu/network/chapter-1.html" class="sidebar-link">第1章 网络概述</a></li><li><a href="/szu/network/chapter-2.html" class="sidebar-link">第2章 网络应用</a></li><li><a href="/szu/network/chapter-3.html" aria-current="page" class="active sidebar-link">第3章 传输层</a><ul class="sidebar-sub-headers"><li class="sidebar-sub-header"><a href="/szu/network/chapter-3.html#一-、传输层的基本服务" class="sidebar-link">(一)、传输层的基本服务</a></li><li class="sidebar-sub-header"><a href="/szu/network/chapter-3.html#二-、传输层的复用与分解" class="sidebar-link">(二)、传输层的复用与分解</a></li><li class="sidebar-sub-header"><a href="/szu/network/chapter-3.html#三-、停-等协议与滑动窗口协议" class="sidebar-link">(三)、停-等协议与滑动窗口协议</a></li><li class="sidebar-sub-header"><a href="/szu/network/chapter-3.html#四-、用户数据报协议-udp" class="sidebar-link">(四)、用户数据报协议（UDP）</a></li><li class="sidebar-sub-header"><a href="/szu/network/chapter-3.html#五-、传输控制协议-tcp" class="sidebar-link">(五)、传输控制协议（TCP）</a></li></ul></li><li><a href="/szu/network/chapter-4.html" class="sidebar-link">第4章 网络层</a></li><li><a href="/szu/network/chapter-5.html" class="sidebar-link">第5章 数据链路层与局域网</a></li><li><a href="/szu/network/chapter-6.html" class="sidebar-link">第6章 物理层</a></li><li><a href="/szu/network/chapter-7.html" class="sidebar-link">第7章 无线与移动网络</a></li><li><a href="/szu/network/chapter-8.html" class="sidebar-link">第8章 网络安全基础</a></li></ul></section></li></ul> </aside> <main class="page"> <div class="theme-default-content content__default"><h2 id="一-、传输层的基本服务"><a href="#一-、传输层的基本服务" class="header-anchor">#</a> (一)、传输层的基本服务</h2> <ol><li>传输层功能<br>
+传输层在网络提供的主机间分组传输服务的基础上，扩展到运行在不同主机上的进程之间的报文传输，并且实现了<strong>进程间的端到端传输服务</strong>，从而使得网络应用只需关注进程间的端到端通信，而不必关心底层网络采用了什么技术、底层网络如何传输数据等，为网络应用使用网络提供了抽象模式，简化了网络应用开发过程。</li> <li>传输层寻址与端口
+<ul><li>寻址：TCP/IP 体系结构网络的解决办法是在传输层使用协议端口号，利用<code>IP地址+端口号</code>标识一个通信端点。</li> <li>端口：由 16 位 2 进制数组成，可以编号 65536 个。其中<code>0~1023</code>为熟知端口号，<code>1024~49151</code>为登记端口号，<code>49152~65535</code>为客户端口号或短暂端口号。</li></ul></li> <li>无连接服务与面向连接服务
+<ul><li>无连接服务：数据传输之前无需与对端进行任何信息交换（握手），直接构造传输层报文段并向接收端发送。</li> <li>面向连接：在数据传输之前，需要双方交换一些控制信息，建立逻辑连接，然后再传输数据，数据传输结束后需要再拆除数据。</li></ul></li></ol> <h2 id="二-、传输层的复用与分解"><a href="#二-、传输层的复用与分解" class="header-anchor">#</a> (二)、传输层的复用与分解</h2> <p>支持众多应用进程共用一个传输层协议，并将接收到的数据准确交互给不同的应用进程，称为传输层的多路复用与多路分解。<br> <strong>实现复用与分解的关键是传输层协议能唯一标识一个套接字。</strong></p> <ol><li>无连接的多路复用与多路分解<br>
+真正唯一标识一个 UDP 套接字的是一个二元组：<code>&lt;目的IP地址、目的端口号&gt;</code>。</li> <li>面向连接的多路复用与多路分解<br>
+TCP 的套接字是一个四元组：<code>&lt;源IP地址、源端口号、目的IP地址、目的端口号&gt;</code>。</li></ol> <h2 id="三-、停-等协议与滑动窗口协议"><a href="#三-、停-等协议与滑动窗口协议" class="header-anchor">#</a> (三)、停-等协议与滑动窗口协议</h2> <ol><li>可靠数据传输基本原理<br>
+理想的传输信道是不产生差错（比特差）并提供按序交付服务的物理或逻辑信道，则不需要任何措施就能实现可靠数据传输。然而，大部分传输信道都不是理想信道。<br>
+不可靠信道的不可靠性主要表现在：首先，可能发生比特差错（即 0 错成 1 或 1 错成 0）。其次，可能出现乱序（先发的数据报后到达，后发先到）。最后，可能出现数据丢失。<br>
+实现可靠数据传输的措施主要包括几个方面：
+<ul><li>差错检测（利用差错码）</li> <li>确认 （ACK 肯定确认数据包，NAK 否定确认数据包）</li> <li>重传 （收到 NAK 数据包后重新发送数据包）</li> <li>序号 （确保数据按序提交，避免数据乱序到达）</li> <li>计时器 （解决数据丢失问题）</li></ul></li> <li>停-等协议<br>
+自动请求重传协议：ARQ(Automatic RepeatreQuest)，最简单的 ARQ 协议就是停-等协议。<br>
+停-等协议的主要特点就是每发送一个报文段后就停下来等待接收方的确认，这也是该协议名称的基本含义。<br>
+基本工作过程：
+<ul><li>发送方发动经过差错编码和编号的报文段，等待接收方的确认。</li> <li>接收方如果正确接收报文段，即差错检测无误且序号正确，则接收报文段，并向发送方发送 ACK，否则丢弃报文段，并向发送方发送 NAK。</li> <li>发送方如果收到 ACK，则继续发送后续报文段，否则重发刚刚发送的报文段。<br>
+仍然存在许多的变化或细节需要讨论：</li> <li>关于差错检测：ACK 或 NAK 数据包也可能出现比特差，需要进行差错编码以便进行差错检测。</li> <li>关于序列号： 停-等协议序列号只需要 1 位就足够了，用来区分是新发的还是重传的报文段。</li> <li>关于 ACK 和 NAK：实际的协议设计过程中，通常不使用 NAK，而只使用 ACK 进行确认。在 ACK 数据包中带上所确认的报文段序列号，利用重复 ACK 替代 NAK。</li> <li>关于 ACK 和 NAK 差错：发送方采取“有错推断”原则。</li></ul></li> <li>滑动窗口协议<br>
+停等协议是一个功能正确的协议，但其性能通常不让人满意，它的主要性能问题在于降低了信道利用率。解决该性能问题的方法是：不使用停止-等待的运行方式，允许发送方在没有收到确认前连续发送多个分组。这种协议成为流水线协议或管道协议。<br>
+相对于停-等协议，流水线协议实现可靠数据传输，需要做两点改进：1.增加分组序号范围；2.协议的发送方和接收方必须缓存多个分组。<br>
+最典型的流水线可靠传输协议是滑动窗口协议。<br>
+滑动窗口协议根据采用的确认、计时以及窗口大小等机制的不同，可以有不同类型的滑动窗口协议设计。两种最具有代表性的滑动窗口协议是：
+<ul><li>回退 N 步(GO-Back-N, GBN)协议<br>
+发送窗口 ws、接收窗口 wr、基序号、下一个可用序号<br>
+Ws=n,Wr=1,如果计时器超时，发送方从“第一个未确认序号 n”开始全部重发。</li> <li>选择重传(Selective Repeat, SR)协议<br>
+Ws=n,Wr=n,如果计时器超时，发送方只重发未确认的分组。</li></ul></li></ol> <h2 id="四-、用户数据报协议-udp"><a href="#四-、用户数据报协议-udp" class="header-anchor">#</a> (四)、用户数据报协议（UDP）</h2> <p>用户数据报协议 UDP 是 Internet 传输层协议，提供无连接、不可靠、数据报尽力传输服务。<br>
+DNS 是一个使用 UDP 的应用层协议。<br>
+适合使用 UDP 的四个原因：1.应用进程更容易控制发送什么数据以及何时发送。2.无需建立连接。3.无连接状态。4.首部开销小。</p> <ol><li>UDP 数据报结构
+<ul><li>UDP 首部长度固定是 8 个字节</li> <li>首部固定包含 4 个字段，每个字段 2 个字节</li> <li>源端口号+目的端口号，每个字段各占 16 个 Bit</li> <li>长度+校验和，每个字段各占 16 个 Bit</li></ul></li> <li>UDP 校验和<br>
+UDP 校验和提供了差错检测功能。也就是说，UDP 的校验和用于检测 UDP 报文段从源到目的地传送过程中，其中的数据是否发生了变化。</li></ol> <h2 id="五-、传输控制协议-tcp"><a href="#五-、传输控制协议-tcp" class="header-anchor">#</a> (五)、传输控制协议（TCP）</h2> <p>传输控制协议（TCP）是 Internet 一个重要的传输层协议。TCP 提供面向连接、可靠有序、字节流、全双工服务。</p> <h3 id="tcp-报文段结构"><a href="#tcp-报文段结构" class="header-anchor">#</a> TCP 报文段结构</h3> <p>TCP 报文段由首部（20 个字节固定首部+（选项字段、填充字段））字段和一个数据字段组成。固定头部 20 字节（160bit）, 各个部分的含义, 重点掌握序号、确认序号字段，有计算。</p> <ul><li>源端口号和目的端口号字段分别占 16 个 bit 位。（16BIT 端口号+32BIT 的 IP 地址，构成 SOCKET）</li> <li>序号字段（由发送方填写）占 32 位。序号：TCP 传送的报文段可看成连续的数据流，每个字节都对应一个序号，“序号”指本报文段所发送的数据中第一个字节的序号。</li> <li>确认序号字段（由接收方填写）占 32 位。确认序号：是指期望接收到对方的下一个报文段的数据的第一个字节的序号。</li> <li>首部长度（又称数据偏移）占 4 位。首部偏移的计算单位是 32bit(4 个字节)，首部长度占 4 位，能表示的最大十进制数是 15，即首部长度的最大值可为 60 字节。</li> <li>保留字段占 6 位，保留为今后使用，目前为 0。</li> <li>6 个标志位字段各占 1 位。
+<ul><li>紧急比特 URG URG=1 时，表明紧急指针字段有效，发送应用进程应该告诉发送 TCP 此报文段中有紧急数据，应该尽快发送。</li> <li>确认比特 ACK 只有当 ACK=1 时确认字段才有效</li> <li>推送比特 PSH TCP 收到 PSH=1 的报文段时，就尽快将报文段中的数据交付接收应用进程，而不再等到整个缓存都填满了后再向上交付。</li> <li>复位比特 RST RST=1 时，表示 TCP 连接中出现严重差错，必须释放连接再重新建立。</li> <li>同步比特 SYN 在连接建立时用来同步序号。当 SYN=1 而 ACK=0 时，表明这是一个连接请求报文。</li> <li>终止比特 FIN 释放一个连接。</li></ul></li> <li>接收窗口字段占 16 位。 接收端的缓存窗口。</li> <li>校验和字段占 16 位</li> <li>紧急指针字段占 16 位</li> <li>选项字段，长度可变</li> <li>填充字段，长度 0~3 字节，取值全 0，其目的是为了使整个首部长度是 4 字节的整数倍。</li> <li><img src="https://img-blog.csdnimg.cn/d4dac4fe34684a1291b94c22b0a7ff37.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5b-r5LmQ55qE5a2m5Lmg,size_18,color_FFFFFF,t_70,g_se,x_16" alt="image"></li> <li><a href="https://zhuanlan.zhihu.com/p/431583008" target="_blank" rel="noopener noreferrer">TCP 报文各字段格式详解<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></li></ul> <h3 id="tcp-连接管理"><a href="#tcp-连接管理" class="header-anchor">#</a> TCP 连接管理</h3> <ol><li>TCP 连接管理包括建立连接与连接拆除。TCP 连接通过“三次握手”过程。三次握手的目的是连接服务器指定端口，建立 TCP 连接，并同步连接双方的序列号和确认号，交换 TCP 窗口大小信息。在 socket 编程中，客户端执行 <code>connect()</code> 时。将触发三次握手。
+<ul><li>第一次握手(SYN=1, seq=x):<br>
+该报文段(SYN 报文段)中不包含应用层数据，其首部中的同步位 SYN=1，并选择初始序列号 seq=x，表明传送数据时的第 1 个数据字节的序号是 x。<br>
+客户端发送一个 TCP 的 SYN 标志位置 1 的包，指明客户端打算连接的服务器的端口，以及初始序号 X,保存在包头的序列号(Sequence Number)字段里。发送完毕后，客户端进入 <code>SYN_SEND</code> 状态。</li> <li>第二次握手(SYN=1, ACK=1, seq=y, ack_seq=x+1):<br>
+一旦包含 SYN 报文段的 IP 数据报到达主机 B，主机 B 的 TCP 收到连接请求段后，如同意，则发回确认报文段(SYNACK 段)。SYNACK 报文段表明：主机 B 收到了主机 A 发起建立连接的 SYN 报文段，该段的初始序号为 x，且主机 B 同意建立连接，主机 B 的初始序号是 y。与 SYN 报文段类似，SYNACK 报文段不包含应用层数据，但是也要消耗掉 1 个序号，即初始序号 y。<br>
+服务器发回确认包(ACK)应答。即 SYN 标志位和 ACK 标志位均为 1。服务器端选择自己 ISN 序列号，放到 Seq 域里，同时将确认序号(Acknowledgement Number)设置为客户的 ISN 加 1，即 X+1。 发送完毕后，服务器端进入 <code>SYN_RCVD</code> 状态。</li> <li>第三次握手(ACK=1，ack_seq=y+1):<br>
+主机 A 收到 SYNACK 报文段后，向主机 B 发送确认报文段，该报文段是对主机 B 的同意连接报文段确认，其中 ACK=1,SYN=0,seq=x+1,ack_seq=y+1。第三次握手的 ACK 报文段可以携带从主机 A 到主机 B 的应用层数据。<br>
+客户端再次发送确认包(ACK)，SYN 标志位为 0，ACK 标志位为 1，并且把服务器发来 ACK 的序号字段+1，放在确定字段中发送给对方，并且在数据段放写 ISN 的+1。发送完毕后，客户端进入 <code>ESTABLISHED</code> 状态，当服务器端接收到这个包时，也进入<code>ESTABLISHED</code> 状态，TCP 握手结束。</li> <li><img src="https://imgconvert.csdnimg.cn/aHR0cDovL2ltZy5ibG9nLmNzZG4ubmV0LzIwMTcwNjA1MTEwNDA1NjY2?x-oss-process=image/format,png" alt="image"></li></ul></li> <li>TCP 连接建立成功后，便为使用该连接的双方应用进程之间提供了一条端到端全双工的可靠字节流逻辑通信信道，双方应用进程可以使用该连接收发数据。当通信结束时，使用 TCP 连接的两个进程中的任何一方都可以首先请求终止该连接，即断连。当连接断开后，主机分配给该连接的“资源”将被释放。TCP 释放连接过程为“四次挥手过程”。
+<ul><li>第一次挥手(FIN=1，seq=x)<br>
+主机 A 向主机 B 发送释放连接报文段，其首部的 FIN=1,序号 seq=x，等待主机 B 的确认</li> <li>第二次挥手(ACK=1，ack_seq=x+1，seq=v)<br>
+主机 B 向主机 A 发送确认段，ACK=1, 确认序号 ack_seq=x+1,序号 seq=v。</li> <li>第三次挥手(FIN=1，ack_seq=x+1, seq=w)<br>
+主机 B 向主机 A 发送释放连接报文段，FIN=1，seq=w，ack_seq=x+1。</li> <li>第四次挥手(ACK=1，seq=x+1，ack_seq=w+1)<br>
+主机 A 向主机 B 发送确认段，ACK=1，seq=x+1，ack_seq=w+1。主机 B 收到该确认段，可以马上释放连接；主机 A 在发出该确认段后，延迟一段时间即释放连接。</li> <li><img src="https://imgconvert.csdnimg.cn/aHR0cDovL2ltZy5ibG9nLmNzZG4ubmV0LzIwMTcwNjA2MDg0ODUxMjcy?x-oss-process=image/format,png" alt="image"></li></ul></li></ol> <h3 id="tcp-可靠数据传输"><a href="#tcp-可靠数据传输" class="header-anchor">#</a> TCP 可靠数据传输</h3> <ol><li>TCP 能够提供可靠数据传输服务，是通过以下机制来实现
+<ul><li>应用数据被分割成 TCP 认为最适合发送的数据块（通常是 MSS）,封装成 TCP 段，传递给 IP。</li> <li>当 TCP 发出一个段后，启动一个计时器，等待目的端确认收到这个报文段。如果不能及时收到一个确认，则认为该报文段丢失，将重发这个报文段。当 TCP 收到发自 TCP 连接另一端的数据，将发送一个确认段。</li> <li>TCP 首部设有校验和字段，用于检测数据在传输过程中是否发生差错。</li> <li>由于 TCP 报文段封装到 IP 数据报中传输，而 IP 数据报的到达可能会经过不同的路径从而造成顺序的错乱。因此 TCP 报文段的到达可能会失序。如果必要，TCP 将根据序号对收到的数据进行重新排序，将收到的数据以正确的顺序交付给应用层。</li> <li>由于存在网络延迟和<strong>重传</strong>机制，TCP 的接收端有可能会收到多个重复的报文段，这时接收端需要根据序号把重复的报文段丢弃。</li> <li>TCP 能够提供流量控制。TCP 连接的每一方都在建立时分配一定大小的接受缓冲空间。TCP 的接收端只允许另一端发送接收端缓冲区所能接纳的数据。这可以防止较快主机发送数据太快，导致较慢主机的缓冲区溢出。</li></ul></li> <li>发送方有 3 个与发送和重传有关的事件
+<ul><li>从上层应用程序接受数据</li> <li>定时器超时</li> <li>收到 ACK</li></ul></li> <li>TCP 的确认与重传的典型场景</li> <li>TCP 接收方生成 ACK 的 4 种策略</li> <li>TCP 快速重传<br>
+快速重传算法的基本思想是：接收端每收到一个失序的报文段后就立即发出重复确认，以便更早的通知发送端有丢包的情况发生。</li></ol> <h3 id="tcp-流量控制"><a href="#tcp-流量控制" class="header-anchor">#</a> TCP 流量控制</h3> <p>流量控制的目的是协调协议发送方与接收方的数据发送与接受速度，避免因发生方发送数据太快，超出接收方的数据接收和处理能力，导致接收方数据“淹没”，即数据到达速度超出接收方的接收、缓存或处理额能力，导致数据在接收方被丢弃。</p> <h3 id="tcp-拥塞控制"><a href="#tcp-拥塞控制" class="header-anchor">#</a> TCP 拥塞控制</h3> <p>拥塞是指太多主机以太快的速度向网络中发送太多的数据，超出了网络处理能力，导致大量数据被分组“拥挤”在网络中间设备（如路由器）队列中等待转发，网络性能显著下降的现象。<br>
+拥塞导致后果：数据分组通过网络的时延显著增加；由于队列满导致大量分组被丢弃。</p> <ol><li>TCP 拥塞控制
+<ul><li>分为拥塞未发生和拥塞发生两种情况</li> <li>拥塞未发生，发送方加快发送速度，直到网络不能承受</li> <li>拥塞发生，根据接收方的不同响应，发送方做不同的降速</li></ul></li> <li>拥塞未发生时分两个阶段：<strong>慢启动和拥塞避免</strong> <ul><li>两个参数：发送拥塞窗口大小、阈值，时间单位是<strong>MSS</strong></li> <li>慢启动：窗口低于阈值时，每过一个 RTT，窗口翻倍。（1，理解课本 P125 图；2，直到窗口大于等于阈值，从慢启动切换到拥塞避免）</li> <li>拥塞避免：每过一个 RTT，窗口+1，直到拥塞发生</li> <li>注意：阀值和拥塞是否发生无关，只是控制阶段切换</li></ul></li> <li>拥塞发生时分两种情形：<strong>3 次重复确认、超时</strong> <ul><li>两个参数：发送拥塞窗口大小、阈值、时间单位是 MSS</li> <li>3 次重复确认（快速恢复算法，TCP-Reno 版本）
+<ul><li>状态设为拥塞避免</li> <li>阈值设为当前拥塞窗口一半</li> <li>拥塞窗口也设为当前拥塞窗口一半</li></ul></li> <li>超时（快速重传算法，TCP-Tahoe 版本）
+<ul><li>状态切换回慢启动</li> <li>阈值设为当前拥塞窗口一半</li> <li>拥塞窗口置 1</li></ul></li></ul></li></ol> <h3 id="参考阅读"><a href="#参考阅读" class="header-anchor">#</a> 参考阅读</h3> <ul><li><a href="https://hit-alibaba.github.io/interview/basic/network/TCP.html" target="_blank" rel="noopener noreferrer">TCP 协议<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></li> <li><a href="https://jerryc8080.gitbooks.io/understand-tcp-and-udp/content/chapter2.html" target="_blank" rel="noopener noreferrer">TCP 报文结构<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></li></ul> <p><strong>考核内容与要求</strong></p> <ul><li>传输层的基本服务
+<ul><li>识记：传输层基本服务</li> <li>领会：复用与分解的基本概念；UDP 与 TCP 实现复用与分解的方法；无连接服务与面向连接服务。</li></ul></li> <li>用户数据报协议（UDP）
+<ul><li>识记：UDP 特点；UDP 数据报结构</li> <li>领会：UDP 校验和及其计算</li></ul></li> <li>停-等协议与滑动窗口协议
+<ul><li>领会：可靠数据传输基本原理；停-等协议工作原理；滑动窗口协议工作原理。</li> <li>应用：停-等协议信道利用率计算；滑动窗口协议信道利用率计算；滑动窗口协议窗口大小与分组序号字段位数之间的约束关系。</li></ul></li> <li>传输控制协议（TCP） - 领会：TCP 特点；TCP 报文段结构；TCP 的可靠数据传输机制；TCP 报文段序号与确认序号；TCP 连接建立过程与连接拆除过程；TCP 计时器超时时间设置；TCP 的流量控制；拥塞控制基本概念；TCP 的拥塞控制。
+<ul><li>应用：TCP 报文段序号与确认序号的变化；TCP 流量控制窗口、拥塞窗口、发送窗口的变化。<br> <strong>本章重点、难点</strong>
+本章重点是可靠数据传输的基本原理、停-等协议、典型滑动窗口协议（GBN 协议、SR 协议），TCP 的报文段结构、TCP 连接建立与断开过程、TCP 序列号以及确认序列号、TCP 可靠数据传输的机制、TCP 拥塞控制方法。<br>
+本章难点是停-等协议与滑动窗口协议的理解与信道利用率的计算、TCP 的链接管理、TCP 报文段序列号、TCP 的拥塞控制方法。</li></ul></li></ul></div> <footer class="page-edit"><!----> <!----></footer> <div class="page-nav"><p class="inner"><span class="prev">
+      ←
+      <a href="/szu/network/chapter-2.html" class="prev">
+        第2章 网络应用
+      </a></span> <span class="next"><a href="/szu/network/chapter-4.html">
+        第4章 网络层
+      </a>
+      →
+    </span></p></div> </main></div><div class="global-ui"></div></div>
+    <script src="/assets/js/app.3b4388ed.js" defer></script><script src="/assets/js/2.10b3e4ea.js" defer></script><script src="/assets/js/47.d24c7011.js" defer></script>
+  </body>
+</html>

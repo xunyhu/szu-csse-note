@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>第一节、认识的本质 | R</title>
+    <meta name="generator" content="VuePress 1.9.9">
+    <link rel="icon" href="https://xunyhu.github.io/image/favicon.ico">
+    <meta name="description" content="">
+    <meta name="theme-color" content="#3eaf7c">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    
+    <link rel="preload" href="/assets/css/0.styles.1a8e0fbc.css" as="style"><link rel="preload" href="/assets/js/app.3b4388ed.js" as="script"><link rel="preload" href="/assets/js/2.10b3e4ea.js" as="script"><link rel="preload" href="/assets/js/39.3be76881.js" as="script"><link rel="prefetch" href="/assets/js/10.d5aef7bd.js"><link rel="prefetch" href="/assets/js/11.bb90b8c9.js"><link rel="prefetch" href="/assets/js/12.6cfcf9c3.js"><link rel="prefetch" href="/assets/js/13.2d9ed724.js"><link rel="prefetch" href="/assets/js/14.9c217a9e.js"><link rel="prefetch" href="/assets/js/15.70a3c708.js"><link rel="prefetch" href="/assets/js/16.be337503.js"><link rel="prefetch" href="/assets/js/17.88c2ce55.js"><link rel="prefetch" href="/assets/js/18.4a06556f.js"><link rel="prefetch" href="/assets/js/19.81a2041b.js"><link rel="prefetch" href="/assets/js/20.be789981.js"><link rel="prefetch" href="/assets/js/21.825d0143.js"><link rel="prefetch" href="/assets/js/22.e6efa1d3.js"><link rel="prefetch" href="/assets/js/23.dd7746f1.js"><link rel="prefetch" href="/assets/js/24.85415efa.js"><link rel="prefetch" href="/assets/js/25.21ab202f.js"><link rel="prefetch" href="/assets/js/26.de7afa6a.js"><link rel="prefetch" href="/assets/js/27.a9f64598.js"><link rel="prefetch" href="/assets/js/28.3fcaa6f2.js"><link rel="prefetch" href="/assets/js/29.35702d9b.js"><link rel="prefetch" href="/assets/js/3.d3d6240c.js"><link rel="prefetch" href="/assets/js/30.5d380278.js"><link rel="prefetch" href="/assets/js/31.458edbca.js"><link rel="prefetch" href="/assets/js/32.cbce3cde.js"><link rel="prefetch" href="/assets/js/33.b9019a77.js"><link rel="prefetch" href="/assets/js/34.17cfd457.js"><link rel="prefetch" href="/assets/js/35.7fb8274c.js"><link rel="prefetch" href="/assets/js/36.2e3a3866.js"><link rel="prefetch" href="/assets/js/37.2c161539.js"><link rel="prefetch" href="/assets/js/38.38a8b365.js"><link rel="prefetch" href="/assets/js/4.0f570684.js"><link rel="prefetch" href="/assets/js/40.7dc697fb.js"><link rel="prefetch" href="/assets/js/41.a5ccdda3.js"><link rel="prefetch" href="/assets/js/42.ca5b907b.js"><link rel="prefetch" href="/assets/js/43.23621d4f.js"><link rel="prefetch" href="/assets/js/44.a6f2fefe.js"><link rel="prefetch" href="/assets/js/45.2dc33749.js"><link rel="prefetch" href="/assets/js/46.c7101c66.js"><link rel="prefetch" href="/assets/js/47.d24c7011.js"><link rel="prefetch" href="/assets/js/48.b84c555f.js"><link rel="prefetch" href="/assets/js/49.fa4326aa.js"><link rel="prefetch" href="/assets/js/5.734ae6af.js"><link rel="prefetch" href="/assets/js/50.290b69d5.js"><link rel="prefetch" href="/assets/js/51.1d05fccf.js"><link rel="prefetch" href="/assets/js/52.9f9563ae.js"><link rel="prefetch" href="/assets/js/53.31b84813.js"><link rel="prefetch" href="/assets/js/54.6ea1177f.js"><link rel="prefetch" href="/assets/js/55.4b34c753.js"><link rel="prefetch" href="/assets/js/56.1af848c0.js"><link rel="prefetch" href="/assets/js/57.7f5ccefc.js"><link rel="prefetch" href="/assets/js/58.0b7e93b1.js"><link rel="prefetch" href="/assets/js/59.1b598669.js"><link rel="prefetch" href="/assets/js/6.814edb6d.js"><link rel="prefetch" href="/assets/js/60.3c263ff3.js"><link rel="prefetch" href="/assets/js/61.dbab0bee.js"><link rel="prefetch" href="/assets/js/62.fc9ffb8c.js"><link rel="prefetch" href="/assets/js/7.3852f5ef.js"><link rel="prefetch" href="/assets/js/8.a3583ec9.js"><link rel="prefetch" href="/assets/js/9.d6d7619e.js">
+    <link rel="stylesheet" href="/assets/css/0.styles.1a8e0fbc.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container"><header class="navbar"><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div> <a href="/" class="home-link router-link-active"><!----> <span class="site-name">R</span></a> <div class="links"><div class="search-box"><input aria-label="Search" autocomplete="off" spellcheck="false" value=""> <!----></div> <nav class="nav-links can-hide"><div class="nav-item"><a href="/guide/" class="nav-link">
+  指南
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="深大自考" class="dropdown-title"><span class="title">深大自考</span> <span class="arrow down"></span></button> <button type="button" aria-label="深大自考" class="mobile-dropdown-title"><span class="title">深大自考</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="/szu/pest3/" class="nav-link">
+  PEST-3
+</a></li><li class="dropdown-item"><!----> <a href="/szu/c++/" class="nav-link">
+  C++程序设计
+</a></li><li class="dropdown-item"><!----> <a href="/szu/structure/" class="nav-link">
+  数据结构导论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/os/" class="nav-link">
+  操作系统概论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/software/" class="nav-link">
+  软件开发工具
+</a></li><li class="dropdown-item"><!----> <a href="/szu/database/" class="nav-link">
+  数据库系统原理
+</a></li><li class="dropdown-item"><!----> <a href="/szu/network/" class="nav-link">
+  计算机网络原理
+</a></li><li class="dropdown-item"><!----> <a href="/szu/history/" class="nav-link">
+  中国近现代史纲要
+</a></li><li class="dropdown-item"><!----> <a href="/szu/marx/" class="nav-link router-link-active">
+  马克思主义基本原理概论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/business/" class="nav-link">
+  网络经济与企业管理
+</a></li></ul></div></div><div class="nav-item"><a href="https://v1.vuepress.vuejs.org" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  VuePress
+  <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></div> <!----></nav></div></header> <div class="sidebar-mask"></div> <aside class="sidebar"><nav class="nav-links"><div class="nav-item"><a href="/guide/" class="nav-link">
+  指南
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="深大自考" class="dropdown-title"><span class="title">深大自考</span> <span class="arrow down"></span></button> <button type="button" aria-label="深大自考" class="mobile-dropdown-title"><span class="title">深大自考</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="/szu/pest3/" class="nav-link">
+  PEST-3
+</a></li><li class="dropdown-item"><!----> <a href="/szu/c++/" class="nav-link">
+  C++程序设计
+</a></li><li class="dropdown-item"><!----> <a href="/szu/structure/" class="nav-link">
+  数据结构导论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/os/" class="nav-link">
+  操作系统概论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/software/" class="nav-link">
+  软件开发工具
+</a></li><li class="dropdown-item"><!----> <a href="/szu/database/" class="nav-link">
+  数据库系统原理
+</a></li><li class="dropdown-item"><!----> <a href="/szu/network/" class="nav-link">
+  计算机网络原理
+</a></li><li class="dropdown-item"><!----> <a href="/szu/history/" class="nav-link">
+  中国近现代史纲要
+</a></li><li class="dropdown-item"><!----> <a href="/szu/marx/" class="nav-link router-link-active">
+  马克思主义基本原理概论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/business/" class="nav-link">
+  网络经济与企业管理
+</a></li></ul></div></div><div class="nav-item"><a href="https://v1.vuepress.vuejs.org" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  VuePress
+  <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></div> <!----></nav>  <ul class="sidebar-links"><li><section class="sidebar-group depth-0"><p class="sidebar-heading open"><span>《马克思主义基本原理概论》</span> <!----></p> <ul class="sidebar-links sidebar-group-items"><li><a href="/szu/marx/" aria-current="page" class="sidebar-link">课程简介</a></li><li><a href="/szu/marx/chapter-0.html" class="sidebar-link">绪论 马克思主义是关于无产阶级和人类解放的科学</a></li><li><a href="/szu/marx/chapter-1.html" class="sidebar-link">第1章 物质世界及其发展规律</a></li><li><a href="/szu/marx/chapter-2.html" aria-current="page" class="active sidebar-link">第2章 认识的本质及其规律</a><ul class="sidebar-sub-headers"><li class="sidebar-sub-header"><a href="/szu/marx/chapter-2.html#第一节、认识的本质" class="sidebar-link">第一节、认识的本质</a></li><li class="sidebar-sub-header"><a href="/szu/marx/chapter-2.html#第二节、认识的辩证运动" class="sidebar-link">第二节、认识的辩证运动</a></li><li class="sidebar-sub-header"><a href="/szu/marx/chapter-2.html#第三节、真理与价值" class="sidebar-link">第三节、真理与价值</a></li><li class="sidebar-sub-header"><a href="/szu/marx/chapter-2.html#第四节、认识世界与改造世界的统一" class="sidebar-link">第四节、认识世界与改造世界的统一</a></li></ul></li><li><a href="/szu/marx/chapter-3.html" class="sidebar-link">第3章 人类社会及其发展规律</a></li><li><a href="/szu/marx/chapter-4.html" class="sidebar-link">第4章 资本主义制度的形成及其本质</a></li><li><a href="/szu/marx/chapter-5.html" class="sidebar-link">第5章 资本主义的发展及其规律</a></li><li><a href="/szu/marx/chapter-6.html" class="sidebar-link">第6章 社会主义的发展及其规律</a></li><li><a href="/szu/marx/chapter-7.html" class="sidebar-link">第7章 共产主义社会是人类最崇高的社会理想</a></li><li><a href="/szu/marx/subjective.html" class="sidebar-link">主观题</a></li></ul></section></li></ul> </aside> <main class="page"> <div class="theme-default-content content__default"><h2 id="第一节、认识的本质"><a href="#第一节、认识的本质" class="header-anchor">#</a> 第一节、认识的本质</h2> <h3 id="一、实践是认识的基础"><a href="#一、实践是认识的基础" class="header-anchor">#</a> 一、实践是认识的基础</h3> <p><strong>马克思主义哲学认为，实践的观点是马克思主义认识论第一和基本的观点。</strong><br>
+四个表现：</p> <ol><li>实践是认识的来源</li> <li>实践是认识发展的动力
+<ul><li>社会不断提出新的需要、新的研究课题，推动认识的发展。正如恩格斯指出的：“社会一旦有技术上的需要，这种需要比十所大学更能把科学推向前进。”</li> <li>社会实践为认识不断提供新的经验和新的观察、研究的物质手段。</li> <li>社会实践推动人思维能力的发展。</li></ul></li> <li>实践是检验真理的唯一标准</li> <li>实践是认识的目的
+<ul><li>马克思主义哲学认为，人们之所以追求符合客观实际的科学认知，归根结底是为了用这种科学的认识去指导人们的实践，达到改变世界的目的。</li></ul></li></ol> <ul><li>[选择题]人们追求符合客观实际的科学认知，归根结底是为了<code>实现对客观世界的改造</code></li></ul> <h3 id="二、认识是主体对客体的能动反映"><a href="#二、认识是主体对客体的能动反映" class="header-anchor">#</a> 二、认识是主体对客体的能动反映</h3> <ol><li>认识的主体
+<ul><li>含义：认识主体是指认识和实践活动的承担者，是处于一定社会关系中从事实践活动和认识活动的<strong>现实的、具体的人。</strong></li> <li>认识主体的性质和特点
+<ul><li>具有自然的物质属性；具有社会性；具有历史性；具有能动性。</li> <li>突出特点：<strong>具有能动性</strong>。所谓认识主体的能动性，是说认识主体不是消极被动地反映客体，而是对认识客体具有主观能动性。</li></ul></li> <li>结构: <strong>个体、群体、人类整体</strong></li></ul></li> <li>认识的客体
+<ul><li>含义：认识客体是指人的实践活动和认识的对象。</li> <li>构成：自然客体、社会客体、精神客体。</li> <li>认识客体的性质
+<ul><li>具有客观性；具有对象性：只有那些与主体活动发生关系、成为主体活动对象的外部事物，才构成认知客体；</li></ul></li></ul></li> <li>认识主体与认识客体的关系
+<ul><li>实践关系，指认识主体和客体之间<strong>改造和被改造</strong>的关系。<br> <strong>实践关系是其他一切关系的前提和基础，是认识主体和客体之间首要的基本关系。</strong></li> <li>认识关系，指认识主体和认识客体之间反映和被反映的关系。</li> <li>认识主体和认识客体的相互作用。</li></ul></li> <li>认识的本质是主体对客体的能动反映
+<ul><li>唯物论的反映论与唯心论的先验论(认识论)的对立
+<ul><li><code>**反映论**</code>指人的认识是从归根到底是从客观物质世界来的，是主体对客体的能动反映。</li> <li><code>**先验论**</code>指以这样或那样的方式主张人的认识是限于经验获得的，或者认为认识是人主观自生的，即所谓“圣人不行而知”</li></ul></li> <li>可知论与不可知论的对立</li> <li>辩证唯物论的能动的反映论与旧唯物论的机械的反映论
+<ul><li>辩证唯物论的反映论：认识过程是反映与创造的统一，这是区别于机械反映论的<strong>根本标志</strong></li> <li>机械的反映论：把主体对客体的认识理解为直观的、照镜子式的反映。</li></ul></li></ul></li></ol> <ul><li>[选择题].辩证唯物主义反映论区别与机械唯物主义反映论的根本标志在于，是否承认认识的过程是<code>反映与创造的统一</code>。</li> <li>[选择题]在认识论上，<code>一切唯物主义都坚持反映论</code></li> <li>[选择题]可知论和不可知论的对立在于是否承认<code>思维能够正确地认识现实世界</code></li></ul> <h2 id="第二节、认识的辩证运动"><a href="#第二节、认识的辩证运动" class="header-anchor">#</a> 第二节、认识的辩证运动</h2> <h3 id="一、从感性认识到理性认识"><a href="#一、从感性认识到理性认识" class="header-anchor">#</a> 一、从感性认识到理性认识</h3> <ol><li>感性认识和理性认识<br>
+感性认识是认识的初级阶段，分为感觉、知觉、表象三种形式；<br>
+理性认识是认识的高级阶段，分为概念、判断、推理三种形式；</li> <li>感性认识和理性认识的辩证关系
+<ul><li>理性认识依赖于感性认识，坚持了这一点，就是在认识论上坚持了唯物论。</li> <li>感性认识有待于发展到理性认识，坚持了这一点，就是在认识论上坚持了辩证法。</li> <li>感性认识和理性认识相互渗透。<br>
+由此可见，在认识过程中，感性认识和理论认识是不可分割的，如果将二者割裂开，就会犯<strong>经验论或唯理论</strong>的错误。<br>
+经验论：片面强调感性经验的重要性，是实际工作中<strong>经验主义</strong>的认识论根源。<br>
+唯理论：认为感性经验靠不住，只有理性认识才是可以信赖的，是实际工作中<strong>教条主义</strong>的认识论根源。</li></ul></li> <li>由感性认识到理性认识的飞跃<br>
+毛泽东指出：“感觉到了的东西，我们不能立刻理解它，只有理解了的东西才更深刻地感觉它。感觉只解决现象问题，理论才解决本质问题。”<br>
+感性认识向理性认识的飞跃需要具备两个条件：
+<ul><li>感性材料必须十分丰富而不是零碎不全，且必须符合实际</li> <li>必须要有正确的思维方法</li></ul></li></ol> <ul><li>[选择题]理性认知的三种形式是<code>概念、判断、推理</code></li></ul> <h3 id="二、从理性认识到实践"><a href="#二、从理性认识到实践" class="header-anchor">#</a> 二、从理性认识到实践</h3> <p>认识由感性上升到理性，这只是认识运动的一半。还有非常重要的另一半：由理性认识向实践的飞跃。这是<strong>认识的第二次飞跃</strong>。<br>
+认识的公式：感性认识-&gt;理性认识-&gt;实践；实践-&gt;认识-&gt;实践</p> <ul><li>[选择题]马克思主义哲学认为实践对认识具有决定性的作用，具体表现在
+<ul><li><code>1.实践是认识的来源；2.实践是认识发展的动力；3.实践是检验真理性的唯一标准；4.实践是认识的目的</code></li></ul></li> <li>[选择题]感性认识和理性认识的联系：1.理性认识依赖于感性认识；2.感性认识有待于发展到理性认识；3.感性认识和理性认识相互渗透。</li></ul> <h3 id="三、认识过程的多次反复和有限与无限的辩证统一"><a href="#三、认识过程的多次反复和有限与无限的辩证统一" class="header-anchor">#</a> 三、认识过程的多次反复和有限与无限的辩证统一</h3> <ol><li>认识的反复性
+<ul><li>客观事物本身的复杂性</li> <li>认识主体条件的差异性</li></ul></li> <li>认识是有限和无限的辩证统一 - 每个人的认识都是有限的 - 人类的认识是无限的<br>
+毛泽东指出：“实践、认识、再实践、再认识，这种形式，循环往复以至无穷。”</li> <li>主观和客观、认识和实践的具体的历史的统一<br>
+首先是统一的，其次是历史的。<br>
+总之，实践-认识-实践的循环往复体现了认识和实践的统一是具体的，历史的。<br>
+这在今天对我们仍然具有重要的指导意义。认识和实践的具体的历史的统一，要求我们在实际工作中必须坚持一切从实际出发，实事求是，开拓创新，把马克思主义普遍原理同我国的具体实际情况相结合，坚持真理，修正错误，走中国特色社会主义道理。</li></ol> <h2 id="第三节、真理与价值"><a href="#第三节、真理与价值" class="header-anchor">#</a> 第三节、真理与价值</h2> <h3 id="一、真理及其属性"><a href="#一、真理及其属性" class="header-anchor">#</a> 一、真理及其属性</h3> <ol><li>真理和谬误
+<ul><li><code>正确地反映客体的认识就是真理</code></li> <li>歪曲的反映客体的认识就是谬误</li> <li>真理和谬误的辩证关系
+<ul><li>真理与谬误互相排斥</li> <li>真理与谬误互相依存，是说真理与谬误相比较而存在，相斗争而发展</li> <li>真理与谬误在一定条件下相互转化。列宁指出：“只要再多走一小步，看起来只是想同一个方向多走了一小步，真理就会变成错误”</li></ul></li></ul></li> <li>真理的属性
+<ul><li>真理的客观性。指真理的内容是客观的。</li> <li>真理的绝对性与相对性 - 真理的绝对性即真理的客观性 - 真理的相对性是指某一正确的认识是在“一定深度”和“一定广度”上而言的<br> <strong>真理的发展过程就是由相对真理走向绝对真理的过程。</strong>
+相对主义片面夸大真理的相对性，最终导致否认人认识客观世界的可能性。<br>
+绝对主义片面夸大真理的绝对性，否认认识真理是一个过程，从而导致人认识的僵化。</li></ul></li></ol> <h3 id="二、实践是检验真理的唯一标准"><a href="#二、实践是检验真理的唯一标准" class="header-anchor">#</a> 二、实践是检验真理的唯一标准</h3> <ol><li>真理标准问题上的两种错误观点
+<ul><li>用圣人、伟人之言作为衡量真理的标准</li> <li>实用主义哲学提出的“有用即真理”</li></ul></li> <li>实践标准的唯一性<br>
+坚持实践是检验真理的唯一标准，并不否认逻辑证明在认识和探索真理中的作用。</li> <li>实践标准的确定性和不确定性<br>
+确定性、绝对性是指：检验真理的唯一标准就是实践<br>
+不确定性、相对性是指：实践具有历史性</li></ol> <h3 id="三、真理与价值的辩证统一"><a href="#三、真理与价值的辩证统一" class="header-anchor">#</a> 三、真理与价值的辩证统一</h3> <ol><li>真理与价值的对立和统一<br>
+价值是指客体对人需要的满足程度，表示客体具有对人有用或者对主体有意义的属性。</li> <li>真理的价值表现在真理的功能上
+<ul><li>真理具有指导实践的功能</li> <li>真理具有再认识功能</li> <li>真理具有教育和激励的功能</li></ul></li></ol> <ul><li>[选择题]在真理上坚持辩证法，就必须承认<code>真理既是绝对的又是相对的</code></li> <li>[选择题]实践之所以能成为检验真理的唯一标准，主要在于<code>实践具有直接现实性的品格</code></li> <li>[选择题]真理是有价值的</li> <li>[选择题]真理的发展是一个<code>由相对真理走向绝对真理的过程</code></li></ul> <h3 id="四、培育和践行社会主义核心价值观"><a href="#四、培育和践行社会主义核心价值观" class="header-anchor">#</a> 四、培育和践行社会主义核心价值观</h3> <ul><li>富强、民主、文明、和谐 ———— 国家层面</li> <li>自由、平等、公正、法治 ———— 社会层面</li> <li>爱国、敬业、诚信、友善 ———— 个人层面</li></ul> <h2 id="第四节、认识世界与改造世界的统一"><a href="#第四节、认识世界与改造世界的统一" class="header-anchor">#</a> 第四节、认识世界与改造世界的统一</h2> <h3 id="认识的目的全在于运用"><a href="#认识的目的全在于运用" class="header-anchor">#</a> 认识的目的全在于运用</h3> <h3 id="一切从实际出发、实事求是"><a href="#一切从实际出发、实事求是" class="header-anchor">#</a> 一切从实际出发、实事求是</h3> <ol><li>一切从实际出发时马克思主义哲学的根本要求</li> <li>马克思主义哲学认识论与党的思想路线<br>
+《中国共产党章程》规定：“党的思想路线是一切从实际出发，理论联系实际，实事求是，在实践中检验真理和发展真理。”<br>
+邓小平曾把这一思想路线简要地概括为“实事求是”。</li> <li>马克思主义哲学认识论与党的群众路线<br>
+党的群众路线是：一切为了群众、一切依靠群众、从群众中来，到群众中去。
+<ul><li>“从群众中来”就是从实践到认识的过程</li> <li>“到群众中去”就是从认识到实践的过程</li> <li>“从群众中来，到群众中去”不断循环往复的过程，也就是实践——认识——实践不断循环往复的过程，这表明群众路线同马克思主义哲学认识论是完全一致的。</li></ul></li></ol> <ul><li>[选择题]作为党的思想路线的理论基础的是<code>辩证唯物主义认识论</code></li></ul></div> <footer class="page-edit"><!----> <!----></footer> <div class="page-nav"><p class="inner"><span class="prev">
+      ←
+      <a href="/szu/marx/chapter-1.html" class="prev">
+        第1章 物质世界及其发展规律
+      </a></span> <span class="next"><a href="/szu/marx/chapter-3.html">
+        第3章 人类社会及其发展规律
+      </a>
+      →
+    </span></p></div> </main></div><div class="global-ui"></div></div>
+    <script src="/assets/js/app.3b4388ed.js" defer></script><script src="/assets/js/2.10b3e4ea.js" defer></script><script src="/assets/js/39.3be76881.js" defer></script>
+  </body>
+</html>

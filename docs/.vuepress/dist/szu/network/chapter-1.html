@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>1.1 基本概念 | R</title>
+    <meta name="generator" content="VuePress 1.9.9">
+    <link rel="icon" href="https://xunyhu.github.io/image/favicon.ico">
+    <meta name="description" content="">
+    <meta name="theme-color" content="#3eaf7c">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    
+    <link rel="preload" href="/assets/css/0.styles.1a8e0fbc.css" as="style"><link rel="preload" href="/assets/js/app.3b4388ed.js" as="script"><link rel="preload" href="/assets/js/2.10b3e4ea.js" as="script"><link rel="preload" href="/assets/js/3.d3d6240c.js" as="script"><link rel="prefetch" href="/assets/js/10.d5aef7bd.js"><link rel="prefetch" href="/assets/js/11.bb90b8c9.js"><link rel="prefetch" href="/assets/js/12.6cfcf9c3.js"><link rel="prefetch" href="/assets/js/13.2d9ed724.js"><link rel="prefetch" href="/assets/js/14.9c217a9e.js"><link rel="prefetch" href="/assets/js/15.70a3c708.js"><link rel="prefetch" href="/assets/js/16.be337503.js"><link rel="prefetch" href="/assets/js/17.88c2ce55.js"><link rel="prefetch" href="/assets/js/18.4a06556f.js"><link rel="prefetch" href="/assets/js/19.81a2041b.js"><link rel="prefetch" href="/assets/js/20.be789981.js"><link rel="prefetch" href="/assets/js/21.825d0143.js"><link rel="prefetch" href="/assets/js/22.e6efa1d3.js"><link rel="prefetch" href="/assets/js/23.dd7746f1.js"><link rel="prefetch" href="/assets/js/24.85415efa.js"><link rel="prefetch" href="/assets/js/25.21ab202f.js"><link rel="prefetch" href="/assets/js/26.de7afa6a.js"><link rel="prefetch" href="/assets/js/27.a9f64598.js"><link rel="prefetch" href="/assets/js/28.3fcaa6f2.js"><link rel="prefetch" href="/assets/js/29.35702d9b.js"><link rel="prefetch" href="/assets/js/30.5d380278.js"><link rel="prefetch" href="/assets/js/31.458edbca.js"><link rel="prefetch" href="/assets/js/32.cbce3cde.js"><link rel="prefetch" href="/assets/js/33.b9019a77.js"><link rel="prefetch" href="/assets/js/34.17cfd457.js"><link rel="prefetch" href="/assets/js/35.7fb8274c.js"><link rel="prefetch" href="/assets/js/36.2e3a3866.js"><link rel="prefetch" href="/assets/js/37.2c161539.js"><link rel="prefetch" href="/assets/js/38.38a8b365.js"><link rel="prefetch" href="/assets/js/39.3be76881.js"><link rel="prefetch" href="/assets/js/4.0f570684.js"><link rel="prefetch" href="/assets/js/40.7dc697fb.js"><link rel="prefetch" href="/assets/js/41.a5ccdda3.js"><link rel="prefetch" href="/assets/js/42.ca5b907b.js"><link rel="prefetch" href="/assets/js/43.23621d4f.js"><link rel="prefetch" href="/assets/js/44.a6f2fefe.js"><link rel="prefetch" href="/assets/js/45.2dc33749.js"><link rel="prefetch" href="/assets/js/46.c7101c66.js"><link rel="prefetch" href="/assets/js/47.d24c7011.js"><link rel="prefetch" href="/assets/js/48.b84c555f.js"><link rel="prefetch" href="/assets/js/49.fa4326aa.js"><link rel="prefetch" href="/assets/js/5.734ae6af.js"><link rel="prefetch" href="/assets/js/50.290b69d5.js"><link rel="prefetch" href="/assets/js/51.1d05fccf.js"><link rel="prefetch" href="/assets/js/52.9f9563ae.js"><link rel="prefetch" href="/assets/js/53.31b84813.js"><link rel="prefetch" href="/assets/js/54.6ea1177f.js"><link rel="prefetch" href="/assets/js/55.4b34c753.js"><link rel="prefetch" href="/assets/js/56.1af848c0.js"><link rel="prefetch" href="/assets/js/57.7f5ccefc.js"><link rel="prefetch" href="/assets/js/58.0b7e93b1.js"><link rel="prefetch" href="/assets/js/59.1b598669.js"><link rel="prefetch" href="/assets/js/6.814edb6d.js"><link rel="prefetch" href="/assets/js/60.3c263ff3.js"><link rel="prefetch" href="/assets/js/61.dbab0bee.js"><link rel="prefetch" href="/assets/js/62.fc9ffb8c.js"><link rel="prefetch" href="/assets/js/7.3852f5ef.js"><link rel="prefetch" href="/assets/js/8.a3583ec9.js"><link rel="prefetch" href="/assets/js/9.d6d7619e.js">
+    <link rel="stylesheet" href="/assets/css/0.styles.1a8e0fbc.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container"><header class="navbar"><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div> <a href="/" class="home-link router-link-active"><!----> <span class="site-name">R</span></a> <div class="links"><div class="search-box"><input aria-label="Search" autocomplete="off" spellcheck="false" value=""> <!----></div> <nav class="nav-links can-hide"><div class="nav-item"><a href="/guide/" class="nav-link">
+  指南
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="深大自考" class="dropdown-title"><span class="title">深大自考</span> <span class="arrow down"></span></button> <button type="button" aria-label="深大自考" class="mobile-dropdown-title"><span class="title">深大自考</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="/szu/pest3/" class="nav-link">
+  PEST-3
+</a></li><li class="dropdown-item"><!----> <a href="/szu/c++/" class="nav-link">
+  C++程序设计
+</a></li><li class="dropdown-item"><!----> <a href="/szu/structure/" class="nav-link">
+  数据结构导论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/os/" class="nav-link">
+  操作系统概论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/software/" class="nav-link">
+  软件开发工具
+</a></li><li class="dropdown-item"><!----> <a href="/szu/database/" class="nav-link">
+  数据库系统原理
+</a></li><li class="dropdown-item"><!----> <a href="/szu/network/" class="nav-link router-link-active">
+  计算机网络原理
+</a></li><li class="dropdown-item"><!----> <a href="/szu/history/" class="nav-link">
+  中国近现代史纲要
+</a></li><li class="dropdown-item"><!----> <a href="/szu/marx/" class="nav-link">
+  马克思主义基本原理概论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/business/" class="nav-link">
+  网络经济与企业管理
+</a></li></ul></div></div><div class="nav-item"><a href="https://v1.vuepress.vuejs.org" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  VuePress
+  <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></div> <!----></nav></div></header> <div class="sidebar-mask"></div> <aside class="sidebar"><nav class="nav-links"><div class="nav-item"><a href="/guide/" class="nav-link">
+  指南
+</a></div><div class="nav-item"><div class="dropdown-wrapper"><button type="button" aria-label="深大自考" class="dropdown-title"><span class="title">深大自考</span> <span class="arrow down"></span></button> <button type="button" aria-label="深大自考" class="mobile-dropdown-title"><span class="title">深大自考</span> <span class="arrow right"></span></button> <ul class="nav-dropdown" style="display:none;"><li class="dropdown-item"><!----> <a href="/szu/pest3/" class="nav-link">
+  PEST-3
+</a></li><li class="dropdown-item"><!----> <a href="/szu/c++/" class="nav-link">
+  C++程序设计
+</a></li><li class="dropdown-item"><!----> <a href="/szu/structure/" class="nav-link">
+  数据结构导论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/os/" class="nav-link">
+  操作系统概论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/software/" class="nav-link">
+  软件开发工具
+</a></li><li class="dropdown-item"><!----> <a href="/szu/database/" class="nav-link">
+  数据库系统原理
+</a></li><li class="dropdown-item"><!----> <a href="/szu/network/" class="nav-link router-link-active">
+  计算机网络原理
+</a></li><li class="dropdown-item"><!----> <a href="/szu/history/" class="nav-link">
+  中国近现代史纲要
+</a></li><li class="dropdown-item"><!----> <a href="/szu/marx/" class="nav-link">
+  马克思主义基本原理概论
+</a></li><li class="dropdown-item"><!----> <a href="/szu/business/" class="nav-link">
+  网络经济与企业管理
+</a></li></ul></div></div><div class="nav-item"><a href="https://v1.vuepress.vuejs.org" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  VuePress
+  <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></div> <!----></nav>  <ul class="sidebar-links"><li><section class="sidebar-group depth-0"><p class="sidebar-heading open"><span>《计算机网络原理》</span> <!----></p> <ul class="sidebar-links sidebar-group-items"><li><a href="/szu/network/" aria-current="page" class="sidebar-link">课程简介</a></li><li><a href="/szu/network/chapter-1.html" aria-current="page" class="active sidebar-link">第1章 网络概述</a><ul class="sidebar-sub-headers"><li class="sidebar-sub-header"><a href="/szu/network/chapter-1.html#_1-1-基本概念" class="sidebar-link">1.1 基本概念</a></li><li class="sidebar-sub-header"><a href="/szu/network/chapter-1.html#_1-2-网络结构" class="sidebar-link">1.2 网络结构</a></li><li class="sidebar-sub-header"><a href="/szu/network/chapter-1.html#_1-3-数据交换技术" class="sidebar-link">1.3 数据交换技术</a></li><li class="sidebar-sub-header"><a href="/szu/network/chapter-1.html#_1-4-网络性能" class="sidebar-link">1.4 网络性能</a></li><li class="sidebar-sub-header"><a href="/szu/network/chapter-1.html#_1-5-体系结构" class="sidebar-link">1.5 体系结构</a></li><li class="sidebar-sub-header"><a href="/szu/network/chapter-1.html#_1-6-发展历史" class="sidebar-link">1.6 发展历史</a></li></ul></li><li><a href="/szu/network/chapter-2.html" class="sidebar-link">第2章 网络应用</a></li><li><a href="/szu/network/chapter-3.html" class="sidebar-link">第3章 传输层</a></li><li><a href="/szu/network/chapter-4.html" class="sidebar-link">第4章 网络层</a></li><li><a href="/szu/network/chapter-5.html" class="sidebar-link">第5章 数据链路层与局域网</a></li><li><a href="/szu/network/chapter-6.html" class="sidebar-link">第6章 物理层</a></li><li><a href="/szu/network/chapter-7.html" class="sidebar-link">第7章 无线与移动网络</a></li><li><a href="/szu/network/chapter-8.html" class="sidebar-link">第8章 网络安全基础</a></li></ul></section></li></ul> </aside> <main class="page"> <div class="theme-default-content content__default"><h2 id="_1-1-基本概念"><a href="#_1-1-基本概念" class="header-anchor">#</a> 1.1 基本概念</h2> <h3 id="计算机网络的定义"><a href="#计算机网络的定义" class="header-anchor">#</a> 计算机网络的定义</h3> <p>计算机网络是互连的、自治的计算机的集合。</p> <h3 id="internet-因特网"><a href="#internet-因特网" class="header-anchor">#</a> Internet/因特网</h3> <ul><li>目前最大的、应用最广泛的计算机网络就是 Internet。是由很多网络互连而构成的全球性网络。</li> <li>ISP(Internet Service Provider) Internet 服务提供商</li> <li>本地 ISP、区域 ISP、国家级 ISP</li> <li>ISP 网络由分组交换设备构成</li> <li>分组交换设备：路由器、交换机</li></ul> <h3 id="协议"><a href="#协议" class="header-anchor">#</a> 协议</h3> <ul><li>网络协议定义：计算机网络中的实体在进行数据交换的过程中遵循的规则或约定</li> <li>协议三要素：语法、语义、时序
+<ul><li>语法：定义实体之间交换信息的格式与结构，或者定义实体之间传输信号的电平等。</li> <li>语义：定义实体之间交换的信息中需要发送哪些控制信息，完成何种动作以及做出何种响应。</li> <li>时序：事件实现顺序的详细说明。</li></ul></li> <li>网络协议的产生
+<ul><li>计算机网路中的数据交换必须遵循事先约定好的规则</li> <li>这些规则明确规定了所交换的数据的格式以及有关的同步问题（同步含有时序的意思）</li> <li>网络协议必须考虑如何对付各种异常情况的出现</li></ul></li></ul> <h3 id="计算机网络功能"><a href="#计算机网络功能" class="header-anchor">#</a> 计算机网络功能</h3> <p>资源共享</p> <ul><li>硬件资源共享</li> <li>软件资源共享。软件即服务（Solfware as a Service，SaaS）</li> <li>信息资源共享</li></ul> <h3 id="计算机网络的分类"><a href="#计算机网络的分类" class="header-anchor">#</a> 计算机网络的分类</h3> <ul><li>按覆盖范围分类：（个域网、局域网、城域网、广域网）</li> <li>按拓扑结构分类：
+<ol><li>星型、(优点：易于监控与管理、故障诊断与隔离；缺点：中央节点是网络瓶颈，一旦故障，全网瘫痪)</li> <li>总线型、（优点：结构简单，易于扩展；缺点：通信范围受限，故障诊断与隔离较困难）</li> <li>环形、（优点：所需电缆短，可以用光纤；缺点：某结点的故障容易引起全网瘫痪）</li> <li>网状、（优点：网络可靠性高，一条或多条线路故障时，网络仍可以联通；缺点：网路结构复杂，造价成本高，选路协议复杂；多见于广域网、核心网络等）</li> <li>树形、（优点：易于扩展，故障隔离容易；缺点：对根节点可靠性要求高，根结点故障，可能导致网络大范围无法通信）</li> <li>混合型（由两种以上拓扑结构组成。优点：易于扩展构建不同规模网络；缺点：网路结构复杂，管理与维护复杂；绝大多实际网络都是混合型，如 Internet）
+网络拓扑是指网络中的主机、网络设备间的物理连接关系与布局。
+<img src="/assets/img/image-20230305175320119.003a875b.png" alt="image-20230305175320119"></li></ol></li> <li>按交换方式分类（电路交换、报文交换、分组交换）</li> <li>按用户属性分类
+<ul><li>公用网：国家或企业出资，公共基础设施，例如电信、城市热点</li> <li>私有网：军事、铁路等专用网</li></ul></li></ul> <h2 id="_1-2-网络结构"><a href="#_1-2-网络结构" class="header-anchor">#</a> 1.2 网络结构</h2> <ol><li>网络边缘
+构成：连接到网络上的所有端系统（计算机、服务器、智能手机、家电等称为主机或端系统）构成了网络边缘.<br>
+作用：网络用户在使用网络时，就是在网络边缘中通过使用某网络应用实现在网络边缘的端系统之间的信息交换。因此，<strong>网络边缘为网络用户提供了网络应用服务</strong>。</li> <li>接入网络
+<ul><li>电话拨号接入</li> <li>ADSL</li> <li>HFC 接入</li> <li>局域网</li> <li>移动接入</li></ul></li> <li>网络核心
+<ul><li>ISP</li> <li>实现网上传输数据的中继与转发，即数据交换</li></ul></li></ol> <h2 id="_1-3-数据交换技术"><a href="#_1-3-数据交换技术" class="header-anchor">#</a> 1.3 数据交换技术</h2> <h3 id="数据交换的概念"><a href="#数据交换的概念" class="header-anchor">#</a> 数据交换的概念</h3> <ul><li>数据交换设备</li> <li>交换节点、通信子网</li></ul> <h3 id="数据交换三种技术"><a href="#数据交换三种技术" class="header-anchor">#</a> 数据交换三种技术</h3> <ol><li>电路交换
+<ul><li>在电路交换网络中，首先需要通过中间交换结点为两台主机之间建立一条专用的通信线路，称为电路，然后再利用该电路通信，通信结束后再拆除电路。</li> <li>过程：电路建立、传输数据、拆除电路</li> <li>特点：电路交换是有连接的，在通信时需要先建立电路连接，在通信过程中独占一个信道，通信结束后拆除电路连接。</li> <li>电路交换举例：H1 和 H3 通信
+<img src="/assets/img/image-20230305184558614.6a521004.png" alt="image-20230305184558614"></li></ul></li> <li>报文交换
+<ul><li>数据传输单位是报文，报文就是站点一次性要发送的数据块
+<ul><li>报文长度补点，可变长</li></ul></li> <li>报文交换特点
+<ul><li>以报文为单位进行交换</li> <li>不需要再两个站之间建立专用通路</li> <li>传送方式采用’存储—转发‘交换方式</li></ul></li> <li>报文交换举例：H1 和 H3 通信
+<ul><li>H1 要把 H3 地址附在报文中，然后发给 A</li> <li>A 节点存储报文，并找下一个节点转发</li> <li>经过多个节点存储-转发，最终到达 H3</li></ul></li></ul></li> <li>分组交换
+<ul><li>分组交换：将一个报文分成若干个分组，逐个发送分组。
+<ul><li>分组长度有一个上限，典型的最大长度是数千字节。</li></ul></li> <li>特点
+<ul><li>分组交换是目前计算机网络广泛采用的技术</li> <li>在发送端，先把较长的报文划分成短的、固定长度的数据段。</li> <li>分组交换的优点（可出简答题）
+<ul><li>交换设备存储容量要求低</li> <li>交换速度快</li> <li>可靠传输效率高</li> <li>更加公平</li></ul></li></ul></li> <li>分组交换举例：H1 和 H3 通信 - H1 把报文分割为 n 个分组，每个分组都包含 H3 地址，把分组逐个发给 A - A 节点每接收完一个分组，就找下一个节点转发 - 经过多个节点存储—转发，最终到达 H3
+<img src="/assets/img/image-20230305185425927.2031c91a.png" alt="image-20230305185425927"></li></ul></li></ol> <h2 id="_1-4-网络性能"><a href="#_1-4-网络性能" class="header-anchor">#</a> 1.4 网络性能</h2> <ol><li>数率
+<ul><li>速率基本单位 bit/s（比特每秒）</li> <li>进制转换：k/M/G/T （k=10³, M=10⁶, G=10⁹, T=10¹², 1kbit = 1000bit，这里不用 1024）</li> <li>时间单位：毫秒 ms、秒 s</li> <li>比特 bit 和字节 Byte 的关系，1Byte=8bit</li> <li>在描述较高速率时还常常使用其他速率单位，例如 kbit/s、Mbit/s、Gbit/s、Tbit/s。其中 1Tbit/s = 10³Gbit/s = 10⁶Mbit/s = 10⁹kbit/s = 10¹²bit/s</li></ul></li> <li>带宽，有两重含义</li> <li><strong>网络时延（本章重点+难点）</strong> <ul><li>处理时延</li> <li>排队时延</li> <li>传输时延 <strong>dt = L / R</strong>，L 是传输总量，R 是链路带宽</li> <li>传播时延 <strong>dp = D / V</strong>，D 是传播距离，V 是传播速度</li> <li>时延带宽积，<strong>G = dp * R</strong>，单位 bit。（即链路中最大能有多少比特）</li> <li>丢包率</li> <li>吞吐量</li></ul></li></ol> <h2 id="_1-5-体系结构"><a href="#_1-5-体系结构" class="header-anchor">#</a> 1.5 体系结构</h2> <h3 id="计算机网络分层体系结构"><a href="#计算机网络分层体系结构" class="header-anchor">#</a> 计算机网络分层体系结构</h3> <ol><li>计算机网络的复杂性、异质性
+<ul><li>不同的通信介质——有线、无线、...</li> <li>不同种类的设备——主机、路由器、交换机...</li> <li>不同的操作系统——Unix、Windows、...</li></ul></li> <li>物流系统的分层解决思想
+<ul><li>每层实现一种特定的服务，向上提供服务</li> <li>自己内部的功能实现独立，不受影响</li> <li>可以使用下层提供的服务
+<img src="/assets/img/image-20230305191819512.6bfd5276.png" alt="image-20230305191819512"></li></ul></li> <li>计算机网络采用分层设计、对等通信、虚通信原则
+<ul><li>对等实体之间实现的是虚拟的逻辑通信</li> <li>下层向上层提供服务</li> <li>上层依赖下层提供的服务来与其它主机上的对等层通信</li> <li>实际通信在最底层完成
+<img src="/assets/img/image-20230305190158319.8c889332.png" alt="image-20230305190158319"></li></ul></li></ol> <h3 id="osi-参考模型"><a href="#osi-参考模型" class="header-anchor">#</a> OSI 参考模型</h3> <ol><li>OSI 参考模型，简称 OSI/RM，是由国际标准化组织（ISO）制定的标准化开发式计算机网络层次结构模型
+<img src="/assets/img/image-20230305190408138.93f943d6.png" alt="image-20230305190408138"></li> <li>OSI 七层模型
+<ul><li>1、物理层，在物理线路上传输原始的二进制数据</li> <li>2、数据链路层 （主要功能是实现在相邻结点之间数据可靠而有效的传输。另一个重要功能是寻址，确保每一帧都能准确地传送到正确的接收方。）</li> <li>3、网络层，控制通信子网提供源点到目的点的数据传送</li> <li>4、运输层，为用户提供端到端的数据传送服务</li> <li>5、会话层，为用户提供会话控制服务</li> <li>6、表示层，为用户提供数据转换和表示服务</li> <li>7、应用层，为用户提供网络应用服务</li></ul></li> <li>OSI 参考模型有光术语
+<ul><li>数据单元（PDU）
+<ul><li>物理层——比特流或者位流</li> <li>数据链路层——帧</li> <li>网络层——分组或者包</li> <li>传输层——数据报或报文段</li> <li>应用层——报文</li></ul></li> <li>服务访问点</li> <li>服务原语</li> <li>面向连接的服务和无连接的服务</li></ul></li></ol> <h3 id="tcp-ip-参考模型"><a href="#tcp-ip-参考模型" class="header-anchor">#</a> TCP/IP 参考模型</h3> <p><em>传输控制协议 TCP/IP 是目前最常用到的一种通信协议，它是计算机世界里的一个通用协议。</em> <em>TCP/IP 的四层网络体系结构已成主流</em> <em>在局域网中，TCP/IP 最早出现在 Unix 系统中，现在几乎所有的厂商和操作系统都开始支持它。</em> <strong>TCP/IP 四层模型</strong></p> <ul><li>应用层——报文</li> <li>传输层——段</li> <li>网络互连层——数据报</li> <li>网络接口层——帧
+<img src="/assets/img/image-20230305191231939.09723496.png" alt="image-20230305191231939"></li></ul> <h3 id="网络五层模型"><a href="#网络五层模型" class="header-anchor">#</a> 网络五层模型</h3> <p>对比 TCP/IP 参考模型与 OSI 参考模型，TCP/IP 参考模型缺少 OSI 参考模型中功能比较少的表示层与会话层，而 TCP/IP 参考模型的网络接口层相当于合并了 OSI 参考模型的数据链路层与物理层。结合这两个参考模型，可以提出综合理论需求与实际网络的五层参考模型。这是近年来，在描述计算机网络中最常用，最接近实际网络的参考模型。</p> <ul><li>物理层</li> <li>链路层</li> <li>网络层</li> <li>传输层</li> <li>应用层
+<img src="/assets/img/image-20230305191748430.fb9512ac.png" alt="image-20230305191748430"></li></ul> <p>扩展阅读<br> <a href="https://mp.weixin.qq.com/s/Bdmn3mgEGby2ZWm_Jn3AGA" target="_blank" rel="noopener noreferrer">互联网是怎么连起来的？<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></p> <h2 id="_1-6-发展历史"><a href="#_1-6-发展历史" class="header-anchor">#</a> 1.6 发展历史</h2> <ul><li>第一个分组交换计算机网络 ARPAnet</li> <li>三个因特网核心协议：TCP、UDP、IP</li> <li>万维网 WWW 诞生</li> <li>2000 年开始，互联网爆发，进入”互联网+“时代</li></ul> <h3 id="本章总结"><a href="#本章总结" class="header-anchor">#</a> 本章总结</h3> <ul><li>网络协议三要素</li> <li>网络核心功能三共享</li> <li>网络分类：范围、拓扑结构、交换方式、用户属性</li> <li>网络结构三个部分</li> <li>三种数据交换概念，三种交换特点</li> <li>七层 OSI 网络模型</li> <li>四层 TCP/IP 模型，与 OSI 七层对应关系</li> <li>五层参考模型，重点理解 P46 图 1.17</li></ul></div> <footer class="page-edit"><!----> <!----></footer> <div class="page-nav"><p class="inner"><span class="prev">
+      ←
+      <a href="/szu/network/" class="prev router-link-active">
+        课程简介
+      </a></span> <span class="next"><a href="/szu/network/chapter-2.html">
+        第2章 网络应用
+      </a>
+      →
+    </span></p></div> </main></div><div class="global-ui"></div></div>
+    <script src="/assets/js/app.3b4388ed.js" defer></script><script src="/assets/js/2.10b3e4ea.js" defer></script><script src="/assets/js/3.d3d6240c.js" defer></script>
+  </body>
+</html>
