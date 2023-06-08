@@ -66,23 +66,51 @@
 
 4. [第 2 章\_单元测试](https://umoocs.unipus.cn/course/2633/task/194998/show)
 
-## 第 3 章 代词
+## 第 3 章 [代词](https://baike.baidu.com/item/%E4%BB%A3%E8%AF%8D/19411168)
 
-[代词](https://baike.baidu.com/item/%E4%BB%A3%E8%AF%8D/19411168)（英文 pronoun，简称 pron.），是指代名词或一句话的一种词类。大多数代词具有名词和形容词的功能。英语中的代词，按其意义、特征及在句中的作用分为：人称代词、物主代词、指示代词、反身代词、相互代词、疑问代词、关系代词、连接代词、不定代词和替代词十种。
+英语中的代词，按其意义、特征及在句中的作用分为：人称代词、物主代词、指示代词、反身代词、相互代词、疑问代词、关系代词、连接代词、不定代词和替代词十种。
 
 - 物主代词
 
   - 物主代词有形容词性和名词性两种，形容词性物主代词 my, your, his, her, its, our, their 只在名词前作定语，名词性物主代词 mine, yours, his, hers, ours, theirs 不能作定语，但可作主语、宾语、表语或与 of 连用作后置定语。
 
 - [代词相关语法知识详解](http://www.yygrammar.com/Article/201408/3693.html)
-- [第三章 单元测试](https://umoocs.unipus.cn/course/2633/task/195000/show)
 
 ## 第 4 章 形容词和副词
 
-- [副词的分类](http://www.yygrammar.com/Article/200805/340.html)
-- [英语副词的句法功能](http://www.yygrammar.com/Article/200802/145.html)
-- [副词在句中的位置特点](http://www.yygrammar.com/Article/200805/318.html)
+- 形容词
+- 副词
+  - [副词的分类](http://www.yygrammar.com/Article/200805/340.html)
+  - [英语副词的句法功能](http://www.yygrammar.com/Article/200802/145.html)
+  - [副词在句中的位置特点](http://www.yygrammar.com/Article/200805/318.html)
+- 形容词和副词的特殊比较结构
+
+  - not so much A as B, as much as
+  - not so much as , not even, without even
+  - not so much that...as that..., not so much that...but that...
+  - more than 与 more...than...
+  - no less than 和 not less than
 
 ## 第 5 章 动词及基本句型
 
-- [第五章 单元测试]https://umoocs.unipus.cn/course/2633/task/195012/show
+1. 动词的分类
+   - 1）不及物动词，后面不需要带宾语
+   - 2）系动词，后面跟主语补足语（表语）
+   - 3）单宾动词，后面强制性地要求跟一个直接宾语
+   - 4）双宾动词，后面有两个宾语，一个直接宾语（一般指物），一个间接宾语（一般指人）
+   - 5）复合动词，其宾语的后面尾随宾语补足语
+2. 动词基本句型
+   - SV: 主 + 谓（不及物动词）
+   - SVC: 主 + 谓（系动词） + 表语
+     - 表语的概念
+   - SVO：主 + 谓（及物动词）+ 宾语
+     - SVoO：主 + 谓 + 间接宾语 + 直接宾语
+     - SVOC：主 + 谓 + 宾 + 宾补
+   - it 做主语的句型
+     - 强调句型
+     - 助动词 Do 强调谓语动词
+   - there be... 句型
+
+- [第五章 单元测试](https://umoocs.unipus.cn/course/2633/task/195012/show)
+
+## 第 6 章 情态动词
