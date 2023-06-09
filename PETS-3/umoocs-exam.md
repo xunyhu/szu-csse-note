@@ -62,3 +62,27 @@ all,any,another,both,each,every,either,few,little,many,much,no,none,neither,one,
 11. Things like open land, clean water and good air are getting `scarcer and scarcer`.
 
 12. He was so careful and made the `less` mistakes in the spelling exercise.
+
+## 第 5 章 动词
+
+- [第五章 单元测试](https://umoocs.unipus.cn/course/2633/task/195012/show)
+
+1. “Is today your birthday?” “Yes, and my mother made `me a cake`.”
+
+2. She would certainly order them `not to smoke`.
+
+3. Coco appears `weak` after her long illness.
+
+4. It `was` Tom and David who helped me with my translation work the other day.
+
+5. It was `they who each were` given a gift at the party.
+
+6. The radio wasn’t working because `there weren't` any batteries in it.
+
+7. It `was` the passengers who were in trouble.
+
+8. “Why are those policemen outside the bank?” “`There has been` a robbery.”
+
+9. “Have there been any letters from your mother lately?” “No, `it haven't`.”
+
+10. `Where was it that` you were born?
