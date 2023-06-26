@@ -147,9 +147,7 @@ const szuSidebar = {
     {
       title: "《数据库系统原理》",
       collapsable: false,
-      children: [
-        ["", "课程简介"],
-      ],
+      children: [["", "课程简介"]],
     },
   ],
   "/szu/software/": [
@@ -158,6 +156,7 @@ const szuSidebar = {
       collapsable: false,
       children: [
         ["", "课程简介"],
+        ["chapter-1", "第1章 绪论"],
       ],
     },
   ],
@@ -165,11 +164,9 @@ const szuSidebar = {
     {
       title: "PEST-3",
       collapsable: false,
-      children: [
-        ''
-      ],
+      children: [""],
     },
-  ]
+  ],
 };
 
 module.exports = { szuRoute, szuSidebar };
