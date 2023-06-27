@@ -39,3 +39,4 @@
 
 - [MySQL 官网](https://www.mysql.com/)
 - [百科](https://zh.wikipedia.org/zh-cn/MySQL)
+- [mysql-install](https://www.runoob.com/mysql/mysql-install.html)
