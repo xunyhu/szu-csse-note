@@ -1,6 +1,8 @@
-const {szuRoute, szuSidebar} = require('./szu');
+const { szuRoute, szuSidebar } = require("./szu");
+const { programmerRoute } = require("./programmer");
 
 module.exports = {
-    szuRoute,
-    szuSidebar,
-}
+  szuRoute,
+  szuSidebar,
+  programmerRoute,
+};

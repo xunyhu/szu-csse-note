@@ -1,7 +1,7 @@
-const { description } = require('../../package')
-const { szuRoute, szuSidebar } = require('./route')
+const { description } = require("../../package");
+const { szuRoute, szuSidebar, programmerRoute } = require("./route");
 
-const _title = 'R';
+const _title = "R";
 module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
@@ -18,10 +18,16 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
-    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
-    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-    ['link', { rel: 'icon', href: 'https://xunyhu.github.io/image/favicon.ico' }]
+    ["meta", { name: "theme-color", content: "#3eaf7c" }],
+    ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
+    [
+      "meta",
+      { name: "apple-mobile-web-app-status-bar-style", content: "black" },
+    ],
+    [
+      "link",
+      { rel: "icon", href: "https://xunyhu.github.io/image/favicon.ico" },
+    ],
   ],
 
   /**
@@ -30,50 +36,48 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
+    repo: "",
     editLinks: false,
-    docsDir: '',
-    editLinkText: '',
+    docsDir: "",
+    editLinkText: "",
     lastUpdated: false,
     nav: [
       {
-        text: '指南',
-        link: '/guide/',
+        text: "指南",
+        link: "/guide/",
       },
       {
-        text: '深大自考',
-        link: '/szu/',
+        text: "深大自考",
+        link: "/szu/",
         items: szuRoute,
       },
-      // {
-      //   text: 'Config',
-      //   link: '/config/test'
-      // },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
-      }
+        text: "计算机程序设计员",
+        link: "/programmer/",
+        items: programmerRoute,
+      },
+      {
+        text: "VuePress",
+        link: "https://v1.vuepress.vuejs.org",
+      },
     ],
     sidebar: {
       ...szuSidebar,
-      '/guide/': [
+      "/guide/": [
         {
-          title: 'Guide',
+          title: "Guide",
           collapsable: false,
           children: [
-            '',
-            'self-examination',
-          ]
-        }
-      ]
-    }
+            ["self-examination", "计算机科学与技术"],
+            ["programmer", "计算机程序设计员"],
+          ],
+        },
+      ],
+    },
   },
 
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
-  plugins: [
-    '@vuepress/plugin-back-to-top',
-    '@vuepress/plugin-medium-zoom',
-  ]
-}
+  plugins: ["@vuepress/plugin-back-to-top", "@vuepress/plugin-medium-zoom"],
+};
