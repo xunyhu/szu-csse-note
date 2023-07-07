@@ -31,6 +31,29 @@
 
 - If you've traveled by airplane in the pase few years, chances are you've walked through a full body scanner at the security checkpoint.
 - The first generation of full body X-ray scanners rolled out in airports across the US in 2008. Known as backsatter scanners, there was a bit of an uproar from consumers when these came on the scene. Fliers feared the imagin would visually strip them of their clothers in front of the Transportation Security Administration(TSA) agents. Some health experts alse worried that these models might expose people to unnecessary radiation.
+
 - But in 2013, the TSA replaced backscatter scanners with new-and-improved scanners, called millimeter wave screeners. They fixd the "see you naked"issue. These devices create a standard outline of a person, rather than a detailed image of the perpon's body. The're also an improvement for your health. The millimeter wave scanners use low power radio frequency waves to create the image, The frequency is the same as that used for Wi-Fi devices. If you stood for three seconds in a scanner, it would be no more radiation exposure than standing in front of your computer router at home.
+
 - Backscatter scanners, meanwhile, can still be found in other places like jails an courthouses. They do expose people to small amounts of X-rays, but the Food and Drug Administration(FDA) considers them safe. A person receives more radiation from naturally occurring sources in less than an hour of ordinary living than from one screening with any general-use X-ray security system,says the FDA. Yet others are not so convinced.
+
 - The European Union prohibits the backscatters. Some scientists belive that even very low level X-ray exposure could increase the risk of cancer. "I would agree that the individual risk associated with X-ray scanners is likely to be extremely small," says David Brenner, head of Columbia University's Center for Radiological Research. "The issue of concern is when the X-ray scanners are used in a very high volume setting (just under a billion security screend occur each year in US airports). A very tiny risk multiplied by a billion has the potential to represent a pubilc health issue."
+
+## Part B
+
+Directions:  
+ Read the texts from a magazine article in which five people talk about internet techonlogy. For questions 36-40, match the name of each perpon to one of statements(A~G) given below. Mark your answers on your ANSWER SHEET.
+
+- Lucia Amour:  
+  The internet is a positive influence on modern-day generations, keeping them informed on both local and global news quickly. It is the top source of news for 18- to 24-year-olds. It also helps people to form opinions from news and about others on their own. Lastly, it helps people to stay in touch with global causes that they would not be able to learn about without the use of the internet.
+
+- David Alex:  
+  The internet both helps and hurts us, allowing us access to things previously thought to be impossible, not all good, but not all bad. You can make new friends, research any topic with only a few clciks, buy almost anything and communicate with others across long distances without any effort. It can also lead to bad things like cybercrime, being unsocial, and can make people belive things that aren't true.
+
+- Nelda Penn:  
+  Internet technology has had an influence on mankind, whether it is good or bad. What we should realize is that there will always be people that feel the need to hurt others. We can't change this. However, we can learn from their actions and learn how to avoid the people who want to hurt us. We can't change the actions of those around us, but we can decide our actions.
+
+- Grace Hand:  
+  Internet technology is an amazing thing that humans are relying on too much. People are becoming so dependent that the internet is huring them in many ways. For one thing, many people don't turn to people for help but go on the internet. For another, the internet is making mankind really lazy. You can do almost everything on it except build relationships.
+
+- Louis Perry:  
+  The internet has created a world without facts for our youth. Out of touch with real life, our children are open to connecting with strangers based on mutual interests. They are willing to trust strangers based on their online profiles, unaware that many people have a faked image on the internet that glorifies the things that they are doing in life when in fact they are not doing anything significant.

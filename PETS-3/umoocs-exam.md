@@ -86,3 +86,49 @@ all,any,another,both,each,every,either,few,little,many,much,no,none,neither,one,
 9. “Have there been any letters from your mother lately?” “No, `it haven't`.”
 
 10. `Where was it that` you were born?
+
+## 第 6 章 情态动词
+
+- [第 6 章 单元测试](https://umoocs.unipus.cn/course/2633/task/195024/show)
+
+1. This vodka bottle is nearly empty; you `must have drunk` a lot.  
+   这个伏特加酒瓶几乎是空的；你本可以喝很多的。
+
+2. I'd rather have a room of my own, however small it is, than `share` a room with someone else.
+
+3. They hurried there only to find the meeting canceled. In fact, they `needn't have gone` at all.
+
+4. By the time he arrives in Beijing, we `will have stayed` here for two days.
+
+5. If Harry did not attend the conference last night, he `must have had` too much work to do.
+
+6. Go staright into the cave and find out what's in there, `will you`.
+
+7. Don't forget to walk the dog while i am away, `will you` ?
+
+8. In fact, Peter would rather have left for San Francisco than `stayed` in New York.
+
+9. If you don't like to swim, you `may as well` stay at home.
+
+10. You `can't have seen` her in her office last Friday; she's been out of town for two weeks.
+
+11. The room is in a terrible mess; it `can't have been` cleaned.
+
+12. You cannot be `too` careful when you drive a car.
+
+13. As teachers, we should concern ourseleves with what is said, not what we think `ought to be said`.
+
+14. I'm going to the technician, but you `need not go` with me.
+
+15. It `can not` be too much emphasized that it is important for our students to build up reading skills.
+
+16. "May i speak to your manager Mr.Williams at five o'clock tonight?"  
+    "I'm sorry. Mr.Williams `will have gone` to a confernece long before then."
+
+17. You `shouldn't have been following` him so closely; you should have kept your distance.
+
+18. Mary's score on the test is the highest in her class; she `must` have studied very hard.
+
+19. You `needn't have done` all those calculations. We have a computer to do that sort of thing.
+
+20. Jane left the welcoming party very early because she `had to` get up early the next morning.
