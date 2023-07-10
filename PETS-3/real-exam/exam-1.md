@@ -30,6 +30,7 @@
 ### Text 2
 
 - If you've traveled by airplane in the pase few years, chances are you've walked through a full body scanner at the security checkpoint.
+
 - The first generation of full body X-ray scanners rolled out in airports across the US in 2008. Known as backsatter scanners, there was a bit of an uproar from consumers when these came on the scene. Fliers feared the imagin would visually strip them of their clothers in front of the Transportation Security Administration(TSA) agents. Some health experts alse worried that these models might expose people to unnecessary radiation.
 
 - But in 2013, the TSA replaced backscatter scanners with new-and-improved scanners, called millimeter wave screeners. They fixd the "see you naked"issue. These devices create a standard outline of a person, rather than a detailed image of the perpon's body. The're also an improvement for your health. The millimeter wave scanners use low power radio frequency waves to create the image, The frequency is the same as that used for Wi-Fi devices. If you stood for three seconds in a scanner, it would be no more radiation exposure than standing in front of your computer router at home.
@@ -41,19 +42,25 @@
 ## Part B
 
 Directions:  
- Read the texts from a magazine article in which five people talk about internet techonlogy. For questions 36-40, match the name of each perpon to one of statements(A~G) given below. Mark your answers on your ANSWER SHEET.
+ Read the texts from a magazine article in which five people talk about internet techonlogy. For questions 36-40, match the name of each perpon to one of statements(A~G) given below. Mark your answers on your ANSWER SHEET.  
+ 阅读一篇杂志文章中的文字，其中五个人谈论互联网技术。对于问题 36-40，将每个 perpon 的名称与下面给出的语句之一（A~G）匹配。把你的答案写在答题纸上。
 
 - Lucia Amour:  
-  The internet is a positive influence on modern-day generations, keeping them informed on both local and global news quickly. It is the top source of news for 18- to 24-year-olds. It also helps people to form opinions from news and about others on their own. Lastly, it helps people to stay in touch with global causes that they would not be able to learn about without the use of the internet.
+  The internet is a positive influence on modern-day generations, keeping them informed on both local and global news quickly. It is the top source of news for 18- to 24-year-olds. It also helps people to form opinions from news and about others on their own. Lastly, it helps people to stay in touch with global causes that they would not be able to learn about without the use of the internet.  
+  互联网对当代人产生了积极影响，使他们能够迅速了解当地和全球新闻。它是 18 至 24 岁青少年的首要新闻来源。它还帮助人们从新闻中形成自己对他人的看法。最后，它帮助人们与全球事业保持联系，如果没有互联网，他们将无法了解这些事业。
 
 - David Alex:  
-  The internet both helps and hurts us, allowing us access to things previously thought to be impossible, not all good, but not all bad. You can make new friends, research any topic with only a few clciks, buy almost anything and communicate with others across long distances without any effort. It can also lead to bad things like cybercrime, being unsocial, and can make people belive things that aren't true.
+  The internet both helps and hurts us, allowing us access to things previously thought to be impossible, not all good, but not all bad. You can make new friends, research any topic with only a few clciks, buy almost anything and communicate with others across long distances without any effort. It can also lead to bad things like cybercrime, being unsocial, and can make people belive things that aren't true.  
+  互联网既帮助我们，也伤害我们，让我们能够接触到以前认为不可能的事情，不全是好的，也不全是坏的。你可以交到新朋友，只需几句话就可以研究任何话题，几乎可以买任何东西，也可以毫不费力地远距离与他人交流。它还可能导致网络犯罪、不合群等坏事，并使人们相信不真实的事情。
 
 - Nelda Penn:  
-  Internet technology has had an influence on mankind, whether it is good or bad. What we should realize is that there will always be people that feel the need to hurt others. We can't change this. However, we can learn from their actions and learn how to avoid the people who want to hurt us. We can't change the actions of those around us, but we can decide our actions.
+  Internet technology has had an influence on mankind, whether it is good or bad. What we should realize is that there will always be people that feel the need to hurt others. We can't change this. However, we can learn from their actions and learn how to avoid the people who want to hurt us. We can't change the actions of those around us, but we can decide our actions.  
+  互联网技术对人类产生了影响，无论是好是坏。我们应该意识到，总会有人觉得有必要伤害他人。我们无法改变这一点。然而，我们可以从他们的行为中学习，学会如何避开那些想伤害我们的人。我们无法改变周围人的行为，但我们可以决定自己的行为。
 
 - Grace Hand:  
-  Internet technology is an amazing thing that humans are relying on too much. People are becoming so dependent that the internet is huring them in many ways. For one thing, many people don't turn to people for help but go on the internet. For another, the internet is making mankind really lazy. You can do almost everything on it except build relationships.
+  Internet technology is an amazing thing that humans are relying on too much. People are becoming so dependent that the internet is huring them in many ways. For one thing, many people don't turn to people for help but go on the internet. For another, the internet is making mankind really lazy. You can do almost everything on it except build relationships.  
+  互联网技术是一个令人惊奇的东西，人类太依赖它了。人们变得如此依赖，以至于互联网在很多方面都在困扰着他们。首先，许多人不会向人们寻求帮助，而是上网。另一方面，互联网让人类变得懒惰。除了建立关系，你几乎可以在上面做任何事情。
 
 - Louis Perry:  
-  The internet has created a world without facts for our youth. Out of touch with real life, our children are open to connecting with strangers based on mutual interests. They are willing to trust strangers based on their online profiles, unaware that many people have a faked image on the internet that glorifies the things that they are doing in life when in fact they are not doing anything significant.
+  The internet has created a world without facts for our youth. Out of touch with real life, our children are open to connecting with strangers based on mutual interests. They are willing to trust strangers based on their online profiles, unaware that many people have a faked image on the internet that glorifies the things that they are doing in life when in fact they are not doing anything significant.  
+  互联网为我们的年轻人创造了一个没有事实的世界。与现实生活脱节，我们的孩子愿意基于共同的兴趣与陌生人建立联系。他们愿意根据自己的网上个人资料信任陌生人，而不知道许多人在互联网上有一个虚假的形象，美化他们在生活中所做的事情，而事实上他们没有做任何重要的事情。
