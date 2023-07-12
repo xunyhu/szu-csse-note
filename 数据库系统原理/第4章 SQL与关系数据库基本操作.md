@@ -109,10 +109,44 @@
 ## 4.3 数据定义
 
 1. SQL 的数据定义
+
    - 关系数据库系统支持三级模式结构，其模式、外模式和内模式中基本对象有数据库模式、表、索引、视图等。相应地、SQL 的数据定义功能包括数据库模式定义、表定义、索引定义和视图定义。
+   - [SQL 语言的数据定义](https://blog.csdn.net/ling_xiao_che/article/details/129025216)
+
 2. 数据库模式定义
+
+   - 数据库模式的定义包含数据库的创建、选择、修改、查看等操作。
+   - 可以用 CREATE DATABASE 或 CREATE SCHEMA 语句创建数据库，语法格式如下：
+     - CREATE {DATABASE|SCHEMA} [IF NOT EXISTS] db_name
+     - [DEFAULT] CHARACTER SET [=] chartset_name
+     - | [DEFAULT] COLLATE [=] collation_name
+   - 1）在 MySQL 中创建一个名为 mysql_test 的数据
+     - CREATE DATABSE mysql_test
+   - 2）选择数据库
+     - USE mysql_test
+   - 3）使用 ALTER DATABASE 或 ALTER SCHEMA 语句来修改已被创建数据库的相关参数
+   - 4）使用 DROP DATABASE 或 DROP SCHEME 语句来删除已经创建的数据库。使用 IF EXISTS 可以避免删除不存在的数据库时出现的 MySQL 错误信息。
+   - 5）使用 SHOW DATABASE 或 SHOW SCHEME 语句来查看可用数据库列表
+
 3. 表定义
+
+   - 只有在成功创建数据库之后，才能在数据库中创建数据表。数据表是关系数据库中最重要、最基本的数据对象，也是数据存储的基本单位。若没有表，数据库中其他的数据对象则没有意义。
+   - 数据表被定义为字段的集合，数据在表中是按照行和列的格式来存储的，每一行代表一条记录，每一列代表记录中一个字段的取值。
+     - 创建数据表的过程，实质上就是定义每个字段的过程，同时也是实施数据完整性约束的过程。
+     - 其中，确定表中每个字段的数据类型是创建表的重要步骤，而字段的数据类型则是定义该字段所能存储的值的类型。
+   - 1）创建表。CREATE TABLE tal_name
+   - 2）更新表。使用 ALTER TABLE 语句来更改原有表的结构
+   - 3）重命名表。除了使用前面的 ALTER TABLE 语句，还可以直接用 RENAME TABLE 语句来更改，并可同时重命名多个表。
+   - 4）删除表。使用 DROP TABLE 语句来删除表。
+   - 5）查看表。分为显示表的名词和显示表的结构两种。
+
 4. 索引定义
+   - 索引是 DBMS 根据表中的一列或若干列按照一定顺序建立的列值与记录之间的对应关系表。
+   - 索引实质上是一张描述索引列的列值与原表中记录行之间一一对应关系的有序表。
+   - 索引是提高数据文件访问效率的有效方法。已经在各种数据库系统中得到了广泛应用。
+   - 1）索引的创建
+   - 2）索引的查看
+   - 3）索引的删除
 
 ## 4.4 数据更新
 
@@ -141,3 +175,6 @@
 - 进入 mysql：mysql -u root -p;
 - 退出命令：quit;
 - 语句以`;`结束
+- 常见报错
+  - [MYSQL 报出 ERROR 2003 (HY000)](https://blog.csdn.net/weixin_41331140/article/details/119409805)
+  - ERROR 1045 (28000): Access denied for user ‘root‘@‘localhost‘ (using password: YES)

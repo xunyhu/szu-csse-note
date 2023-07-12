@@ -94,11 +94,13 @@
 ## 第 5 章 动词及基本句型
 
 1. 动词的分类
+
    - 1）不及物动词，后面不需要带宾语
    - 2）系动词，后面跟主语补足语（表语）
    - 3）单宾动词，后面强制性地要求跟一个直接宾语
    - 4）双宾动词，后面有两个宾语，一个直接宾语（一般指物），一个间接宾语（一般指人）
    - 5）复合动词，其宾语的后面尾随宾语补足语
+
 2. 动词基本句型
    - SV: 主 + 谓（不及物动词）
    - SVC: 主 + 谓（系动词） + 表语
@@ -111,7 +113,9 @@
      - 助动词 Do 强调谓语动词
    - there be... 句型
 
-## 第 6 章 情态动词
+## 第 6 章 [情态动词](https://baike.baidu.com/item/%E6%83%85%E6%80%81%E5%8A%A8%E8%AF%8D/3443430)
+
+- 情态动词（Modal verb），本身有一定的词义，表示语气的单词。但是情态动词不能独立作谓语，只能和动词原形一起构成谓语。情态动词用在行为动词前，表示说话人对这一动作或状态的看法或主观设想。 情态动词的含义虽然数量不多，但用途广泛，英文中常见的有： can (could), may (might), must, need, ought to, dare (dared), shall (should), will (would)。
 
 1. 情态动词概况
 
@@ -156,11 +160,74 @@
    - 过去完成时：had + 过去分词
    - 一般将来时
      - 表示将来发生的动作或存在的状态
-   - 过去将来时：had been + 现在分词
+   - 过去将来时
 
 3. 三个较难时态
 
+   - 过去完成进行时：had been + 现在分词
+     - 表示在过去某个时间或动作之前一直在进行的动作或存在的情况
+   - 将来进行时：shall/will be + 现在分词
+     - 表示将来某个时刻正在进行的动作或存在的情况
+   - 将来完成时：shall/will have + 过去分词
+     - 通常与“by + 将来时间”或“by the time that + 将来完成的动作”连用，表示在将来某个时间以前已经完成的动作或存在的状态
+
+- [单元测试](https://umoocs.unipus.cn/course/2633/task/195024/show)
+
 ## 第 8 章 语态
+
+- 语态的概念：语态是指动词的一种变化形式，体现主语和动词之间的主被动关系。
+- 英语与汉语的区别：英语是通过词语的形式变化表达不同的意思而汉语往往通过词序或增减词的手段来实现。
+- `主动语态和被动语态`的概念
+
+  - 主动语态表示主语是谓语动作的执行者，被动语态表示主语是谓语动作的承受者。
+  - 被动语态的基本形式：be + 动词的过去分词
+  - Mary ate the cake yesterday.（主动语态）
+  - The cake was eaten by Mary yesterday.（被动语态）
+
+- 被动语态的形式变化
+
+  - 一般现在时的被动语态：do（dose）-> am/is/are + done
+
+    - The beautiful scenery `attracts` the visitors all over the world.
+    - -> The visitors all over the world `are attracted` by the beautiful scenery.
+
+  - 一般过去时的被动语态：did -> was/were + done
+
+    - Her attitude shocked me.
+    - -> I was shocked by her attitude.
+
+  - 一般将来时的被动语态：will/shall do -> will/shall + be + done
+
+    - We will collect the rest of oil from the earth in the near future.
+    - -> The rest of oil will be collect from the earth in the near future.
+
+  - 完成时的被动语态
+  - 现在完成：have/has done -> have/has + been + done
+
+    - We `have announced` the decision. -> The decision `has been annouced` (by us).
+
+  - 过去完成：had done -> had been done
+
+    - The chairman `had consulted` some experts several several times before he made this decision.
+    - -> Some experts `had been consulted` several times before the chairman made this decision.
+
+  - 将来完成：will/shall have done -> will/shall have + been + done
+
+    - By the end of this year we `shall have built` a new teaching building.
+    - -> By the end of this year a new teaching building `will have been built`.
+
+  - 进行时的被动语态
+  - 现在进行：is/am/are + doing -> is/am/are + being + done
+
+    - Workers `are repairing` the school bus now. -> The school bus `is being repaired` by workers now.
+
+  - 过去进行：was/were + doing -> was/were + being + done
+    - The old lady `was doing` her housework at this moment last night.
+    - -> Her housework `was being done` at this moment last night.
+
+- [被动语态用法](http://www.yygrammar.com/Article/201506/4042.html)
+
+- [单元测试](https://umoocs.unipus.cn/course/2633/task/195032/show)
 
 ## 第 9 章 非谓语动词（一）：概述及动词不定式
 
