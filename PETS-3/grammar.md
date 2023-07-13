@@ -231,6 +231,50 @@
 
 ## 第 9 章 非谓语动词（一）：概述及动词不定式
 
+- 非谓语动词就是不用来作谓语的动词，除了谓语之外，非谓语动词可以在句子中作任何句子成分。
+- 非谓语动词的三种形式：to do, doing 和 done, 而 doing 这种动词形式有两种称呼：一种是动名词，一种是现在分词；两者单独都不可作谓语；而过去分词按照我们上次的分析，是不可以作谓语的。因此，非谓语动词有三种形式，四种称呼：即不定式，动名词，现在分词和过去分词。
+
+- 非谓语动词的否定
+
+  - 直接在非谓语动词的前面加 not，这不同于谓语动词的否定。
+  - He decided `not to get involved` in the case
+  - I regret `not being able to attend` the party
+  - `Not having received` the letter, he decided to inquire about it at the post office.
+
+- 动词不定式
+- 动词不定式的复合结构
+
+  - 动词不定式的复合形式是“for (of) sb to do sth”，由 for 或 of 引出动词不定式逻辑主语，常用在 It is + adj. + for (of) sb to do sth 这样的句型中。
+  - 当表语形容词表示人物特征（常用 of）
+    - bold, wise, rude, nice 等
+    - It is `unwise` **of** them to turn down the proposal.
+  - 当表语形容词表示事物特征（常用 for）
+    - It is very `dangerous` **for** children to swim in the reservoir.
+  - 动词不定式的时态
+
+    - I `hope` `to see` you again.
+    - Susan `seems` `to be speaking` English in the classroom.
+    - I `am sorry` `to have given` you so much trouble
+    - He is known `to have been talking` for an hour.
+
+  - 动词不定式的语态
+
+    - 主动语态、被动语态
+    - The guard ordered him to drive the car away.
+    - The guard ordered the car to be driven away.
+
+  - **动词不定式在句子中的成分**
+
+    - 主语：表示句子所要说明或描述的人或事物，一般由名词、代词或相当于名词的词组或句子充当。
+    - 宾语：指动作所涉及的人或事物，一般由名词、代词或相当于名词的词组或句子充当。
+    - 表语：表示主语的身份、性质、状态和特征，一般由名词、形容词、或相当于名词、形容词的词、短语或句子充当，位于连系动词之后，与连系动词一起构成句子的谓语。
+    - 补语：用来对宾语进行补充和说明，一般由名词、非谓语动词、形容词等充当。
+    - 定语：对名词或代词进行修饰、限制或说明，一般由形容词、名词、代词、数词、介词短语、非谓语动词及句子等充当，位置可在所修饰的词之前，也可在所修饰的词之后。
+    - 状语：用于修饰动词、形容词、副词、短语或整个句子等，一般由副词、介词短语、非谓语动词短语或句子充当。
+    - [句子成分基础知识](http://www.yygrammar.com/Article/200805/295.html)
+
+  - [动词不定式的用法](https://www.sohu.com/a/215741191_507476)
+
 ## 第 10 章 非谓语动词（二）：分词
 
 ## 第 11 章 非谓语动词（三）：动名词
