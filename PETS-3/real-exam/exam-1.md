@@ -6,26 +6,54 @@
 
 ### Text 1
 
-- The extraordinary rise of living alone is the biggest social change that we've neglected to identify, let along examine.  
-  独居的非凡兴起是我们忽视的最大的社会变革，更不用说审视了。
+- The extraordinary rise of living alone is the biggest social change that we've neglected to identify, let along examine.
 
-- Consider that in 1950, a mere 4 million Americans lived alone, making up only 9% of households. Back then, living alone was most common in the Westrn states that attracted seasonal workingmen, ant it was usually a short-lived stage on the road to a more conventional domestic life.  
-  想想看，1950 年，只有 400 万美国人独居，仅占家庭总数的 9%。 当时，在吸引季节性工人的西方国家，独居现象最为普遍，但这通常是通往更传统家庭生活的短暂阶段。
+- Consider that in 1950, a mere 4 million Americans lived alone, making up only 9% of households. Back then, living alone was most common in the Westrn states that attracted seasonal workingmen, ant it was usually a short-lived stage on the road to a more conventional domestic life.
 
-- Not anymore. According to the latest data, nearly 33 million Americans live alone, making up 28% of households, which means they are now tied with clildless couples as the most important type, more common than the nuclear family, the multigenerational family and the roommate or group home. These aren't just temporary living situtions: over a five-year period, people who live alone are more likely to remain in their current state than anyone else except married couples with children. They're concentrated in big cities throughout the country.  
-  不再。 最新数据显示，近 3300 万美国人独居，占家庭总数的 28%，这意味着他们现在以无子女夫妇为最重要的类型，比核心家庭、多代家庭和室友或团体更常见 家。 这些不仅仅是临时的居住状况：在五年的时间里，除了有孩子的已婚夫妇之外，独居的人比其他人更有可能保持目前的状态。 他们集中在全国各地的大城市。
+- Not anymore. According to the latest data, nearly 33 million Americans live alone, making up 28% of households, which means they are now tied with clildless couples as the most important type, more common than the nuclear family, the multigenerational family and the roommate or group home. These aren't just temporary living situtions: over a five-year period, people who live alone are more likely to remain in their current state than anyone else except married couples with children. They're concentrated in big cities throughout the country.
 
-- Living alone, being along and feeling lonely are hardly the same, yet in recent years experts have mixed them up, raising fears that the rise of living alone signals the ultimate atomization of the modern world. In fact, there's little evidence that the rise of living alone is making more Americans lonely. According to the latest studies, what matters is not whether we live alone but whether we feel alone. Divorced people often say there's nothing lonelier than living with the wrong person. Besides, people living alone compensate by becoming more socially active than those who live with others.  
-  独居、相处和感到孤独几乎是不同的，但近年来专家们把它们混为一谈，引发了人们的担忧，认为独居的兴起标志着现代世界的最终原子化。 事实上，几乎没有证据表明独居现象的兴起正在让更多的美国人感到孤独。 最新研究表明，重要的不是我们是否独自生活，而是我们是否感到孤独。 离婚的人常说，没有什么比和错误的人住在一起更孤独的了。 此外，独居者会比与他人同住的人更积极参与社交活动，以此作为补偿。
+- Living alone, being along and feeling lonely are hardly the same, yet in recent years experts have mixed them up, raising fears that the rise of living alone signals the ultimate atomization of the modern world. In fact, there's little evidence that the rise of living alone is making more Americans lonely. According to the latest studies, what matters is not whether we live alone but whether we feel alone. Divorced people often say there's nothing lonelier than living with the wrong person. Besides, people living alone compensate by becoming more socially active than those who live with others.
 
-- The truth is, today nearly everyone who lives alone chooses to do so, desplite less expensive options from finding roommates to living with family.  
-  事实是，如今几乎每个独居者都选择这样做，尽管从寻找室友到与家人住在一起等更便宜的选择。
+- The truth is, today nearly everyone who lives alone chooses to do so, desplite less expensive options from finding roommates to living with family.
 
-- After all, living alone allows us to do what we want, when we want, on our own terms. It liberates us from the restrictions of domestic partner's needs and demands. Today, in our age of digital media and ever expanding social networks, living alone can offer even greater benefits：the time and space for healing power of aloneness.  
-  毕竟，独居可以让我们在自己想要的时间、按照自己的方式做自己想做的事。 它将我们从国内伴侣的需求和要求的限制中解放出来。 如今，在数字媒体和不断扩展的社交网络时代，独居可以带来更大的好处：治愈孤独的时间和空间。
+- After all, living alone allows us to do what we want, when we want, on our own terms. It liberates us from the restrictions of domestic partner's needs and demands. Today, in our age of digital media and ever expanding social networks, living alone can offer even greater benefits：the time and space for healing power of aloneness.
 
-- This means that living alone can help us discover who we are and what gives us meaning and purpose. It might be exactly what we need to reconnect.  
-  这意味着独居可以帮助我们发现自己是谁，以及什么赋予我们意义和目的。 这可能正是我们需要重新连接的。
+- This means that living alone can help us discover who we are and what gives us meaning and purpose. It might be exactly what we need to reconnect.
+
+26. In 1950 living alone ` `.
+
+- [A] was identified as the biggest socail change
+- [B] was a temporary state for those who did so
+- [C] attracted 9% of American seasonal workers
+- [D] grew into the primary type of domestic life
+
+27. Today Americans who live alone ` `
+
+- [A] expect to live in the Weatern states
+- [B] tend to maintain their way of life
+- [C] have a former marriage with kids
+- [D] are related with childless couples
+
+28. According to the latest studies, people living alone may ` `
+
+- [A] be a burben on society
+- [B] feel lonelier than others
+- [C] come from split families
+- [D] engage in social activities
+
+29. It is indicated that living alone ` `
+
+- [A] makes more demands on society
+- [B] imposes on one more restrictions
+- [C] presents one with more challenges
+- [D] costs more than living with family
+
+30. The writer concludes that living alone enables us to ` `
+
+- [A] get help from others
+- [B] know our true selves
+- [C] set up social networks
+- [D] reconnect with friends
 
 ### Text 2
 
@@ -46,21 +74,99 @@ Directions:
  阅读一篇杂志文章中的文字，其中五个人谈论互联网技术。对于问题 36-40，将每个 perpon 的名称与下面给出的语句之一（A~G）匹配。把你的答案写在答题纸上。
 
 - Lucia Amour:  
-  The internet is a positive influence on modern-day generations, keeping them informed on both local and global news quickly. It is the top source of news for 18- to 24-year-olds. It also helps people to form opinions from news and about others on their own. Lastly, it helps people to stay in touch with global causes that they would not be able to learn about without the use of the internet.  
-  互联网对当代人产生了积极影响，使他们能够迅速了解当地和全球新闻。它是 18 至 24 岁青少年的首要新闻来源。它还帮助人们从新闻中形成自己对他人的看法。最后，它帮助人们与全球事业保持联系，如果没有互联网，他们将无法了解这些事业。
+  The internet is a positive influence on modern-day generations, keeping them informed on both local and global news quickly. It is the top source of news for 18- to 24-year-olds. It also helps people to form opinions from news and about others on their own. Lastly, it helps people to stay in touch with global causes that they would not be able to learn about without the use of the internet.
 
 - David Alex:  
-  The internet both helps and hurts us, allowing us access to things previously thought to be impossible, not all good, but not all bad. You can make new friends, research any topic with only a few clciks, buy almost anything and communicate with others across long distances without any effort. It can also lead to bad things like cybercrime, being unsocial, and can make people belive things that aren't true.  
-  互联网既帮助我们，也伤害我们，让我们能够接触到以前认为不可能的事情，不全是好的，也不全是坏的。你可以交到新朋友，只需几句话就可以研究任何话题，几乎可以买任何东西，也可以毫不费力地远距离与他人交流。它还可能导致网络犯罪、不合群等坏事，并使人们相信不真实的事情。
+  The internet both helps and hurts us, allowing us access to things previously thought to be impossible, not all good, but not all bad. You can make new friends, research any topic with only a few clciks, buy almost anything and communicate with others across long distances without any effort. It can also lead to bad things like cybercrime, being unsocial, and can make people belive things that aren't true.
 
 - Nelda Penn:  
-  Internet technology has had an influence on mankind, whether it is good or bad. What we should realize is that there will always be people that feel the need to hurt others. We can't change this. However, we can learn from their actions and learn how to avoid the people who want to hurt us. We can't change the actions of those around us, but we can decide our actions.  
-  互联网技术对人类产生了影响，无论是好是坏。我们应该意识到，总会有人觉得有必要伤害他人。我们无法改变这一点。然而，我们可以从他们的行为中学习，学会如何避开那些想伤害我们的人。我们无法改变周围人的行为，但我们可以决定自己的行为。
+  Internet technology has had an influence on mankind, whether it is good or bad. What we should realize is that there will always be people that feel the need to hurt others. We can't change this. However, we can learn from their actions and learn how to avoid the people who want to hurt us. We can't change the actions of those around us, but we can decide our actions.
 
 - Grace Hand:  
-  Internet technology is an amazing thing that humans are relying on too much. People are becoming so dependent that the internet is huring them in many ways. For one thing, many people don't turn to people for help but go on the internet. For another, the internet is making mankind really lazy. You can do almost everything on it except build relationships.  
-  互联网技术是一个令人惊奇的东西，人类太依赖它了。人们变得如此依赖，以至于互联网在很多方面都在困扰着他们。首先，许多人不会向人们寻求帮助，而是上网。另一方面，互联网让人类变得懒惰。除了建立关系，你几乎可以在上面做任何事情。
+  Internet technology is an amazing thing that humans are relying on too much. People are becoming so dependent that the internet is huring them in many ways. For one thing, many people don't turn to people for help but go on the internet. For another, the internet is making mankind really lazy. You can do almost everything on it except build relationships.
 
 - Louis Perry:  
-  The internet has created a world without facts for our youth. Out of touch with real life, our children are open to connecting with strangers based on mutual interests. They are willing to trust strangers based on their online profiles, unaware that many people have a faked image on the internet that glorifies the things that they are doing in life when in fact they are not doing anything significant.  
-  互联网为我们的年轻人创造了一个没有事实的世界。与现实生活脱节，我们的孩子愿意基于共同的兴趣与陌生人建立联系。他们愿意根据自己的网上个人资料信任陌生人，而不知道许多人在互联网上有一个虚假的形象，美化他们在生活中所做的事情，而事实上他们没有做任何重要的事情。
+  The internet has created a world without facts for our youth. Out of touch with real life, our children are open to connecting with strangers based on mutual interests. They are willing to trust strangers based on their online profiles, unaware that many people have a faked image on the internet that glorifies the things that they are doing in life when in fact they are not doing anything significant.
+
+## Part C
+
+Directions:  
+ Read the following text from which five sentences have been removed. Choose from the sentences A-G the most suitable one to fill each numbered gap in the text (41-45). There are TWO extra sentences that you do do not need to use. Mark your answers on your ANSWER SHEET.
+
+- While more research is needed to strengthen the understanding of the link between gratitude and health, here's a roundup of some compelling reasons why you will want to be thankful.
+
+- **You'll have a healthier heart**: In a study of 186 people with heart damage, researchers rated their levels of gratitude and spiritual well-being.**41** They also found that having high levels of gratitude explained lots of the benefits of spiritual well-being.
+
+- **You might get more shut-eye**:**42** A study of college students who were troubled by racing minds and worries found that those who were asked to spend 15 minutes in the early evening writing about a positive event that occurred recently could "quiet their minds and sleep better."
+
+- It makes you more optimistic:**43**In a 2003 study, researchers had some people write about what they were grateful for, and some write about quarrels. After a few weeks, the researchers found that the people whow wrote about positive things were more optimistic and felt better about themselves than the group that wrote about negative things.
+
+- Gratitude helps you make new friends: Expressing gratitude is a great way to build new relationships. In a 2014 study, researchers asked 70 college students to sent comments on a college admissions essay by a high schooler. **44** Those who were thanked were more likely to provide the younger student with their prosonal infomation, like an email address.
+
+- Being thankful improves physical health: An analysis of nearly 1,000 adults found that higher levels of gratitude were associated with better self-reported physical health.**45** Other research has suggested that people who are grateful are more likely to do physical activity.
+
+- [A] Beging thankful can contribute to a healthier and more positive outlook.
+- [B] Adults who maintain a conscious focus on gratitude have a warmer personality.
+- [C] The students then received a note from him that either expressed gratitude or did not.
+- [D] The people who felt more thankful had a notable willingness to take part in healthy behavirs.
+- [E] They found that higher gratitude scores were linked to having a better mood and higher quality sleep.
+- [F] If you're having difficulty sleeping, writing down what you are thankful for before bed can help.
+- [G] Some patients wrote down things they were grateful for over an eight-week period.
+
+## Part D
+
+Directions:  
+ Read the following text from which 10 words have been removed. Choose from the words A~O the most suitable one to fill each numbered gap in the text (46~55). There are FIVE extra words that you do not need to use. Mark your answers on your ANSWER SHEET.
+
+- The desire to learn a new language is often born of a desire to find a deeper experience abroad.
+
+- When traveling to a country with a language that's not native to your tongue, translation apps are **46**, but only to a certain extent. They enale you to work out a menu, but not **47** to spark up a conversation with your server, Fluency in the local language makes for far more discovery potential.
+
+- Learning to speak a second language can be challenging, for sure, but that's because you're training your brain to do something much more**48** than memorizing new words and their proper pronunciations. You're expanding your thought **49**, in more ways than one.
+
+- Bilingualism provides benefits **50** the ability to ask for directions or to order a coffee without accidentally receiving a large dessert plate. The brains of biligual people operate **51** than those of monolingual folks. Regular use of a second language sharpens cognitive skills, and it's even been found to make you appear more attractive.
+
+- To **52** these new language skills, there are tons of options: signing up for a class, downloading an app like duolingo, or trying a more intensive software, like Rosetta stone--which is offering a deal to save 40 percent on its Complete Set **53** February 17. With any of these services, **54**is key.
+
+- Consistently practicing--even if you dedicate just 15 minutes a day--is enough to reap the cognitive rewards that **55** second language learning.
+
+- [A] obtain [B] across [C] helpful
+- [D] beyond [E] complex [F] train
+- [G] commitment [H] differently [I] accompany
+- [J] traditional [K] necessarily [L] capability
+- [M] intelligence [N] respectfully [O] until
+
+# SECTION III Wriring
+
+(45 minutes)
+
+Directions:  
+ You should write your responses to both Part A and Part B of this section on your ANSWER SHEET.
+
+## Part A
+
+56. You have read a job posting online and want to apply for the job, Write an email to the company, tell them about:
+    - 1. your interest in the job;
+    - 2. your qualifications for the position;
+    - 3. your past work experiences.
+    - You should write about 100 words. Do not sign your own name at the end of your email. Use "Wang Lin" instead.
+
+## Part B
+
+57. Directions:
+    Read the text below. Write an essay in about 120 words, in which you should summarize the key points of the text and make comments on them. Try to use you own words.
+
+- A couple that has been married for 38 years--and overcame difficult circumstances--graduated from college together this month.
+
+- On Dec. 3, their son, Charles Cole III, 33, posted a picture on the internet of his parents in their caps and gowns, which has gotten a ton of attention online.
+
+- Cole's parents, Charles Cole Jr. and Renate, battled major financial problems when he was young, which made for a rough childhood. "I grew up pretty early," he said. "I just knew I didn't want to go through what I saw them go through."
+
+- Cole graduated from California State University with a degree in political science and is now working towards a PhD in education. He has also worked as a social worker, developing a passion for work involving black youth and education.
+
+- Cole's parents were inspired by him to finish college. "Our son is ambitious," recalled Charles Cole Jr. "Seeing his drive to just do it kind of pushed us."
+
+- Cole is proud that his parents' journey was inspire by his own. "It crystalizes my work." he said. "How i grew up is part of the reason why i work really hard to fight for education for black and brown kids across this county because i know what the results are if you don't have it."
+
+- For Cole, his parents have proven to him that you can always get back what you think you have lost, "Just because you started slow doesn'
+  t mean you can't finish up strong," he said.
