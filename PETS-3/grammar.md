@@ -79,10 +79,18 @@
 ## 第 4 章 形容词和副词
 
 - 形容词
+
+  - 主要用来描写或修饰名词或代词，表示人或事物的性质、 状态、特征或属性，常用作定语，也可作表语或补语。
+  - 定语: 对名词或代词进行修饰、限制或说明
+  - 表语: 主语补语
+  - 补语: 通常指宾语补足语
+
 - 副词
+
   - [副词的分类](http://www.yygrammar.com/Article/200805/340.html)
   - [英语副词的句法功能](http://www.yygrammar.com/Article/200802/145.html)
   - [副词在句中的位置特点](http://www.yygrammar.com/Article/200805/318.html)
+
 - 形容词和副词的特殊比较结构
 
   - not so much A as B, as much as
@@ -274,6 +282,8 @@
     - [句子成分基础知识](http://www.yygrammar.com/Article/200805/295.html)
 
   - [动词不定式的用法](https://www.sohu.com/a/215741191_507476)
+  - [一张图，一个故事，搞明白非谓语动词](https://zhuanlan.zhihu.com/p/35074651)
+  - [什么是非谓语动词？](https://zhuanlan.zhihu.com/p/137800743)
 
 ## 第 10 章 非谓语动词（二）：分词
 

@@ -141,13 +141,43 @@
       - CREATE TABLE tal_name
       - create table test (id INT NOT NULL AUTO_INCREMENT, name CHAR(50) NOT NULL, PRIMARY KEY(id));
       - create table test2 (id int not null AUTO_INCREMENT, primary key(id));
+      - CREATE TABLE table_name (column_name column_type);
+      - CREATE TABLE IF NOT EXISTS `runoob_tbl`(
+            `runoob_id` INT UNSIGNED AUTO_INCREMENT,
+            `runoob_title` VARCHAR(100) NOT NULL,
+            `runoob_author` VARCHAR(40) NOT NULL,
+            `submission_date` DATE,
+            PRIMARY KEY ( `runoob_id` )
+         )ENGINE=InnoDB DEFAULT CHARSET=utf8;
+      - create table customers(
+         cust_id int not null auto_increment,
+         cust_name char(100) not null,
+         cust_sex char(1) not null default 0,
+         cust_address char(100) null,
+         cust_contact char(100) null,
+         primary key(cust_id) 
+      ) charset=utf8;
+
    - 2）更新表 
       - 使用 ALTER TABLE 语句来更改原有表的结构
       - ADD [COLUMN]子句。增加列。
+         - alter table customers ADD column cust_city char(10) not null default "ShenZhen" AFTER cust_sex;
+
       - CHANGE [COLUMN]  修改列的名称或数据类型
+         - alter table customers CHANGE column cust_sex sex char(1) NULL DEFAULT "M";
+
       - ALTER [COLUMN]   修改或删除表中指定列的默认值
+         - alter table customers ALTER column cust_city SET DEFAULT "Beijing";
+
       - MODIFY [COLUMN]  
+         - alter table customers MODIFY column cust_name char(20) FIRST; 
+
       - DROP [COLUMN]   删除列
+         - alter table customers DROP column cust_contact;
+      
+      - RENAME [TO] 重命名表
+         - alter table customers RENAME TO customer;
+
    - 3）重命名表
       - 除了使用前面的 ALTER TABLE 语句，还可以直接用 RENAME TABLE 语句来更改，并可同时重命名多个表。
       - rename table test to test_1
@@ -173,12 +203,80 @@
    - 数据更新操作有三种：向表中`添加若干行数据`、`修改`表中的数据和`删除`表中的若干行数据。在 SQL 中有三类相应的语句，分别是插入数据（INSERT）、修改数据（UPDATE）和删除数据（DELETE）。
 
 2. 插入数据
+   - 1.使用INSERT...VALUES语句插入单行或多行元组数据
+      - INSERT INTO runoob_tbl (runoob_title, runoob_author, submission_date) VALUES ("学习 PHP", "菜鸟教程", NOW());
+      - INSERT INTO runoob_tbl (runoob_title, runoob_author, submission_date) VALUES ("学习 PHP", "菜鸟教程", '2016-05-06');
+      - INSERT INTO customers VALUES (901, "张三", "F", "深圳市", "南山区");
+      - INSERT INTO customers VALUES (0, "李四", default, "北京市", null);
+
+   - 2.使用INSERT...SET语句插入部分列值数据
+   - 3.使用INSERT...SELECT语句插入子查询数据
+
+3. 删除数据
+   - DELETE FROM table_name [WHERE Clause]
+
+4. 修改数据
+   - UPDATE table_name SET field1=new-value1, field2=new-value2 [WHERE Clause]
+
 ## 4.5 数据查询
 
+- 数据查询是SQL语言的核心功能，也是数据库中使用最多的操作，其用途是从数据库的一张或多张表（或视图）中检索出满足条件的数据信息。
+- SQL提供SELECT语句进行数据查询，该功能强大、使用灵活，其数学理论基础是关系数据模型中对表对象的一组关系运算，即选择、投影和连接。
+
+1. SELECT语句
+   - SELECT column_name,column_name FROM table_name  [WHERE Clause] [LIMIT N][ OFFSET M]
+   - 读取数据表 select * from table_name;
+
+2. 列的选择与指定
+   - 选择指定列
+      - select runoob_title, runoob_id from table_name
+
+   - 定义并使用列的别名
+      - column_name [AS] column_alias
+      - select runoob_title AS 标题 from runoob
+
+   - 替换查询结果集中的数据
+      - select cust_name, CASE WHEN cust_sex='M' THEN '男' ELSE '女' END AS 性别 from customers;
+
+   - 计算列值
+      - select cust_name, cust_sex, cust_id+100 FROM customers;
+
+   - 聚合函数
+
+3. FROM子句与多表连接查询
+   - 交叉连接
+      - select * from customers CORSS JOIN runoob;
+   - 内连接
+   - 外连接
+
+4. WHERE子句与条件查询
+   - 比较运算
+   - 判定范围
+   - 判定空值
+   - 子查询
+
+5. GROUP BY子句与分组数据
+6. HAVING子句
+7. ORDER BY子句
+8. LIMIT子句
+
 ## 4.6 视图
-
+1. 视图的概念
+2. 创建视图
+3. 删除视图
+4. 修改视图定义
+5. 查看视图定义
+6. 更新视图数据
+7. 查询视图数据
 ## 思考与练习
-
+- 选择题
+   - 1.可用于从表或视图中检索数据的SQL语句是``.
+   - 2.SQL又称为``.
+   - 3.在MySQL中，通常用来指定一个已有数据库作为当前工作数据库的语句是``.
+- 填空题
+- 简答题
+- 操作题
+   - ![image](./assets/img-4.png)
 ## MySQL 的安装与配置
 
 - [MySQL 官网](https://www.mysql.com/)
