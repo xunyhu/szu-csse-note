@@ -67,11 +67,45 @@
 
 - The European Union prohibits the backscatters. Some scientists belive that even very low level X-ray exposure could increase the risk of cancer. "I would agree that the individual risk associated with X-ray scanners is likely to be extremely small," says David Brenner, head of Columbia University's Center for Radiological Research. "The issue of concern is when the X-ray scanners are used in a very high volume setting (just under a billion security screend occur each year in US airports). A very tiny risk multiplied by a billion has the potential to represent a pubilc health issue."
 
+31. Air passengers were afraid that backscatter imaging would ` `.
+
+- [A] delay their boarding
+- [B] invade their privacy
+- [C] do harm to their health
+- [D] cause a public uproar
+
+32. The millimeter wave screener is now applied as it ``.
+
+- [A] reduces the health risk of scanning
+- [B] shows the details of a person's body
+- [C] uses a lower frequency than Wi-Fi devices
+- [D] exposes people to a fixed amount of X-rays
+
+33. The FDA believes that the health risk of backscatter scanning ``.
+
+- [A] will be lowered
+- [B] can be tolerated
+- [C] must be measured
+- [D] should be avoided
+
+34. David Brenner's remarks support the idea that ``.
+
+- [A] low level X-ray exposure may become a health concern
+- [B] exposure to X-rays is a common phenomenon in our life
+- [C] tiny risks may develop into big threats to traffic safely
+- [D] the European Union's ban of backscatters is an overreaction
+
+35. What is the passage mainly about?
+
+- [A] The improvenment of airport security
+- [B] The significance of full body imaging.
+- [C] Uses of the millimeter wave screener.
+- [D] Health concerns about X-ray scanning.
+
 ## Part B
 
 Directions:  
- Read the texts from a magazine article in which five people talk about internet techonlogy. For questions 36-40, match the name of each perpon to one of statements(A~G) given below. Mark your answers on your ANSWER SHEET.  
- 阅读一篇杂志文章中的文字，其中五个人谈论互联网技术。对于问题 36-40，将每个 perpon 的名称与下面给出的语句之一（A~G）匹配。把你的答案写在答题纸上。
+ Read the texts from a magazine article in which five people talk about internet techonlogy. For questions 36-40, match the name of each perpon to one of statements(A~G) given below. Mark your answers on your ANSWER SHEET.
 
 - Lucia Amour:  
   The internet is a positive influence on modern-day generations, keeping them informed on both local and global news quickly. It is the top source of news for 18- to 24-year-olds. It also helps people to form opinions from news and about others on their own. Lastly, it helps people to stay in touch with global causes that they would not be able to learn about without the use of the internet.
@@ -87,6 +121,20 @@ Directions:
 
 - Louis Perry:  
   The internet has created a world without facts for our youth. Out of touch with real life, our children are open to connecting with strangers based on mutual interests. They are willing to trust strangers based on their online profiles, unaware that many people have a faked image on the internet that glorifies the things that they are doing in life when in fact they are not doing anything significant.
+
+36. Lucia Amour
+37. David Alex
+38. Nelda Penn
+39. Grace Hand
+40. Louis Perry
+
+- [A] Self-protection is important in the age of the internet.
+- [B] With internet technology, people feel safer.
+- [C] Internet technology has broadened people's horizons.
+- [D] The internet can lead to addiction and idleness.
+- [E] Socializing on the internet is not safe.
+- [F] The internet is really a mixed blessing.
+- [G] Internet technology has given our youth a fake image.
 
 ## Part C
 
