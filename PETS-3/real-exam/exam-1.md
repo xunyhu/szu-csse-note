@@ -8,9 +8,12 @@
 
 - The extraordinary rise of living alone is the biggest social change that we've neglected to identify, let along examine.
 
-- Consider that in 1950, a mere 4 million Americans lived alone, making up only 9% of households. Back then, living alone was most common in the Westrn states that attracted seasonal workingmen, ant it was usually a short-lived stage on the road to a more conventional domestic life.
+- Consider that in 1950, a mere 4 million Americans lived alone, making up only 9% of households. Back then, living alone was most common in the Western states that attracted seasonal workingmen, ant it was usually a short-lived stage on the road to a more conventional domestic life.
 
-- Not anymore. According to the latest data, nearly 33 million Americans live alone, making up 28% of households, which means they are now tied with clildless couples as the most important type, more common than the nuclear family, the multigenerational family and the roommate or group home. These aren't just temporary living situtions: over a five-year period, people who live alone are more likely to remain in their current state than anyone else except married couples with children. They're concentrated in big cities throughout the country.
+- Not anymore. According to the latest data, nearly 33 million Americans live alone, making up 28% of households, which means they are now tied with clildless couples as the most important type, more common than the nuclear family, the multi generational family and the roommate or group home. These aren't just temporary living situtions: over a five-year period, people who live alone are more likely to remain in their current state than anyone else except married couples with children. They're concentrated in big cities throughout the country.
+
+making up 28% of households 占家庭的 28%
+tied with 并列
 
 - Living alone, being along and feeling lonely are hardly the same, yet in recent years experts have mixed them up, raising fears that the rise of living alone signals the ultimate atomization of the modern world. In fact, there's little evidence that the rise of living alone is making more Americans lonely. According to the latest studies, what matters is not whether we live alone but whether we feel alone. Divorced people often say there's nothing lonelier than living with the wrong person. Besides, people living alone compensate by becoming more socially active than those who live with others.
 

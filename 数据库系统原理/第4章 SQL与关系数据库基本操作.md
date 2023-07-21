@@ -127,66 +127,75 @@
    - 3）修改数据库
      - 使用 ALTER DATABASE 或 ALTER SCHEMA 语句来修改已被创建数据库的相关参数
    - 4）删除数据库
-      - 使用 DROP DATABASE 或 DROP SCHEME 语句来删除已经创建的数据库。使用 IF EXISTS 可以避免删除不存在的数据库时出现的 MySQL 错误信息。
+     - 使用 DROP DATABASE 或 DROP SCHEME 语句来删除已经创建的数据库。使用 IF EXISTS 可以避免删除不存在的数据库时出现的 MySQL 错误信息。
    - 5）查看数据库
-      - 使用 SHOW DATABASES 或 SHOW SCHEMAS 语句来查看可用数据库列表
+     - 使用 SHOW DATABASES 或 SHOW SCHEMAS 语句来查看可用数据库列表
 
 3. 表定义
 
    - 只有在成功创建数据库之后，才能在数据库中创建数据表。数据表是关系数据库中最重要、最基本的数据对象，也是数据存储的基本单位。若没有表，数据库中其他的数据对象则没有意义。
    - 数据表被定义为字段的集合，数据在表中是按照行和列的格式来存储的，每一行代表一条记录，每一列代表记录中一个字段的取值。
+
      - 创建数据表的过程，实质上就是定义每个字段的过程，同时也是实施数据完整性约束的过程。
      - 其中，确定表中每个字段的数据类型是创建表的重要步骤，而字段的数据类型则是定义该字段所能存储的值的类型。
+
    - 1）创建表
-      - CREATE TABLE tal_name
-      - create table test (id INT NOT NULL AUTO_INCREMENT, name CHAR(50) NOT NULL, PRIMARY KEY(id));
-      - create table test2 (id int not null AUTO_INCREMENT, primary key(id));
-      - CREATE TABLE table_name (column_name column_type);
-      - CREATE TABLE IF NOT EXISTS `runoob_tbl`(
-            `runoob_id` INT UNSIGNED AUTO_INCREMENT,
-            `runoob_title` VARCHAR(100) NOT NULL,
-            `runoob_author` VARCHAR(40) NOT NULL,
-            `submission_date` DATE,
-            PRIMARY KEY ( `runoob_id` )
-         )ENGINE=InnoDB DEFAULT CHARSET=utf8;
-      - create table customers(
-         cust_id int not null auto_increment,
-         cust_name char(100) not null,
-         cust_sex char(1) not null default 0,
-         cust_address char(100) null,
-         cust_contact char(100) null,
-         primary key(cust_id) 
-      ) charset=utf8;
 
-   - 2）更新表 
-      - 使用 ALTER TABLE 语句来更改原有表的结构
-      - ADD [COLUMN]子句。增加列。
-         - alter table customers ADD column cust_city char(10) not null default "ShenZhen" AFTER cust_sex;
+     - CREATE TABLE tal_name
+     - create table test (id INT NOT NULL AUTO_INCREMENT, name CHAR(50) NOT NULL, PRIMARY KEY(id));
+     - create table test2 (id int not null AUTO_INCREMENT, primary key(id));
+     - CREATE TABLE table_name (column_name column_type);
+     - CREATE TABLE IF NOT EXISTS `runoob_tbl`(
+       `runoob_id` INT UNSIGNED AUTO_INCREMENT,
+       `runoob_title` VARCHAR(100) NOT NULL,
+       `runoob_author` VARCHAR(40) NOT NULL,
+       `submission_date` DATE,
+       PRIMARY KEY ( `runoob_id` )
+       )ENGINE=InnoDB DEFAULT CHARSET=utf8;
+     - create table customers(
+       cust_id int not null auto_increment,
+       cust_name char(100) not null,
+       cust_sex char(1) not null default 0,
+       cust_address char(100) null,
+       cust_contact char(100) null,
+       primary key(cust_id)
+       ) charset=utf8;
 
-      - CHANGE [COLUMN]  修改列的名称或数据类型
-         - alter table customers CHANGE column cust_sex sex char(1) NULL DEFAULT "M";
+   - 2）更新表
 
-      - ALTER [COLUMN]   修改或删除表中指定列的默认值
-         - alter table customers ALTER column cust_city SET DEFAULT "Beijing";
+     - 使用 ALTER TABLE 语句来更改原有表的结构
+     - ADD [COLUMN]子句。增加列。
 
-      - MODIFY [COLUMN]  
-         - alter table customers MODIFY column cust_name char(20) FIRST; 
+       - alter table customers ADD column cust_city char(10) not null default "ShenZhen" AFTER cust_sex;
 
-      - DROP [COLUMN]   删除列
-         - alter table customers DROP column cust_contact;
-      
-      - RENAME [TO] 重命名表
-         - alter table customers RENAME TO customer;
+     - CHANGE [COLUMN] 修改列的名称或数据类型
+
+       - alter table customers CHANGE column cust_sex sex char(1) NULL DEFAULT "M";
+
+     - ALTER [COLUMN] 修改或删除表中指定列的默认值
+
+       - alter table customers ALTER column cust_city SET DEFAULT "Beijing";
+
+     - MODIFY [COLUMN]
+
+       - alter table customers MODIFY column cust_name char(20) FIRST;
+
+     - DROP [COLUMN] 删除列
+
+       - alter table customers DROP column cust_contact;
+
+     - RENAME [TO] 重命名表
+       - alter table customers RENAME TO customer;
 
    - 3）重命名表
-      - 除了使用前面的 ALTER TABLE 语句，还可以直接用 RENAME TABLE 语句来更改，并可同时重命名多个表。
-      - rename table test to test_1
+     - 除了使用前面的 ALTER TABLE 语句，还可以直接用 RENAME TABLE 语句来更改，并可同时重命名多个表。
+     - rename table test to test_1
    - 4）删除表
-      - 使用 DROP TABLE 语句来删除表。
-      - drop table test2
+     - 使用 DROP TABLE 语句来删除表。
+     - drop table test2
    - 5）查看表。分为显示表的名称和显示表的结构两种。
-      - 查看表的名称：SHOW TABLES;
-      - 查看表的结构： SHOW COLUMNS FROM (mysql_test.customers | customers) 或者  DESCRIBE mysql_test.customers 或者  DESC mysql_test.customers
+     - 查看表的名称：SHOW TABLES;
+     - 查看表的结构： SHOW COLUMNS FROM (mysql_test.customers | customers) 或者 DESCRIBE mysql_test.customers 或者 DESC mysql_test.customers
 
 4. 索引定义
    - 索引是 DBMS 根据表中的一列或若干列按照一定顺序建立的列值与记录之间的对应关系表。
@@ -200,19 +209,23 @@
 ## 4.4 数据更新
 
 1. 数据更新
+
    - 数据更新操作有三种：向表中`添加若干行数据`、`修改`表中的数据和`删除`表中的若干行数据。在 SQL 中有三类相应的语句，分别是插入数据（INSERT）、修改数据（UPDATE）和删除数据（DELETE）。
 
 2. 插入数据
-   - 1.使用INSERT...VALUES语句插入单行或多行元组数据
-      - INSERT INTO runoob_tbl (runoob_title, runoob_author, submission_date) VALUES ("学习 PHP", "菜鸟教程", NOW());
-      - INSERT INTO runoob_tbl (runoob_title, runoob_author, submission_date) VALUES ("学习 PHP", "菜鸟教程", '2016-05-06');
-      - INSERT INTO customers VALUES (901, "张三", "F", "深圳市", "南山区");
-      - INSERT INTO customers VALUES (0, "李四", default, "北京市", null);
 
-   - 2.使用INSERT...SET语句插入部分列值数据
-   - 3.使用INSERT...SELECT语句插入子查询数据
+   - 1.使用 INSERT...VALUES 语句插入单行或多行元组数据
+
+     - INSERT INTO runoob_tbl (runoob_title, runoob_author, submission_date) VALUES ("学习 PHP", "菜鸟教程", NOW());
+     - INSERT INTO runoob_tbl (runoob_title, runoob_author, submission_date) VALUES ("学习 PHP", "菜鸟教程", '2016-05-06');
+     - INSERT INTO customers VALUES (901, "张三", "F", "深圳市", "南山区");
+     - INSERT INTO customers VALUES (0, "李四", default, "北京市", null);
+
+   - 2.使用 INSERT...SET 语句插入部分列值数据
+   - 3.使用 INSERT...SELECT 语句插入子查询数据
 
 3. 删除数据
+
    - DELETE FROM table_name [WHERE Clause]
 
 4. 修改数据
@@ -220,88 +233,160 @@
 
 ## 4.5 数据查询
 
-- 数据查询是SQL语言的核心功能，也是数据库中使用最多的操作，其用途是从数据库的一张或多张表（或视图）中检索出满足条件的数据信息。
-- SQL提供SELECT语句进行数据查询，该功能强大、使用灵活，其数学理论基础是关系数据模型中对表对象的一组关系运算，即选择、投影和连接。
+- 数据查询是 SQL 语言的核心功能，也是数据库中使用最多的操作，其用途是从数据库的一张或多张表（或视图）中检索出满足条件的数据信息。
+- SQL 提供 SELECT 语句进行数据查询，该功能强大、使用灵活，其数学理论基础是关系数据模型中对表对象的一组关系运算，即选择、投影和连接。
 
-1. SELECT语句
-   - SELECT column_name,column_name FROM table_name  [WHERE Clause] [LIMIT N][ OFFSET M]
-   - 读取数据表 select * from table_name;
+1. SELECT 语句
+
+   - SELECT column_name,column_name FROM table_name [WHERE Clause] [LIMIT N][ OFFSET M]
+   - 读取数据表 select \* from table_name;
 
 2. 列的选择与指定
+
    - 选择指定列
-      - select runoob_title, runoob_id from table_name
+
+     - select runoob_title, runoob_id from table_name
 
    - 定义并使用列的别名
-      - column_name [AS] column_alias
-      - select runoob_title AS 标题 from runoob
+
+     - column_name [AS] column_alias
+     - select runoob_title AS 标题 from runoob
 
    - 替换查询结果集中的数据
-      - select cust_name, CASE WHEN cust_sex='M' THEN '男' ELSE '女' END AS 性别 from customers;
+
+     - select cust_name, CASE WHEN cust_sex='M' THEN '男' ELSE '女' END AS 性别 from customers;
 
    - 计算列值
-      - select cust_name, cust_sex, cust_id+100 FROM customers;
+
+     - select cust_name, cust_sex, cust_id+100 FROM customers;
 
    - 聚合函数
 
-3. FROM子句与多表连接查询
+3. FROM 子句与多表连接查询
+
    - 交叉连接
-      - select * from customers CORSS JOIN runoob;
+     - select \* from customers CORSS JOIN runoob;
    - 内连接
    - 外连接
 
-4. WHERE子句与条件查询
+4. WHERE 子句与条件查询
+   在 SELECT 语句中，可以使用 WHERE 子句指定过滤条件，从 FROM 子句的中间结果中选取适当的数据行，实现数据的过滤。以下是几个常见的方法。
+
    - 比较运算
    - 判定范围
    - 判定空值
    - 子查询
 
-5. GROUP BY子句与分组数据
-6. HAVING子句
-7. ORDER BY子句
-8. LIMIT子句
+5. GROUP BY 子句与分组数据
+6. HAVING 子句
+7. ORDER BY 子句
+8. LIMIT 子句
 
 ## 4.6 视图
+
 1. 视图的概念
+
    - 视图是数据库中的一个对象，它是数据库管理系统提供给用户的以多种角度观察数据库中数据的一种重要机制。
    - 视图与基本表十分类似，但有以下区别
-      - 视图不是数据库中真实的表，而是一张虚拟表。
-      - 视图的内容是由存储在数据库中进行查询操作的SQL语句来定义的
-      - 视图是用来查看存储在别处的数据的一种虚拟表，而其本身并不存储数据
-      - 视图不是以数据集的形式存储在数据库中，它所对应的数据实际上是存储在视图所引用的真实表（基本表）中。
+     - 视图不是数据库中真实的表，而是一张虚拟表。
+     - 视图的内容是由存储在数据库中进行查询操作的 SQL 语句来定义的
+     - 视图是用来查看存储在别处的数据的一种虚拟表，而其本身并不存储数据
+     - 视图不是以数据集的形式存储在数据库中，它所对应的数据实际上是存储在视图所引用的真实表（基本表）中。
    - 视图的优点
 
 2. 创建视图
-   - [MySQL创建视图](http://c.biancheng.net/view/2584.html)
+
+   - [MySQL 创建视图](http://c.biancheng.net/view/2584.html)
    - 语法：`CREATE VIEW <视图名> AS <SELECT语句>`
-   - create view view_runoob AS select * from runoob;
-   - select * from view_runoob;
+   - create view view_runoob AS select \* from runoob;
+   - select \* from view_runoob;
 
 3. 删除视图
-   -  DROP VIEW <视图名1> [ , <视图名2> …]
+
+   - DROP VIEW <视图名 1> [ , <视图名 2> …]
 
 4. 修改视图定义
-   - ALTER VIEW <视图名> AS <SELECT语句>
+
+   - ALTER VIEW <视图名> AS <SELECT 语句>
 
 5. 查看视图定义
-   - DESCRIBE 视图名; 或者  DESC 视图名;
+
+   - DESCRIBE 视图名; 或者 DESC 视图名;
    - SHOW CREATE VIEW 视图名;
 
 6. 更新视图数据
+
    - INSET 语句
    - UPDATE 语句
    - DELETE 语句
 
 7. 查询视图数据
    - 视图一经定义之后，就可以如同查询数据库中的真实表一样，对视图进行数据查询检索，这也是对视图使用最多的一种操作。
+
 ## 思考与练习
+
 - 选择题
-   - 1.可用于从表或视图中检索数据的SQL语句是``.
-   - 2.SQL又称为``.
-   - 3.在MySQL中，通常用来指定一个已有数据库作为当前工作数据库的语句是``.
+
+1. 可用于从表或视图中检索数据的 SQL 语句是`SELECT语句`.
+2. SQL 又称为`结构化查询语言`.
+3. 在 MySQL 中，通常用来指定一个已有数据库作为当前工作数据库的语句是`USE`.
+
 - 填空题
+
+1. MySQL 数据库所支持的 SQL 主要包含`数据定义语言` 、`数据操纵语言 `、 `数据控制语言`和 MySQL 扩展增加的语言要素几个部分
+   - MySQL 作为一种关系型数据库管理系统，遵循 SQL 标准，提供了对数据定义语言 DDL（如：CREATE、ALTER、DROP）、数据操纵语言 DML（如：SELECT、INSERT、UPDATE、DELETE）、数据控制语言 DCL（如：GRANT、REVOKE）的支持，并且同样支持关系数据库的三级模式结构。
+2. 在 MySQL 中，通常使用值`NULL`来表示一个列值没有值或缺值的情况
+3. 在 CREATE TABLE 语句中，通常使用关键字**primary key**来指定主键
+
 - 简答题
+
+1. 请解释 SQL 是何种类型的语言。
+
+   - SQL 是一种数据库查询和程序设计语言，用于存取数据以及查询、更新、管理关系数据库系统。
+
+2. 请简述什么是子查询。
+
+   - 子查询是指嵌套在其他语句中（SELECT、INSERT）的 SELECT 查询语句。
+
+3. 请简述视图与基本表的区别。
+   - （1）基本表是数据库中真实存在的表，而视图是建立在对数据库中真实表查询基础上的虚拟表。
+     （2）视图的内容是由存储在数据库中进行查询操作的 SQL 语句定义的，它的列数据与行数据均来自于定义视图的查询所引用的基本表。
+     （3）视图不适宜数据集的形式存储在数据库中的，它所对应的数据实际上是存储在视图所引用的基本表中的。
+     （4）视图是用来查看存储在别处的数据的一种虚拟表，本身不存储数据。
+
 - 操作题
-   - ![image](./assets/img-4.png)
+
+  - ![image](./assets/img-4.png)
+  - 1. 创建一个名为 db_test 的数据库
+    - CREATE DATABASE db_test;
+  - 2. 创建一个数据表 content
+
+    - USE db_test;
+    - CREATE TABLE content(
+      content_id INT NOT NULL AUTO_INCREMENT,
+      subject VARCHAR(200),
+      words VARCHAR(1000),
+      username VARCHAR(50),
+      face VARCHAR(50),
+      email VARCHAR(50),
+      createtime DATETIME,
+      PRIMARY KEY(content_id)
+      );
+
+  - 3. 插入数据：id 由系统自动生成；标题为"MySQL 问题请教"；内容为"MySQL 中对表数据的基本操作有哪些？"；姓名为"MySQL 初学者"；face 为"face.jpg"，email 为"tom@gmail.com"，创建时间为系统当前时间。
+
+    - INSERT INTO content VALUES (1, "MySQL 问题请教", "MySQL 中对表数据的基本操作有哪些？", "MySQL 初学者", "face.jpg", "tom@gmail.com", CURRENT_TIMESTAMP());
+    - INSERT INTO content VALUES (NULL, "MySQL 问题请教", "MySQL 中对表数据的基本操作有哪些？", "MySQL 初学者", "face.jpg", "tom@gmail.com", CURRENT_TIMESTAMP());
+
+  - 4. 使用 UPDATA 语句修改留言人姓名为"MySQL 初学者"的留言内容为"如何使用 INSERT 语句？"
+
+    - UPDATE table_name SET field1=new-value1, field2=new-value2 [WHERE Clause]
+    - UPDATE content SET words="如何使用 INSERT 语句？" WHERE username="MySQL 初学者" AND content_id=1;
+
+  - 5. 使用 DELETE 语句将表 content 中留言人姓名为“MySQL 初学者”的留言信息删除
+    - DELETE FROM table_name [WHERE Clause]
+    - DELETE FROM content WHERE username="MySQL 初学者" AND content_id=2;
+
 ## MySQL 的安装与配置
 
 - [MySQL 官网](https://www.mysql.com/)
@@ -321,3 +406,5 @@
 - 常见报错
   - [MYSQL 报出 ERROR 2003 (HY000)](https://blog.csdn.net/weixin_41331140/article/details/119409805)
   - ERROR 1045 (28000): Access denied for user ‘root‘@‘localhost‘ (using password: YES)
+- net start mysql
+- net stop mysql

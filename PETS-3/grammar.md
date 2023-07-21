@@ -127,7 +127,7 @@
 
 1. 情态动词概况
 
-   - 情态动词是本身具有情态意义，无人称变化形式，在句子中与动词原型一起组成谓语，所以情态动词又叫情态助动词。
+   - 情态动词是本身具有情态意义，无人称变化形式，`在句子中与动词原型一起组成谓语`，所以`情态动词又叫情态助动词`。
 
 2. 情态动词用法
    - 1）can 与 could
@@ -183,11 +183,12 @@
 
 ## 第 8 章 语态
 
-- 语态的概念：语态是指动词的一种变化形式，体现主语和动词之间的主被动关系。
+- 语态的概念：**语态是指动词的一种变化形式，体现主语和动词之间的主被动关系。**
 - 英语与汉语的区别：英语是通过词语的形式变化表达不同的意思而汉语往往通过词序或增减词的手段来实现。
+
 - `主动语态和被动语态`的概念
 
-  - 主动语态表示主语是谓语动作的执行者，被动语态表示主语是谓语动作的承受者。
+  - **主动语态表示主语是谓语动作的执行者，被动语态表示主语是谓语动作的承受者。**
   - 被动语态的基本形式：be + 动词的过去分词
   - Mary ate the cake yesterday.（主动语态）
   - The cake was eaten by Mary yesterday.（被动语态）
@@ -239,7 +240,7 @@
 
 ## 第 9 章 非谓语动词（一）：概述及动词不定式
 
-- 非谓语动词就是不用来作谓语的动词，除了谓语之外，非谓语动词可以在句子中作任何句子成分。
+- **非谓语动词就是不用来作谓语的动词**，除了谓语之外，非谓语动词可以在句子中作任何句子成分。
 - 非谓语动词的三种形式：to do, doing 和 done, 而 doing 这种动词形式有两种称呼：一种是动名词，一种是现在分词；两者单独都不可作谓语；而过去分词按照我们上次的分析，是不可以作谓语的。因此，非谓语动词有三种形式，四种称呼：即不定式，动名词，现在分词和过去分词。
 
 - 非谓语动词的否定
@@ -275,10 +276,10 @@
 
     - 主语：表示句子所要说明或描述的人或事物，一般由名词、代词或相当于名词的词组或句子充当。
     - 宾语：指动作所涉及的人或事物，一般由名词、代词或相当于名词的词组或句子充当。
-    - 表语：表示主语的身份、性质、状态和特征，一般由名词、形容词、或相当于名词、形容词的词、短语或句子充当，位于连系动词之后，与连系动词一起构成句子的谓语。
-    - 补语：用来对宾语进行补充和说明，一般由名词、非谓语动词、形容词等充当。
-    - 定语：对名词或代词进行修饰、限制或说明，一般由形容词、名词、代词、数词、介词短语、非谓语动词及句子等充当，位置可在所修饰的词之前，也可在所修饰的词之后。
-    - 状语：用于修饰动词、形容词、副词、短语或整个句子等，一般由副词、介词短语、非谓语动词短语或句子充当。
+    - 表语（主语补语）：表示主语的身份、性质、状态和特征，一般由名词、形容词、或相当于名词、形容词的词、短语或句子充当，位于连系动词之后，与连系动词一起构成句子的谓语。
+    - 补语（宾语补语）：用来对宾语进行补充和说明，一般由名词、非谓语动词、形容词等充当。
+    - 定语（修饰名词或代词）：对名词或代词进行修饰、限制或说明，一般由形容词、名词、代词、数词、介词短语、非谓语动词及句子等充当，位置可在所修饰的词之前，也可在所修饰的词之后。
+    - 状语（修饰动词、形容词等）：用于修饰动词、形容词、副词、短语或整个句子等，一般由副词、介词短语、非谓语动词短语或句子充当。
     - [句子成分基础知识](http://www.yygrammar.com/Article/200805/295.html)
 
   - [动词不定式的用法](https://www.sohu.com/a/215741191_507476)
@@ -287,13 +288,94 @@
 
 ## 第 10 章 非谓语动词（二）：分词
 
+1. 现在分词
+
+   - 现在分词：现在分词既具有动词的一些特征，又具有形容词和副词的句法功能。
+   - 现在分词的形式：
+     - 否定式：not + 现在分词
+     - 主动语态
+       - 主动语态的一般式表示与谓语动词所表示的动作同时发生，完成式表示的动作在谓语动词所表示的动作之前发生，常作状语。
+       - They went to the park,`singing` and `talking`. 他们边唱边说向公园走去。
+       - `Having` done his homework,he played basket-ball. 做完作业，他开始打篮球。
+     - 被动语态
+       - 一般式表示与谓语动词同时发生的被动的动作，完成式表示发生在谓语动词之前的被动的动作。
+       - The problem being discussed is very important. 正在被讨论的问题很重要。
+       - Having been told many times,the naughty boy made the same mistake. 被告诉了好几遍，这个淘气的孩子又犯了同一个错误。
+   - 现在分词的句法功能：
+     - 1.作定语
+       - 现在分词作定语，当分词单独做定语时，放在所修饰的名词前；如果是分词短语做定语放在名词后。
+       - In the `following years` he worked even harder. 在后来的几年中，他学习更努力了。
+       - The man `speaking to the teacher` is our monitor's father. 正与老师谈话的那个人是我们班长的父亲。
+       - 现在分词作定语相当于一个定语从句的句法功能，
+         - 如：in the following years 也可用 in the years thatfollowed;
+         - the man speaking to the teacher 可改为 the man who is speaking to the teacher.
+     - 2.作表语
+       - `The film being shown` in the cinema is exciting. 正在这家上演的电影很棒。
+       - The present situation is inspiring. 当前的形势鼓舞人心。
+       - be + doing 既可能表示现在进行时，也可能是现在分词做表语，它们的区别在于 be + doing 表示进行的动作是进行时，而表示特征时是系动词 be 与现在分词构成系表结构。
+     - 3.作宾语补足语
+       - 如下动词后可跟现在分词作宾语补足语：see,watch,hear,feel,find,get,keep,notice,observe,listen to,look at,leave,catch 等。
+       - Can you hear her singing the song in the next room? 你能听见她在隔壁唱歌吗？
+       - He kept the car waiting at the gate. 他让小汽车在门口等着。
+     - 4.作状语
+       - ① 作时间状语：(While) Working in the factory,he was an advanced worker.在工厂工作时，他是一名先进工人。
+       - ② 作原因状语：Being a League member,he is always helping others. 由于是共青团员，他经常帮助他人。
+
+2. 过去分词
+   - 过去分词只有一种形式：规则动词由动词原形加词尾-ed 构成。不规则动词的过去分词没有统一的规则。
+   - 句法功能：
+     - 1.作定语
+     - 2.作表语
+     - 3.作宾语补足语
+     - 4.作状语
+
 ## 第 11 章 非谓语动词（三）：动名词
+
+- 动名词：动名词既具有动词的一些特征，又具有名词的句法功能。
+
+  |                            |             |                  |
+  | -------------------------- | ----------- | ---------------- |
+  | 一般式（谓语动词同时发生） | doing       | being done       |
+  | 完成式（谓语动词发生之前） | having done | having been done |
+
+- 动名词的形式：Ving
+- 分词的形式：
+  - 否定式：not + 动名词
+  - 一般式：Seeing is believing. 眼见为实。
+  - 被动式：He came to the party without being invited．他未被邀请就来到了晚会。
+  - 完成式：We remembered having seen the film. 我们记得看过这部电影。
+  - 完成被动式：He forgot having been taken to Guangzhou when he was five years old.他忘记五岁时曾被带到广州去过。
+  - 否定式：not + 动名词 I regret not following his advice. 我后悔没听他的劝告。
+  - 复合结构：物主代词（或名词所有格）+ 动名词 He suggested our trying it once again. 他建议我们再试一次。His not knowing English troubled him a lot.他不懂英语给他带来许多麻烦。
+- 句法功能：
+  - 作主语：
+    - Reading aloud is very helpful. 朗读是很有好处的。
+    - Collecting stamps is interesting. 集邮很有趣。
+    - 当动名词短语作主语时常用 it 作形式主语。It's no use quarrelling.争吵是没用的。
+  - 作表语：
+    - In the ant city,the queen's job is laying eggs.在蚂蚁王国，蚁后的工作是产卵。
+  - 作宾语：
+    - They haven't finished building the dam. 他们还没有建好大坝。
+  - 作定语：
+    - He can't walk without a walking-stick. 他没有拐杖不能走路。
+  - 作同位语：
+    - The cave,his hiding-place is secret. 那个山洞，他藏身的地方很秘密。
+    - His habit,listening to the news on the radio remains unchanged．他收听收音机新闻节目的习惯仍未改变。
 
 ## 第 12 章 虚拟语气
 
 ## 第 13 章 倒装语序
 
 ## 第 14 章 名词性从句
+
+- [名词性从句-百度百科](https://baike.baidu.com/item/%E5%90%8D%E8%AF%8D%E6%80%A7%E4%BB%8E%E5%8F%A5/7541854)
+- 名词性从句(Noun clause)是在句子中起名词作用的句子。 名词性从句的功能相当于名词词组， 它在复合句中能担任主语、宾语、表语、同位语、介词宾语等。
+  - 根据它在句中不同的语法功能，名词性从句又可分别称为`主语从句`、`宾语从句`、`表语从句`和`同位语从句`。
+  - 同位语: 一个名词（或其它形式）对另一个名词或代词进行解释或补充说明，这个名词（或其它形式）就是同位语。
+
+1. 连接词
+2. 按在主句中充当的成分分类
+3. 按连接词的种类分类
 
 ## 第 15 章 形容词性从句
 

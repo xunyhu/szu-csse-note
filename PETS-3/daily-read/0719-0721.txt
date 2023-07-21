@@ -1,6 +1,7 @@
 0719
 https://mob.kekenet.com/lesson/17970/649763
 2021 年 06 月真题（第二套）现代就业平台
+{"id":649763}
 
 Modern Platforms of Employment
 
@@ -135,3 +136,110 @@ more important      更加重要
 social transformation       社会转型；社会转变
 massive     巨大的
 engine      发动机
+
+
+0720
+https://mob.kekenet.com/keke/mobile/index.php
+{"Method":"v9_news_getcontent","Params":{"id":649761},"Token":"","Terminal":"11","Version":"4.0","UID":0,"AppFlag":"0","Sign":"","ApVersionCode":1}
+
+2021 年 06 月真题（第一套）听说玩耍能够增强咱们的硬实力！Play May Help Students' Stem Skills
+
+Educators and business leaders have more in common than it may seem.
+
+Teachers want to prepare students for a successful future.
+
+prepare 把…准备好
+
+Technology companies have an interest in developing a workforce with the STEM (science, technology, engineering and math) skills needed to grow the company and advance the industry.
+
+have an interest in     对...有兴趣
+workforce       劳动力
+engineering     工程
+industry        工业
+
+How can they work together to achieve these goals?
+
+Play may be the answer.
+
+Focusing on STEM skills is important, but the reality is that STEM skills are enhanced and more relevant when combined with traditional, hands-on creative activities.
+
+combined with       化合，联合；连同
+relevant        相关的
+traditional     传统的
+
+This combination is proving to be the best way to prepare today's children to be the makers and builders of tomorrow.
+
+best way    最佳方法
+
+That is why technology companies are partnering with educators to bring back good, old-fashioned play.
+
+bring back      拿回来；使…恢复；使…回忆起来
+old-fashioned   老式的
+
+In fact, many experts argue that the most important 21st-century skills aren't related to specific technologies or subject matter, but to creativity;
+skills like imagination, problem-finding and problem-solving, teamwork, optimism, patience and the ability to experiment and take risks.
+
+in fact     事实上，实际上
+subject matter      主题；主旨
+be related to       与...有关的；与...相关的
+teamwork            合作
+specific            明确的
+optimism            乐观
+imagination         想象
+creativity          创造力
+century             百年，世纪
+experiment          试验
+argue               争论
+patience            耐心
+
+These are skills acquired when kids tinker.
+
+acquire     获得;得到;购得
+tinker      小炉匠，补锅匠，白铁匠;修补工
+
+High-tech industries such as NASA's Jet Propulsion Laboratory have found that their best overall problem-solvers were master tinkerers in their youth.
+
+jet propulsion  喷射推进
+overall     全部的
+found       建立
+tech        技术学校
+
+There are cognitive benefits of doing things the way we did as children - building something, tearing it down, then building it up again.
+
+cognitive   认识的
+tear        撕裂;撕开； n. 眼泪;泪水;
+
+Research shows that given 15 minutes of free play, four- and five-year-olds will spend a third of this time engaged in spatial, mathematical, and architectural activities.
+
+a third of  三分之一的
+engaged in  从事于；忙于
+spatial     空间的
+architectural   建筑的
+mathematical    数学的
+
+This type of play - especially with building blocks - helps children discover and develop key principles in math and geometry.
+
+geometry    几何
+especially  特别
+
+If play and building are critical to 21st-century skill development, that's really good news for two reasons: Children are born builders, makers, and creators, 
+so fostering 21st-century skills may be as simple as giving kids room to play, tinker and try things out, even as they grow older.
+
+skill development   技能发展
+critical            批评的
+
+Secondly, it doesn't take 21st-century technology to foster 21st-century skills.
+
+foster      领养
+forest      森林
+
+This is especially important for under-resourced schools and communities.
+
+Taking whatever materials are handy and tinkering with them is a simple way to engage those important "maker" skills.
+
+handy   方便的
+engage  答应
+maker   制造者
+whatever    无论什么
+
+And anyone, anywhere, can do it.
