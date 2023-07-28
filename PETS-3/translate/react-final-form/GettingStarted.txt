@@ -1,0 +1,17 @@
+Getting Started
+入门
+
+Before we jump right into code, you might want to learn a little bit about the philosophy and origin story of React Final Form.
+在我们直接进入代码之前，您可能想了解一下React Final Form的哲学和起源故事。
+
+Architecture
+结构
+
+React Final Form is a thin React wrapper for Final Form, which is a subscriptions-based form state management library that uses the Observer pattern, 
+so only the components that need updating are re-rendered as the form's state changes.
+React Final Form是Final Form的一个瘦React包装器，Final Form是一个基于订阅的表单状态管理库，使用Observer模式，因此只有需要更新的组件才会随着表单状态的变化而重新呈现。
+
+By default, React Final Form subscribes to all changes, but if you want to fine tune your form to optimized blazing-fast perfection, 
+you may specify only the form state that you care about for rendering your gorgeous UI. 
+You can think of it a little like GraphQL's feature of only fetching the data your component needs to render, and nothing else.
+默认情况下，React Final Form订阅所有更改，但如果你想将表单微调到优化的完美状态，你可以只指定你关心的呈现华丽UI的表单状态。您可以认为它有点像GraphQL的功能，只获取组件需要渲染的数据，而不获取其他数据。

@@ -4,3 +4,7 @@
 - such as 比如；诸如
 - even as 正如；正巧在…的时候
 - up to 达到，接近于;（数目上）一直到，不多于，多达;取决于……的，须由……决定的;
+- in person 直接 ; 亲自 ; 本人 ; 当面
+- at the same time 同时 ; 然而，不过
+- come up with 想出，提出 ; 赶上，走近 ; 设法拿出
+- in descending order 降序排列
