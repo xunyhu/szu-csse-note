@@ -364,7 +364,47 @@
 
 ## 第 12 章 [虚拟语气](https://baike.baidu.com/item/%E8%99%9A%E6%8B%9F%E8%AF%AD%E6%B0%94/504985)
 
-- 英语中的语气分为陈述语气、祈使语气、虚拟语气、疑问语气和感叹语气五类。虚拟语气是说话者用来表示假设，或难以实现的情况，而非客观存在的事实，所陈述的是一个条件，不一定是事实，甚至完全与事实相反。此外如需表达主观愿望或某种强烈的感情时，也可用虚拟语气。虚拟语气通过谓语动词的特殊形式来表示。
+- 英语中的语气分为`陈述语气`、`祈使语气`、`虚拟语气`、疑问语气和感叹语气五类。虚拟语气是说话者用来表示假设，或难以实现的情况，而非客观存在的事实，所陈述的是一个条件，不一定是事实，甚至完全与事实相反。此外如需表达主观愿望或某种强烈的感情时，也可用虚拟语气。虚拟语气通过谓语动词的特殊形式来表示。
+- 语气(mood)是一种`动词`形式，用以表示说话者的意图或态度。
+  - 陈述语气表示对事实的叙述
+  - 虚拟语气是说话者用来表示假设，或难以实现的情况，而非客观存在的事实
+    - If i `were` you, I `would` say sorry to her.
+    - If he `had taken` my advise, he `would not have made` such a mistake.
+    - 虚拟语气是通过谓语动词的形态变化表现出来的
+
+1. 条件句中的虚拟语气
+
+   - 条件句分为真实条件句，非真实条件句
+   - 真实条件句
+     - If it stops raining, i'll go out for a walk.（陈述语气）
+   - 非真实条件句
+     - If i `were` a bird, i `would be` able to fly in the air. （虚拟语气）
+   - if 引导的条件从句+主句
+     - 与现在事实相反
+       - if 从句动词形式 -> 动词过去式/were
+       - 主句动词形式 -> would + do
+     - 与过去事实相反
+       - if 从句动词形式 -> had + 过去分词
+       - 主句动词形式 -> would + have done
+       - If we `had not made` adequate preparations, the meeting `would not have been` so sucessful.
+       - We `would have visited` The British Museum if we `had had` time.
+     - 与将来事实相反
+       - if 从句动词形式 -> should/were to + do
+       - 主句动词形式 -> would + do
+   - 省略 if 的条件句
+     - Were i you, i would like to go with them.
+     - If i were you -> Were i you
+
+2. 含蓄式虚拟语气
+
+   - 含蓄式虚拟语气是条件句虚拟语气的特殊形式，它的特点是不使用 if 虚拟语气从句，而用其他形式来代替。
+   - 不定式短语代替 if 虚拟语气从句
+     - Mary would be a top student `to pass the CET-4`
+     - Mary would be a top student if she should pass the CET-4
+   - 常见的替代形式是由 without、with no、but for 等构成的`介词短语`代替 if 条件从句，含义是“如果没有”。
+     - Without electricity, there would be no industry.
+     - Without electricity = If there were no electricity
+   - 用某些`连词`代替 if 虚拟语气从句，比如 otherwise,once 等
 
 ## 第 13 章 倒装语序
 

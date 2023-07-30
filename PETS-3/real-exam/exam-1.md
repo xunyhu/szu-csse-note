@@ -1,3 +1,43 @@
+# SECTION 1 Listening
+
+## Part A
+
+1. W: The article said scientists have found a new benefit of green tea.  
+   M: I've been told that green tea can lower the risks of heart disease, stroke and cancers.  
+   W: Besides that, it's good for memory. And it helps fall down eating of the brain.
+2. W: Oh, my neck is stiff.  
+   M: You should stand up and stretch your legs. Who can sit in front of the screen for ten hours without a break?
+   W: Come on, Jim! You know my report is till tomorrow.
+3. M: I've been worried that Richard is frozen.  
+   W: What sounds to be a problem?
+   M: Well, he has trouble concentrating when getting along with other children. I was wondering there might be something on his mind. Some problem at home?
+4. W: Sally, why are people now do business more and more?  
+   M: Right, I have to be on the flight every week.  
+   W: Wow, I really envy you.
+   M: Don't envy me. In fact, I'm sick of restaurant food. Sometimes I just want a home-cook meal.
+5. M: Oh, just look at these people! They are really listening to the music. They are driving me mad.  
+   W: Can't you see that this is the real communication between the musicain and the audience? Listen to our music. It belongs to our generation.  
+   M: Well, it may be your music, but it certainly isn't mine. I'm going for a cup of coffee.
+6. M: I was shocked when I heard you had finished your research project a whole month earlier.  
+   W: How I managed to do it? It's still a mystery to me.
+7. M: How long have you been in this country?  
+   W: Two months, exactly.  
+   M: Is it hard for you to study at the American College?  
+   W: Yes, I find it very difficult, especially when I cannot follow the professor's lectures.  
+   M: That's because you just arrived.
+8. W: Why are you so upset, David?  
+   M: My boss warned me not to spend all day communicating with my friends, but i didn't. He just didn't believe me.  
+   W: You must have forgotten to close your hotmail's window again. You should have known better.
+9. W: What do you think of my new suit?  
+   M: Not bad. It reminds me of the one I saw at the new department store last week. Did you get it there?  
+   W: No, I got it in that big shopping center. It cost me only $150.  
+   M: Well, I don't think it's a good bargain.
+10. W: My mother got really annoyed with my father yesterday evening.  
+    M: Why? Did she complain about his cooking?  
+    W: Oh on, It was about watching television.  
+    M: Don't tell me he fell asleep in front of the television.  
+    W: No, he kept changing channels on the remote.
+
 # SECTION 2 Reading
 
 (50minutes)
@@ -202,6 +242,14 @@ Directions:
     - 3. your past work experiences.
     - You should write about 100 words. Do not sign your own name at the end of your email. Use "Wang Lin" instead.
 
+- 范文
+  Dear Sir or Madam,  
+  I have learned from the internet that your company is recruiting administrative assistants. I would like you to consider me for the position.  
+  I am very passionate about this job because I like to coordinate everything, which makes me full of energy. Besides, I am fully qualified for this job. I am proficient in using office software. I am equipped with skillful handling of various office affairs and good communication and organizational skills. What's more, I am experienced in receiving company visits to customers, arranging conference rooms, sending and receiving emails, etc.  
+  Thank you for your consideration. I am looking forward to hearing from you.
+  Yours sincerely,
+  Wang Lin
+
 ## Part B
 
 57. Directions:
@@ -221,3 +269,8 @@ Directions:
 
 - For Cole, his parents have proven to him that you can always get back what you think you have lost, "Just because you started slow doesn'
   t mean you can't finish up strong," he said.
+
+- 范文
+  Although Cole's growing family is not strong enough, he has made great achievements in his studies and work with his own efforts and determination. His examples fully demonstrate the importance of hard work and determination in personal success.
+  For one thing, if we want to achieve something, we have to strive for it. At no time should we underestimate the power of diligence. For another, determination is the most important component of success. If you are really determined to do something, however difficult it might be, you will find away of doing it at last.
+  From what i say above, we can see that the main things which one needs are strong will and endeavor. A strong willed person with efforts will stand up against all odds and succeed.
