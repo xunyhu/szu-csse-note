@@ -257,7 +257,15 @@ Directions:
 
 - A couple that has been married for 38 years--and overcame difficult circumstances--graduated from college together this month.
 
+  - essay 散文;(作为课程作业，学生写的)文章
+  - summarize 总结
+  - overcame 战胜 difficult 困难的 circumstances 环境 条件
+
 - On Dec. 3, their son, Charles Cole III, 33, posted a picture on the internet of his parents in their caps and gowns, which has gotten a ton of attention online.
+
+  - post 发布，公布；职位；邮件
+  - his parents in their caps and gowns 他的父母戴着帽子，穿着长袍
+  - a ton of attention 大量的关注 ton of 吨 ; 大量
 
 - Cole's parents, Charles Cole Jr. and Renate, battled major financial problems when he was young, which made for a rough childhood. "I grew up pretty early," he said. "I just knew I didn't want to go through what I saw them go through."
 
