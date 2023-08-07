@@ -147,6 +147,35 @@
   - negative evaluations can be challenged by the employee 负面评价可能会受到员工的质疑 challenged (委婉说法)伤残的，有残疾的 对…怀疑(或质疑); change 改变；challenge 挑战;质疑;
   - No matter where you sit in the debate over the grade system 无论你在关于分数制的辩论中坐在哪里 No matter 没关系 ; 不管怎样 sit in 静坐 ; 出席 ; 照看
 
+## Part B
+
+- Mike:
+
+  - Praise often and sincerely-it's an simple as that. Employees want to feel needed and appreciated. By offering sincere praise with examples about what they did right, you'll go far in creating an energetic team. Meanwhile, i don't agree with the assertion that "to focus on what needs improving isn't good management." In fact, it's the balance of praise along with constructive criticism that drives employees to work smarter and reach higher.
+    - sincerely 真诚的；praise 赞扬；it's an simple as that 就这么简单；appreciate 理解，感谢；employee 雇员；
+    - sincere 真诚的；go far 成功 ; 够用；energetic 精力充沛的;积极的;
+    - along with 随着 ; 随同…一起;
+
+- Frank:
+
+  - This article makes a valid point that needs to be understood, especially for the new generation of workers, my generation. We don't see ourselves as parts in the machine to be put in the dark to work. My generation needs respect in return from our employer, we need to feel appreciated beyond just a pay check, it's the difference between being fulfilled at our career and being sad at our job.
+    - in return 作为回报 ;pay check 工资支票 ;
+
+- Joyce:
+
+  - One skill missing in today's workplace is the ability to build effective business relationships. At the core of that relationship is the need for consistent feedback. "How am I doing?" is a question that should be answered consistently. When you tell an employee once a year what is needed to improve, you have not done your job as a leader-build skills, provide feedback and help the employee grow and develop.
+    - the core 核心 ; 堆芯 ; 地核; need for 需要… ; 需要 ; consistent 与…一致的 ; feedback 反馈 ;
+    - consistently 始终如一地 ;
+
+- Ellen:
+
+  - I don't see a problem with praising employees when it's truly deserved (insincere praise is an entirely different story). It's a cost-free "benefit", if you will, in that it allows employees to see that their efforts are both noticed and valued. In the work world there are always people available to tell you are doing something wrong and far too few occasions when employees are told that they've done something right!
+    - cost-free 免费的 ; 成本; noticed and valued 关注和重视;
+    - far too few occasions 太少的场合; far 远的 ; 遥远的 ; occasions …的时候 ; 时机 ;
+
+- Diana:
+  - Praise what the employee did. Be specific about why it was helpful. An employee who continually earns your praise alse deserves your attention as to how else to reward their behavior. Meaningful praise encourages people beyond anything else. Written comments are available for later review. They give them confidence that they can "do it again." I never regretted praising an employee who deserved it but often kicked myself for missing an opportunity.
+
 # SECTION 3 Writing
 
 ## Part A
