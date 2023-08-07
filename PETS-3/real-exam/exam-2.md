@@ -147,7 +147,7 @@
   - negative evaluations can be challenged by the employee 负面评价可能会受到员工的质疑 challenged (委婉说法)伤残的，有残疾的 对…怀疑(或质疑); change 改变；challenge 挑战;质疑;
   - No matter where you sit in the debate over the grade system 无论你在关于分数制的辩论中坐在哪里 No matter 没关系 ; 不管怎样 sit in 静坐 ; 出席 ; 照看
 
-# SECTION III Wriring
+# SECTION 3 Writing
 
 ## Part A
 

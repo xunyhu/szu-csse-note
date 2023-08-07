@@ -16,10 +16,10 @@
 
    - 发音要领：发音时双唇张开，略成圆形；舌头自然平放，后部略抬；下巴拉低；舌尖不抵下齿。声带振动，发音拉长，发音类似汉语“阿”。
    - 常见单词
-     - **a** father grass
-     - **al** half calm
-     - **ar** star park
-     - **au** aunt laugh
+     - **a** father /ˈfɑːðər/ grass /ɡrɑːs/
+     - **al** half /hɑːf/ calm /kɑːm/
+     - **ar** star /stɑː(r)/ park /pɑːk/
+     - **au** aunt /ɑːnt/ laugh /lɑːf/
    - [ɑː]&[ʌ]单词对比
      - cut cart
      - mother master
@@ -107,18 +107,10 @@
 
    - 发音时双唇张开，成扁形；舌尖轻触下齿龈，舌头位于口腔中心，发音短促。发音类似汉字“啊”。
    - 常见单词
-     - **u**
-       - cup
-       - sun
-     - **o**
-       - come
-       - mother
-     - **ou**
-       - young
-       - enough
-     - **oo**
-       - blood
-       - flood
+     - **u** cup /kʌp/ sun /sʌn/
+     - **o** come /kʌm/ mother /ˈmʌðə(r)/
+     - **ou** young /jʌŋ/ enough /ɪˈnʌf/
+     - **oo** blood /blʌd/ flood /flʌd/
 
 2. [ɒ]
 
@@ -202,11 +194,13 @@
      - dead; dad;
      - send; sand;
 
-8. [eɪ]
+### 双元音
+
+1. [eɪ]
 
    - 发音要领：口型由/e/向/i/滑动。发音时舌尖抵住下齿，舌前部稍微抬高，然后舌身自然下降，双唇拉向两边，声带振动。发音前长后短，前重后轻。
    - 常见单词
-     - **a** game take
+     - **a** game /ɡeɪm/ take /teɪk/
      - **ai** train email
      - **ay** subway play
      - **ea** great break
@@ -218,11 +212,11 @@
      - fate fit
      - page pig
 
-9. [aɪ]
+2. [aɪ]
 
    - 发音要领：从舌位低、口型大的/a/向舌位高、口型小的/i/滑动。发音时舌尖抵下齿，舌身自然隆起，振动声带。发音前长后短，前重后轻。
    - 常见单词
-     - **i** tiger nice
+     - **i** tiger /ˈtaɪɡə(r)/ nice /naɪs/
      - **y** sky fly
      - **ie** die pie
      - **uy** buy guy
@@ -233,22 +227,124 @@
      - trouble tribe
      - brother bright
 
-10. [ɔɪ]
-    - 发音要领：舌位由/ɔ/滑向/i/；嘴唇由圆到扁，从开到合。声带振动。发音前长后短，前重后轻。
-    - 常见单词
-      - **oy** toy enioy
-      - **oi** coin noise
+3. [ɔɪ]
 
-### 双元音
+   - 发音要领：舌位由/ɔ/滑向/i/；嘴唇由圆到扁，从开到合。声带振动。发音前长后短，前重后轻。
+   - 常见单词
+     - **oy** toy /tɔɪ/ enjoy /ɪnˈdʒɔɪ/
+     - **oi** coin /kɔɪn/ noise /nɔɪz/
+
+4. [ɪə]
+
+   - 发音要领：舌位由/ɪ/很快滑向/ə/。舌尖抵下齿，舌身自然降低；口型由小到大，从扁平到半开。身带振动，发音前长后短，前重后轻。
+   - 常见单词
+     - **ear** near /nɪə(r)/ hear /hɪə(r)/
+     - **eer** beer /bɪə(r)/ cheer /tʃɪə(r)/
+     - **ere** here sincere
+     - **ea** idea theatre
+     - **e** zero hero
+
+5. [eə]
+
+   - 发音要领：舌位由/e/很快滑向/ə/。舌尖轻触下齿，舌前部稍微提高，然后舌身再自然降低；口型由半开到扁平。声带振动。发音前长后短，前重后轻。发音类似汉字“爱鹅”。
+   - 常见单词
+     - **air** hair /heə(r)/ chair /tʃeə(r)/
+     - **are** care share
+     - **ear** wear pear
+     - **ere** where there
+   - [ɪə]&[eə]单词对比
+     - beer bear
+     - fear fair
+     - deer dare
+     - shear share
+
+6. [ʊə]
+
+   - 发音要领：舌位由/u/很快滑向/ə/。发音类似汉字“乌鹅”
+   - 常见单词
+     - **ua** usually /ˈjuːʒuəli/ actually /ˈæktʃuəli/
+     - **our** tour gourd
+     - **ure** sure ensure
+     - **oor** poor /pʊr/ moor
+
+7. [aʊ]
+
+   - 发音要领：舌位由/a/滑向/ʊ/；嘴巴张开，逐渐收圆并稍微前突；舌头平放，舌位由低到高；声带振动。发音前长后短，前重后轻。
+   - 常见单词
+     - **ou** mouth cloud
+     - **ow** flower town
+   - [aʊ]&[ɔː]单词对比
+   - [aʊ]&[ɒ]单词对比
+
+8. [əʊ]
+   - 发音要领：舌位由/ə/滑向/ʊ/，舌头自然放松；口型由半开到合拢，双唇由扁平到收圆。声带振动。发音前长后短，前重后轻。
+   - 常见单词
+     - **o** home cold
+     - **oa** goat soap
+     - **ou** soul shoulder
+     - **ow** window slow
 
 ## 辅音
 
 ### 清辅音
 
+1. [p]
+2. [t]
+3. [k]
+4. [f]
+5. [θ]
+6. [s]
+7. [ʃ]
+   - ship /ʃɪp/
+8. [h]
+   - house /haʊs , haʊz/
+9. [ts]
+   - ants /ænts/
+10. [tʃ]
+    - watch /wɒtʃ/
+11. [tr]
+    - tree /triː/
+
 ### 浊辅音
+
+1. [b]
+2. [d]
+3. [g]
+4. [v]
+5. [ð]
+   - brother /ˈbrʌðə(r)/
+6. [z]
+7. [ʒ]
+   - television /ˈtelɪvɪʒn/
+8. [r]
+9. [dz]
+10. [dʒ]
+    - jeep /dʒiːp/
+11. [dr]
 
 ### 鼻音
 
+1. [m]
+
+   - monkey /ˈmʌŋki/
+
+2. [n]
+
+   - nose /nəʊz/
+
+3. [ŋ]
+   - bank /bæŋk/
+
 ### 半元音
 
-### 变音
+1. [j]
+
+   - yellow /ˈjeləʊ/
+
+2. [w]
+   - window /ˈwɪndəʊ/
+
+### 边音
+
+1. [l]
+   - lion /ˈlaɪən/
