@@ -234,6 +234,7 @@
 - Consider that in 1950, a mere 4 million Americans lived alone, making up only 9% of households. Back then, living alone was most common in the Western states that attracted seasonal workingmen, ant it was usually a short-lived stage on the road to a more conventional domestic life.
 
   - making up only 9% of households 仅占家庭的 9%；
+  - back then 当时，那时候
 
 - Not anymore. According to the latest data, nearly 33 million Americans live alone, making up 28% of households, which means they are now tied with clildless couples as the most important type, more common than the nuclear family, the multi generational family and the roommate or group home. These aren't just temporary living situtions: over a five-year period, people who live alone are more likely to remain in their current state than anyone else except married couples with children. They're concentrated in big cities throughout the country.
 
@@ -243,45 +244,49 @@
 
 - Living alone, being along and feeling lonely are hardly the same, yet in recent years experts have mixed them up, raising fears that the rise of living alone signals the ultimate atomization of the modern world. In fact, there's little evidence that the rise of living alone is making more Americans lonely. According to the latest studies, what matters is not whether we live alone but whether we feel alone. Divorced people often say there's nothing lonelier than living with the wrong person. Besides, people living alone compensate by becoming more socially active than those who live with others.
 
-- The truth is, today nearly everyone who lives alone chooses to do so, desplite less expensive options from finding roommates to living with family.
+- The truth is, today nearly everyone who lives alone chooses to do so, despite less expensive options from finding roommates to living with family.
 
 - After all, living alone allows us to do what we want, when we want, on our own terms. It liberates us from the restrictions of domestic partner's needs and demands. Today, in our age of digital media and ever expanding social networks, living alone can offer even greater benefits：the time and space for healing power of aloneness.
 
+  - After all 毕竟 ; 终究
+
 - This means that living alone can help us discover who we are and what gives us meaning and purpose. It might be exactly what we need to reconnect.
 
-26. In 1950 living alone `B`.
+26. In 1950 living alone `D`.
 
 - [A] was identified as the biggest socail change
 - [B] was a temporary state for those who did so
 - [C] attracted 9% of American seasonal workers
 - [D] grew into the primary type of domestic life
 
-27. Today Americans who live alone ` `
+27. Today Americans who live alone `B`
 
 - [A] expect to live in the Weatern states
 - [B] tend to maintain their way of life
 - [C] have a former marriage with kids
 - [D] are related with childless couples
 
-28. According to the latest studies, people living alone may ` `
+28. According to the latest studies, people living alone may `D`
 
-- [A] be a burben on society
+- [A] be a burden on society
 - [B] feel lonelier than others
 - [C] come from split families
 - [D] engage in social activities
 
-29. It is indicated that living alone ` `
+29. It is indicated that living alone `D`
 
 - [A] makes more demands on society
 - [B] imposes on one more restrictions
 - [C] presents one with more challenges
 - [D] costs more than living with family
 
-30. The writer concludes that living alone enables us to ` `
+30. The writer concludes that living alone enables us to `B`
 
 - [A] get help from others
 - [B] know our true selves
+  - selves 自我;self 的复数
 - [C] set up social networks
+  - set up 建立
 - [D] reconnect with friends
 
 ### Text 2
