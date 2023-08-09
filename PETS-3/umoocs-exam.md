@@ -1,4 +1,4 @@
-## 第 3 章 代词-测试
+## 第 3 章 代词
 
 - [第三章 单元测试](https://umoocs.unipus.cn/course/2633/task/195000/show)
 
@@ -6,8 +6,8 @@
 
 2. In no place `other than` grassland, it has been said, there are horses and sheep here and there. 【不定代词 other】
 
-没有明确指定代替任何特定名词或形容词的词叫做不定代词，常用不定代词如下：
-all,any,another,both,each,every,either,few,little,many,much,no,none,neither,one,other,some 以及由 some,any,no,every 和 body,one,thing 构成的复合词。
+   - 没有明确指定代替任何特定名词或形容词的词叫做不定代词，常用不定代词如下：
+     - all,any,another,both,each,every,either,few,little,many,much,no,none,neither,one,other,some 以及由 some,any,no,every 和 body,one,thing 构成的复合词。
 
 3. This kind of wheat does not grow well in soils `other than` the one for which it has been specially developed. 【不定代词 other】
 
@@ -132,3 +132,22 @@ all,any,another,both,each,every,either,few,little,many,much,no,none,neither,one,
 19. You `needn't have done` all those calculations. We have a computer to do that sort of thing.
 
 20. Jane left the welcoming party very early because she `had to` get up early the next morning.
+
+## 第 8 章 语态
+
+- [第 8 章 单元测试](https://umoocs.unipus.cn/course/2633/task/195032/show)
+
+1. The computer `is being repaired` by the manufacturer now.  
+   制造商现在正在“维修”计算机。
+
+2. The fire `broken out` in the basement last night.  
+   昨晚，地下室“爆发”了火灾。
+
+3. He `was shot` in the chest and `died`.  
+   他胸部“中弹”并“死亡”。
+
+4. The wallet `was found` in the toilet.  
+   钱包是在厕所里“发现”的。
+
+5. Tom Hanks appeared on the stage and `was excitedly applauded by the audience`.  
+   汤姆·汉克斯登上舞台，“获得观众热烈的掌声”。

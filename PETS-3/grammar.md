@@ -192,6 +192,7 @@
   - 被动语态的基本形式：be + 动词的过去分词
   - Mary ate the cake yesterday.（主动语态）
   - The cake was eaten by Mary yesterday.（被动语态）
+  - I've been told that green tea can lower the risks of heart disease
 
 - 被动语态的形式变化
 

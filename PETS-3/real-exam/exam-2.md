@@ -52,54 +52,142 @@
 ## Part B
 
 1. M: Your readers are interested in your childhood. What was it like?  
+    你的读者对你的童年感兴趣。它是什么样子的？
+
    W: I grew up in a small town. We lived in very poor housing but we lived always in very beautiful settings, so I have favorite trees and I have contacted with birds.  
-    My parents were farm workers. Though we were poor for most of part, I think I was often happy.  
+    我在一个小镇长大。我们住在非常贫穷的房子里，但我们总是住在非常美丽的环境中，所以我有最喜欢的树，我也接触过鸟类。
+
+   My parents were farm workers. Though we were poor for most of part, I think I was often happy.  
+    我父母都是农场工人。虽然我们大部分时间都很穷，但我想我经常很开心。
+
    M: It would not have been expected from that background that you'll become a literary figure. Was your mother ambitious with you?  
+    在那种背景下，你不会成为一个文学人物。你母亲对你有野心吗？
+
    W: Well, my mother wasn't especially ambitious with me in the sense of going to college when I grew up. I think her greatest contribution was simply that she loved me very much.  
-    No matter what happened, I had my mother with me.  
+    嗯，在我长大后上大学的意义上，我母亲对我并不是特别有野心。我认为她最大的贡献就是她非常爱我。
+
+   No matter what happened, I had my mother with me.  
+    不管发生什么事，我都有妈妈陪着我。
+
    M: She gave you confidence.  
+    她给了你信心。
+
    W: Oh, she did. She earned very little money, offering about $10 a week and never more than $20 a week. And in spite of that, she managed to buy a typewriter for me.  
-    She managed to buy me my first toothpaste when I left home. She just wanted me to be able to do things that she couldn't do even she didn't know what they were.
+    哦，她做到了。她挣的钱很少，每周大约 10 美元，从来没有超过 20 美元。尽管如此，她还是设法给我买了一台打字机。
+
+   She managed to buy me my first toothpaste when I left home. She just wanted me to be able to do things that she couldn't do even she didn't know what they were.  
+    我离家时，她设法给我买了第一支牙膏。她只是想让我能够做她做不到的事情，即使她不知道这些事情是什么。
 
 2. W: Good morning. Can I help you?  
+    早上好我能帮你吗？
+
    M: I'd like to make a complaint about my holiday in Paris last week.  
+    我想投诉一下我上周在巴黎度假的事。
+
    W: I'm sorry to hear that. What exactly was the problem?  
+    听到这个消息我很难过。到底是什么问题？
+
    M: First of all, the coach taking us to the hotel broke down and we had to wait for over 2 hours in the terrible heat before our replacement arrived.  
-    Then when we got to the hotel, we found our room hadn't been cleaned.
+    首先，带我们去酒店的长途汽车坏了，我们不得不在酷热中等了两个多小时，我们的替代者才来。
+
+   Then when we got to the hotel, we found our room hadn't been cleaned.  
+    然后当我们到达酒店时，我们发现我们的房间还没有打扫干净。
+
    W: Oh, dear. Did you complain to the hotel staff?  
+    哦，天哪。你向酒店工作人员投诉了吗？
+
    M: Of course, but we were told all the cleaners were off duty. Anyway, that's not all. The people in room above sounded like they were having all night parties every night.  
-    I demanded another room but the receptionist told me the hotel was full.
+    当然，但我们被告知所有清洁工都下班了。无论如何，这还不是全部。楼上房间里的人听起来好像每晚都在开通宵派对。
+
+   I demanded another room but the receptionist told me the hotel was full.  
+    我要另一个房间，但接待员告诉我酒店已经客满了。
+
    W: Oh, I see.  
+    哦，我明白了。
+
    M: And the worst thing was the food in the restaurant was awful. It was so bad we had to eat out all the time despite having paid for meals in the price of our holiday.  
+    最糟糕的是餐厅里的食物太难吃了。天气太糟糕了，我们不得不一直在外面吃饭，尽管我们已经用假期的价格支付了餐费。
+
    W: I do apologize. I'd like to offer you a 20% discount on the price of one of our autumn breaks as a gesture of good will.  
-   M: A 20% discount? You must be joking. I want to see the manager.
+    我真的很抱歉。为了表示善意，我想在我们的一次秋假的价格上给你打八折。
+
+   M: A 20% discount? You must be joking. I want to see the manager.  
+    八折优惠？你一定是在开玩笑。我想见经理。
 
 3. W: Good evening. Welcome back to Miss Know It All. For today's program, Mr.John Smith, chairman of National Weight and Health Association, has come with findings from out recent NWHA survey on obesity.  
-    Now, Mr.Smith, what is the purpose of your survey?
-   M: We wanted to explore how people around the world view obesity or being overweight. Actually, obesity has gone global.
+    晚上好欢迎回到万事通小姐。在今天的节目中，美国国家体重与健康协会主席约翰·史密斯先生带来了 NWHA 最近关于肥胖的调查结果。
+
+   Now, Mr.Smith, what is the purpose of your survey?  
+    史密斯先生，你的调查目的是什么？
+
+   M: We wanted to explore how people around the world view obesity or being overweight. Actually, obesity has gone global.  
+    我们想探索世界各地的人们是如何看待肥胖或超重的。事实上，肥胖已经走向全球。
+
    W: How did you do it?  
+    你是怎么做到的？
+
    M: We interviewed 16,000 people in 16 countries.  
+    我们采访了 16 个国家的 16000 人。
+
    W: How large is the overweight population of the world according to your estimates?  
+    根据你的估计，世界上超重人口有多大？
+
    M: 1.6 billion including 18 million children under age 5.  
+    16 亿，其中包括 1800 万 5 岁以下儿童。
+
    W: Really surprising, isn't it? And what are your findings about people's attitudes regarding obesity?  
+    真的很令人惊讶，不是吗？你对人们对肥胖的态度有什么发现？
+
    M: Our survey found that people in Brazil feel the most pressure to be thin. 83% of Brazilians think there is too much emphasis placed on weight. French are most likely to blame Americans.  
-    They use American's fast food as an excuse for their overweight problem. Russians are most likely to blame their parents for obesity. They are followed by Germans and Indians.  
-    When asked who encouraged them to try to lose weight, the Swiss tend to exclude their doctor.  
-   W: Stay tuned for more about the NWHA survey, we will be back soon after the break.
+    我们的调查发现，在巴西，人们对变瘦的压力最大。83%的巴西人认为过于强调体重。法国人最有可能指责美国人。
+
+   They use American's fast food as an excuse for their overweight problem. Russians are most likely to blame their parents for obesity. They are followed by Germans and Indians.  
+    他们用美国人的快餐作为他们超重问题的借口。俄罗斯人最有可能将肥胖归咎于他们的父母。紧随其后的是德国人和印度人。
+
+   When asked who encouraged them to try to lose weight, the Swiss tend to exclude their doctor.  
+    当被问及是谁鼓励他们减肥时，瑞士人倾向于排除他们的医生。
+
+   W: Stay tuned for more about the NWHA survey, we will be back soon after the break.  
+    请继续关注 NWHA 调查的更多信息，我们将在休息后不久回来。
 
 4. M: Emily, what do you do as a trendspotter?  
+    艾米莉，作为一个潮流观察者，你是做什么的？
+
    W: Very simple. Take digital photos of youth culture and send them to my company. It's called Look-Look.  
+    非常简单。拍摄青年文化的数码照片并发送到我的公司。它叫“看”“看”。
+
    M: What kind of company is it?  
+    这是一家什么样的公司？
+
    W: It's a youth culture marketing and trend forecasting firm in Hollywood. I'm one of Look-Look's 65,000 trendspotters worldwide.  
+    这是好莱坞的一家青年文化营销和趋势预测公司。我是 Look Look 全球 65000 名潮流达人之一。
+
    M: Look-Look gets a lot of information about the ever-shifting tastes of the youth market by these images.  
+    Look Look 通过这些图片获得了许多关于年轻人市场口味不断变化的信息。
+
    W: Yes, its clients are mostly companies. They get information about trends from Look-Look and develop their products.They also use the images of Look-Look on their websites to impress young people and promote their newly designed products.  
+    是的，它的客户大多是公司。他们从 Look Look 获得有关趋势的信息并开发自己的产品。他们还在网站上使用 Look Look 的图片来给年轻人留下深刻印象，并推广他们新设计的产品。
+
    M: But are there any people who don't like their pictures to be used on the website?  
+    但是，有没有人不喜欢自己的照片在网站上使用？
+
    W: I always have my subjects' permission before I take their pictures and put up their images onto Look-Look.com.  
+    在我拍摄他们的照片并将他们的照片发布到 Look-Look.com 上之前，我总是得到他们的许可。
+
    M: Where do you find your best subjects?  
+    你在哪里找到最好的科目？
+
    W: At school, in the park, at local supermarkets and near many music clubs.  
+    在学校、公园、当地超市和许多音乐俱乐部附近。
+
    M: What is difficult about this job?  
+    这份工作的难点是什么？
+
    W: To catch our original styles because so many young people try hard to stand out. You have to be able to find the difference between someone who is copying trends and someone who is truly inventing a new look.  
-   M: Thank you for talk with us, Emily.
+    抓住我们的原创风格，因为很多年轻人都在努力脱颖而出。你必须能够找到复制趋势的人和真正发明新外观的人之间的区别。
+
+   M: Thank you for talk with us, Emily.  
+    谢谢你和我们谈话，埃米莉。
 
 # SECTION 2 Reading
 
