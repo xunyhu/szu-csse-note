@@ -252,14 +252,14 @@
 
 - This means that living alone can help us discover who we are and what gives us meaning and purpose. It might be exactly what we need to reconnect.
 
-26. In 1950 living alone `D`.
+26. In 1950 living alone ``
 
 - [A] was identified as the biggest socail change
 - [B] was a temporary state for those who did so
 - [C] attracted 9% of American seasonal workers
 - [D] grew into the primary type of domestic life
 
-27. Today Americans who live alone `B`
+27. Today Americans who live alone ``
 
 - [A] expect to live in the Weatern states
 - [B] tend to maintain their way of life

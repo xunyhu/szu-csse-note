@@ -367,6 +367,16 @@
 - Diana:
   - Praise what the employee did. Be specific about why it was helpful. An employee who continually earns your praise alse deserves your attention as to how else to reward their behavior. Meaningful praise encourages people beyond anything else. Written comments are available for later review. They give them confidence that they can "do it again." I never regretted praising an employee who deserved it but often kicked myself for missing an opportunity.
 
+## Part C
+
+- At 21, Ricardo Semler became boss of his father's business in Brazil, Semco, which sold parts for ships. Semler Junior worked like a madman, from 7:30 a.m. , until midnight every day. One afternoon, while touring a factory in New York, he collapsed. The doctor who treated him said, "There's nothing wrong with you. But if you continue like this, you'll find a new home in our hospital." Semler got the message. He changed the way he worked. In fact, he changed the ways his employees worked too.
+- He let his workers take more responsibility so that they would be the ones worrying when things went wrong. He allowd them to set their own salaries, and he cut all the jobs he thought were unnecessary, like receptionists and secretaries.`This saved money and brought more equality to the company.` “Everyone at Semco, even top managers, meets guests in reception, does the photocopying, sends faxes, types letters and dials the phone.”
+- He completely reorganized the office: instead of walls, they have plants at Semco, so bosses can't shut themselves away from everyone else. `And the workers are free to decotate their workspace as they want.` As for uniforms, some people wear suits and others wear T-shirts.
+- Semler says, "We have a sales manager named Rubin Agater who sits there reading the newspaper hour after hour. He doesn't even pretend to be busy. But when a Semco pump on the other side of the world fails millions of gallons of oil are about to spill into the sea. Rubin springs into action `He knows everything there is to know about our pumps and how to fix them.` That's when he earns his salary. No one cares if he doesn't look busy the rest of the time."
+- Semco has flexible working hours: the employees decide when they need to arrice at work. `Also, Semco lets its workers use the company's machines for their own projects, and makes them take holidays for at least thirty days a year`.
+- It sounds perfect, but does it work? The answer is in the numbers: in the last six years, Semco's revenues have gone from $35 million to $212 million. The company has grown from eight hundred employees to 3,000. Why?
+- Semler says it's because of "peer pressure". Peer pressure makes employees work hard for everyone else.`If someone isn't doing his job well, the other workers will not allow the situation to continue.` In other words, Ricardo Semler treats his workers like adults and expects them to act like adults. And they do.
+
 # SECTION 3 Writing
 
 ## Part A

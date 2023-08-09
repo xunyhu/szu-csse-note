@@ -3,5 +3,15 @@ rest    /rest/  v.休息;(被)支撑;安息，长眠;     n.其他;其余;休息
 remain  /rɪˈmeɪn/   v.（事实、问题等）仍然是（表示强调）;剩余，余留;保留，坚持（观点、态度或信念）; n.剩余物，残余（物）;遗体，残骸;
 restriction  /rɪˈstrɪkʃn/   n.限制;约束;制约因素;限制规定;限制法规;
 reconnect   /ˌriːkəˈnekt/   v.再连接;再接合;
+relate      /rɪˈleɪt/       vt.联系;讲(故事);把…联系起来;叙述;使有联系;
+responsibility      /rɪˌspɒnsəˈbɪləti/      n.责任;负责;职责;义务;  
+respond     /rɪˈspɒnd/      v.响应;回应;
+receptionist    /rɪˈsepʃənɪst/  n.接待员
+reception       /rɪˈsepʃn/      n.接待;招待会;接待处;
+reorganized     /riˈɔːɡənaɪzd/  v.改组;重新组织;整顿;   adj.重组的；重新制定的;     reorganize的过去分词和过去式;
+
+
+
+
 
 
