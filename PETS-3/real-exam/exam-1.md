@@ -6,7 +6,6 @@
    M: I've been told that green tea can lower the risks of heart disease, stroke and cancers.  
    W: Besides that, it's good for memory. And it helps fall down eating of the brain.
 
-   - benefit 益处 disease 疾病 stroke 中风，击球
    - helps fall down eating of the brain 有助于降低对大脑的消耗
 
 2. W: Oh, my neck is stiff.  
@@ -19,10 +18,8 @@
    W: What sounds to be a problem?
    M: Well, he has trouble concentrating when getting along with other children. I was wondering there might be something on his mind. Some problem at home?
 
-   - frozen 冻结的，冷冻的
    - What sounds to be a problem? 听起来有什么问题？
    - along with 随着;随同…一起 trouble concentrating 注意力不集中 concentrating 集中
-   - wondering 想知道; wonder 的现在分词 might 可能 mind 头脑，大脑
 
 4. W: Sally, why are people now do business more and more?  
    M: Right, I have to be on the flight every week.  

@@ -408,6 +408,9 @@
 
 ## 第 13 章 倒装语序
 
+- [英语倒装句](https://baike.baidu.com/item/%E5%80%92%E8%A3%85%E5%8F%A5/1525821?fromtitle=%E8%8B%B1%E8%AF%AD%E5%80%92%E8%A3%85%E5%8F%A5&fromid=17502625&fr=aladdin)
+  - 在现实的语言实践中，由于语法结构的要求，或是由于修辞的需要，往往要改变句子的自然语序，把一些本应置于主语之后的句子成分提到主语之前。我们称这种语序的变化为“倒装语序”这样的倒装语序可能使句子的内在含义产生细微的、甚至明显的改变。
+
 ## 第 14 章 名词性从句
 
 - [从句-百度百科](https://baike.baidu.com/item/%E4%BB%8E%E5%8F%A5/2492327?fromModule=lemma_inlink)
@@ -417,8 +420,32 @@
   - 同位语: 一个名词（或其它形式）对另一个名词或代词进行解释或补充说明，这个名词（或其它形式）就是同位语。
 
 1. 连接词
+
+   - ![image](https://bkimg.cdn.bcebos.com/pic/78310a55b319ebc4caa333ee8d26cffc1f1716e9?x-bce-process=image/resize,m_lfit,w_440,limit_1/format,f_auto)
+   - 引导名词性从句的连接词可分为三类：
+     - 1）连词（5 个）：that , whether,if （均表示“是否”表明从句内容的不确定性）as if , as though （均表示“好像”，“似乎”）
+     - 2）连接代词（9 个）：what/whatever, who/whoever, whom/whomever, whose， which/whichever
+     - 3）连接副词（8 个）：when/whenever, where/wherever, how/however, why,because
+
 2. 按在主句中充当的成分分类
+
+   - 1）主语从句
+     - What he wants to tell us is not clear. 他要跟我们说什么，还不清楚。
+     - 有时为避免句子头重脚轻，常用形式主语 it 代替主语从句作形式主语放于句首，而把主语从句置于句末。主语从句后的谓语动词一般用单数形式。常用句型如下：
+       - It's a great pity that they didn't get married.
+       - It's splendid that you passed your exam.
+   - 2）宾语从句
+     - 名词从句用作宾语的从句叫宾语从句。
+     - He has told me that he will go to Shanghai tomorrow. 他已经告诉我他明天要去上海。
+     - She always thinks of how she can work well. 她总是在想怎样能把工作做好。
+   - 3）表语从句
+   - 4）同位语从句
+
 3. 按连接词的种类分类
+   - 1）名词性 that 从句
+   - 2）名词性 wh-从句
+   - 3）if 或 whether 引导的名词从句
+   - 4）否定转移
 
 ## 第 15 章 形容词性从句
 

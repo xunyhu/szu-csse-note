@@ -1,3 +1,106 @@
+# SECTION 1 Listening
+
+## Part A
+
+1. W: Oh, I'm sorry, Mr.Smith.  
+   M: What's up, Mary?  
+   W: I'm afraid I can't work overtime tomorrow. John and I are holding a party for the 5th anniversary of our wedding.  
+   M: That's all right. Enjoy yourselves.
+
+2. W: Guess who I met at the grocery store this morning?  
+   M: Well, I can't imagine.  
+   W: Do you remember Mr.Johnson? He used to live in the building next to ours.  
+   M: Oh, yes, now I remember. He had dark hair and wore glasses.
+
+3. M: I've just been interviewed for a reporter's job on the evening paper.  
+   W: What's your overall feeling about how it went?  
+   M: Well, I think I made a good impression.  
+    It seems that they were interested in me because I've worked as a reporter before.
+
+4. W: Northwest Airways, good morning. Can I help you?  
+   M: Yes, do you have any flights to Sydney next Tuesday afternoon?  
+   W: Yes, there is a flight at 6∶45 and one at 18∶00.  
+   M: That's fine. Could you tell me how much return flight costs?  
+   W: That would be 418 dollars.
+
+5. W: You look tired, John. What have you been doing?  
+   M: My teacher wasn't happy with my mid-term essay. She told me to do it all over again.  
+   W: At least, she gave you a second chance.
+
+6. W: I'm worried about my son at driving, but he won't listen to me.  
+   M: Well, teenagers always think they won't get hurt, but the fact is just the opposite.  
+   W: What should I do?  
+   M: Keep talking with him and lead by an example. Parents always matter.
+
+7. W: Where is Jack? His manager is trying to catch him several times but has always just missed him.  
+   M: That's because he is being in and out all day.  
+   W: What's been going on?  
+   M: It has been many emergency calls and he is the only technician available to go out and deal with them.
+
+8. W: Can you change the bill for me please?  
+   M: Sure, 5,10,15,20. OK, 20.  
+   W: Can I have some coins? I need them for a phone call.  
+   M: Here you are.
+
+9. W: I went to the dentist's to get my teeth polished this morning.  
+   M: How terrible!  
+   W: Well, the chair was so cleverly placed. I got a terrific view of Times Square down below. He finished the job before I knew it.
+
+10. M: I hear the guy who is going to deliver the lecture this weekend spend a year living in the rainforest.  
+    W: Great. I'm doing a report on the rainforest. Maybe I can get some new information to add to it.
+
+## Part B
+
+1. M: Your readers are interested in your childhood. What was it like?  
+   W: I grew up in a small town. We lived in very poor housing but we lived always in very beautiful settings, so I have favorite trees and I have contacted with birds.  
+    My parents were farm workers. Though we were poor for most of part, I think I was often happy.  
+   M: It would not have been expected from that background that you'll become a literary figure. Was your mother ambitious with you?  
+   W: Well, my mother wasn't especially ambitious with me in the sense of going to college when I grew up. I think her greatest contribution was simply that she loved me very much.  
+    No matter what happened, I had my mother with me.  
+   M: She gave you confidence.  
+   W: Oh, she did. She earned very little money, offering about $10 a week and never more than $20 a week. And in spite of that, she managed to buy a typewriter for me.  
+    She managed to buy me my first toothpaste when I left home. She just wanted me to be able to do things that she couldn't do even she didn't know what they were.
+
+2. W: Good morning. Can I help you?  
+   M: I'd like to make a complaint about my holiday in Paris last week.  
+   W: I'm sorry to hear that. What exactly was the problem?  
+   M: First of all, the coach taking us to the hotel broke down and we had to wait for over 2 hours in the terrible heat before our replacement arrived.  
+    Then when we got to the hotel, we found our room hadn't been cleaned.
+   W: Oh, dear. Did you complain to the hotel staff?  
+   M: Of course, but we were told all the cleaners were off duty. Anyway, that's not all. The people in room above sounded like they were having all night parties every night.  
+    I demanded another room but the receptionist told me the hotel was full.
+   W: Oh, I see.  
+   M: And the worst thing was the food in the restaurant was awful. It was so bad we had to eat out all the time despite having paid for meals in the price of our holiday.  
+   W: I do apologize. I'd like to offer you a 20% discount on the price of one of our autumn breaks as a gesture of good will.  
+   M: A 20% discount? You must be joking. I want to see the manager.
+
+3. W: Good evening. Welcome back to Miss Know It All. For today's program, Mr.John Smith, chairman of National Weight and Health Association, has come with findings from out recent NWHA survey on obesity.  
+    Now, Mr.Smith, what is the purpose of your survey?
+   M: We wanted to explore how people around the world view obesity or being overweight. Actually, obesity has gone global.
+   W: How did you do it?  
+   M: We interviewed 16,000 people in 16 countries.  
+   W: How large is the overweight population of the world according to your estimates?  
+   M: 1.6 billion including 18 million children under age 5.  
+   W: Really surprising, isn't it? And what are your findings about people's attitudes regarding obesity?  
+   M: Our survey found that people in Brazil feel the most pressure to be thin. 83% of Brazilians think there is too much emphasis placed on weight. French are most likely to blame Americans.  
+    They use American's fast food as an excuse for their overweight problem. Russians are most likely to blame their parents for obesity. They are followed by Germans and Indians.  
+    When asked who encouraged them to try to lose weight, the Swiss tend to exclude their doctor.  
+   W: Stay tuned for more about the NWHA survey, we will be back soon after the break.
+
+4. M: Emily, what do you do as a trendspotter?  
+   W: Very simple. Take digital photos of youth culture and send them to my company. It's called Look-Look.  
+   M: What kind of company is it?  
+   W: It's a youth culture marketing and trend forecasting firm in Hollywood. I'm one of Look-Look's 65,000 trendspotters worldwide.  
+   M: Look-Look gets a lot of information about the ever-shifting tastes of the youth market by these images.  
+   W: Yes, its clients are mostly companies. They get information about trends from Look-Look and develop their products.They also use the images of Look-Look on their websites to impress young people and promote their newly designed products.  
+   M: But are there any people who don't like their pictures to be used on the website?  
+   W: I always have my subjects' permission before I take their pictures and put up their images onto Look-Look.com.  
+   M: Where do you find your best subjects?  
+   W: At school, in the park, at local supermarkets and near many music clubs.  
+   M: What is difficult about this job?  
+   W: To catch our original styles because so many young people try hard to stand out. You have to be able to find the difference between someone who is copying trends and someone who is truly inventing a new look.  
+   M: Thank you for talk with us, Emily.
+
 # SECTION 2 Reading
 
 (50minutes)

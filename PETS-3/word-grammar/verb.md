@@ -24,7 +24,8 @@
      - 6）终止系动词
 
 3. [助动词](https://baike.baidu.com/item/%E5%8A%A9%E5%8A%A8%E8%AF%8D/1422500?fromModule=lemma_inlink)
-   **协助主要动词构成谓语**的词叫助动词（Auxiliary Verb），也叫辅助动词。被协助的动词称作主要动词（Main Verb）。助动词用来构成时态和语态。 助动词具有语法意义，但除情态助动词外没有词汇意义，不可单独作谓语。它没有对应的汉译，例如： He doesn't like English. 他不喜欢英语。（does 是助动词，无词义；like 是主要动词，有词义）
+
+   - **协助主要动词构成谓语**的词叫助动词（Auxiliary Verb），也叫辅助动词。被协助的动词称作主要动词（Main Verb）。助动词用来构成时态和语态。 助动词具有语法意义，但除情态助动词外没有词汇意义，不可单独作谓语。它没有对应的汉译，例如： He doesn't like English. 他不喜欢英语。（does 是助动词，无词义；like 是主要动词，有词义）
 
 ## 英语中的动词
 
@@ -51,11 +52,39 @@
      - Students should learn to `look up` new words in dictionaries.
      - The young ought to `take care of` the old.
 
-5. 五种形态
+5. **五种形态**
+
    - 分别是：原形（Original Form）、第三人称单数形式（Singular Form in Third Personal）、过去式（Past Form）、过去分词（Past Participle）、现在分词（Present Participle）。
    - [动词的五种变化规则表](https://www.renrendoc.com/paper/104282982.html)
+
+     - ![image](https://file1.renrendoc.com/fileroot_temp2/2020-11/27/ffb7bd8a-443c-4b46-ba91-e77f4b582861/ffb7bd8a-443c-4b46-ba91-e77f4b5828611.gif)
+     - 1）第三人称单数
+
+       - 一般情况在动词后加 s
+       - 以 ch, sh, s, o, x 结尾的动词后加 es
+         - stretch -> stretches
+         - glass -> glasses
+       - 以辅音字母加 y 结尾的动词，改 y 为 i, 再加 es
+       - 以元音字母加 y 结尾的动词后加 s
+
+     - 2）现在分词
+
+       - 在动词后面加 ing
+         - stretch -> stretching;
+       - 以不发音的 e 结尾的动词，去掉 e 再加 ing
+         - stroke -> stroking;
+       - 以重读闭音节结尾的词，且末尾只有一个辅音字母，双写该辅音字母后面再加 ing
+       - 以 ie 结尾的动词要变 ie 为 y，再加 ing
+
+     - 3）过去式和过去分词
+
+       - 动词原形加 ed
+       - 以辅音字母加 y 结尾的动词变 y 为 i,再加 ed
+       - 以 e 结尾的动词，直接加 d
+         - stroke -> stroked
+
    - [不规则动词](https://baike.baidu.com/item/%E4%B8%8D%E8%A7%84%E5%88%99%E5%8A%A8%E8%AF%8D?fromModule=lemma_inlink)
-     - 英语动词按其过去式和过去分词的构成方式可分为`规则动词和不规则动词`。规则动词的过去式和过去分词由词尾加-ed 构成，结尾是 e 时，只加 d，结尾是 y 时，将 y 改为 ied。而不规则动词的变化因词而异。
+     - 英语动词按其过去式和过去分词的构成方式可分为`规则动词和不规则动词`。规则动词的过去式和过去分词由`词尾加-ed `构成，结尾是 e 时，只加 d，结尾是 y 时，将 y 改为 ied。而不规则动词的变化因词而异。
 
 ## 非实义动词
 
