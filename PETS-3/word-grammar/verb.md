@@ -35,7 +35,7 @@
 
 2. 其后带有多少宾语
 
-   - 分别是：及物动词（Transitive Verb）、不及物动词（Intransitive Verb）、双及物动词（Ditransitive Verb）、双重及物动词（Double Transitive Verb），前两者缩写形式分别为 vt. 和 vi.，后两者词典中一般只当做及物动词，语言学家也用 Vg（“Give”型动词）和 Vc（“Consider”型动词）描述后两者。
+   - 分别是：及物动词（Transitive Verb）、不及物动词（Intransitive Verb）、双及物动词（Ditransitive Verb）、双重及物动词（Double Transitive Verb），前两者`缩写形式分别为 vt. 和 vi.`，后两者词典中一般只当做及物动词，语言学家也用 Vg（“Give”型动词）和 Vc（“Consider”型动词）描述后两者。
    - 同一动词有时可用作及物动词，有时可用作不及物动词。
 
 3. 根据是否受主语的人称和数的限制
@@ -74,6 +74,7 @@
        - 以不发音的 e 结尾的动词，去掉 e 再加 ing
          - stroke -> stroking;
        - 以重读闭音节结尾的词，且末尾只有一个辅音字母，双写该辅音字母后面再加 ing
+         - regret -> regretting
        - 以 ie 结尾的动词要变 ie 为 y，再加 ing
 
      - 3）过去式和过去分词

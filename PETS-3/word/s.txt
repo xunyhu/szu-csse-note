@@ -1,12 +1,14 @@
-sincere /sɪnˈsɪə(r)/ 真诚的; 比较级： sincerer; 最高级： sincerest; 派生词： sincerity n.诚意;真挚;
-stroke  /strəʊk/  n.中风;击球(动作);一笔;(打、击等的)一下;轻抚;一击;钟声;游泳姿势; vt. 轻抚(动物的毛皮);抚摩(物体表面或头发等); 第三人称单数： strokes; 现在分词： stroking; 过去式： stroked
-stiff  /stɪf/  adj.僵硬的; n.死尸; 比较级： stiffer; 最高级： stiffest; 派生词： stiffly adv. stiffness n.
-stretch  /stretʃ/  v.伸展;  第三人称单数： stretches; 现在分词： stretching; 过去式： stretched
-statesman   n.政治家
-sell    /sel/   v.出售;卖;卖出…;转让;   n.让人失望的东西;   过去式： sold;  过去分词： sold;
-secretary       /ˈsekrətri/     n.秘书;   部长;   助理;   大臣;   (俱乐部、社团等的)干事，文书;   复数 secretaries；
-shut        /ʃʌt/       v.关闭; adj.关闭;关门;停业; n.关闭;冷塞;
-situation   /ˌsɪtʃuˈeɪʃn/   n.情况;状况;形势;局面;职业;(建筑物或城镇的)地理位置，环境特点;工作岗位;
-spill       /spɪl/      v.溢出;   (使)洒出;   涌出;   泼出;   蜂拥而出;     n.泄漏(量);   溢出(量);   洒出(量);   跌落;   泼出(量);   
+sincere         /sɪnˈsɪə(r)/        adj.真诚的; 比较级： sincerer; 最高级： sincerest; 派生词： sincerity n.诚意;真挚;
+stroke          /strəʊk/            n.中风;击球(动作);一笔;(打、击等的)一下;轻抚;一击;钟声;游泳姿势; vt. 轻抚(动物的毛皮);抚摩(物体表面或头发等); 第三人称单数： strokes; 现在分词： stroking; 过去式： stroked
+stiff           /stɪf/              adj.僵硬的; n.死尸; 比较级： stiffer; 最高级： stiffest; 派生词： stiffly adv. stiffness n.
+stretch         /stretʃ/            v.伸展;  第三人称单数： stretches; 现在分词： stretching; 过去式： stretched
+statesman                           n.政治家
+sell            /sel/               v.出售;卖;卖出…;转让;   n.让人失望的东西;   过去式： sold;  过去分词： sold;
+secretary       /ˈsekrətri/         n.秘书;   部长;   助理;   大臣;   (俱乐部、社团等的)干事，文书;   复数 secretaries；
+shut            /ʃʌt/               v.关闭; adj.关闭;关门;停业; n.关闭;冷塞;
+situation       /ˌsɪtʃuˈeɪʃn/       n.情况;状况;形势;局面;职业;(建筑物或城镇的)地理位置，环境特点;工作岗位;
+spill           /spɪl/              v.溢出;   (使)洒出;   涌出;   泼出;   蜂拥而出;     n.泄漏(量);   溢出(量);   洒出(量);   跌落;   泼出(量);   
+specific        /spəˈsɪfɪk/         adj.具体的;特定的;明确的;       n.特性;细节;特效药;
+
 
 

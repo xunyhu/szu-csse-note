@@ -289,6 +289,7 @@
 ### 清辅音
 
 1. [p]
+   - political /pəˈlɪtɪkl/
 2. [t]
 3. [k]
 4. [f]
@@ -296,6 +297,7 @@
 6. [s]
 7. [ʃ]
    - ship /ʃɪp/
+   - assertion /əˈsɜːʃn/
 8. [h]
    - house /haʊs , haʊz/
 9. [ts]

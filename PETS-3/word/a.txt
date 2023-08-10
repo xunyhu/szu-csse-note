@@ -1,7 +1,13 @@
-assertion /əˈsɜːʃn/ n.断言;主张;声称;
-appreciated /əˈpriːʃieɪtɪd/ v.理解;感谢; appreciate的过去分词和过去式;
-anniversary  /ˌænɪˈvɜːsəri/  n.周年纪念日
-ambition    /æmˈbɪʃn/   n.野心;雄心;抱负;志向; v.热望;
-atomization 雾化
-aloneness   单独;孤独;孤单;独处
-alone /əˈləʊn/  adj./adv.单独;独自;仅仅，单，只;唯一，只有;孤独;单独地;   比较级： aloneer;  最高级： aloneest
+assertion           /əˈsɜːʃn/           n.断言;主张;声称;
+appreciated         /əˈpriːʃieɪtɪd/     v.理解;感谢; appreciate的过去分词和过去式;
+apologize           /əˈpɒlədʒaɪz/       vi.道歉;谢罪
+anniversary         /ˌænɪˈvɜːsəri/      n.周年纪念日
+ambition            /æmˈbɪʃn/           n.野心;雄心;抱负;志向; v.热望;
+atomization                             雾化
+aloneness                               单独;孤独;孤单;独处
+alone               /əˈləʊn/            adj./adv.单独;独自;仅仅，单，只;唯一，只有;孤独;单独地;   比较级： aloneer;  最高级： aloneest
+attribute           /əˈtrɪbjuːt/        n.属性;特征;性质;       vt.把…归因于;认为…是由于;
+available           /əˈveɪləbl/         adj.可获得的;有空的;可购得的;可找到的;
+avail               /əˈveɪl/            n.帮助;利益;效用;       vt.有用;有益;有帮助;
+avoidance           /əˈvɔɪdəns/         n.避免;防止;避开;回避;
+avoid               /əˈvɔɪd/            vt.避免;防止;避开;回避;躲避;

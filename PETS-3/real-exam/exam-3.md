@@ -1,3 +1,51 @@
+# SECTION 1 Listening
+
+## Part A
+
+1. W: Make, may you ... next week. could you do that for us. / Mike, we'll need to rent a car for our trip next week. Could you do that for us ?
+   M: certainly, i need know you want to. / Certaninly, I need to know whether you want an ordinary car, a sport's model, or a station wagon.
+   W: Just not everyone. / Just the ordinary one.
+2. M: Mary, you look upset, what's wrong? / Mary, you lock upset. What's wrong ?
+   W: well, about my sales plan. / Well, the boss was angry about my sales plan.
+   M: what about / Was it overdue, or something?
+   W: ...but i did't check them. / It's about the figures, i got some of them wrong. Lily gave me those figures, but i didn't check them.
+3. W: Alon, dou you know. / Allen, do you know why our client hasn't arrived yet?
+   M: well, she is plan the .. in New York. / Well, his plane delayed in New York.
+   W: Ok, Now i have smoe ... my / Ok, now i have some extra time to revise my marketing report.
+4. W: Did you ... yearsterday / Did you attend the lecture by Dr.Lee yesterday?
+   M: yes. i did. / Yes. i did.
+   W: ...what did you think about? / What did you think of it?
+   M: it was amazing, / It was amazing, but i can't agree with him on some points.
+5. W: Jane, how / Jim, how do children like the Home economics classes in your school?
+   M: they are very happy / They are very happy we have it beacuse we teach them how to cook, to sew, some vital skills.
+   W: Year, parents as well as cooking at home. / Yeah, Parents really emphasize cooking and sewing at home.
+6. M: Did Pr really have
+   W: yes,
+   M: Oh, good, she want be
+7. W: I feel sorry to my borther, he is very s...
+   M: why is that?
+   W: ...study so hard
+   M:
+8. W: we've
+   M:
+   W: I forget that my ID card ...in the dormitory.
+9. W: I'am so
+   M:
+   W: Oh, how about of you
+10. M: Jan, Helon, we gona have a parting next friday.
+    W: realy?
+    M: yes, could you order some foods and drinks.
+    W: ok, get everything reading
+
+## Part B
+
+1.
+2.
+3.
+4. (22~25)  
+   W:
+   M:
+
 # SECTION 2 Reading
 
 ## Part A

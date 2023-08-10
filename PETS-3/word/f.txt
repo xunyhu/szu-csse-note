@@ -1,2 +1,10 @@
-fulfilled   /fʊlˈfɪld/  adj.满足的;感到满足的; v.履行;实现; fulfil的过去分词和过去式;fulfill的过去分词和过去式
-freeze   /friːz/  v.冻结; n.冻结;停止; 第三人称单数： freezes; 现在分词： freezing; 过去式： froze; 过去分词： frozen;
+fulfilled       /fʊlˈfɪld/      adj.满足的;感到满足的;  v.履行;实现; fulfil的过去分词和过去式;  fulfill的过去分词和过去式
+full            /fʊl/           adj.完全的;满的;   adv.直接地;     n.完全;极盛时;      比较级： fuller;    最高级： fullest
+fulfil          /fʊlˈfɪl/       vt.履行;实现;完成;执行;符合;目的是;具备;使高兴;起…作用;
+freeze          /friːz/         v.冻结;     n.冻结;停止; 第三人称单数： freezes; 现在分词： freezing; 过去式： froze; 过去分词： frozen;
+feedback        /ˈfiːdbæk/      n.反馈;反馈的意见(或信息);(电器的)反馈噪音;
+feed            /fiːd/          v.供给;提供（意见或信息等）;喂养;       n.(机器的)进料;（机器的）进料装置，进料器;动物的饲料;(婴儿的)一次喂奶，一餐;
+figure          /ˈfɪɡə(r)/      n.（书中的）图，表;人物;人，动物;图形;
+figures         /ˈfɪɡəz/        n.位数;算术;数字符号;       figure的第三人称单数和复数
+
+

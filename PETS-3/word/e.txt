@@ -1,19 +1,27 @@
-energetic /ˌenəˈdʒetɪk/ adj.精力充沛的; 派生词： energetically adv.积极地；精力充沛地;
-especially  /ɪˈspeʃəli/ adv.特别;尤其;   especial adj.特别的;
-effective   /ɪˈfektɪv/  adj.有效的; n.有生力量;精兵; 复数： effectives; 比较级： more effective; 最高级： most effective; 派生词： effectiveness n.
-elections   /ɪˈlɛkʃənz/  n.选举，推选(尤指从政); election的复数; 
-exclusively  /ɪkˈskluːsɪvli/  adv.专有地;完全地; 
-extraordinary   /ɪkˈstrɔːdnri/  adj.特别的，临时的;非凡的;  派生词： extraordinarily adv.
-examine   /ɪɡˈzæmɪn/    vt.检查;审查;(仔细地)检验;调查;考察;考查;测验(某人);（尤指在法庭上）审问，查问;
-evidence    /ˈevɪdəns/      n.证据;(法庭上的)证据，证词，人证，物证;    vt.证明;表明;作为…的证据;
-expensive   /ɪkˈspensɪv/    adj.昂贵的;价格高的;花钱多的;
-expanding   /ɪkˈspændɪŋ/    v.扩大，增加;   expand的现在分词
-exactly     /ɪɡˈzæktli/     adv.究竟，到底;准确地;正是如此;
-expect      /ɪkˈspekt/      v.预期;预计;期待;
-expert      /ˈekspɜːt/      n.专家;行家;能手;   adj.专家的;经验(或知识)丰富的;熟练的;内行的;
-except      /ɪkˈsept/       prep.除了;(用于所言不包括的人或事物前)除…之外;  conj.除了;只是
-engage      /ɪnˈɡeɪdʒ/      v.从事;（使）衔接，啮合;聘用;雇用;与（某人）交战;吸引住(注意力、兴趣);与…建立密切关系;尽力理解;
-enable      /ɪˈneɪbl/       vt.使能够;使实现;使可能;
+energetic           /ˌenəˈdʒetɪk/           adj.精力充沛的; 派生词： energetically adv.积极地；精力充沛地;
+engine              /ˈendʒɪn/               n.发动机;引擎;机车;  vt.给…安装发动机;
+engineer            /ˌendʒɪˈnɪə(r)/         n.工程师;设计师;技师;       vt.密谋策划;设计制造;
+especially          /ɪˈspeʃəli/             adv.特别;尤其;   especial adj.特别的;
+effect              /ɪˈfekt/                n.影响;(艺术家或作家所要创造的特定)外观，声响，印象，效果;效应;     vt.使发生;实现;引起;
+effective           /ɪˈfektɪv/              adj.有效的;     n.有生力量;精兵;    复数： effectives; 比较级： more effective; 最高级： most effective; 派生词： effectiveness n.
+elections           /ɪˈlɛkʃənz/             n.选举，推选(尤指从政); election的复数; 
+electric            /ɪˈlektrɪk/             adj.电的;电动的;发电的;     n.供电;
+electricity         /ɪˌlekˈtrɪsəti/         n.电;电能;兴奋;激动;强烈的感情;     
+exclusively         /ɪkˈskluːsɪvli/         adv.专有地;完全地; 
+extraordinary       /ɪkˈstrɔːdnri/          adj.特别的，临时的;非凡的;  派生词： extraordinarily adv.
+examine             /ɪɡˈzæmɪn/              vt.检查;审查;(仔细地)检验;调查;考察;考查;测验(某人);（尤指在法庭上）审问，查问;
+evidence            /ˈevɪdəns/              n.证据;(法庭上的)证据，证词，人证，物证;    vt.证明;表明;作为…的证据;
+expensive           /ɪkˈspensɪv/            adj.昂贵的;价格高的;花钱多的;
+expanding           /ɪkˈspændɪŋ/            v.扩大，增加;   expand的现在分词
+exactly             /ɪɡˈzæktli/             adv.究竟，到底;准确地;正是如此;
+expect              /ɪkˈspekt/              v.预期;预计;期待;
+expert              /ˈekspɜːt/              n.专家;行家;能手;       adj.专家的;经验(或知识)丰富的;熟练的;内行的;
+except              /ɪkˈsept/               prep.除了;(用于所言不包括的人或事物前)除…之外;  conj.除了;只是
+engage              /ɪnˈɡeɪdʒ/              v.从事;（使）衔接，啮合;聘用;雇用;与（某人）交战;吸引住(注意力、兴趣);与…建立密切关系;尽力理解;
+enable              /ɪˈneɪbl/               vt.使能够;使实现;使可能;
+employee            /ɪmˈplɔɪiː/             n.雇员;雇工;受雇者;
+employer                                    n.雇主;
+encourage           /ɪnˈkʌrɪdʒ/             vt.鼓励;支持;促进;激励;
 
 
 

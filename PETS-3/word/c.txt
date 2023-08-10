@@ -1,13 +1,22 @@
-constructive /kənˈstrʌktɪv/ adj.建设性的;积极的; 派生词： constructively adv.
-criticism   /ˈkrɪtɪsɪzəm/ n.批评;批判;
-career  /kəˈrɪə(r)/ n.职业; vi.(尤指失控地)猛冲; adj.职业性质的; 第三人称单数： careers复数： careers现在分词： careering过去式： careered过去分词： careered
-conventional    /kənˈvenʃənl/   adj.常规的;传统的;习惯的;   派生词： conventionality n. conventionally adv.;
-couple  /ˈkʌpl/ n.夫妇;(人)一对;(尤指)夫妻，情侣;两人;  v.(把车辆或设备等)连接，结合;性交;交配;
-compensate  /ˈkɒmpenseɪt/   v.补偿;给(某人)赔偿(或赔款);弥补;
-challenge   /ˈtʃælɪndʒ/     n.挑战;质疑;质询;提出异议;  vt.对…怀疑(或质疑);拒绝接受;盘问;
-conclude    /kənˈkluːd/     v.终止;得出结论;达成，订立，缔结(协定);断定;推断出;
-collapse    /kəˈlæps/       v.(突然)倒塌;折叠;(尤指因病重而)晕倒;   n.崩溃;(突然的)倒塌;塌陷;垮掉;
-completely  /kəmˈpliːtli/   adv.完全地;完整地;彻底地;   
-complete    /kəmˈpliːt/     adj.完成;(用以强调)完全的，彻底的;  vt.完成;使完整;结束;
+constructive            /kənˈstrʌktɪv/              adj.建设性的;积极的; 派生词： constructively adv.
+constructor             /kənˈstrʌktə(r)/            n.(尤指汽车或飞机的)建造者，制造者，建造商;
+criticism               /ˈkrɪtɪsɪzəm/               n.批评;批判;
+career                  /kəˈrɪə(r)/                 n.职业; vi.(尤指失控地)猛冲;    adj.职业性质的; 第三人称单数： careers复数： careers现在分词： careering过去式： careered过去分词： careered
+conventional            /kənˈvenʃənl/               adj.常规的;传统的;习惯的;   派生词： conventionality n. conventionally adv.;
+couple                  /ˈkʌpl/                     n.夫妇;(人)一对;(尤指)夫妻，情侣;两人;  v.(把车辆或设备等)连接，结合;性交;交配;
+compensate              /ˈkɒmpenseɪt/               v.补偿;给(某人)赔偿(或赔款);弥补;
+challenge               /ˈtʃælɪndʒ/                 n.挑战;质疑;质询;提出异议;  vt.对…怀疑(或质疑);拒绝接受;盘问;
+conclude                /kənˈkluːd/                 v.终止;得出结论;达成，订立，缔结(协定);断定;推断出;
+collapse                /kəˈlæps/                   v.(突然)倒塌;折叠;(尤指因病重而)晕倒;   n.崩溃;(突然的)倒塌;塌陷;垮掉;
+completely              /kəmˈpliːtli/               adv.完全地;完整地;彻底地;   
+complete                /kəmˈpliːt/                 adj.完成;(用以强调)完全的，彻底的;  vt.完成;使完整;结束;
+consistent              /kənˈsɪstənt/               adj.与…一致的;一致的;符合的;持续的;相符的;连续的;
+consider                /kənˈsɪdə(r)/               v.考虑;认为;觉得;顾及;(尤指为作出决定而)仔细考虑;以为;细想;体谅;端详;
+confidence              /ˈkɒnfɪdəns/                n.信心;信任，信赖;信任;自信心;
+certain                 /ˈsɜːtn/                    adj.确定;(不提及细节时用)某事，某人，某种;  
+certainly               /ˈsɜːtnli/                  adv.当然，肯定
+client                  /ˈklaɪənt/                  n.客户;(连接在服务器上的)客户机;委托人;当事人;
+
+
 
 
