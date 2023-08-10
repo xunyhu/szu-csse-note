@@ -1,6 +1,11 @@
-insincere           /ˌɪnsɪnˈsɪə(r)/         adj.不诚恳的;不真心的; 派生词： insincerely adv. insincerity n.
-interview           /ˈɪntəvjuː/             n.采访;面试;  v.(媒体)采访;（私下）提问，面谈;
-ignore              /ɪɡˈnɔː(r)/             vt.忽视;不予理睬;
 identify            /aɪˈdentɪfaɪ/           vt.识别;确认;发现;鉴定;
-indicate            /ˈɪndɪkeɪt/             v.指示;表明;显示;暗示;示意;
+ignore              /ɪɡˈnɔː(r)/             vt.忽视;不予理睬;
+immediate           /ɪˈmiːdiət/             adj.立即的;立刻的;（关系或级别）最接近的，直系的，直接的;
 impose              /ɪmˈpəʊz/               v.把…强加于;使接受，使意识到;推行，采用(规章制度);迫使;强制实行;
+indeed              /ɪnˈdiːd/               adv.的确;其实;强调肯定的陈述或答复;
+indicate            /ˈɪndɪkeɪt/             v.指示;表明;显示;暗示;示意;
+insincere           /ˌɪnsɪnˈsɪə(r)/         adj.不诚恳的;不真心的; 派生词： insincerely adv. insincerity n.
+interpret           /ɪnˈtɜːprət/            v.解释;口译;诠释;说明;把…理解为;演绎;领会
+interview           /ˈɪntəvjuː/             n.采访;面试;  v.(媒体)采访;（私下）提问，面谈;
+investigation       /ɪnˌvestɪˈɡeɪʃn/        n.调查;   (正式的)侦查;   科学研究;   学术研究;  
+investment          /ɪnˈvestmənt/           n.投资;（时间、精力的）投入;投资额;投资物;

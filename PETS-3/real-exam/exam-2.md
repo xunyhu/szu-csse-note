@@ -199,92 +199,31 @@
 
 - In 1997, 25 Japanese citizens, all older than 60, launched Jeeba (the name means "old man and old woman") to make senior-friendly products. They knew they were making history when they coined their company motto: "Of the elderly, by the elderly and for the elderly." They do not hire young people, and the oldest of their workers is 75.
 
-  - senior、senior-friendly junior
-  - citizens citizen city cities
-  - launched
-  - motto
-  - hire 雇用;聘用;租用;
-
 - Firms run by senior citizens are still a rarity, in Japan and worldwide. But the elderly have numbers on their side. Healther and longer-living seniors, born immediately after World War II, are reaching retirement age in huge numbers all over the developed world. Extremely low birthrates in those samse countries mean there are far fewer young workers to take their place. One likely consequence is now clear: shrinking work forces.
 
-  - firm company film
-  - senior citizens
-  - rarity
-  - worldwide 在全世界;遍及全球地；世界各地的;
-  - side
-  - immediately immediate
-  - extremely 极端
-  - birthrate 出生率
   - far fewer 远远少于 far 远的 fewer 更少的
-  - consequence 后果 结果
   - shrinking work forces shrink 收缩;缩小; force 力;力量; 强迫，迫使
 
 - While the streamlining effects of international competition are focusing attention on the need to create and keep good jobs, those fears will eventually give way to worries about the growing shortage of young workers. One unavoidable solution: putting older people back to work, whether they like it or not. Indeed, advanced economies like those of Finland and Denmark have already raised their retirement ages. Others are under severe pressure to follow suit, as both the European Commission and the Organization for Economic Cooperation and Development have recently warned their members that their future prosperity depends on a growing contribution from the elderly.
 
-  - streamlining 使成流线型 ; 使效率更高 ; 使增产节约 ; streamline 流线;流线型
-  - international competition 国际竞争
-  - fears 担心
-  - eventually eventual 最终的;
   - give way to 被…替代;向…让步;向…妥协
-  - shortage 短缺;
-  - solution 解决方案;答案; unavoidable 不可避免的
   - put putt putting
-  - indeed 的确;其实; 事实上，
-  - advance 先进的;高级的;
-  - severe 严峻的;严厉的;
-  - suit v.适合;适宜; n.西装;套装;西服;（具影响力的）高级管理人员 follow suit 跟着做;照着做;仿效
-  - economic 经济的;经济学的;
-  - commission 委员会;佣金;手续费;回扣;
-  - cooperation 合作;配合;协作;协助
-  - development 发展;开发;
-  - warn 警告
-  - prosperity 繁荣;成功;兴旺;昌盛
-  - contribution 贡献;捐款;捐赠;
+  - follow suit 跟着做;照着做;仿效
 
 - Whether these changes are good or bad news to workers depends on whether the anticipate retirement with eagerness or dread. In the United States, half of working-age Americans now expect to work into their 70s, whether by financial necessity or by lifestyle choice, according to a new study by Putnam Investments.
 
-  - anticipate 预期 ; 预见，预计 ; 预料 ; 期望 ; 期盼 ; 先于…做
-  - eagerness or dread eagerness 渴望；热情；殷切；热忱 dread 畏惧 ; 担忧，忧虑 ;
-  - financial 金融的;财务的;
-  - necessity 需要;必要;必需品;
-  - investment 投资;投资额;投资物;
-
 - Contrary to still widespread assumptions, there is very little hard evidence to suggest that companies cannot stay competitive with a rising share of older workers. At British hardware chain B&Q, its "elder worker" stores in Manchester and Exmouth were 18 percent more profiable than its regular outlets--due in part, the company says, to six times less employee turnover and 60 percent less shoplifting and breakage.
 
-  - contrary 相反
-  - widespread assumptions 普遍的假设
-  - competitive 竞争的
-  - little hard 有点辛苦
-  - evidence 证据
-  - suggest 建议
-  - share 共享;分享; 股份;(在多人参加的活动中所占的)一份; share of older workers 老年工人的比例
-  - hardware 硬件；工具，设备，五金制品; chain 链条;链子;锁链;连锁商店
+  - share of older workers 老年工人的比例
   - six times 六次;六倍;六回
-  - outlet 出口;(感情、思想、精力发泄的)出路;经销店;
-  - employee 雇员;雇工;受雇者
-  - turnover 营业额，成交量;
-  - shoplift 在商店行窃;商店偷窃
-  - breakage 破损;损坏;毁坏;破碎物品
 
 ### Text 2
 
 - One important thing during the pre-Christmas rush at our house was the arrival of my daughter's kindergarten report card. She got high praise for her reading, vocabulary and overall enthusiasm. On the other hand, we learnt that she was work to do on her numbers and facility with the computer, though the detailed handwritten report her teachers prepared is absent of any words that might be interpreted as negative in describing her efforts. A number system indicates how she's measuring up in each area without any mention of passing or failing.
 
-  - rush 冲;匆忙;仓促;突袭;
-  - kindergarten 幼儿园;学前班
   - report card 学年(或学期)成绩单;工作情况报告
-  - praise 赞扬;赞美;称赞;
-  - overall 总体的;全部;外套;罩衣;工装服;
-  - enthusiasm 热情;热忱;热心;热衷的事物;激发热情的事物
   - learnt learn 的过去分词和过去式
-  - facility 设施;设备; 天资，才能，天赋; facility with the computer 带计算机的设施
-  - prepared 准备好;愿意;有所准备;事先做好(或写好等)的
-  - interpret 诠释;说明;把…理解为;领会;口译
-  - negative 负面的;消极的; 否定;底片;拒绝;
-  - describe 描述;形容;把…称为;形成…形状;做…运动;画出…图形
-  - indicate 表明;显示;暗示;示意;象征;间接提及
-  - measure 测量，度量; 措施，方法; measuring up 合格
-  - mention 提及;说起;
+  - measuring up 合格
   - passing or failing 通过或失败
 
 - All of which seems to make my daughter's school neither fish nor fowl when it comes to the debate over the merits of giving formal grades to kids. At one level, the advantages and disadvantages are obvious. A grade system provides a straightforward standard by which to measure how your child is progressing at school--and how he or she is getting on compared to other children. But as writer Sue Ferguson notes, "Grades can deceive." The aim should be "to measure learning, not simply what a student can recall on a test." The two aren't the same--and if you doubt that as an adult, ask yourself whether you could sit down without any preparation and still pass those high-school-level examinations.
@@ -377,6 +316,14 @@
 - Semco has flexible working hours: the employees decide when they need to arrice at work. `Also, Semco lets its workers use the company's machines for their own projects, and makes them take holidays for at least thirty days a year`.
 - It sounds perfect, but does it work? The answer is in the numbers: in the last six years, Semco's revenues have gone from $35 million to $212 million. The company has grown from eight hundred employees to 3,000. Why?
 - Semler says it's because of "peer pressure". Peer pressure makes employees work hard for everyone else.`If someone isn't doing his job well, the other workers will not allow the situation to continue.` In other words, Ricardo Semler treats his workers like adults and expects them to act like adults. And they do.
+
+## Part D
+
+- America's Internet is faster than ever before, but people still complain about their Internet being too slow.
+- New York's Attorney General's office `launched` an investigation in the fall into whether or not Verizon, Cablevision and Time Warner are delivering broadband that's as fast as the providers `claim` it is. Earlier this month, the office asked for the public's help to measure their speed results, saying consumers `deserved` to get the speeds they were promised. "Too many of us may be paying for one thing, and getting another," the Attorney General said.
+- If the inverstigation uncovers anything, it wouldn't be the first time a telecom provider got into `trouble` over the broadband speeds it promised and delivered customers. Back in June, the Federal Communications Commission fined AT&T $100 million over `accusations` that the carrier secretly reduced wireless speeds after customers consumed a certain amount of `data`.
+- Even when they stay on the right side of the law, Internet providers arouse customers' anger over bandwidth speed and cost. Just this week, an investigation found that media and telecom giant Comcast is the most `hated` provider. Over 10 months, Comcast received nearly 12,000 customer complaints, many `relating` to its monthly data cap and overage charges.
+- Some Americans are getting so `frustrated` with Internet providers they're just giving up. A recent study found that the number of Americans with high-speed Internet at home today `actually` fell during the last two years, and 15% of people now consider themselves to be "cord-cutters".
 
 # SECTION 3 Writing
 

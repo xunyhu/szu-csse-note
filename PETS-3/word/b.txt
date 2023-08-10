@@ -1,5 +1,8 @@
-benefit         /ˈbenɪfɪt/          n.利益;(公司提供的)褔利;第三人称单数： benefits复数： benefits现在分词： benefitting benefiting过去式： benefitted benefited过去分词： benefited benefitted
 belief          /bɪˈliːf/           n.信仰;信念;相信;宗教信仰;看法;信心;
+benefit         /ˈbenɪfɪt/          n.利益;(公司提供的)褔利;第三人称单数： benefits复数： benefits现在分词： benefitting benefiting过去式： benefitted benefited过去分词： benefited benefitted
 best            /bɪˈset/            vt.困扰，使苦恼;  过去式： beset; 过去分词： beset;
+breakage        /ˈbreɪkɪdʒ/         n.破损;损坏;毁坏;破碎物品
+broadband       /ˈbrɔːdbænd/        n.宽带;宽频带;(互联网的)宽带连接;       adj.宽带的;宽频的;
 burden          /ˈbɜːdn/            n.负担;(义务、责任等的)重担;重负
+
 
