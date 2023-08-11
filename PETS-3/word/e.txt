@@ -1,21 +1,28 @@
 eagerness           /ˈiːgənɪs/              n.渴望；热情；殷切；热忱
 economic            /ˌiːkəˈnɒmɪk/           adj.经济的;经济学的;
 economy             /ɪˈkɒnəmi/              n.经济;组织，系统;经济结构，经济制度;   adj.经济的，廉价的;
+educator            /ˈedʒukeɪtə(r)/         n.教师;教育工作者;教育家;
+educate             /ˈedʒukeɪt/             vt.(在学校)教育;训练;教养;教导;
 effect              /ɪˈfekt/                n.影响;(艺术家或作家所要创造的特定)外观，声响，印象，效果;效应;     vt.使发生;实现;引起;
 effective           /ɪˈfektɪv/              adj.有效的;     n.有生力量;精兵;    复数： effectives; 比较级： more effective; 最高级： most effective; 派生词： effectiveness n.
 elections           /ɪˈlɛkʃənz/             n.选举，推选(尤指从政); election的复数; 
 electric            /ɪˈlektrɪk/             adj.电的;电动的;发电的;     n.供电;
 electricity         /ɪˌlekˈtrɪsəti/         n.电;电能;兴奋;激动;强烈的感情;     
+emphasize           /ˈemfəsaɪz/             v.重读，强调(词或短语);强调;着重;重视;使突出;使明显;加强…的语气;
 employee            /ɪmˈplɔɪiː/             n.雇员;雇工;受雇者;
 employer                                    n.雇主;
 enable              /ɪˈneɪbl/               vt.使能够;使实现;使可能;
 encourage           /ɪnˈkʌrɪdʒ/             vt.鼓励;支持;促进;激励;
 energetic           /ˌenəˈdʒetɪk/           adj.精力充沛的; 派生词： energetically adv.积极地；精力充沛地;
+energy              /ˈenədʒi/               n.能量;能源;能;精力;活力;力量;干劲
 engage              /ɪnˈɡeɪdʒ/              v.从事;（使）衔接，啮合;聘用;雇用;与（某人）交战;吸引住(注意力、兴趣);与…建立密切关系;尽力理解;
 engine              /ˈendʒɪn/               n.发动机;引擎;机车;  vt.给…安装发动机;
 engineer            /ˌendʒɪˈnɪə(r)/         n.工程师;设计师;技师;       vt.密谋策划;设计制造;
 enthusiasm          /ɪnˈθjuːziæzəm/         n.热情;热忱;热心;热衷的事物;激发热情的事物
+equipped            /ɪˈkwɪpt/               v.装备;配备;使有能力;       adj.装备齐全的；使有准备，使有能力;     equip的过去分词和过去式;
 especially          /ɪˈspeʃəli/             adv.特别;尤其;   especial adj.特别的;
+essay               /ˈeseɪ /                n.散文;(作为课程作业，学生写的)文章，短文;小品文;       vt.企图;试图;
+essential           /ɪˈsenʃl/               adj.基本的;本质的;必不可少的;       n.要素;实质;要点;必需品;
 eventual            /ɪˈventʃuəl/            adj.最终的;最后的;结果的
 evidence            /ˈevɪdəns/              n.证据;(法庭上的)证据，证词，人证，物证;    vt.证明;表明;作为…的证据;
 exactly             /ɪɡˈzæktli/             adv.究竟，到底;准确地;正是如此;

@@ -229,52 +229,30 @@
 - All of which seems to make my daughter's school neither fish nor fowl when it comes to the debate over the merits of giving formal grades to kids. At one level, the advantages and disadvantages are obvious. A grade system provides a straightforward standard by which to measure how your child is progressing at school--and how he or she is getting on compared to other children. But as writer Sue Ferguson notes, "Grades can deceive." The aim should be "to measure learning, not simply what a student can recall on a test." The two aren't the same--and if you doubt that as an adult, ask yourself whether you could sit down without any preparation and still pass those high-school-level examinations.
 
   - All of which 所有这些
-  - neither 既不…也不…；两者都不
-  - neither fish nor fowl 不伦不类 fish 鱼 fowl 家禽;鸟 nor 也没有; 也不
-  - debate 争论，讨论
-  - merits 优点
-  - formal 正式的；正规的
-  - grades 等级；评分等级；成绩等级
-  - advantages and disadvantages 优点和缺点
-  - obvious 明显的;显然的; observe 观察
-  - straightforward 简单的;直截了当的;坦率的;易懂的;率直的;坦诚的;不复杂的
-  - standard 标准，规范
-  - progress 进展;进步; schedule 明细表，清单;日程安排;
+  - neither fish nor fowl 不伦不类
   - getting on compared 进行比较
-  - note 注释;记录;笔记;便条;批注;短笺;按语
   - Grades can deceive. 分数可能会骗人
   - not simply what a student can recall on a test 不仅仅是学生在考试中能回忆起什么
   - The two aren't the same 两者不一样
   - if you doubt that as an adult 如果你成年后对此表示怀疑
-  - preparation 准备;(医药、化妆品等)配制品，制剂;准备工作;预备
 
 - If you're old enough, you've lived through this debate before. At one time, it was considered unfair to put children in direct competition with one another if it could be avoided. The intention behind that may have been good, but it ignored the fact that competition, and the will to come out on top, are essential compoents of the human condition.
 
   - you've lived through this debate before 你以前经历过这种争论
   - At one time 一度;曾经
   - fair 公平的; fairly more fairly most fairly
-  - direct 直接的;
-  - intention 意图;打算;目的;计划
   - come out on top 出人头地;拔得头筹;占得上风
-  - essential 基本的
   - human condition 人类状况 ; 人类条件 ;
 
 - This time around, educators working with a no-grades approach are emphasizing different reasons. The thing is, that approach is much more commonplace in the adult workplace than is the traditional pass-fail system we place on our children. Many workplaces conduct regular employee evaluations. There are usually fairly strict limits to what an employer can tell an employee in those evaluations--and even then, negative evaluations can be challenged by the employee. No matter where you sit in the debate over the grade system, then, the real question is this: if it's so good for kids, why isn't that also true for adults?
   - This time around 这一次;此时此刻
-  - educator 教师;教育工作者; educate 教育
-  - approach 方法;(待人接物或思考问题的)方式;
-  - emphasize 重读，强调(词或短语);强调;
   - The thing is 问题是
   - much more 更;何况
-  - commonplace 老生常谈;平常的事; 普遍的;普通的;平凡的 that approach is much more commonplace 这种方法要常见得多
-  - workplace 工作场所
   - the traditional pass-fail system we place on our children 我们给孩子的传统及格-不及格制度 place on 在上放置 ; 寄托
-  - conduct 行为;(人在某地或某种情况下的)举止;经营方式;管理方法;实施;传导
-  - regular 定时的，定期的; 常客，老主顾;经常;非常;完全; Many workplaces conduct regular employee evaluations. 许多工作场所定期对员工进行评估。
+  - Many workplaces conduct regular employee evaluations. 许多工作场所定期对员工进行评估。
   - There are usually fairly strict limits 通常有相当严格的限制
-  - employer 雇主 employee 雇员
   - even then 尽管那样
-  - negative evaluations can be challenged by the employee 负面评价可能会受到员工的质疑 challenged (委婉说法)伤残的，有残疾的 对…怀疑(或质疑); change 改变；challenge 挑战;质疑;
+  - negative evaluations can be challenged by the employee 负面评价可能会受到员工的质疑
   - No matter where you sit in the debate over the grade system 无论你在关于分数制的辩论中坐在哪里 No matter 没关系 ; 不管怎样 sit in 静坐 ; 出席 ; 照看
 
 ## Part B

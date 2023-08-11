@@ -252,14 +252,14 @@
 
 - This means that living alone can help us discover who we are and what gives us meaning and purpose. It might be exactly what we need to reconnect.
 
-26. In 1950 living alone ``
+26. In 1950 living alone `B`
 
 - [A] was identified as the biggest socail change
 - [B] was a temporary state for those who did so
 - [C] attracted 9% of American seasonal workers
 - [D] grew into the primary type of domestic life
 
-27. Today Americans who live alone ``
+27. Today Americans who live alone `D`
 
 - [A] expect to live in the Weatern states
 - [B] tend to maintain their way of life
@@ -447,27 +447,14 @@ Directions:
     Read the text below. Write an essay in about 120 words, in which you should summarize the key points of the text and make comments on them. Try to use you own words.
 
 - A couple that has been married for 38 years--and overcame difficult circumstances--graduated from college together this month.
-
-  - essay 散文;(作为课程作业，学生写的)文章
-  - summarize 总结
-  - overcame 战胜 difficult 困难的 circumstances 环境 条件
-
 - On Dec. 3, their son, Charles Cole III, 33, posted a picture on the internet of his parents in their caps and gowns, which has gotten a ton of attention online.
-
-  - post 发布，公布；职位；邮件
   - his parents in their caps and gowns 他的父母戴着帽子，穿着长袍
   - a ton of attention 大量的关注 ton of 吨 ; 大量
-
 - Cole's parents, Charles Cole Jr. and Renate, battled major financial problems when he was young, which made for a rough childhood. "I grew up pretty early," he said. "I just knew I didn't want to go through what I saw them go through."
-
 - Cole graduated from California State University with a degree in political science and is now working towards a PhD in education. He has also worked as a social worker, developing a passion for work involving black youth and education.
-
 - Cole's parents were inspired by him to finish college. "Our son is ambitious," recalled Charles Cole Jr. "Seeing his drive to just do it kind of pushed us."
-
 - Cole is proud that his parents' journey was inspire by his own. "It crystalizes my work." he said. "How i grew up is part of the reason why i work really hard to fight for education for black and brown kids across this county because i know what the results are if you don't have it."
-
-- For Cole, his parents have proven to him that you can always get back what you think you have lost, "Just because you started slow doesn'
-  t mean you can't finish up strong," he said.
+- For Cole, his parents have proven to him that you can always get back what you think you have lost, "Just because you started slow doesn't mean you can't finish up strong," he said.
 
 - 范文
   Although Cole's growing family is not strong enough, he has made great achievements in his studies and work with his own efforts and determination. His examples fully demonstrate the importance of hard work and determination in personal success.

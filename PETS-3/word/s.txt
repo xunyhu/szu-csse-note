@@ -1,16 +1,23 @@
+schedule        /ˈʃedjuːl/          n.(价格、收费或条款等的)一览表，明细表，清单;日程安排;      vt.安排;预定;列入，收进(正式目录、清单等中);为…安排时间;
+science         /ˈsaɪəns/           n.科学;自然科学;学科，学;理科;
 secretary       /ˈsekrətri/         n.秘书;   部长;   助理;   大臣;   (俱乐部、社团等的)干事，文书;   复数 secretaries；
 sell            /sel/               v.出售;卖;卖出…;转让;   n.让人失望的东西;   过去式： sold;  过去分词： sold;
 senior          /ˈsiːniə(r)/        n.上级;中学生;上司;毕业班学生;高水平运动员;级别(或地位)较高者;  adj.(父子同名时，加在父亲的名字前)老，大;成人的;中等学校
 service         /ˈsɜːvɪs/           n.（对顾客的）接待，服务;   vt.维修;提供服务;   adj.服务性的；
 severe          /sɪˈvɪə(r)/         adj.严峻的;严厉的;重的;苛刻的;艰难的;
 shortage        /ˈʃɔːtɪdʒ/          n.短缺;不足;缺少
+shortcoming     /ˈʃɔːtkʌmɪŋ/        n.缺点;短处
 shoplift        /ˈʃɒplɪft/          v.在商店行窃;商店偷窃
 shrink          /ʃrɪŋk/             n.精神病学家;心理学家;      v.收缩;缩小;(使)减少;(使)缩水;
 shut            /ʃʌt/               v.关闭; adj.关闭;关门;停业; n.关闭;冷塞;
 sincere         /sɪnˈsɪə(r)/        adj.真诚的; 比较级： sincerer; 最高级： sincerest; 派生词： sincerity n.诚意;真挚;
+simple          /ˈsɪmpl/            adj.简单的;简单的，一般的;      n.单体;头脑简单的人;药用植物;药草制剂;
+simply          /ˈsɪmpli/           adv.简单地;不过，只是;(强调简单)仅仅，只，不过;
 specific        /spəˈsɪfɪk/         adj.具体的;特定的;明确的;       n.特性;细节;特效药;
 spill           /spɪl/              v.溢出;   (使)洒出;   涌出;   泼出;   蜂拥而出;     n.泄漏(量);   溢出(量);   洒出(量);   跌落;   泼出(量);   
+standard        /ˈstændəd/          n.标准;规范;(品质的)水平;规格;行为标准;     adj.标准的;通常的;正常的;
 statesman                           n.政治家
+straightforward /ˌstreɪtˈfɔːwəd/    adj.简单的;直截了当的;坦率的;易懂的;率直的;      straightforwardly adv.直接;正直地;    straightforwardness n.坦率;直率;坦诚;直爽;爽直
 streamline      /ˈstriːmlaɪn/       n.流线;流线型;      adj.流线型的;
 streamlining    /ˈstriːmlaɪnɪŋ/     v.使成流线型;使(系统、机构等)效率更高;  n.吝形化，流线型化;
 stiff           /stɪf/              adj.僵硬的; n.死尸; 比较级： stiffer; 最高级： stiffest; 派生词： stiffly adv. stiffness n.
@@ -19,6 +26,7 @@ stroke          /strəʊk/            n.中风;击球(动作);一笔;(打、击�
 situation       /ˌsɪtʃuˈeɪʃn/       n.情况;状况;形势;局面;职业;(建筑物或城镇的)地理位置，环境特点;工作岗位;
 solution        /səˈluːʃn/          n.解决方案;溶液;解;解决办法;溶解（过程）;答案;
 suit            /suːt/              vt.适合;适宜;相配;有利于;合身;      n.西装;套装;西服;
+summarize       /ˈsʌməraɪz/         v.总结;概述;概括;
 
 
 

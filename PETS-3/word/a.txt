@@ -1,6 +1,9 @@
 actually            /ˈæktʃuəli/         adv.实际上;事实上;确实，说实在的;
 accusation          /ˌækjuˈzeɪʃn/       n.指控;控告;起诉;谴责;告发;
+administrative      /ədˈmɪnɪstrətɪv/    adj.行政的;管理的;
 advance             /ədˈvɑːns/          n.进展;（价格、价值的）上涨，提高;      v.发展，进步;提前;      adj.预先的;事先的;
+advantage           /ədˈvɑːntɪdʒ/       n.优势;优点;有利条件;       vt.有利于;有助于;使处于有利地位;
+affair              /əˈfeə(r)/          n.事件;事情;公共事务;政治事务;(尤指已婚男女的)私通，风流韵事;个人的事;私人业务;不寻常之物
 alone               /əˈləʊn/            adj./adv.单独;独自;仅仅，单，只;唯一，只有;孤独;单独地;   比较级： aloneer;  最高级： aloneest
 aloneness                               单独;孤独;孤单;独处
 ambition            /æmˈbɪʃn/           n.野心;雄心;抱负;志向; v.热望;
@@ -8,8 +11,10 @@ anniversary         /ˌænɪˈvɜːsəri/      n.周年纪念日
 anticipate          /ænˈtɪsɪpeɪt/       vt.预期;预见，预计(并做准备);预料;期望;
 apologize           /əˈpɒlədʒaɪz/       vi.道歉;谢罪
 appreciated         /əˈpriːʃieɪtɪd/     v.理解;感谢; appreciate的过去分词和过去式;
+approach            /əˈprəʊtʃ/          n.方法;(待人接物或思考问题的)方式;      v.(在数额、水平或质量上)接近;要求;建议;
 arouse              /əˈraʊz/            vt.激起，引起(感情、态度);激发;唤醒;激起性欲;使行动起来;
 assertion           /əˈsɜːʃn/           n.断言;主张;声称;
+assistant           /əˈsɪstənt/         n.助理;助手;助教;       adj.助理的;副的;
 assumption          /əˈsʌmpʃn/          n.假设;假定;担任;(责任的)承担;(权力的)获得
 atomization                             雾化
 attribute           /əˈtrɪbjuːt/        n.属性;特征;性质;       vt.把…归因于;认为…是由于;
