@@ -8,3 +8,9 @@
 - at the same time 同时 ; 然而，不过
 - come up with 想出，提出 ; 赶上，走近 ; 设法拿出
 - in descending order 降序排列
+- a great deal of 很多;许多
+- family origin 家庭出身；祖籍;
+- for many generations 累世
+- personal qualities 个人素质;个人品质;
+- lead to 导致;通向
+- run for 去叫 ; 做…的候选人

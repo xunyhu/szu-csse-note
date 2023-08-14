@@ -19,23 +19,23 @@
 5. W: Jane, how / Jim, how do children like the Home economics classes in your school?
    M: they are very happy / They are very happy we have it beacuse we teach them how to cook, to sew, some vital skills.
    W: Year, parents as well as cooking at home. / Yeah, Parents really emphasize cooking and sewing at home.
-6. M: Did Pr really have
-   W: yes,
-   M: Oh, good, she want be
-7. W: I feel sorry to my borther, he is very s...
-   M: why is that?
-   W: ...study so hard
-   M:
-8. W: we've
-   M:
-   W: I forget that my ID card ...in the dormitory.
-9. W: I'am so
-   M:
-   W: Oh, how about of you
-10. M: Jan, Helon, we gona have a parting next friday.
-    W: realy?
-    M: yes, could you order some foods and drinks.
-    W: ok, get everything reading
+6. M: Did Pr really have / Did Bill really have his two wisdom teeth pulled out?
+   W: yes, / W: Yes, his dentist suggested that he should. because he had suffered a great deal of toothache since last September.
+   M: Oh, good, she want be / M: Oh, good. He won’t be bothered by them again.
+7. W: I feel sorry to my borther, he is very s... / W: I feel sorry for my brother. He’s really under stress.
+   M: why is that? / M: Why is that?
+   W: ...study so hard / W: He’s trying to get into the country’s top engineering school and I’ve never seen anyone study so hard. He hardly sleeps at the moment.
+   M: / M: Well, the competition to get in there is absolutely fierce.
+8. W: we've / W: We’ve been waiting all week for this concert and the performance is said to be excellent.
+   M: / M: Yeah, and with our students’ discount, the tickets will be real cheap.
+   W: I forget that my ID card ...in the dormitory. / W: Ah, gosh! I’m afraid I left my student ID card in the dormitory.
+9. W: I'am so / W: I’m so fed up with being stuck in the house all day.
+   M: / M: Well, you can’t expect to go out so soon after breaking your leg. Look, I brought something to cheer you up. It’s a bottle of latest French perfume.
+   W: Oh, how about of you / W: Oh, how thoughtful of you!
+10. M: Jan, Helon, we gona have a parting next friday. / M: Helen. We are going to have a company party next Friday.
+    W: realy? / W: Really? Will all the employees come?
+    M: yes, could you order some foods and drinks. / M: Yes, they will. And could you help me to order some food and drinks?
+    W: ok, get everything reading / W: OK. I’ll get everything ready by next Thursday.
 
 ## Part B
 
@@ -53,8 +53,6 @@
 ### Text 1
 
 - The political career of Cicero, a great Roman statesman and the most well-known speech-maker of his time, was a remarkable one. At the time, high political offices in Rome, though technically achieved by winning elections, were almost exclusively controlled by a group of wealthy noble families that had held them for many generations. Cicero's family, though noble, was not one of them, nor did it have great wealth. But Cicero had a great deal of political ambition; at a very young age he chose as his basic belief the same one Achilles was said to have had: to always be the beset and overtop the rest. Lacking the advantages of a proper family origin, there were essentially only two career options open to him. One was a military career, since military success was thought to result from exceptional personal qualities and could lead to popularity and therefore political opportunity as was the case much later for American presidents Ulysses S.Grant and Dwight D.Eisenhower. Cicero, however, was no soldier, He hated war, and served in the militaty only very briefly as a young man.
-  - for many generations 累世
-  - a great deal of 很多
 - Instead, Cicero chose a career in the law. To prepare for this career, he studied law, rhetoric, and philosophy. When he felt he was ready, he began taking part in legal cases. A career in the law could lead to political success for several reasons, all of which are still relevant today. First, a lawyer would gain a great deal of experience in making speeches. Second, he could also gain exposure and popularity from cases.
   Finally, a successful lawyer would build up a network of political connections, which is important now but was even more important in Cicero's time, when political competition was not conducted along party lines or on the basis of doctrine, but instead was based on loose, shifting networks of personal friendships and commitments. Cicero proved to be an excellent speech-maker and lawyer, and an outstanding politician. He was elected to each of the principal Roman offices on his first try and at the earliest age at which he was legally allowed to run for them.
 

@@ -11,6 +11,7 @@ client                  /ˈklaɪənt/                  n.客户;(连接在服务
 collapse                /kəˈlæps/                   v.(突然)倒塌;折叠;(尤指因病重而)晕倒;   n.崩溃;(突然的)倒塌;塌陷;垮掉;
 complain                /kəmˈpleɪn/                 v.抱怨;埋怨;发牢骚;
 commission              /kəˈmɪʃn/                   n.(通常为政府管控或调查某事的)委员会;佣金;做出（错事）;(银行等的)手续费;回扣; vt.正式委托(谱写或制作、创作、完成);任命…为军官;
+commitment              /kəˈmɪtmənt/                n.承诺;花费，使用;保证;(对工作或某活动)献身，奉献，投入;许诺;允诺承担;已承诺(或同意)的事;不得不做的事
 commonplace             /ˈkɒmənpleɪs/               n.老生常谈;平常的事;        adj.普遍的;普通的;平凡的;
 communicating           /kəˈmjuːnɪkeɪtɪŋ/           v.沟通;(与某人)交流(信息或消息、意见等);        adj.相通的，相连的;  communicate的现在分词;
 communication           /kəˌmjuːnɪˈkeɪʃn/           n.通信;信息;交流;电话;交际;传递;表达;书信;交通联系
@@ -24,6 +25,7 @@ conclude                /kənˈkluːd/                 v.终止;得出结论;达
 condition               /kənˈdɪʃn/                  n.环境，境况，条件;物质环境，状态，条件;        vt.影响(某事发生的方式);使适应;训练;养护;
 conduct                 /kənˈdʌkt/                  n.行为;(人在某地或某种情况下的)举止;经营方式;管理方法;      v.实施;传导（热或电等能量）;组织;执行;安排;
 confidence              /ˈkɒnfɪdəns/                n.信心;信任，信赖;信任;自信心;
+connection              /kəˈnekʃn/                  n.连接;(两种事实、观念等的)联系，关联;
 consequence             /ˈkɒnsɪkwəns/               n.后果;结果;重要性;
 constructive            /kənˈstrʌktɪv/              adj.建设性的;积极的; 派生词： constructively adv.
 constructor             /kənˈstrʌktə(r)/            n.(尤指汽车或飞机的)建造者，制造者，建造商;

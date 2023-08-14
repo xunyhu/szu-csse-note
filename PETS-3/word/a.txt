@@ -1,5 +1,6 @@
 actually            /ˈæktʃuəli/         adv.实际上;事实上;确实，说实在的;
 accusation          /ˌækjuˈzeɪʃn/       n.指控;控告;起诉;谴责;告发;
+additional          /əˈdɪʃənl/          adj.附加的;额外的;外加的;
 administrative      /ədˈmɪnɪstrətɪv/    adj.行政的;管理的;
 advance             /ədˈvɑːns/          n.进展;（价格、价值的）上涨，提高;      v.发展，进步;提前;      adj.预先的;事先的;
 advantage           /ədˈvɑːntɪdʒ/       n.优势;优点;有利条件;       vt.有利于;有助于;使处于有利地位;
@@ -12,6 +13,7 @@ anticipate          /ænˈtɪsɪpeɪt/       vt.预期;预见，预计(并做准
 apologize           /əˈpɒlədʒaɪz/       vi.道歉;谢罪
 appreciated         /əˈpriːʃieɪtɪd/     v.理解;感谢; appreciate的过去分词和过去式;
 approach            /əˈprəʊtʃ/          n.方法;(待人接物或思考问题的)方式;      v.(在数额、水平或质量上)接近;要求;建议;
+architecture        /ˈɑːkɪtektʃə(r)/    n.结构;体系结构;建筑设计;建筑风格;建筑学;
 arouse              /əˈraʊz/            vt.激起，引起(感情、态度);激发;唤醒;激起性欲;使行动起来;
 assertion           /əˈsɜːʃn/           n.断言;主张;声称;
 assistant           /əˈsɪstənt/         n.助理;助手;助教;       adj.助理的;副的;
