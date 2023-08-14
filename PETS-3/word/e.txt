@@ -1,5 +1,7 @@
 eagerness           /ˈiːgənɪs/              n.渴望；热情；殷切；热忱
+ease    缓解
 economic            /ˌiːkəˈnɒmɪk/           adj.经济的;经济学的;
+economics   经济学
 economy             /ɪˈkɒnəmi/              n.经济;组织，系统;经济结构，经济制度;   adj.经济的，廉价的;
 educator            /ˈedʒukeɪtə(r)/         n.教师;教育工作者;教育家;
 educate             /ˈedʒukeɪt/             vt.(在学校)教育;训练;教养;教导;
@@ -18,6 +20,7 @@ energy              /ˈenədʒi/               n.能量;能源;能;精力;活力
 engage              /ɪnˈɡeɪdʒ/              v.从事;（使）衔接，啮合;聘用;雇用;与（某人）交战;吸引住(注意力、兴趣);与…建立密切关系;尽力理解;
 engine              /ˈendʒɪn/               n.发动机;引擎;机车;  vt.给…安装发动机;
 engineer            /ˌendʒɪˈnɪə(r)/         n.工程师;设计师;技师;       vt.密谋策划;设计制造;
+engineering     工程
 enthusiasm          /ɪnˈθjuːziæzəm/         n.热情;热忱;热心;热衷的事物;激发热情的事物
 equipped            /ɪˈkwɪpt/               v.装备;配备;使有能力;       adj.装备齐全的；使有准备，使有能力;     equip的过去分词和过去式;
 especially          /ɪˈspeʃəli/             adv.特别;尤其;   especial adj.特别的;
