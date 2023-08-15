@@ -2,49 +2,83 @@
 
 ## Part A
 
-1. W: Make, may you ... next week. could you do that for us. / Mike, we'll need to rent a car for our trip next week. Could you do that for us ?
-   M: certainly, i need know you want to. / Certaninly, I need to know whether you want an ordinary car, a sport's model, or a station wagon.
-   W: Just not everyone. / Just the ordinary one.
-2. M: Mary, you look upset, what's wrong? / Mary, you lock upset. What's wrong ?
-   W: well, about my sales plan. / Well, the boss was angry about my sales plan.
-   M: what about / Was it overdue, or something?
-   W: ...but i did't check them. / It's about the figures, i got some of them wrong. Lily gave me those figures, but i didn't check them.
-3. W: Alon, dou you know. / Allen, do you know why our client hasn't arrived yet?
-   M: well, she is plan the .. in New York. / Well, his plane delayed in New York.
-   W: Ok, Now i have smoe ... my / Ok, now i have some extra time to revise my marketing report.
-4. W: Did you ... yearsterday / Did you attend the lecture by Dr.Lee yesterday?
-   M: yes. i did. / Yes. i did.
-   W: ...what did you think about? / What did you think of it?
-   M: it was amazing, / It was amazing, but i can't agree with him on some points.
-5. W: Jane, how / Jim, how do children like the Home economics classes in your school?
-   M: they are very happy / They are very happy we have it beacuse we teach them how to cook, to sew, some vital skills.
-   W: Year, parents as well as cooking at home. / Yeah, Parents really emphasize cooking and sewing at home.
-6. M: Did Pr really have / Did Bill really have his two wisdom teeth pulled out?
-   W: yes, / W: Yes, his dentist suggested that he should. because he had suffered a great deal of toothache since last September.
-   M: Oh, good, she want be / M: Oh, good. He won’t be bothered by them again.
-7. W: I feel sorry to my borther, he is very s... / W: I feel sorry for my brother. He’s really under stress.
-   M: why is that? / M: Why is that?
-   W: ...study so hard / W: He’s trying to get into the country’s top engineering school and I’ve never seen anyone study so hard. He hardly sleeps at the moment.
-   M: / M: Well, the competition to get in there is absolutely fierce.
-8. W: we've / W: We’ve been waiting all week for this concert and the performance is said to be excellent.
-   M: / M: Yeah, and with our students’ discount, the tickets will be real cheap.
-   W: I forget that my ID card ...in the dormitory. / W: Ah, gosh! I’m afraid I left my student ID card in the dormitory.
-9. W: I'am so / W: I’m so fed up with being stuck in the house all day.
-   M: / M: Well, you can’t expect to go out so soon after breaking your leg. Look, I brought something to cheer you up. It’s a bottle of latest French perfume.
-   W: Oh, how about of you / W: Oh, how thoughtful of you!
-10. M: Jan, Helon, we gona have a parting next friday. / M: Helen. We are going to have a company party next Friday.
-    W: realy? / W: Really? Will all the employees come?
-    M: yes, could you order some foods and drinks. / M: Yes, they will. And could you help me to order some food and drinks?
-    W: ok, get everything reading / W: OK. I’ll get everything ready by next Thursday.
+1. W: Mike, we'll need to rent a car for our trip next week. Could you do that for us ?
+   M: Certaninly, I need to know whether you want an ordinary car, a sport's model, or a station wagon.
+   W: Just the ordinary one.
+2. M: Mary, you lock upset. What's wrong ?
+   W: Well, the boss was angry about my sales plan.
+   M: Was it overdue, or something?
+   W: It's about the figures, i got some of them wrong. Lily gave me those figures, but i didn't check them.
+3. W: Allen, do you know why our client hasn't arrived yet?
+   M: Well, his plane delayed in New York.
+   W: Ok, now i have some extra time to revise my marketing report.
+4. W: Did you attend the lecture by Dr.Lee yesterday?
+   M: Yes. i did.
+   W: What did you think of it?
+   M: It was amazing, but i can't agree with him on some points.
+5. W: Jim, how do children like the Home economics classes in your school?
+   M: They are very happy we have it beacuse we teach them how to cook, to sew, some vital skills.
+   W: Yeah, Parents really emphasize cooking and sewing at home.
+6. M: Did Bill really have his two wisdom teeth pulled out?
+   W: Yes, his dentist suggested that he should. because he had suffered a great deal of toothache since last September.
+   M: Oh, good. He won’t be bothered by them again.
+7. W: I feel sorry for my brother. He’s really under stress.
+   M: Why is that?
+   W: W: He’s trying to get into the country’s top engineering school and I’ve never seen anyone study so hard. He hardly sleeps at the moment.
+   M: Well, the competition to get in there is absolutely fierce.
+8. W: We’ve been waiting all week for this concert and the performance is said to be excellent.
+   M: Yeah, and with our students’ discount, the tickets will be real cheap.
+   W: Ah, gosh! I’m afraid I left my student ID card in the dormitory.
+9. W: I’m so fed up with being stuck in the house all day.
+   M: Well, you can’t expect to go out so soon after breaking your leg. Look, I brought something to cheer you up. It’s a bottle of latest French perfume.
+   W: Oh, how thoughtful of you!
+10. M: Helen. We are going to have a company party next Friday.
+    W: Really? Will all the employees come?
+    M: Yes, they will. And could you help me to order some food and drinks?
+    W: OK. I’ll get everything ready by next Thursday.
 
 ## Part B
 
-1.
-2.
-3.
-4. (22~25)  
-   W:
-   M:
+1. Questions 11-13 are based on the following dialogue about buying cars.  
+   W: What kind of car should I buy, Larry? I like to get something we can use for a long trip as well as taking the children around town.  
+   M: Well, we have a jeep. We like it when we travel.
+   W: We thought about a jeep, but I understand they are not very fuel-efficient.  
+   M: Our Jeep is better than the most of the jeeps on the market. Consumer Report said it’s the most fuel-efficient of any of the jeeps.  
+   W: Did Consumer Report compare jeeps with estate cars? We thought about an estate car.  
+   M: I don’t remember the number exactly, but I do remember that the jeep was less efficient than estate cars. We decided to against estate car because we got a better price on the jeep. The dealer was running a special sale.  
+   W: Well, I like the style of the estate car better than the jeeps and it has room for all the equipment for the children. We need a larger car.  
+   M: My friend works at the dealer’s shop north of the town. He was telling me about the sale they are going to start next month. You might be able to get an estate car cheaper if you wait till then. Here is his card.  
+   W: Thanks, that sounds like a good idea. I’ll go and see what he has.
+
+2. Questions 14-17 are based on the following dialogue.  
+   W: Hello, I’m Jennifer. I’m new here.  
+   M: Nice to meet you, Jennifer. I’m David. I just had my first month here. Are you seasonal helper too?  
+   W: Yes, but I hope I can stay on after the holidays.  
+   M: Me too. It depends on us in part. We have to do a good job and go the extra mile.  
+   W: I agree. Hard work will finally pay off.  
+   M: Right. You know, the manager of the shoe department started just two years ago as a temporary worker. He’s about our age. I bet you will be the manager of the company someday.  
+   W: I like to have a career in fashion design. There is a lot of opportunity for advancement.  
+   M: I want to owe my own store one day, so I want to learn all I can.  
+   W: I’m taking designing classes in college. There’s a lot to learn.  
+   M: It’s a hard work, but it has rewards. I find satisfaction in doing a job well.  
+   W: If you enjoy doing something, it’s easier. I just finished watching the orientation videos. Now I’m training on the computers. It’s fun so far.  
+   M: Yes, it is. Oh! It looks like my break is almost over. I need to work now. It’s been nice talking to you.
+
+3. Questions 18-21 are based on the following dialogue between a reporter and a health expert.  
+   W: Dr.Stone, you have studied 25 people who never get sick. Could you give us some easy-to-follow tips on how they’ve successfully stayed away from illness in their whole lives?  
+   M: Our study shows that some habits will help you to stay well and live longer. Such as, cold shower, napping, weightlifting and swimming.  
+   W: Do you mean that taking a cold shower is good to our health?  
+   M: Yes. Professor Smith is 82 years old now. He has taken a cold shower every day for most of his adult life, and never suffers from colds.  
+   W: That sounds great. Maybe I can try it myself. What else can we do to keep us against illness?  
+   M: Besides exercise, friends are also very important. You might not think having a social network would count as much as diet and exercise when it comes to good health. But studies have found that good friends can protect against everything from memory-lost to heart attacks, to infectious diseases. Mary is a former nurse. She can’t remember being ill in all her 75 years, and she credits this to the fact that she is constantly seeking out new friends. Sociability increases self-respect which in turn supports the immune system.
+
+4. Questions 22-25 are based on the following interview with an actor.  
+   W: Congratulations on all the success you have received from your role in The First Greater? Have you taken it all in yet? You have so many awards for it.  
+   M: Yes, I’ve taken it all in. It’s very exciting. I hope it can leave a better thing for me and for other people.  
+   W: Why do you think this role is so touching?  
+   M: I think it’s a role that enhances the idea that education is important. It is also a role that inspires people, particularly those have missed out on going to school, realizing that an old man at the age of 84, can still want to go to school and learn to read and write.  
+   W: Were there aspects of him that were challenging for you? Having to play an elderly man?  
+   M: Yes, the character is challenging in many ways. He’s many characters in one. He is a young man who missed education because it was expensive, and then he joins the struggle for independence. When the country finally gets its freedom, he has become an old man. You have a young man, you have an old man. I had to devise ways of portraying those characteristics in those situations.
 
 # SECTION 2 Reading
 
