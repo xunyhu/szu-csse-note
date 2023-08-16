@@ -1,3 +1,4 @@
+capable         有能力
 career                  /kəˈrɪə(r)/                 n.职业; vi.(尤指失控地)猛冲;    adj.职业性质的; 第三人称单数： careers复数： careers现在分词： careering过去式： careered过去分词： careered
 central         中央的
 certain                 /ˈsɜːtn/                    adj.确定;(不提及细节时用)某事，某人，某种;  
@@ -48,7 +49,7 @@ cooperation             /kəʊˌɒpəˈreɪʃn/             n.合作;配合;协�
 coordinate              /kəʊˈɔːdɪneɪt /             n.坐标;(颜色协调的)配套服装;        v.使协调;(衣服、家具等)搭配，协调;使相配合;
 couple                  /ˈkʌpl/                     n.夫妇;(人)一对;(尤指)夫妻，情侣;两人;  v.(把车辆或设备等)连接，结合;性交;交配;
 criticism               /ˈkrɪtɪsɪzəm/               n.批评;批判;
-criticize   批评
+criticize       批评
 
 
 

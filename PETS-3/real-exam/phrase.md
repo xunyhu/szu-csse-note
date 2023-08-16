@@ -16,3 +16,62 @@
 - run for 去叫 ; 做…的候选人
 - think tanks 智囊团
 - as well as 以及
+- setting up 设置;调定，安装;
+- long-distance 长途的;长距离的; a national long-distance educations system 全国远程教育系统；
+- opportunity 机会，时机；
+- In reality 实际上；
+- taking shape 成型
+- involve 涉及; 需要; 影响; (使)参加，加入; 包含; 牵涉; resolve 解决(问题或困难);决心;决定;决心； reject 拒绝;排斥，排异；
+- regional 地区的，区域的
+- campus 校园;(大学、学院的)校区
+- dramatically 显著地;戏剧性地;戏剧地 The Internet education will be developing dramatically 互联网教育将蓬勃发展
+- estimate 估计;估算;估价
+- computerized 计算机化; longdistance 长途；
+- be available 可用 ; 【经】生效， 有效， 可供使用;
+- postgraduate education 研究生教育 ; 研究生院 ; 毕业后教育;
+- will be available by 2010 for postgraduate education 将于 2010 年提供研究生教育 vocational programs 职业课程
+- teachers' training and employees' training 教师培训与员工培训
+- moreover 此外;而且;
+- corner 角；墙角； it will soon cover all the corners of China 它将很快覆盖中国的各个角落
+- eventually 最后 ; 终于; event 事件； eventual 最终的;最后的;结果的
+- it's an simple as that 就这么简单;
+- go far 成功 ; 够用;
+- along with 随着 ; 随同…一起;
+- in return 作为回报 ;pay check 工资支票 ;
+- the core 核心 ; 堆芯 ; 地核;
+- need for 需要… ; 需要 ;
+- cost-free 免费的 ; 成本;
+- noticed and valued 关注和重视;
+- far too few occasions 太少的场合;
+- This time around 这一次;此时此刻
+- The thing is 问题是
+- much more 更;何况
+- the traditional pass-fail system we place on our children 我们给孩子的传统及格-不及格制度 place on 在上放置 ; 寄托
+- Many workplaces conduct regular employee evaluations. 许多工作场所定期对员工进行评估。
+- There are usually fairly strict limits 通常有相当严格的限制
+- even then 尽管那样
+- negative evaluations can be challenged by the employee 负面评价可能会受到员工的质疑
+- No matter where you sit in the debate over the grade system 无论你在关于分数制的辩论中坐在哪里 No matter 没关系 ; 不管怎样 sit in 静坐 ; 出席 ; 照看
+- you've lived through this debate before 你以前经历过这种争论
+- At one time 一度;曾经
+- fair 公平的; fairly more fairly most fairly
+- come out on top 出人头地;拔得头筹;占得上风
+- human condition 人类状况 ; 人类条件 ;
+- All of which 所有这些
+- neither fish nor fowl 不伦不类
+- getting on compared 进行比较
+- Grades can deceive. 分数可能会骗人
+- not simply what a student can recall on a test 不仅仅是学生在考试中能回忆起什么
+- The two aren't the same 两者不一样
+- if you doubt that as an adult 如果你成年后对此表示怀疑
+- report card 学年(或学期)成绩单;工作情况报告
+- learnt learn 的过去分词和过去式
+- measuring up 合格
+- passing or failing 通过或失败
+- share of older workers 老年工人的比例
+- six times 六次;六倍;六回
+- give way to 被…替代;向…让步;向…妥协
+- put putt putting
+- follow suit 跟着做;照着做;仿效
+- far fewer 远远少于 far 远的 fewer 更少的
+- shrinking work forces shrink 收缩;缩小; force 力;力量; 强迫，迫使
