@@ -97,3 +97,24 @@
 - Popular Architecture would propose a radically different solution. The proposal is to go upwards, with vertical towers of considerable size, each representing an entire new town by the time it's completed. Each tower would be 1500 meters high. Beyond mere accommodation, each tower would function as an entire town unit, with its own schools, hospitals, parks and gardens, sports facilities, business areas and community spaces. The population density of such a tower could help lower the individual energy requirements of each inhabitant, reducing the ecological impact of the population as a whole.
 - The village towers are considered as hollow tubes, with large holes to allow light and air through the entire construction. Occasional floor discs spread throughout the height of the building will give inhabitants large central areas in the middle of the tube to use as gathering spaces.
 - While the building itself is unlikely ever to be seriously considered for construction----imagine the number of elevators it would need, let alone the safety implications of open areas at such heights and with such wind exposure----the concept can serve as a conversation-starter for urban planners looking to face the challenges of the current and coming centuries.
+
+## Part A
+
+- John:
+
+  - One of the main differences between a man's and a woman's body is that men are generally less capable of bending their body than women. You may think it is not important whether your body can bend easily or not, but it is. Stretching your muscles regularly will help you to move more effectively. It can also help you to stay injury-free, relax your muscles and in turn reduce stress.
+
+- Mike:
+
+  - Doing uninterrupted sessions may make you feel like you are doing the best thing for your body. But not giving yourself a break between workouts will mean that you will burn out, and do more harm than good. You should be taking a day off from exercising every two to three days as a minimum ideally. Taking a rest will mean that when you train again you can train harder.
+
+- Paul:
+
+  - Lots of men fall into the trap of thinking that in order to be better and achieve more, they have to perform all of their exercises at a super fast pace. Although it's true for some exercises, for others this is just not the case. Take weight lifting for example. When lifting slowly, you can increase the amount of time your muscles are tense for and increase the blood flow.
+
+- David:
+
+  - Some men are terrible for sticking to the same fitness routine, but doing different types of fitness activities means that you work different parts of your body, and by doing this you improve your core strength and your balance. It is often difficult for most men to try new things. If you don't want to go into a fitness class on your own, take a friend with you.
+
+- Helen:
+  - Women seem to be much better than men at taking a different approach to fitness. They engage physically and mentally with their fitness programs, which has many health benefits. One is that your stress levels can decrease. And some practices of this approach, such as Tai Chi, can improve bone health. To take advantage of these health benefits, find what suits you best from among the many different fitness techniques that are out there.

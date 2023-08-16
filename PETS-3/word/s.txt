@@ -1,8 +1,10 @@
+satellite   卫星
 schedule        /ˈʃedjuːl/          n.(价格、收费或条款等的)一览表，明细表，清单;日程安排;      vt.安排;预定;列入，收进(正式目录、清单等中);为…安排时间;
 science         /ˈsaɪəns/           n.科学;自然科学;学科，学;理科;
 secretary       /ˈsekrətri/         n.秘书;   部长;   助理;   大臣;   (俱乐部、社团等的)干事，文书;   复数 secretaries；
 sell            /sel/               v.出售;卖;卖出…;转让;   n.让人失望的东西;   过去式： sold;  过去分词： sold;
 senior          /ˈsiːniə(r)/        n.上级;中学生;上司;毕业班学生;高水平运动员;级别(或地位)较高者;  adj.(父子同名时，加在父亲的名字前)老，大;成人的;中等学校
+seriously       非常
 service         /ˈsɜːvɪs/           n.（对顾客的）接待，服务;   vt.维修;提供服务;   adj.服务性的；
 several         /ˈsevrəl/           det./pron.几个;一些;数个    adj.不同的，各种各样的;天量的，许多的;
 severe          /sɪˈvɪə(r)/         adj.严峻的;严厉的;重的;苛刻的;艰难的;
@@ -30,9 +32,12 @@ stroke          /strəʊk/            n.中风;击球(动作);一笔;(打、击�
 situation       /ˌsɪtʃuˈeɪʃn/       n.情况;状况;形势;局面;职业;(建筑物或城镇的)地理位置，环境特点;工作岗位;
 soldier         /ˈsəʊldʒə(r)/       n.士兵;军人;        v.当兵;磨洋工;坚持干;假称害病;
 solution        /səˈluːʃn/          n.解决方案;溶液;解;解决办法;溶解（过程）;答案;
+somehow     以某种方式
+spread      传播
 squeeze         /skwiːz/            v.挤压;(从某物中)榨出，挤出，拧出;      n.挤压;挤;捏;减少，削减;
 suit            /suːt/              vt.适合;适宜;相配;有利于;合身;      n.西装;套装;西服;
 summarize       /ˈsʌməraɪz/         v.总结;概述;概括;
+surrounding     周围的
 
 
 

@@ -14,3 +14,5 @@
 - personal qualities 个人素质;个人品质;
 - lead to 导致;通向
 - run for 去叫 ; 做…的候选人
+- think tanks 智囊团
+- as well as 以及
