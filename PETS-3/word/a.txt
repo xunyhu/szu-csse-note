@@ -1,7 +1,28 @@
+abdomen     n.腹，腹部
+ability     n.能力；技能，才能
+above       adj.上面的，上述的；
+abrupt      adj.突然地；唐突的；
+absence     n.缺席
+abstract    adj.抽象的，理性的；
+absurd      adj.不合理的；可笑的；
+abundant    adj.丰富的，大量的
+abuse       v.虐待；辱骂；
+accelerate  v.加速，增长；
+accidental  adj.偶然的，意外的；
 actually            /ˈæktʃuəli/         adv.实际上;事实上;确实，说实在的;
 accusation          /ˌækjuˈzeɪʃn/       n.指控;控告;起诉;谴责;告发;
-accommodation       住宿
+accommodation       n.住宿,膳宿；调解；
 accommodate         容纳
+accomplish          vt.完成，实现；
+according to        prep.根据；据...所说；
+account         n.账目，账号；
+accumulate      vt.积攒；vi.聚积；
+accustom        v.使习惯于
+ache            n.疼痛；
+acid            n.酸；酸性物质；
+acquaint        v.使熟悉；使认识；介绍；
+acquaintance    n.认识；对...有了解，熟知；
+acquire         v.获得
 additional          /əˈdɪʃənl/          adj.附加的;额外的;外加的;
 administrative      /ədˈmɪnɪstrətɪv/    adj.行政的;管理的;
 advance             /ədˈvɑːns/          n.进展;（价格、价值的）上涨，提高;      v.发展，进步;提前;      adj.预先的;事先的;
