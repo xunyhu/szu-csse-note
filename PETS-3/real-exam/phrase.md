@@ -75,3 +75,12 @@
 - follow suit 跟着做;照着做;仿效
 - far fewer 远远少于 far 远的 fewer 更少的
 - shrinking work forces shrink 收缩;缩小; force 力;力量; 强迫，迫使
+- get in touch 取得联系
+- helps fall down eating of the brain 有助于降低对大脑的消耗
+- my neck is stiff 我的脖子僵硬 stretch your legs 伸展双腿
+- What sounds to be a problem? 听起来有什么问题？
+- along with 随着;随同…一起 trouble concentrating 注意力不集中 concentrating 集中
+- a very tight schedule 非常紧凑的日程安排 very tight 非常紧的；
+- pick up my boss 接我的老板； pick up 拿起，提起 ; 拾起；have a meeting over lunch 边吃午饭边开会；
+- that's really tough. 这真的很难。tough 艰难的 ;
+- on the corner of Peter Street and William Street? 在彼得街和威廉街的拐角处？ on the corner 在拐角处 ; 在转角处；

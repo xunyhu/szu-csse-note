@@ -177,14 +177,25 @@
   - Good level of English required.
   - Contact us at smiths@gmail.com
 
-  - Now you want to get in touch with the family. Write an email to the couple, telling them about: get in touch 取得联系
+  - Now you want to get in touch with the family. Write an email to the couple, telling them about:
     - 1. your interest in the job;
     - 2. your qualification for the job;
     - 3. your time available for the job.
-  - You should write about 100 words. Do not sign your own name at the end of your email. Use "Wang Lin" instead.
+    - You should write about 100 words. Do not sign your own name at the end of your email. Use "Wang Lin" instead.
+
+- Dear Smiths:
+  - I have noticed your advertisement and I an writing to apply for the Tutor job. I have strong interest in the job and I find my experience and strengths are well matched with your requirements. I get good grades in school and I have won several prizes in physics and math contests. Besides, my English and Chinese proficiency are good so I can communicate fluently with the boy. I am available every weekend.
+  - If more details are needed, please feel free to contact me!
+  - Sincerely,
+  - Wang Lin
 
 ## Part B
 
 - Internet is getting into people's life and becoming more and more popular. Experts are now working on setting up a national long-distance educations system in China to provide educational opportunities via Internet.
 - In reality, the educational via Internet plan has been taking shape. Some universities have already got involved in regional long-distance education, catching the attention of many educators and computer experts worldwide. Others have just connected their campus computers for teaching and research, and provided more opportunities for learners.
 - The Internet education will be developing dramatically. It's estimated that computerized longdistance teaching networks will be available by 2010 for postgraduate education, vocational programs, teachers' training and employees' training. Moreover, it will soon cover all the corners of China and eventually win the worldwide popularity.
+
+- 范文
+  - Education, especially the education reforms in China, has been experiencing the great help from the Internet. Nowadays, people pay more attention to Internet education. As far as I am concerned, Internet education has a lot of advantages.
+  - Firstly, education is a field which needs more information while the Internet is a good information provider. Secondly, with the aid of the Internet, peosons who are related to education, such as teachers, students and parents are easily to get in touched with each other, and it can make the education an effective combination. Lastly, computers with pictures, videos, even music can help the classes and lectures much more instructive, interesting and absorbing as well.
+  - Therefore, computers and its Internet should be regarded as an important media in the modern education.

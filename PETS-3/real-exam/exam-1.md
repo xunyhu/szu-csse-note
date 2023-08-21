@@ -6,20 +6,13 @@
    M: I've been told that green tea can lower the risks of heart disease, stroke and cancers.  
    W: Besides that, it's good for memory. And it helps fall down eating of the brain.
 
-   - helps fall down eating of the brain 有助于降低对大脑的消耗
-
 2. W: Oh, my neck is stiff.  
    M: You should stand up and stretch your legs. Who can sit in front of the screen for ten hours without a break?
    W: Come on, Jim! You know my report is till tomorrow.
 
-   - my neck is stiff 我的脖子僵硬 stretch your legs 伸展双腿
-
 3. M: I've been worried that Richard is frozen.  
    W: What sounds to be a problem?
    M: Well, he has trouble concentrating when getting along with other children. I was wondering there might be something on his mind. Some problem at home?
-
-   - What sounds to be a problem? 听起来有什么问题？
-   - along with 随着;随同…一起 trouble concentrating 注意力不集中 concentrating 集中
 
 4. W: Sally, why are people now do business more and more?  
    M: Right, I have to be on the flight every week.  
@@ -74,48 +67,16 @@
 ## Part B
 
 1. W: Hi, James, do you think it's possible for us to have a talk sometime today?  
-    嗨，詹姆斯，你认为我们今天某个时候可以谈谈吗？
-
    M: I'd love to, Maggie. But I've got a very tight schedule today.  
-    我很乐意，麦琪。但是我今天的日程很紧。
-
    W: Oh, what have you got to do?  
-    哦，你有什么事要做？
-
-   M: Well, I've got to finish a report by 10. Then I have to drive to the airport and pick up my boss at 11. After that, we'll have a meeting over lunch.  
-    嗯，我必须在 10 点前完成一份报告。然后我必须开车去机场，在 11 点接我的老板。之后，我们将在午餐时开会。
-
-   I guess I won't have a break until 2 o'clock. But then from 3 until 5 I have to attend another meeting.  
-    我想我要到两点才能休息。但从 3 点到 5 点，我必须参加另一个会议。
-
+   M: Well, I've got to finish a report by 10. Then I have to drive to the airport and pick up my boss at 11. After that, we'll have a meeting over lunch. I guess I won't have a break until 2 o'clock. But then from 3 until 5 I have to attend another meeting.  
    W: Wow, that's really tough.  
-    哇，真的很难。
-
    M: I think I've got some time tomorrow. How about talking tomorrow afternoon?  
-    我想我明天有时间。明天下午谈谈怎么样？
-
    W: That's fine with me. But don't push yourself too hard. I can always wait.  
-    这对我来说很好。但不要把自己逼得太紧。我可以一直等着。
-
-   M: Tomorrow afternoon after four should be all right with me.  
-    明天下午四点以后我就可以了。
-
-   How about us meeting at the cafe on the corner of Peter Street and William Street? We can talk over coffee, all right?  
-    我们在彼得街和威廉街拐角处的咖啡馆见面怎么样？我们可以边喝咖啡边聊天，好吗？
-
+   M: Tomorrow afternoon after four should be all right with me. How about us meeting at the cafe on the corner of Peter Street and William Street? We can talk over coffee, all right?  
    W: Good. That sounds great to me.  
-    好的这听起来很棒。
-
    M: See you then.  
-    到时见。
-
-   W: Sure, take care and don't work too hard.  
-    当然，小心点，不要工作太辛苦。
-
-   - a very tight schedule 非常紧凑的日程安排 very tight 非常紧的；
-   - pick up my boss 接我的老板； pick up 拿起，提起 ; 拾起；have a meeting over lunch 边吃午饭边开会；
-   - that's really tough. 这真的很难。tough 艰难的 ;
-   - on the corner of Peter Street and William Street? 在彼得街和威廉街的拐角处？ on the corner 在拐角处 ; 在转角处；
+   W: Sure, take care and don't work too hard.
 
 2. W: Hi, Bob, how's your vacation of Los Angeles?  
     嗨，鲍勃，你在洛杉矶的假期怎么样？

@@ -117,3 +117,51 @@
 
 - Helen:
   - Women seem to be much better than men at taking a different `approach` to fitness. They `engage` `physically` and `mentally` with their fitness programs, which has many health benefits. One is that your stress levels can `decrease`. And some practices of this approach, such as Tai Chi, can improve bone health. To take advantage of these health benefits, find what suits you best from among the many different fitness techniques that are out there.
+
+## Part C
+
+- In 2009, Dan Black was hit by a car in his hometown of Chepstow, Wales, as he was biking to his job at a grocery store. `The accident left him unable to move from the chest down.` During his recovery, he suffered a stroke that rendered his right arm useless. Once a promising guitarist, Dan, now 25, lives with his parents and requires around-the-clock care that costs nearly $300,000 a year.
+- After the accident, a friend of Dan's started the Help Dan Black fund to cover some of Dan's medical expenses. Dan learned about an experimental stem cell treatment in China that could enable him to walk again. `After four years, donations to Help Dan Black totaled nearly $30.000.`
+- One day, in 2013, a news story caught the eye of Dan's mother, Michaela, who then shared the story with her son. The story featured a five-year-old boy named Brecon Vaughan. `He had a rare form of disease and had never walked by himself.` The boy's family had created a website with which to raise nearly $100,000 needed for a trip to the St.Louis Children's Hospital, where treatment was offered that could help Brecon walk. Only half the amount had been raised, said the report.
+- Dan deliberated. Then, after considering that his own dream of walking could be years away, he donated his $30,000 to Brecon's cause. "`I know how it feels to walk.`Brecon doesn't. He needs it much more than i do." Dan told a newspaper.
+- Dan's generosity received a great deal of attention, and contributions started pouring in to the Vaughan website. `The family soon exceeded their fund-raising goal.` They've promised to give the excess funds, about $17,000, to the Tree of Hope charity, which helps sick children in the United Kingdom find specialized medical help. In October, Brecon and his family traveled to St.Louis to begin treatment.
+- "What Dan did is great," Brecon's mother said. "It is an extraordinary gift."
+
+## Part D
+
+- Do you give your children money when they perform well at school?
+- According to a study, such as action could be `harmful` to their development, and cause them to be more materialistic as adults. The study suggests that those who were rewarded and spoiled as children were more likely to think possessions define who they are. "Using material possessions to express love or reward children for their `achievements` can have bad effect," wrote the authors of the study. "It can `develop` materialism in them."
+- The authors surveyed 701 adults to measure the long-term `impact` of material parenting. They were asked to describe their current life situation and values, and also reported on a `variety` of childhood cirumstances, their relationship with their parents, and the rewards and punishments they received.
+- Results showed adults who had received more material rewards and punishments as children were more likely than others to use possessions to define and express who they are. And they were likely to continue rewarding themselves with material `goods`.
+- Patents should, therefore, be cautious about using material possessions to express their love and reward their children for good behavior, `warn` the authors. They say `excessive` emphasis on material possessions during childhood can have significant effects. It can `pave` "the way for their children to grow up to be more likely than others to `admire` people with expensive possessions and judge success by the kinds of things people own," the authors conclude.
+
+# SECTION 3 Writing
+
+## Part A
+
+- You work for a foreign company. Now you want to ask for a short period of leave. Write an email to your boss Mr.Smith to tell him:
+
+  - 1）why you want to ask for leave;
+  - 2）how long you want to be away;
+  - 3）what you plan to do about your current work.
+  - You should write about 100 words. Do not sign your own name at the end of your email. Use "Wang Lin" instead.
+
+- Dear Mr.Smith,
+  - Due to the bad cold i got yesterday, I didn't feel well and went to hospital. After the examination, the doctor suggested that i should have a rest for at least two days. Therefore, I'd like to ask for leave of two days, starting from September 18 to September 19 and the doctor's certificate is enclosed.
+  - I will be very grateful if you can grant my leave of absence. As to the work to be missed during my absence, I promise to make them up when I come back.
+    - Yours sincerely,
+    - Wang Lin
+
+## Part B
+
+- It seems the nation's younger citizens are finally favoring the beauty of the natural world over the cries-of amateur singers.
+- The BBC has confirmed that the first three episodes of Planet Earth II have attracted more viewers in the 16 to 34 age group than The X Factor. The best ratings so far were for the second episode, which brought in 1.8 million young viewers compared to The X Factor's 1.4 million.
+- The show's narrator, Sir David Attenborough, credited improvements in technology with the show's increased success in its second season, which have brought animals close to the viewer and made their environments look real.
+- "You feel like the camera is with the animals," said producer Mike Gunton. "It's very active. For example, you see a monkey leaping through the forest. Normally you'll stand back to film that. But here the monkey almost jumps over your shoulder. The camera is running with it. Visually, Planet Earth II is doing is saying 'Let's get ourselves into the lives of the animals, and see it from their perspective.'"
+- "The music of Hans Zimmer is also a big factor," added Attenborough. "That pleases me enormously."
+- Besides technology and music, Attenborough said that viewers are "reconnecting with a planet whose beauty is spoiled and whose health is failing." He believes that young people are learning that their future is linked to that of the environment.
+
+- 范文
+  - According to BBC, the Planet Earth II is more popular than The X Factor among young people. It succeeds in both technology and music. After watching the show, many young people realize that the environment has been destroyed and they should protect the environment. In my opinion, three things should be done.
+  - Firstly, saving water. Water is the source of life. No water, no life. So it's very important for us to do so. Not only should we protect drinking water and stop polluting it, but also make full use of it. Secondly, saving forests. They are useful. we should stop cutting them down and use recycled paper instead so that we can make our world a green one to live in. Lastly, recycling useful rubbish. Plenty to rubbish can be recycled like cans, paper, bottles, and so on. We can save resources in this way.
+  - In a word, we only have one Earth. We should do what we can do to protect the environment.
