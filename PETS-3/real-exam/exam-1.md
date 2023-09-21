@@ -6,41 +6,25 @@
    M: I've been told that green tea can lower the risks of heart disease, stroke and cancers.  
    W: Besides that, it's good for memory. And it helps fall down eating of the brain.
 
-   - helps fall down eating of the brain 有助于降低对大脑的消耗
-
 2. W: Oh, my neck is stiff.  
-   M: You should stand up and stretch your legs. Who can sit in front of the screen for ten hours without a break?
+   M: You should stand up and stretch your legs. Who can sit in front of the screen for ten hours without a break?  
    W: Come on, Jim! You know my report is till tomorrow.
 
-   - my neck is stiff 我的脖子僵硬 stretch your legs 伸展双腿
-
 3. M: I've been worried that Richard is frozen.  
-   W: What sounds to be a problem?
+   W: What sounds to be a problem?  
    M: Well, he has trouble concentrating when getting along with other children. I was wondering there might be something on his mind. Some problem at home?
-
-   - What sounds to be a problem? 听起来有什么问题？
-   - along with 随着;随同…一起 trouble concentrating 注意力不集中 concentrating 集中
 
 4. W: Sally, why are people now do business more and more?  
    M: Right, I have to be on the flight every week.  
-   W: Wow, I really envy you.
+   W: Wow, I really envy you.  
    M: Don't envy me. In fact, I'm sick of restaurant food. Sometimes I just want a home-cook meal.
-
-   - do business 做生意；经商
-   - I'm sick of restaurant food. sick of 厌倦了 ; 厌烦了 restaurant 餐厅 ; 餐馆 meal 早(或午、晚)餐;一餐;
 
 5. M: Oh, just look at these people! They are really listening to the music. They are driving me mad.  
    W: Can't you see that this is the real communication between the musicain and the audience? Listen to our music. It belongs to our generation.  
    M: Well, it may be your music, but it certainly isn't mine. I'm going for a cup of coffee.
 
-   - They are driving me mad. driving 驾驶 ; 起推动作用的; mad 疯狂的 ; 疯的 ; 很生气 ;
-   - the real communication between the musicain and the audience 音乐人与观众之间的真实交流; communication 通信；交流； generation 产生 ; 代 ; 一代 ; 一代人 ;
-   - but it certainly isn't mine 但肯定不是我的 certainly 当然 ; 肯定 ;
-
 6. M: I was shocked when I heard you had finished your research project a whole month earlier.  
    W: How I managed to do it? It's still a mystery to me.
-
-   - shocked 使震惊 ; How I managed to do it? It's still a mystery to me. 我是怎么做到的？这对我来说仍然是个谜。 mystery 神秘 ; 谜 ;
 
 7. M: How long have you been in this country?  
    W: Two months, exactly.  
@@ -48,20 +32,14 @@
    W: Yes, I find it very difficult, especially when I cannot follow the professor's lectures.  
    M: That's because you just arrived.
 
-   - exactly 准确地;精确地;确切地;
-
 8. W: Why are you so upset, David?  
    M: My boss warned me not to spend all day communicating with my friends, but i didn't. He just didn't believe me.  
    W: You must have forgotten to close your hotmail's window again. You should have known better.
-
-   - upset 难过;沮丧的;沮丧;
 
 9. W: What do you think of my new suit?  
    M: Not bad. It reminds me of the one I saw at the new department store last week. Did you get it there?  
    W: No, I got it in that big shopping center. It cost me only $150.  
    M: Well, I don't think it's a good bargain.
-
-   - suit 西装; 适合; reminds 提醒;使想起; a good bargain 讨价还价 ; 便宜货 ; 赚钱的生意 ; 占便宜的交易; bargain 交易；
 
 10. W: My mother got really annoyed with my father yesterday evening.  
     M: Why? Did she complain about his cooking?  
@@ -69,53 +47,21 @@
     M: Don't tell me he fell asleep in front of the television.  
     W: No, he kept changing channels on the remote.
 
-    - complain 抱怨；fell asleep in front of the television 在电视机前睡着了
-
 ## Part B
 
 1. W: Hi, James, do you think it's possible for us to have a talk sometime today?  
-    嗨，詹姆斯，你认为我们今天某个时候可以谈谈吗？
-
    M: I'd love to, Maggie. But I've got a very tight schedule today.  
-    我很乐意，麦琪。但是我今天的日程很紧。
-
    W: Oh, what have you got to do?  
-    哦，你有什么事要做？
-
-   M: Well, I've got to finish a report by 10. Then I have to drive to the airport and pick up my boss at 11. After that, we'll have a meeting over lunch.  
-    嗯，我必须在 10 点前完成一份报告。然后我必须开车去机场，在 11 点接我的老板。之后，我们将在午餐时开会。
-
+   M: Well, I've got to finish a report by 10. Then I have to drive to the airport and pick up my boss at 11. After that, we'll have a meeting over lunch.
    I guess I won't have a break until 2 o'clock. But then from 3 until 5 I have to attend another meeting.  
-    我想我要到两点才能休息。但从 3 点到 5 点，我必须参加另一个会议。
-
    W: Wow, that's really tough.  
-    哇，真的很难。
-
    M: I think I've got some time tomorrow. How about talking tomorrow afternoon?  
-    我想我明天有时间。明天下午谈谈怎么样？
-
    W: That's fine with me. But don't push yourself too hard. I can always wait.  
-    这对我来说很好。但不要把自己逼得太紧。我可以一直等着。
-
-   M: Tomorrow afternoon after four should be all right with me.  
-    明天下午四点以后我就可以了。
-
+   M: Tomorrow afternoon after four should be all right with me.
    How about us meeting at the cafe on the corner of Peter Street and William Street? We can talk over coffee, all right?  
-    我们在彼得街和威廉街拐角处的咖啡馆见面怎么样？我们可以边喝咖啡边聊天，好吗？
-
    W: Good. That sounds great to me.  
-    好的这听起来很棒。
-
    M: See you then.  
-    到时见。
-
-   W: Sure, take care and don't work too hard.  
-    当然，小心点，不要工作太辛苦。
-
-   - a very tight schedule 非常紧凑的日程安排 very tight 非常紧的；
-   - pick up my boss 接我的老板； pick up 拿起，提起 ; 拾起；have a meeting over lunch 边吃午饭边开会；
-   - that's really tough. 这真的很难。tough 艰难的 ;
-   - on the corner of Peter Street and William Street? 在彼得街和威廉街的拐角处？ on the corner 在拐角处 ; 在转角处；
+   W: Sure, take care and don't work too hard.
 
 2. W: Hi, Bob, how's your vacation of Los Angeles?  
     嗨，鲍勃，你在洛杉矶的假期怎么样？

@@ -177,7 +177,7 @@
   - Good level of English required.
   - Contact us at smiths@gmail.com
 
-  - Now you want to get in touch with the family. Write an email to the couple, telling them about: get in touch 取得联系
+  - Now you want to get in touch with the family. Write an email to the couple, telling them about:
     - 1. your interest in the job;
     - 2. your qualification for the job;
     - 3. your time available for the job.
