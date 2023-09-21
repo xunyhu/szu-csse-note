@@ -64,109 +64,40 @@
    W: Sure, take care and don't work too hard.
 
 2. W: Hi, Bob, how's your vacation of Los Angeles?  
-    嗨，鲍勃，你在洛杉矶的假期怎么样？
-
    M: Ok. It was really wonderful, especially because I was so lucky to spend two days on Santa Catalina Island.  
-    好的。真的很棒，尤其是因为我很幸运能在圣卡塔琳娜岛度过两天。
-
    W: Santa Catalina Island? I've never heard of it before.  
-    圣卡塔琳娜岛？我以前从未听说过。
-
    M: But you may have seen it. In the past nineteen years, Catalina has enjoyed a great popularity as a filming location.  
-    但你可能已经看到了。在过去的十九年里，卡塔琳娜作为一个拍摄地点非常受欢迎。
-
    W: Where is it?  
-    它在哪里？
-
    M: About 35 km off Los Angeles' coast. We took the high speed hurry to the harbor at Avalon. Avalon is Catalina's main town.  
-    距离洛杉矶海岸约 35 公里。我们乘高速急行前往阿瓦隆的港口。阿瓦隆是卡塔琳娜的主要城镇。
-
    W: What is it then?  
-    那是什么？
-
    M: It's a small town replaced by thousands of people. It's different from other beach cities in Los Angeles.  
-    这是一个被成千上万的人取代的小镇。它与洛杉矶的其他海滩城市不同。
-
    There will be stories of many color ice cream stamps. Instead of cars, golf carts are the preferred means of transport in Avalon.  
-    将会有许多彩色冰淇淋邮票的故事。在阿瓦隆，高尔夫球车是首选的交通工具，而不是汽车。
-
    Tourists all like them with carts in and outside the city.  
-   游客们都喜欢他们在城市内外推车。
-
    W: What has made the major tourist in Catalina?  
-    是什么造就了卡塔琳娜的主要游客？
-
    M: The airport in the sky.  
-    天空中的机场。
-
    W: How did you learn to see all of them?  
-    你是怎么学会看到他们的？
-
    M: We took the classical tour. We're sure about the scenery in the 1953 flexible bus.  
-    我们进行了古典之旅。我们对 1953 年那辆灵活的公共汽车上的景色很确定。
-
-   W: Sounds so interesting. I'll include Catalina in my vacation plan next month.  
-    听起来很有趣。下个月我将把卡塔琳娜列入我的度假计划。
-
-   - how's your vacation of Los Angeles? 你在洛杉矶的假期怎么样？ vacation 假期 ;
-   - high speed 高速 ; hurry to 匆忙 ; harbor 港口 ; Avalon 阿瓦隆； town 城镇 ;
+   W: Sounds so interesting. I'll include Catalina in my vacation plan next month.
 
 3. W: How would you introduce volleyball?  
-    你将如何介绍排球？
-
    M: I was once a high school man teacher and basketball coach. I never played volleyball before and I've seen it just once in my life.  
-    我曾经是一名高中男教师和篮球教练。我以前从未打过排球，我一生中只见过一次。
-
    One day my school needed a lot of coaches for our girls' team. I was one of the youngest teachers on stuff and the girls talked me helping coach volleyball.  
-   有一天，我们学校的女队需要很多教练。我是这方面最年轻的老师之一，女孩们告诉我帮助指导排球。
-
    The girls they have were great and they began to start. A friend of mine was a volleyball player. He taught me beginning and then taught me how to coach it.  
-    她们的女孩们都很棒，她们开始起步了。我的一个朋友是一名排球运动员。他教我开始，然后教我如何指导它。
-
    W: What sports did you play in high school?  
-    你在高中时参加过什么运动？
-
    M: I played basketball, tennis and golf. I was not a volleyball player at all. I was pretty good at basketball. But then my real passion was gone. I played it every day.  
-    我打篮球、网球和高尔夫球。我根本不是一个排球运动员。我篮球打得很好。但后来我真正的激情消失了。我每天都玩。
-
    W: When did you know you want to be a full-time volleyball coach?  
-    你什么时候知道你想当一名全职排球教练的？
-
    M: It wouldn't take very long. I've been coaching women's basketball that I really love it. But when I saw an opportunity in women's volleyball, because coaches were needed.  
-    不会花很长时间。我一直在执教女篮，我真的很喜欢。但当我看到女排的机会时，因为教练是需要的。
-
-   In this way, I become a college coach immediately. I like coaching women's volleyball at college very much because it seems to fit my personality.  
-   通过这种方式，我立刻成为了一名大学教练。我非常喜欢在大学执教女排，因为这似乎符合我的个性。
-
-   - volleyball 排球；once 一旦，曾经；coach 教练；stuff 物品；passion 激情；
-   - opportunity 机会，时机；immediately 立即，马上； it seems to fit my personality 这似乎符合我的个性；fit 安置，安装；personality 人格，个性；
+   In this way, I become a college coach immediately. I like coaching women's volleyball at college very much because it seems to fit my personality.
 
 4. W: Movie box offices sales have been down almost 10 percent this summer. What happened?  
-    今年夏天，电影票房下降了近 10%。发生了什么？
-
    M: Many things. Now they have more choices about how to spend their leisure time. DVD business certainly has effect on movie-going and obviously we need better quality of films and more entertaining ones.  
-    很多事情。现在，他们在如何度过闲暇时间方面有了更多的选择。DVD 业务肯定会影响电影的发展，显然我们需要更高质量的电影和更具娱乐性的电影。
-
    W: How about movie theaters?  
-    电影院怎么样？
-
    M: Most theaters today should be made more comfortable and cleaner. I hate to see the theater with stuff of garbage. I also think they should be better food available so that people feel good and enjoy there.  
-    如今的大多数剧院都应该变得更舒适、更干净。我讨厌看剧院里堆满了垃圾。我还认为他们应该有更好的食物，让人们在那里感觉良好并享受。
-
    W: I've heard some people complain that Hollywood releases too late films a year. What's your opinion?  
-    我听到一些人抱怨好莱坞一年上映的电影太晚了。你有什么意见？
-
    M: There are probably coming out on crowded days, in the summer and at Christmas time. But generally, there are films as we know.  
-    可能会在拥挤的日子、夏天和圣诞节的时候出现。但总的来说，我们知道有些电影。
-
    Well, personally, I think movies business today is still healthy and it's a great business too. Ever since everybody feels pretty good.  
-    嗯，就我个人而言，我认为今天的电影业仍然健康，这也是一项伟大的事业。从那以后，每个人都感觉很好。
-
    W: If you want to relax yourself to watch a movie at home, what would be your choice?  
-    如果你想放松自己在家看电影，你会选择什么？
-
-   M: If I have to pick one, I choose to see the god father and the god father part II. I think these two are great films of all time.  
-    如果非要我选一个，我会选择看《教父》和《教父第二部》。我认为这两部电影是有史以来最伟大的电影。
+   M: If I have to pick one, I choose to see the god father and the god father part II. I think these two are great films of all time.
 
 # SECTION 2 Reading
 
@@ -178,24 +109,10 @@
 
 - The extraordinary rise of living alone is the biggest social change that we've neglected to identify, let along examine.
 - Consider that in 1950, a mere 4 million Americans lived alone, making up only 9% of households. Back then, living alone was most common in the Western states that attracted seasonal workingmen, ant it was usually a short-lived stage on the road to a more conventional domestic life.
-
-  - making up only 9% of households 仅占家庭的 9%；
-  - back then 当时，那时候
-
 - Not anymore. According to the latest data, nearly 33 million Americans live alone, making up 28% of households, which means they are now tied with clildless couples as the most important type, more common than the nuclear family, the multi generational family and the roommate or group home. These aren't just temporary living situtions: over a five-year period, people who live alone are more likely to remain in their current state than anyone else except married couples with children. They're concentrated in big cities throughout the country.
-
-  - Not anymore 不再是；
-  - tied with 并列
-  - multi generational family 多代同堂的家庭；the roommate or group home 室友或集体之家；temporary living situtions 临时居住场所；
-
 - Living alone, being along and feeling lonely are hardly the same, yet in recent years experts have mixed them up, raising fears that the rise of living alone signals the ultimate atomization of the modern world. In fact, there's little evidence that the rise of living alone is making more Americans lonely. According to the latest studies, what matters is not whether we live alone but whether we feel alone. Divorced people often say there's nothing lonelier than living with the wrong person. Besides, people living alone compensate by becoming more socially active than those who live with others.
-
 - The truth is, today nearly everyone who lives alone chooses to do so, despite less expensive options from finding roommates to living with family.
-
 - After all, living alone allows us to do what we want, when we want, on our own terms. It liberates us from the restrictions of domestic partner's needs and demands. Today, in our age of digital media and ever expanding social networks, living alone can offer even greater benefits：the time and space for healing power of aloneness.
-
-  - After all 毕竟 ; 终究
-
 - This means that living alone can help us discover who we are and what gives us meaning and purpose. It might be exactly what we need to reconnect.
 
 26. In 1950 living alone `B`
@@ -230,9 +147,7 @@
 
 - [A] get help from others
 - [B] know our true selves
-  - selves 自我;self 的复数
 - [C] set up social networks
-  - set up 建立
 - [D] reconnect with friends
 
 ### Text 2
@@ -394,8 +309,6 @@ Directions:
 
 - A couple that has been married for 38 years--and overcame difficult circumstances--graduated from college together this month.
 - On Dec. 3, their son, Charles Cole III, 33, posted a picture on the internet of his parents in their caps and gowns, which has gotten a ton of attention online.
-  - his parents in their caps and gowns 他的父母戴着帽子，穿着长袍
-  - a ton of attention 大量的关注 ton of 吨 ; 大量
 - Cole's parents, Charles Cole Jr. and Renate, battled major financial problems when he was young, which made for a rough childhood. "I grew up pretty early," he said. "I just knew I didn't want to go through what I saw them go through."
 - Cole graduated from California State University with a degree in political science and is now working towards a PhD in education. He has also worked as a social worker, developing a passion for work involving black youth and education.
 - Cole's parents were inspired by him to finish college. "Our son is ambitious," recalled Charles Cole Jr. "Seeing his drive to just do it kind of pushed us."
