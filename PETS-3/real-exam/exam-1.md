@@ -7,16 +7,16 @@
    W: Besides that, it's good for memory. And it helps fall down eating of the brain.
 
 2. W: Oh, my neck is stiff.  
-   M: You should stand up and stretch your legs. Who can sit in front of the screen for ten hours without a break?
+   M: You should stand up and stretch your legs. Who can sit in front of the screen for ten hours without a break?  
    W: Come on, Jim! You know my report is till tomorrow.
 
 3. M: I've been worried that Richard is frozen.  
-   W: What sounds to be a problem?
+   W: What sounds to be a problem?  
    M: Well, he has trouble concentrating when getting along with other children. I was wondering there might be something on his mind. Some problem at home?
 
 4. W: Sally, why are people now do business more and more?  
    M: Right, I have to be on the flight every week.  
-   W: Wow, I really envy you.
+   W: Wow, I really envy you.  
    M: Don't envy me. In fact, I'm sick of restaurant food. Sometimes I just want a home-cook meal.
 
 5. M: Oh, just look at these people! They are really listening to the music. They are driving me mad.  
@@ -52,11 +52,13 @@
 1. W: Hi, James, do you think it's possible for us to have a talk sometime today?  
    M: I'd love to, Maggie. But I've got a very tight schedule today.  
    W: Oh, what have you got to do?  
-   M: Well, I've got to finish a report by 10. Then I have to drive to the airport and pick up my boss at 11. After that, we'll have a meeting over lunch. I guess I won't have a break until 2 o'clock. But then from 3 until 5 I have to attend another meeting.  
+   M: Well, I've got to finish a report by 10. Then I have to drive to the airport and pick up my boss at 11. After that, we'll have a meeting over lunch.
+   I guess I won't have a break until 2 o'clock. But then from 3 until 5 I have to attend another meeting.  
    W: Wow, that's really tough.  
    M: I think I've got some time tomorrow. How about talking tomorrow afternoon?  
    W: That's fine with me. But don't push yourself too hard. I can always wait.  
-   M: Tomorrow afternoon after four should be all right with me. How about us meeting at the cafe on the corner of Peter Street and William Street? We can talk over coffee, all right?  
+   M: Tomorrow afternoon after four should be all right with me.
+   How about us meeting at the cafe on the corner of Peter Street and William Street? We can talk over coffee, all right?  
    W: Good. That sounds great to me.  
    M: See you then.  
    W: Sure, take care and don't work too hard.
