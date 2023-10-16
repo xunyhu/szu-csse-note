@@ -4,8 +4,12 @@
 
    - SQL 已经成为`关系数据库`的标准语言，是一种数据库查询和程序设计语言，用于存取数据以及查询、更新和管理关系数据库系统。
    - 它的功能不仅仅是查询，实际上包括`数据定义`、`数据操纵`、`数据控制`等与数据库有关的一系列功能。
+      - 数据定义：具体包括数据库模式定义、表定义、视图定义、索引定义
+      - 数据操纵：插入数据、删除数据、修改数据
+      - 数据控制：SELECT语句及相关各类子句
    - SQL 是于 `1974` 年由 Boyce 和 Chamberlin 提出的
    - 目前没有一个数据库系统能够支持 SQL 标准的全部概念和特性
+   - pdf92 - 131
 
 2. SQL 的特点
 
@@ -20,7 +24,7 @@
 3. SQL 的组成
 
    - SQL 集数据查询、数据定义、数据操纵和数据控制四大功能于一体，其核心主要包括以下几个部分：
-     - 1）数据定义语言（Data Definition Language, DDL）
+     - 1）数据定义语言（Data Definition Language, DDL），包括的SQL语句有以下三个：
      - 2）数据操纵语言（Data Manipulation Language，DML）
      - 3）数据控制语言（Data Control Language，DCL）
      - 4）嵌入式和动态 SQL 规则
@@ -31,25 +35,25 @@
    - 数据定义语言主要用于对数据库及数据库中的各种对象进行创建、删除、修改等操作。
    - 其中数据库对象主要有表、默认约束、规则、视图、触发器、存储过程等。
    - 数据定义语言包括的主要 SQL 语句有以下三个：
-     - CREATE：用于创建数据库或数据库对象
-     - ALTER：用于对数据库或数据库对象进行修改
-     - DROP：用于删除数据库或数据库对象
+     - `CREATE：用于创建数据库或数据库对象`
+     - `ALTER：用于对数据库或数据库对象进行修改`
+     - `DROP：用于删除数据库或数据库对象`
      - 对于不同的数据库对象，这三个 SQL 语句所使用的语法格式有所不同。
 
 5. 数据操纵语言
 
    - 数据操纵语言主要用于操纵数据库中各种对象，特别是检索和修改数据
    - 数据操纵语言包括的主要 SQL 语句有以下四个：
-     - SELECT：用于从表或视图中检索数据，其是数据库中使用最为频繁的 SQL 语句之一；
-     - INSERT：用于将数据插入到表或视图中；
-     - UPDATE：用于修改表或视图中的数据；
-     - DELETE：用于从表或视图中删除数据。
+     - `SELECT：用于从表或视图中检索数据，其是数据库中使用最为频繁的 SQL 语句之一；`
+     - `INSERT：用于将数据插入到表或视图中；`
+     - `UPDATE：用于修改表或视图中的数据；`
+     - `DELETE：用于从表或视图中删除数据。`
 
 6. 数据控制语言
    - 数据控制语言主要用于安全管理，例如确定哪些用户可以查看或修改数据库中的数据。
    - 数据控制语言包括的主要 SQL 语句有以下两个：
-     - GRANT：用于授予权限，可把语句许可或对象许可的权限授予其他用户和角色；
-     - REVOKE：用于收回权限，其功能于 GRANT 相反，但不影响该用户或角色从其他角色中作为成员继承许可权限。
+     - `GRANT：用于授予权限，可把语句许可或对象许可的权限授予其他用户和角色；`
+     - `REVOKE：用于收回权限，其功能于 GRANT 相反，但不影响该用户或角色从其他角色中作为成员继承许可权限。`
 
 ## 4.2 MySQL 预备知识
 
@@ -63,7 +67,7 @@
 
 2. MySQL 的两种架构方式
 
-   - 使用 MySQL 数据库管理系统构建各种信息管理系统或互联网网站的应用环境主要有如下两种架构方式：
+   - 使用 MySQL 数据库管理系统构建各种`信息管理系统`或`互联网网站`的应用环境主要有如下两种架构方式：
      - LMAP (Linux + Apache + MySQL + PHP/Perl/Python)
      - WMAP (Windows + Apache + MySQL + PHP/Perl/Python)
 
@@ -89,7 +93,7 @@
    - 2）`变量`用于临时存储数据，变量中的数据可以随着程序的运行而变化。
 
      - 变量有名字和数据类型两个属性。名字用于标识变量，数据类型用于确定变量中存储数值的格式和可执行的运算。
-     - 在 MySQL 中，变量分为用户变量和系统变量。使用时，用户变量前常加一个'@'，系统变量前加两个'@'符号。
+     - 在 MySQL 中，变量分为用户变量和系统变量。使用时，`用户变量`前常加一个'@'，`系统变量`前加两个'@'符号。
 
    - 3）`运算符`,MySQL 提供了如下常用的运算符
 
@@ -116,20 +120,20 @@
 2. 数据库模式定义
 
    - 数据库模式的定义包含数据库的创建、选择、修改、查看等操作。
-   - 可以用 CREATE DATABASE 或 CREATE SCHEMA 语句创建数据库，语法格式如下：
+   - 可以用 `CREATE DATABASE` 或 `CREATE SCHEMA` 语句`创建数据库`，语法格式如下：
      - CREATE {DATABASE|SCHEMA} [IF NOT EXISTS] db_name
      - [DEFAULT] CHARACTER SET [=] chartset_name
      - | [DEFAULT] COLLATE [=] collation_name
-   - 1）在 MySQL 中创建一个名为 mysql_test 的数据
-     - CREATE DATABSE mysql_test
-   - 2）选择数据库
-     - USE mysql_test
-   - 3）修改数据库
-     - 使用 ALTER DATABASE 或 ALTER SCHEMA 语句来修改已被创建数据库的相关参数
-   - 4）删除数据库
-     - 使用 DROP DATABASE 或 DROP SCHEME 语句来删除已经创建的数据库。使用 IF EXISTS 可以避免删除不存在的数据库时出现的 MySQL 错误信息。
-   - 5）查看数据库
-     - 使用 SHOW DATABASES 或 SHOW SCHEMAS 语句来查看可用数据库列表
+   - 1）在 MySQL 中`创建`一个名为 mysql_test 的数据
+     - `CREATE` DATABSE mysql_test
+   - 2）`选择数据库`
+     - `USE` mysql_test
+   - 3）`修改`数据库
+     - 使用 `ALTER` DATABASE 或 ALTER SCHEMA 语句来修改已被创建数据库的相关参数
+   - 4）`删除`数据库
+     - 使用 `DROP` DATABASE 或 DROP SCHEME 语句来删除已经创建的数据库。使用 IF EXISTS 可以避免删除不存在的数据库时出现的 MySQL 错误信息。
+   - 5）`查看`数据库
+     - 使用 `SHOW` DATABASES 或 SHOW SCHEMAS 语句来查看可用数据库列表
 
 3. 表定义
 
@@ -141,7 +145,7 @@
 
    - 1）创建表
 
-     - CREATE TABLE tal_name
+     - `CREATE TABLE tal_name`
      - create table test (id INT NOT NULL AUTO_INCREMENT, name CHAR(50) NOT NULL, PRIMARY KEY(id));
      - create table test2 (id int not null AUTO_INCREMENT, primary key(id));
      - CREATE TABLE table_name (column_name column_type);
@@ -163,7 +167,7 @@
 
    - 2）更新表
 
-     - 使用 ALTER TABLE 语句来更改原有表的结构
+     - `使用 ALTER TABLE 语句来更改原有表的结构`
      - ADD [COLUMN]子句。增加列。
 
        - alter table customers ADD column cust_city char(10) not null default "ShenZhen" AFTER cust_sex;
@@ -189,13 +193,13 @@
 
    - 3）重命名表
      - 除了使用前面的 ALTER TABLE 语句，还可以直接用 RENAME TABLE 语句来更改，并可同时重命名多个表。
-     - rename table test to test_1
+     - `rename table test to test_1`
    - 4）删除表
      - 使用 DROP TABLE 语句来删除表。
-     - drop table test2
-   - 5）查看表。分为显示表的名称和显示表的结构两种。
-     - 查看表的名称：SHOW TABLES;
-     - 查看表的结构： SHOW COLUMNS FROM (mysql_test.customers | customers) 或者 DESCRIBE mysql_test.customers 或者 DESC mysql_test.customers
+     - `drop table test2`
+   - 5）`查看表`。分为显示表的名称和显示表的结构两种。
+     - `查看表的名称：SHOW TABLES`;
+     - `查看表的结构：` SHOW COLUMNS FROM (mysql_test.customers | customers) 或者 DESCRIBE mysql_test.customers 或者 DESC mysql_test.customers
 
 4. 索引定义
    - 索引是 DBMS 根据表中的一列或若干列按照一定顺序建立的列值与记录之间的对应关系表。
@@ -233,7 +237,7 @@
 
 ## 4.5 数据查询
 
-- 数据查询是 SQL 语言的核心功能，也是数据库中使用最多的操作，其用途是从数据库的一张或多张表（或视图）中检索出满足条件的数据信息。
+- `数据查询是 SQL 语言的核心功能，也是数据库中使用最多的操作，其用途是从数据库的一张或多张表（或视图）中检索出满足条件的数据信息。`
 - SQL 提供 SELECT 语句进行数据查询，该功能强大、使用灵活，其数学理论基础是关系数据模型中对表对象的一组关系运算，即选择、投影和连接。
 
 1. SELECT 语句
@@ -262,25 +266,29 @@
 
    - 聚合函数
 
-3. FROM 子句与多表连接查询
-
+3. `FROM 子句`与多表连接查询
+   - `若一个查询同时涉及两个或两个以上的表，则称之为多表连接查询，也称多表查询或连接查询。`
    - 交叉连接
      - select \* from customers CORSS JOIN runoob;
    - 内连接
    - 外连接
 
-4. WHERE 子句与条件查询
-   在 SELECT 语句中，可以使用 WHERE 子句指定过滤条件，从 FROM 子句的中间结果中选取适当的数据行，实现数据的过滤。以下是几个常见的方法。
+4. `WHERE 子句`与条件查询
+   - 在 SELECT 语句中，可以使用 WHERE 子句指定过滤条件，从 FROM 子句的中间结果中选取适当的数据行，实现数据的过滤。以下是几个常见的方法。
 
    - 比较运算
    - 判定范围
    - 判定空值
    - 子查询
 
-5. GROUP BY 子句与分组数据
-6. HAVING 子句
-7. ORDER BY 子句
-8. LIMIT 子句
+5. `GROUP BY 子句`与分组数据
+    - 在SELECT语句中，允许`使用GROUP BY子句，将结果集中的数据行根据选择列的值进行逻辑分组，以便能汇总表内容的子集，即实现对每个组的聚集计算`。
+6. `HAVING 子句`
+    - 在SELECT语句中，除了能使用GROUP BY子句分组数据之外，还可以`使用HAVING子句来过滤分组，即在结果集中规定包含哪些分组和排除哪些分组`。
+7. `ORDER BY 子句`
+    - 在SELECT语句中，可以`使用ORDER BY子句将结果集中的数据按一定的顺序进行排列`，否则结果集中数据行的顺序是不可预料的。
+8. `LIMIT 子句`
+    - 当使用SELECT语句返回的结果集中行数很多时，为了便于用户对结果数据的浏览和操作，可以`使用LIMIT子句来限制被SELECT语句返回的行数`。
 
 ## 4.6 视图
 
@@ -322,70 +330,6 @@
 
 7. 查询视图数据
    - 视图一经定义之后，就可以如同查询数据库中的真实表一样，对视图进行数据查询检索，这也是对视图使用最多的一种操作。
-
-## 思考与练习
-
-- 选择题
-
-1. 可用于从表或视图中检索数据的 SQL 语句是`SELECT语句`.
-2. SQL 又称为`结构化查询语言`.
-3. 在 MySQL 中，通常用来指定一个已有数据库作为当前工作数据库的语句是`USE`.
-
-- 填空题
-
-1. MySQL 数据库所支持的 SQL 主要包含`数据定义语言` 、`数据操纵语言 `、 `数据控制语言`和 MySQL 扩展增加的语言要素几个部分
-   - MySQL 作为一种关系型数据库管理系统，遵循 SQL 标准，提供了对数据定义语言 DDL（如：CREATE、ALTER、DROP）、数据操纵语言 DML（如：SELECT、INSERT、UPDATE、DELETE）、数据控制语言 DCL（如：GRANT、REVOKE）的支持，并且同样支持关系数据库的三级模式结构。
-2. 在 MySQL 中，通常使用值`NULL`来表示一个列值没有值或缺值的情况
-3. 在 CREATE TABLE 语句中，通常使用关键字**primary key**来指定主键
-
-- 简答题
-
-1. 请解释 SQL 是何种类型的语言。
-
-   - SQL 是一种数据库查询和程序设计语言，用于存取数据以及查询、更新、管理关系数据库系统。
-
-2. 请简述什么是子查询。
-
-   - 子查询是指嵌套在其他语句中（SELECT、INSERT）的 SELECT 查询语句。
-
-3. 请简述视图与基本表的区别。
-   - （1）基本表是数据库中真实存在的表，而视图是建立在对数据库中真实表查询基础上的虚拟表。
-     （2）视图的内容是由存储在数据库中进行查询操作的 SQL 语句定义的，它的列数据与行数据均来自于定义视图的查询所引用的基本表。
-     （3）视图不适宜数据集的形式存储在数据库中的，它所对应的数据实际上是存储在视图所引用的基本表中的。
-     （4）视图是用来查看存储在别处的数据的一种虚拟表，本身不存储数据。
-
-- 操作题
-
-  - ![image](./assets/img-4.png)
-  - 1. 创建一个名为 db_test 的数据库
-    - CREATE DATABASE db_test;
-  - 2. 创建一个数据表 content
-
-    - USE db_test;
-    - CREATE TABLE content(
-      content_id INT NOT NULL AUTO_INCREMENT,
-      subject VARCHAR(200),
-      words VARCHAR(1000),
-      username VARCHAR(50),
-      face VARCHAR(50),
-      email VARCHAR(50),
-      createtime DATETIME,
-      PRIMARY KEY(content_id)
-      );
-
-  - 3. 插入数据：id 由系统自动生成；标题为"MySQL 问题请教"；内容为"MySQL 中对表数据的基本操作有哪些？"；姓名为"MySQL 初学者"；face 为"face.jpg"，email 为"tom@gmail.com"，创建时间为系统当前时间。
-
-    - INSERT INTO content VALUES (1, "MySQL 问题请教", "MySQL 中对表数据的基本操作有哪些？", "MySQL 初学者", "face.jpg", "tom@gmail.com", CURRENT_TIMESTAMP());
-    - INSERT INTO content VALUES (NULL, "MySQL 问题请教", "MySQL 中对表数据的基本操作有哪些？", "MySQL 初学者", "face.jpg", "tom@gmail.com", CURRENT_TIMESTAMP());
-
-  - 4. 使用 UPDATA 语句修改留言人姓名为"MySQL 初学者"的留言内容为"如何使用 INSERT 语句？"
-
-    - UPDATE table_name SET field1=new-value1, field2=new-value2 [WHERE Clause]
-    - UPDATE content SET words="如何使用 INSERT 语句？" WHERE username="MySQL 初学者" AND content_id=1;
-
-  - 5. 使用 DELETE 语句将表 content 中留言人姓名为“MySQL 初学者”的留言信息删除
-    - DELETE FROM table_name [WHERE Clause]
-    - DELETE FROM content WHERE username="MySQL 初学者" AND content_id=2;
 
 ## MySQL 的安装与配置
 
