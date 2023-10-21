@@ -380,25 +380,121 @@
       select * from student cross join student2;
    ```
 
-   `内连接`
-
-   根据 student 和学生选课表 SC，使用内连接查询每个学生及其选课成绩的详细信息
+   `内连接`通过在查询中设置连接条件的方式，来移除查询结果集中某些数据行之后的交叉连接。目的：为了消除交叉连接的某些数据行。  
+   关于内连接的使用，通常有三种情形：  
+   等值连接： ON 子句的连接条件中使用运算符=； 非等值连接： ON 子句的连接条件中使用除=以外的比较运算符。自连接：将一个表与它自身进行连接；
 
    ```sql
+      /* 根据 student 和学生选课表 SC，使用内连接查询每个学生及其选课成绩的详细信息 */
       SELECT * FROM student INNER JOIN sc
       ON student.sno=sc.sno;
    ```
 
-   `外连接`
-
-   左外连接
-
-   根据 student 和选课表 sc，使用左外连接查询每个学生及其选课成绩的详细信息
+   `外连接`可以在表中没有匹配记录的情况下仍返回记录，可`分为左外连接和右外连接`。  
+   `左外连接（左连接）`：关键字 LEFT OUTER JOIN(或 LEFT JOIN)。`结果集中除了匹配的行之外，还包括左表中有的但在右表中不匹配的行`，这些行从右表中被选择的列的值被设置为 `NULL`。  
+   `右外连接（右连接）`：关键字 RIGHT OUTER JOIN(或 RIGHT JOIN)。结果集中除了匹配的行之外，还包括`右表中有的但在左表中不匹配的行`，这些行从左表中被选择的列的值被设置为 NULL。
 
    ```sql
-      SELECT * FROM student LEFT JOIN sc
-      ON student.sno=sc.sno;
+      /** 根据 student 和选课表 sc，使用左外连接查询每个学生及其选课成绩的详细信息 */
+      SELECT * FROM student LEFT JOIN sc ON student.sno=sc.sno;
 
-      SELECT * FROM student RIGHT JOIN sc
-      ON student.sno=sc.sno;
+      SELECT * FROM student RIGHT JOIN sc ON student.sno=sc.sno;
    ```
+
+   在 SELECT 语句中，可以使用 **WHERE 子句指定过滤条件**，实现数据的过滤。WHERE 子句中设置过滤条件的常用方法：  
+   比较运算：用于比较两个表达式的值  
+   判定范围：`关键字有 BETWEEN 和 IN 两个`。  
+   判定空值：关键字 IS NULL。  
+   子查询：`用 SELECT 创建子查询，即可嵌套在其他 SELECT 查询中`的 SELECT 查询。
+
+   ```sql
+      /** 例4.34：在数据库mysql_test的表customers中查找所有男性客户的信息。 */
+      SELECT * from customers where sex='M';
+
+      /** 在数据库mysql_test的表customers中，查询客户id号在903至912之间的十个客户的信息。 */
+      SELECT * FROM mysql_test.customers WHERE cust_id BETWEEN 903 AND 912;
+
+      /** 在数据库mysql_test的表customers中，查询客户id号分别为903、906和908的三个客户的信息。 */
+      SELECT * FROM mysql_test.customers WHERE cust_id IN (903,906,908);
+
+      /** 在数据库mysql_test的表customers中，查询是否存在没有填写客户联系方式的客户。 */
+      SELECT * from customers WHERE cust_address IS NULL;
+
+      /** 根据student和SC表，使用子查询的方式查询任意所选课程成绩高于80分的学生的学号和姓名信息。 */
+      SELECT Sno,Sname FROM student WHERE Sno IN (SELECT Sno FROM sc WHERE grade>89);
+
+      /** 使用exists判断 查询所有选修了1号课程的学生姓名。 */
+      Select Sname From student where exists (select * from sc where sno=student.sno and cno='1');
+
+      /** 查询学生总人数。 */
+      select count(*) from student;
+   ```
+
+   在 SELECT 语句中，允许使用**GROUP BY 子句**，将结果集中的数据行根据选择列的值进行逻辑分组，以便能汇总表内容的子集，即实现对每个组的聚集计算。
+
+   ```sql
+      /** 在数据库mysql_test的表customers中获取一个数据结果集，要求该结果集中分别包含每个相同地址的男性客户人数和女性客户人数 。 */
+
+      SELECT cust_address,cust_sex,count(*) AS '人数'
+      FROM mysql_test.customers
+      GROUP BY cust_address,cust_sex;
+   ```
+
+   在 SELECT 语句中，可以使用 **HAVING 子句**来过滤分组，即在结果集中规定包含哪些分组和排除哪些分组。
+
+   ```sql
+      /** 在数据库mysql_test的表customers中查找这样一类客户信息：要求在返回的结果集中，列出相同客户地址中满足客户人数少于3的所有客户姓名及其对应地址 。 */
+
+      SELECT cust_name,cust_address, cust_sex FROM mysql_test.customers GROUP BY cust_address,cust_name, cust_sex
+      HAVING COUNT(*)<2;
+   ```
+
+   在 SELECT 语句中，可以使用 **ORDER BY 子句**将结果集中的数据行按一定的顺序进行排列。
+
+   ```sql
+      /** 在数据库mysql_test的表customers中依次按照客户姓名和地址的降序方式，输出客户的姓名和性别。 */
+
+      SELECT cust_name,cust_sex FROM mysql_test.customers ORDER BY cust_name DESC,cust_address DESC;
+   ```
+
+## 六、视图
+
+1. 创建视图
+
+   ```sql
+      /**
+         在数据库mysql_test中创建视图customers_view，要求该视图包含客户信息表customers中所有男客户信息，
+         并且要求保证今后对该视图数据的修改都必须符合客户性别为男性这个条件。
+      */
+      CREATE VIEW mysql_test.customers_view
+      AS
+      SELECT * FROM mysql_test.customers WHERE sex ='M'
+      WITH CHECK OPTION;
+
+      /** 建立信息系学生的视图，并要求进行修改和插入操作时仍需保证该视图只有信息系的学生。 */
+      CREATE VIEW mysql_test.IS_Student
+      AS
+      SELECT * FROM student
+      WHERE sdept='信息系'
+      WITH CHECK OPTION;
+   ```
+
+2. 删除视图
+
+   ```sql
+      DROP VIEW [IF EXISTS] view_name
+   ```
+
+3. 修改视图
+
+   ```sql
+      ALTER VIEW view_name[(column_list)] AS select_statement （WITH [CASCADED|LOCAL] CHECK OPTION）
+   ```
+
+4. 查看视图
+
+   ```sql
+      SHOW CREATE VIEW view_name
+   ```
+
+5. 更新视图
