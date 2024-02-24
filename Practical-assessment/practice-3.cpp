@@ -48,15 +48,13 @@
 #include <string>
 using namespace std;
 
-// 日期类
 class myDate
 {
 private:
-    int year;
-    int month;
-    int day;
+    int year, month, day;
 
 public:
+    // 无参构造函数
     myDate()
     {
         year = 1970;
@@ -64,6 +62,7 @@ public:
         day = 1;
     }
 
+    // 有参构造函数
     myDate(int y, int m, int d)
     {
         year = y;
@@ -71,16 +70,32 @@ public:
         day = d;
     }
 
+    // 修改日期
     void set(int y, int m, int d)
     {
         year = y;
         month = m;
         day = d;
+        return;
     }
 
+    void set(myDate oneD)
+    {
+        year = oneD.year, month = oneD.month, day = oneD.day;
+    }
+
+    // 修改年份
+    void modifyYear(int y)
+    {
+        year = y;
+        return;
+    }
+
+    // 打印日期
     void printDate()
     {
-        cout << year << "/" << month << "/" << day;
+        cout << year << "/" << month << "/" << day << endl;
+        return;
     }
 };
 
@@ -92,69 +107,44 @@ private:
     myDate birthday;
 
 public:
-    void set(string n, myDate d)
+    void setStudent(string n, myDate d)
     {
         name = n;
         birthday = d;
     }
-
     void setName(string n)
     {
         name = n;
     }
-
-    string getName()
-    {
-        return name;
-    }
-
     void setBirthday(myDate d)
     {
         birthday = d;
     }
-
-    myDate getBirthday()
-    {
-        return birthday;
-    }
-
     void printStudent()
     {
-        cout << name << endl;
+        cout << name << " ";
         birthday.printDate();
-        cout << endl;
     }
 };
 
 int main()
 {
-    string name;
-    int y, m, d;
-
-    // 创建学生对象ss
     Student ss;
+    int y, m, d;
+    string n;
 
-    // 输入姓名和出生年月日
-    cin >> name >> y >> m >> d;
-    myDate birthday(y, m, d);
-    ss.set(name, birthday);
-
-    // 打印学生信息
+    cin >> n >> y >> m >> d;
+    myDate m1(y, m, d);
+    ss.setStudent(n, m1);
     ss.printStudent();
 
-    // 输入要修改的出生日期
     cin >> y >> m >> d;
-    birthday.set(y, m, d);
-    ss.setBirthday(birthday);
-
-    // 打印修改生日后的学生信息
+    myDate m2(y, m, d);
+    ss.setBirthday(m2);
     ss.printStudent();
 
-    // 输入要修改的姓名
-    cin >> name;
-    ss.setName(name);
-
-    // 打印修改姓名后的学生信息
+    cin >> n;
+    ss.setName(n);
     ss.printStudent();
 
     return 0;

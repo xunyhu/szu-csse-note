@@ -1,14 +1,15 @@
 {
-    "editor.formatOnSave": true,
-    "files.associations": {
-        "*.cjson": "jsonc",
-        "*.wxss": "scss",
-        "*.wxs": "javascript",
-        "*.ts": "typescript",
-        "iostream": "cpp",
-        "ostream": "cpp",
-        "new": "cpp",
-        "string": "cpp"
-    },
-    "C_Cpp.errorSquiggles": "disabled"
+  "editor.formatOnSave": true,
+  "files.associations": {
+    "*.cjson": "jsonc",
+    "*.wxss": "scss",
+    "*.wxs": "javascript",
+    "*.ts": "typescript",
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "new": "cpp",
+    "string": "cpp",
+    "typeinfo": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
 }
