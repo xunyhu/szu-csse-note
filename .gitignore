@@ -2,6 +2,7 @@
 ./**/.DS_Store
 C++/**/**.exe
 C/**/**.exe
+C/.vscode
 C++/Code.xcodeproj
 node_modules
 docs/.vuepress
