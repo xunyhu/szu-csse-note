@@ -1,0 +1,16 @@
+1. observe /əbˈzɜːv/ v.观察;观察到;遵守（规则、法律等）;注意到;看到;评论;庆祝;监视;注视;说话
+2. obvious /ˈɒbviəs/ adj.明显的;显然的;当然的;公认的;平淡无奇的;易理解的;
+3. obviously /ˈɒbviəsli/ adv.(用于陈述认为别人已知道或希望别人同意的事)显然;明显地;
+4. occasion /əˈkeɪʒn/ n.场合;…的时候;时机;理由;适当的机会;某次;
+5. occasional 偶尔的
+6. oil /ɔɪl/ n.油; 石油; 润滑油; 原油; 燃油; 食用油; vt.给…加润滑油;
+7. opportunity /ˌɒpəˈtjuːnəti/ n.机会;时机
+8. ordinary /ˈɔːdnri/ adj.普通的;一般的;平凡的; n.法官;普通股;宗教法官;
+9. organizational /ˌɔːɡənaɪˈzeɪʃənl/ adj.组织的;(组织或机构)结构的;机构的;安排的;筹备的
+10. ourselves /ɑːˈselvz/ pron.(we 的反身形式)我们自己;(用于强调或代替 we 或 us)亲自;
+11. outgoing adj.率直的；往外去的；
+12. outlet /ˈaʊtlet/ n.出口;(感情、思想、精力发泄的)出路;经销店;专营店;表现机会;折扣品经销店
+13. outstanding /aʊtˈstændɪŋ/ adj.优秀的;突出的;杰出的; v.突出;停留;离港; outstand 的现在分词
+14. overall /ˌəʊvərˈɔːl , ˈəʊvərɔːl/ adj.总体的;全面的; n.外套;罩衣;
+15. overcame /ˌəʊvəˈkeɪm/ v.克服;战胜;解决;受到…的极大影响; overcome 的过去式
+16. overdue /ˌəʊvəˈdjuː/ adj.逾期的;过期的;
