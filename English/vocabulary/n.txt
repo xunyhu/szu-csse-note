@@ -1,7 +1,0 @@
-necessity       /nəˈsesəti/         n.需要;必要;必需品;必然;必然性;
-negative        /ˈneɡətɪv/          adj.负面的;消极的;      n.否定;底片;负片;拒绝;      vt.否定;拒绝;证伪;
-neglect         /nɪˈɡlekt/          v.忽视;忽略;疏忽;   n.忽略;忽视;未被重视;  
-neither         /ˈnaɪðə(r)/         adv.也不;(否定的陈述适用于两方面)既不…也不…;        pron.两者都不;
-noble           /ˈnəʊbl/            adj.崇高的;高贵的;贵族的; n.出身高贵的人;贵族成员;  复数： nobles; 比较级： nobler; 最高级： noblest; 派生词： nobly adv.
-nor             /nɔː(r)/            conj/adv. 也没有;(用于肯定动词前，表示同意刚提及的否定命题)也不;
-nuclear         /ˈnjuːkliə(r)/      adj.核武器的;原子能的，核能的;核心的，中心的;   n.核武器 (尤指核导弹) ;有核国;
