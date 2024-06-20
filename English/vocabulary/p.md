@@ -25,100 +25,117 @@
    adj.过去的，古代的;早期的;  
    adv.到此为止，不再说了;
 
-7. personality
+7. perseverance /ˌpɜːsəˈvɪərəns/
+
+   n.毅力；不屈不挠的精神；韧性
+
+8. personality /ˌpɜːsəˈnæləti/
 
    n.个性
 
-8. philosophy /fəˈlɒsəfi/
+9. personnel /ˌpɜːsəˈnel/
 
-   n.哲学;人生哲学;哲学体系;思想体系;生活的信条(或态度)
+   n.（组织或军队中的）全体人员，职员；人事部门，人事科（或处等）
 
-9. photocopying /ˈfəʊtəʊkɒpiɪŋ/
+10. philosophy /fəˈlɒsəfi/
 
-   v.复印;影印;复制;
+    n.哲学;人生哲学;哲学体系;思想体系;生活的信条(或态度)
 
-10. plants /plɑːnts/
+11. photocopying /ˈfəʊtəʊkɒpiɪŋ/
+
+    v.复印;影印;复制;
+
+12. plants /plɑːnts/
 
     n.植物;(工业用的)大型机器，设备;工厂;发电厂;  
     v.种植;播种; plant 的第三人称单数和复数;
 
-11. political /pəˈlɪtɪkl/
+13. political /pəˈlɪtɪkl/
 
     adj.政治的;政府的;
 
-12. popularity /ˌpɒpjuˈlærəti/
+14. popularity /ˌpɒpjuˈlærəti/
 
     n.流行;受欢迎;普及;人气
 
-13. praise /preɪz/
+15. praise /preɪz/
 
     n.赞扬;赞美;称赞;  
     vt.赞扬;称赞;表扬;
 
-14. prepare /prɪˈpeə(r)/
+16. prepare /prɪˈpeə(r)/
 
     v.准备;做(饭);调制，配制（药品等）;预备(饭菜);使(自己)有准备;防范;把…预备好
 
-15. present /ˈpreznt , prɪˈzent/
+17. present /ˈpreznt , prɪˈzent/
 
     n.目前;现在;礼物;礼品;  
     adj.存在;当前的;  
     vt.提出;(以某种方式)展现，显示，表现;
 
-16. pretend /prɪˈtend/
+18. pretend /prɪˈtend/
 
     v.假装; 佯装; (在游戏中)装扮，扮作，模拟;  
     adj.假装的; 想象的;
 
-17. preparation /ˌprepəˈreɪʃn/
+19. preparation /ˌprepəˈreɪʃn/
 
     n.准备;(医药、化妆品等)配制品，制剂;准备工作;预备;
 
-18. principal /ˈprɪnsəpl/
+20. principal /ˈprɪnsəpl/
 
     adj.主要的;最重要的;  
     n.本金;当事人，委托人;资本;主角;
 
-19. proficient /prəˈfɪʃnt/
+21. professional /prəˈfeʃənl/
+
+    adj.专业的；职业的；
+    n.专业人员；专业人士；专家；
+
+22. proficient /prəˈfɪʃnt/
 
     adj.熟练的;精通的;娴熟的;  
     n.专家;能手;老手;
 
-20. progress /ˈprəʊɡres/
+23. progress /ˈprəʊɡres/
 
     n.进展;进步;进程;  
     vt.进展;进步;前进;
 
-21. projected
+24. projected
 
     预计的
 
-22. project
+25. project
 
     项目
 
-23. proper /ˈprɒpə(r)/
+26. proper /ˈprɒpə(r)/
 
     adj.适当的;正确的;恰当的;
 
-24. property /ˈprɒpəti/
+27. property /ˈprɒpəti/
 
     n.财产;性质;房地产;不动产;财物;庄园;所有物;
 
-25. propose
+28. propose
 
     建议
 
-26. prosperity /prɒˈsperəti/
+29. prosperity /prɒˈsperəti/
 
     n.繁荣;成功;兴旺;昌盛
 
-27. providers /prəˈvaɪdəz/
+30. providers /prəˈvaɪdəz/
 
     n.提供者; 供应者; 供养人;  
     provider 的复数;
 
-28. purpose /ˈpɜːpəs/
+31. punctuality /ˌpʌŋktjʊˈælɪti/
+
+    n. 准时；严守时间；敏捷
+
+32. purpose /ˈpɜːpəs/
 
     n.目的;用途;目标;意图;意志;重要意义;情势的需要;有价值的意义;  
     vt.有意;打算;企图（做）;决意（做）;

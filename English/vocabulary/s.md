@@ -153,41 +153,51 @@
     vt. 轻抚(动物的毛皮);抚摩(物体表面或头发等);  
     第三人称单数： strokes; 现在分词： stroking; 过去式： stroked
 
-35. situation /ˌsɪtʃuˈeɪʃn/
+35. sister-in-law
+
+    n.嫂子，弟媳
+
+36. situation /ˌsɪtʃuˈeɪʃn/
 
     n.情况;状况;形势;局面;职业;(建筑物或城镇的)地理位置，环境特点;工作岗位;
 
-36. soldier /ˈsəʊldʒə(r)/
+37. social /ˈsəʊʃl/
 
-    n.士兵;军人;  
+    adj.社会的；社交的；社会地位的；社会上的；交际的；群居的；联谊的
+    n.联谊会；联欢会;
+    记忆 soci 同伴,结交,联合 + -al ...的
+
+38. soldier /ˈsəʊldʒə(r)/
+
+    n.士兵;军人;
     v.当兵;磨洋工;坚持干;假称害病;
 
-37. solution /səˈluːʃn/
+39. solution /səˈluːʃn/
 
     n.解决方案;溶液;解;解决办法;溶解（过程）;答案;
 
-38. somehow
+40. somehow
 
     以某种方式
 
-39. spread
+41. spread
 
     传播
 
-40. squeeze /skwiːz/
+42. squeeze /skwiːz/
 
     v.挤压;(从某物中)榨出，挤出，拧出;  
     n.挤压;挤;捏;减少，削减;
 
-41. suit /suːt/
+43. suit /suːt/
 
     vt.适合;适宜;相配;有利于;合身;  
     n.西装;套装;西服;
 
-42. summarize /ˈsʌməraɪz/
+44. summarize /ˈsʌməraɪz/
 
     v.总结;概述;概括;
 
-43. surrounding
+45. surrounding
 
     周围的

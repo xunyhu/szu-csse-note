@@ -58,23 +58,27 @@
 
     n.意图;打算;目的;计划;
 
-16. interpret /ɪnˈtɜːprət/
+16. interpersonal /ˌɪntəˈpɜːsənl/
+
+    adj.人际关系的；人际的
+
+17. interpret /ɪnˈtɜːprət/
 
     v.解释;口译;诠释;说明;把…理解为;演绎;领会
 
-17. interview /ˈɪntəvjuː/
+18. interview /ˈɪntəvjuː/
 
     n.采访;面试;  
     v.(媒体)采访;（私下）提问，面谈;
 
-18. investigation /ɪnˌvestɪˈɡeɪʃn/
+19. investigation /ɪnˌvestɪˈɡeɪʃn/
 
     n.调查; (正式的)侦查; 科学研究; 学术研究;
 
-19. investment /ɪnˈvestmənt/
+20. investment /ɪnˈvestmənt/
 
     n.投资;（时间、精力的）投入;投资额;投资物;
 
-20. involving /ɪnˈvɒlvɪŋ/
+21. involving /ɪnˈvɒlvɪŋ/
 
     v.需要;影响;(使)参加，加入;包含;牵涉;牵连; involve 的现在分词

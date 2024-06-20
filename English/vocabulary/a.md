@@ -48,29 +48,29 @@
 
     adv.实际上;事实上;确实，说实在的;
 
-13. accusation /ˌækjuˈzeɪʃn/
-
-    n.指控;控告;起诉;谴责;告发;
-
-14. accommodation /əˌkɒməˈdeɪʃn/
+13. accommodation /əˌkɒməˈdeɪʃn/
 
     n.住宿,膳宿；调解；
 
-15. accommodate /əˈkɒmədeɪt/
+14. accommodate /əˈkɒmədeɪt/
 
     v.容纳
 
-16. accomplish /əˈkʌmplɪʃ/
+15. accomplish /əˈkʌmplɪʃ/
 
     vt.完成，实现；
 
-17. according to
+16. according to
 
     prep.根据；据...所说；
 
-18. account /əˈkaʊnt/
+17. account /əˈkaʊnt/
 
     n.账目，账号；
+
+18. accusation /ˌækjuˈzeɪʃn/
+
+    n.指控;控告;起诉;谴责;告发;
 
 19. accumulate /əˈkjuːmjəleɪt/
 

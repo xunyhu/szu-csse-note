@@ -64,29 +64,38 @@
 
     代表
 
-16. rest /rest/
+16. resemblance /rɪˈzembləns/
+
+    n.相似；相像记忆
+    resembl(e) 相似,类似 + -ance 性质,状况
+
+17. rest /rest/
 
     v.休息;(被)支撑;安息，长眠;  
     n.其他;其余;休息时间;剩余部分;休止;其余的人;
 
-17. restriction /rɪˈstrɪkʃn/
+18. restriction /rɪˈstrɪkʃn/
 
     n.限制;约束;制约因素;限制规定;限制法规;
 
-18. responsibility /rɪˌspɒnsəˈbɪləti/
+19. responsibility /rɪˌspɒnsəˈbɪləti/
 
     n.责任;负责;职责;义务;
 
-19. respond /rɪˈspɒnd/
+20. respond /rɪˈspɒnd/
 
     v.响应;回应;
 
-20. revise /rɪˈvaɪz/
+21. representative /ˌreprɪˈzentətɪv/
+
+    n.代表；销售代表；（美国）众议院议员；销售代理；
+
+22. revise /rɪˈvaɪz/
 
     v.修订(书刊、估算等);修改;改变(意见或计划);复习;温习;  
     n.校订;再校样;
 
-21. rough /rʌf/
+23. rough /rʌf/
 
     adj.粗糙的;粗略的;大致的;粗暴的;艰难的;  
     n.草图;草稿; 21. rush /rʌʃ/  

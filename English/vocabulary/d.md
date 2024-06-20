@@ -42,88 +42,100 @@
 
     牙医
 
-11. describe /dɪˈskraɪb/
+11. dependability /dɪˌpɛndəˈbɪlɪti/
+
+    n.可靠性；可信赖性
+
+12. depression
+
+    n.萧条；沮丧
+
+13. describe /dɪˈskraɪb/
 
     vt.描述;形容;把…称为;形成…形状;做…运动;画出…图形
 
-12. deserved /dɪˈzɜːvd/
+14. deserved /dɪˈzɜːvd/
 
     v.值得;  
     adj.该奖[罚]的;  
     deserve 的过去分词和过去式;
 
-13. deserve /dɪˈzɜːv/
+15. deserve /dɪˈzɜːv/
 
     v.值得;应得;应受;
 
-14. despite /dɪˈspaɪt/
+16. desirable /dɪˈzaɪərəbl/
+
+    adj. 可取的；向往的；性感的；
+
+17. despite /dɪˈspaɪt/
 
     prep.尽管;即使;尽管(自己)不愿意;  
     n.恶意;侮辱;怨恨;轻蔑;
 
-15. development /dɪˈveləpmənt/
+18. development /dɪˈveləpmənt/
 
     n.发展;开发;（尤指房地产的）开发;研制;
 
-16. dials /ˈdaɪəlz/
+19. dials /ˈdaɪəlz/
 
     v.拨(电话号码);  
     n.表盘;刻度盘;(旧式电话机的)拨号盘;标度盘;仪表盘;  
     dial 的第三人称单数和复数;
 
-17. digital /ˈdɪdʒɪtl/
+20. digital /ˈdɪdʒɪtl/
 
     adj.数字的;数码的;数字式的;  
     n.数字电视;
 
-18. direct /dəˈrekt/
+21. direct /dəˈrekt/
 
     adj.直接的;最近的;  
     v.指示;指导;管理;  
     adv.直接;亲自;径直;
 
-19. disadvantage /ˌdɪsədˈvɑːntɪdʒ/
+22. disadvantage /ˌdɪsədˈvɑːntɪdʒ/
 
     n.缺点;不利因素;障碍;不便之处;
 
-20. disc
+23. disc
 
     圆盘
 
-21. disease /dɪˈziːz/
+24. disease /dɪˈziːz/
 
     n.疾病;
 
-22. divorce /dɪˈvɔːs/
+25. divorce /dɪˈvɔːs/
 
     n.离婚;脱离;分离;  
     v.与(某人)离婚;使脱离;使分离;判(某人)离婚;
 
-23. doctrine /ˈdɒktrɪn/
+26. doctrine /ˈdɒktrɪn/
 
     n.学说;教义;主义;教条;信条;(政府政策的)正式声明;
 
-24. domestic /dəˈmestɪk/
+27. domestic /dəˈmestɪk/
 
     adj.国内的;家庭的;本国的;家用的;  
     n.佣人;家佣;家庭纠纷;家庭矛盾;  
     派生词： domestically adv.
 
-25. dormitory /ˈdɔːmətri/
+28. dormitory /ˈdɔːmətri/
 
     n.<美>(大学、学院等的)学生宿舍;大寝室，集体寝室;(市内工作者的)郊外住宅区
 
-26. dread /dred/
+29. dread /dred/
 
     v.畏惧;担忧，忧虑;  
     n.畏惧，恐惧;担忧，忧虑;  
     adj.可怕的;令人担忧的;
 
-27. drive /draɪv/
+30. drive /draɪv/
 
     v.驱动;驾驶;开车;激励;迫使;  
     n.驱动器;有组织的努力，运动;传动(或驱动)装置;
 
-28. drop
+31. drop
 
     下降
