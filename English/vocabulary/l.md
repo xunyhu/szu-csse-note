@@ -38,10 +38,11 @@
 
    移动
 
-10. lonely /ˈləʊnli/
+10. limb
+11. lonely /ˈləʊnli/
 
     adj.孤独的;寂寞的;偏僻的; 比较级： lonelier; 最高级： loneliest; 派生词： loneliness n.
 
-11. loose /luːs/
+12. loose /luːs/
 
     vt.松开，放开(尤指束紧或紧握的东西);释放; adj.宽松的;疏松的;自由;零散的;

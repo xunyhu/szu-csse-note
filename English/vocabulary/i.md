@@ -38,47 +38,50 @@
 
     v.指示;表明;显示;暗示;示意;
 
-11. individual
+11. indigestion
+12. individual
 
     个人
 
-12. inhabitant
+13. inhabitant
 
     居民
 
-13. insincere /ˌɪnsɪnˈsɪə(r)/
+14. injure
+15. insincere /ˌɪnsɪnˈsɪə(r)/
 
     adj.不诚恳的;不真心的; 派生词： insincerely adv. insincerity n.
 
-14. instead /ɪnˈsted/
+16. insomnia
+17. instead /ɪnˈsted/
 
     adv.代替;相反;反而;顶替;却;
 
-15. intention /ɪnˈtenʃn/
+18. intention /ɪnˈtenʃn/
 
     n.意图;打算;目的;计划;
 
-16. interpersonal /ˌɪntəˈpɜːsənl/
+19. interpersonal /ˌɪntəˈpɜːsənl/
 
     adj.人际关系的；人际的
 
-17. interpret /ɪnˈtɜːprət/
+20. interpret /ɪnˈtɜːprət/
 
     v.解释;口译;诠释;说明;把…理解为;演绎;领会
 
-18. interview /ˈɪntəvjuː/
+21. interview /ˈɪntəvjuː/
 
     n.采访;面试;  
     v.(媒体)采访;（私下）提问，面谈;
 
-19. investigation /ɪnˌvestɪˈɡeɪʃn/
+22. investigation /ɪnˌvestɪˈɡeɪʃn/
 
     n.调查; (正式的)侦查; 科学研究; 学术研究;
 
-20. investment /ɪnˈvestmənt/
+23. investment /ɪnˈvestmənt/
 
     n.投资;（时间、精力的）投入;投资额;投资物;
 
-21. involving /ɪnˈvɒlvɪŋ/
+24. involving /ɪnˈvɒlvɪŋ/
 
     v.需要;影响;(使)参加，加入;包含;牵涉;牵连; involve 的现在分词

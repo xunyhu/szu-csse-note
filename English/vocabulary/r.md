@@ -41,61 +41,63 @@
 
     adj.相关的;有意义的;有价值的;切题的;
 
-11. remain /rɪˈmeɪn/
+11. relieve
+12. remain /rɪˈmeɪn/
 
     v.（事实、问题等）仍然是（表示强调）;剩余，余留;保留，坚持（观点、态度或信念）;  
     n.剩余物，残余（物）;遗体，残骸;
 
-12. remarkable /rɪˈmɑːkəbl/
+13. remarkable /rɪˈmɑːkəbl/
 
     adj.显著的;非凡的;引人注目的;奇异的
 
-13. reorganized /riˈɔːɡənaɪzd/
+14. reorganized /riˈɔːɡənaɪzd/
 
     v.改组;重新组织;整顿;  
     adj.重组的；重新制定的;  
     reorganize 的过去分词和过去式;
 
-14. repair
+15. repair
 
     修理
 
-15. representing
+16. representing
 
     代表
 
-16. resemblance /rɪˈzembləns/
+17. resemblance /rɪˈzembləns/
 
     n.相似；相像记忆
     resembl(e) 相似,类似 + -ance 性质,状况
 
-17. rest /rest/
+18. rest /rest/
 
     v.休息;(被)支撑;安息，长眠;  
     n.其他;其余;休息时间;剩余部分;休止;其余的人;
 
-18. restriction /rɪˈstrɪkʃn/
+19. restriction /rɪˈstrɪkʃn/
 
     n.限制;约束;制约因素;限制规定;限制法规;
 
-19. responsibility /rɪˌspɒnsəˈbɪləti/
+20. responsibility /rɪˌspɒnsəˈbɪləti/
 
     n.责任;负责;职责;义务;
 
-20. respond /rɪˈspɒnd/
+21. respond /rɪˈspɒnd/
 
     v.响应;回应;
 
-21. representative /ˌreprɪˈzentətɪv/
+22. representative /ˌreprɪˈzentətɪv/
 
     n.代表；销售代表；（美国）众议院议员；销售代理；
 
-22. revise /rɪˈvaɪz/
+23. revise /rɪˈvaɪz/
 
     v.修订(书刊、估算等);修改;改变(意见或计划);复习;温习;  
     n.校订;再校样;
 
-23. rough /rʌf/
+24. rib
+25. rough /rʌf/
 
     adj.粗糙的;粗略的;大致的;粗暴的;艰难的;  
     n.草图;草稿; 21. rush /rʌʃ/  

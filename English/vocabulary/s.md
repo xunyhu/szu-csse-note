@@ -98,106 +98,109 @@
 
     adj.极瘦的
 
-24. specific /spəˈsɪfɪk/
+24. sneeze
+25. specific /spəˈsɪfɪk/
 
     adj.具体的;特定的;明确的;  
     n.特性;细节;特效药;
 
-25. spill /spɪl/
+26. spill /spɪl/
 
     v.溢出; (使)洒出; 涌出; 泼出; 蜂拥而出;  
     n.泄漏(量); 溢出(量); 洒出(量); 跌落; 泼出(量);
 
-26. standard /ˈstændəd/
+27. standard /ˈstændəd/
 
     n.标准;规范;(品质的)水平;规格;行为标准;  
     adj.标准的;通常的;正常的;
 
-27. statesman
+28. statesman
 
     n.政治家
 
-28. straightforward /ˌstreɪtˈfɔːwəd/
+29. straightforward /ˌstreɪtˈfɔːwəd/
 
     adj.简单的;直截了当的;坦率的;易懂的;率直的;  
     straightforwardly adv.直接;正直地;  
     straightforwardness n.坦率;直率;坦诚;直爽;爽直
 
-29. streamline /ˈstriːmlaɪn/
+30. streamline /ˈstriːmlaɪn/
 
     n.流线;流线型;  
     adj.流线型的;
 
-30. streamlining /ˈstriːmlaɪnɪŋ/
+31. streamlining /ˈstriːmlaɪnɪŋ/
 
     v.使成流线型;使(系统、机构等)效率更高;  
     n.吝形化，流线型化;
 
-31. stiff /stɪf/
+32. stiff /stɪf/
 
     adj.僵硬的; 比较级： stiffer; 最高级： stiffest;
     n.死尸;  
      派生词： stiffly adv. stiffness n.
 
-32. stretch /stretʃ/
+33. strained
+34. stretch /stretʃ/
 
     v.伸展; 第三人称单数： stretches; 现在分词： stretching; 过去式： stretched
 
-33. stretching
+35. stretching
 
     拉伸
 
-34. stroke /strəʊk/
+36. stroke /strəʊk/
 
     n.中风;击球(动作);一笔;(打、击等的)一下;轻抚;一击;钟声;游泳姿势;  
     vt. 轻抚(动物的毛皮);抚摩(物体表面或头发等);  
     第三人称单数： strokes; 现在分词： stroking; 过去式： stroked
 
-35. sister-in-law
+37. sister-in-law
 
     n.嫂子，弟媳
 
-36. situation /ˌsɪtʃuˈeɪʃn/
+38. situation /ˌsɪtʃuˈeɪʃn/
 
     n.情况;状况;形势;局面;职业;(建筑物或城镇的)地理位置，环境特点;工作岗位;
 
-37. social /ˈsəʊʃl/
+39. social /ˈsəʊʃl/
 
     adj.社会的；社交的；社会地位的；社会上的；交际的；群居的；联谊的
     n.联谊会；联欢会;
     记忆 soci 同伴,结交,联合 + -al ...的
 
-38. soldier /ˈsəʊldʒə(r)/
+40. soldier /ˈsəʊldʒə(r)/
 
     n.士兵;军人;
     v.当兵;磨洋工;坚持干;假称害病;
 
-39. solution /səˈluːʃn/
+41. solution /səˈluːʃn/
 
     n.解决方案;溶液;解;解决办法;溶解（过程）;答案;
 
-40. somehow
+42. somehow
 
     以某种方式
 
-41. spread
+43. sore
+44. spread
 
     传播
 
-42. squeeze /skwiːz/
+45. squeeze /skwiːz/
 
     v.挤压;(从某物中)榨出，挤出，拧出;  
     n.挤压;挤;捏;减少，削减;
 
-43. suit /suːt/
+46. suit /suːt/
 
     vt.适合;适宜;相配;有利于;合身;  
     n.西装;套装;西服;
 
-44. summarize /ˈsʌməraɪz/
+47. summarize /ˈsʌməraɪz/
 
     v.总结;概述;概括;
 
-45. surrounding
+48. surrounding
 
     周围的
