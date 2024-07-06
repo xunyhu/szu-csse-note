@@ -94,7 +94,79 @@ But the problem is that since 1960 health-care spending has grown significantly 
 
 但问题是，自 1960 年以来，医疗保健支出的增长速度显著快于经济增长速度，这意味着我们在医疗保健上的花费占收入的比例越来越大。1960 年，医疗保健占美国经济的 5.1%；1980 年，占 8.8%；而今天则占 13.3%。同时，私人医疗保险的保费（仅去年就上涨了 14%）正变得越来越多的美国人无法承受。我们能用来维护健康的手段的数量增长速度超过了美国人支付这些手段的能力。现在有 4100 万公民没有保险。因此，关键问题不是是否应该在美国实行医疗保健定量供应；它已经在实行。相反，问题是应该如何定量供应医疗保健。如何权衡减轻疼痛、改善生活质量或延长寿命的潜在好处与相关药物或手术的高成本？谁来进行这些权衡？这些是具有高度道德意义的难题。但我们确实希望医疗保健系统能覆盖更多的人。
 
-## Use of English
+## Exercises
+
+### Section I Listening Comprehension
+
+**Part A**
+
+    1. W: Does your employer offer you health insurance?
+    M: Not yet. He will not provide health insurance for any newly-hired workers. Only those who have stayed here for more than five years can enjoy it. But I think I can go without it for the time being, since I'm young and healthy.
+
+    2. W: How serious is my husband's back problem?
+    M: You shouldn't worry about it, but he has to have complete bed rest.
+    W: Hmm.what does that mean, exactly?
+    M: Well, he shouldn't walk at all or sit up, not even to eat. He can't take a shower either. He really has to lie down all the time.
+
+    3. W: Here's a small book on exercises. Don't forget to do them every day. Theyll help your waist a lot.
+    M: O.K. I'l try.
+    W: Also, remember to stand and sit up straight. The book explains everything. And call me in a week to make an appointment.
+
+    1.女：你的雇主给你提供健康保险吗？
+    M： 还没有。他不会为任何新雇佣的工人提供医疗保险。只有那些在这里呆了五年以上的人才能享受它。但我想我可以暂时不用它，因为我年轻健康。
+
+    女：我丈夫的背部问题有多严重？
+    M： 你不必担心，但他必须完全卧床休息。
+    W： 嗯，这到底是什么意思？
+    M： 嗯，他根本不应该走路，也不应该坐起来，甚至不应该吃饭。他也不会洗澡。他真的不得不一直躺着。
+
+    女：这是一本关于练习的小书。别忘了每天都做。它们对你的腰部有很大帮助。
+    M： 好的，我试试。
+    W： 另外，记得站直和坐直。这本书解释了一切。一周后打电话给我预约。
+
+**Part B**
+
+    M: Now, Ms. Martin. I guess you haven't been feeling very well lately? Is thatright?
+    W: It's.it's my leg, doctor. My left leg. I keep getting a strange pain in it.
+    M: Could you describe this pain to me?
+    W: It's like.like boiling water running down my leg. It's been getting worse lately, too. I've been losing sleep.
+    M: You mean the pain's been keeping you awake?
+    W: Yes, that's right. It's been keeping me awake.
+    M: Now, tell me, how long have you had this trouble?
+    W: The pain? For about a year now.
+    M: Hmmm.Have you been getting tired lately after going for a walk? For instance, have you been getting a bit short of breath, perhaps?
+    W: Why, yes! Yes, I have, doctor!
+    M: Hmmm.I think we'd better give you a few tests here in hospital.
+    W: Do you think it's serious, doctor?
+    M: Probably not.
+    W: But...my local doctor thinks it's only that I've been working too hard lately.
+    M: That could be the reason. Don't worry. We'll soon find out.
+
+    M： 现在，马丁女士。我想你最近感觉不太好吧？是这样吗？
+    W： 是的，是我的腿，医生。我的左腿。我一直感到奇怪的疼痛。
+    M： 你能向我描述一下这种疼痛吗？
+    W： 就像沸水顺着我的腿流下来。最近情况也越来越糟。我一直失眠。
+    M： 你是说疼痛一直让你睡不着？
+    W： 是的，没错。它一直让我睡不着。
+    M： 现在，告诉我，你有这种麻烦多久了？
+    W： 疼痛？大约一年了。
+    M： 嗯。你最近散步后累了吗？例如，你可能有点呼吸急促吗？
+    W： 为什么，是的！是的，我有，医生！
+    M： 嗯。我想我们最好在医院给你做一些检查。
+    W： 医生，你认为情况严重吗？
+    M： 可能不会。
+    W： 但是。。。我当地的医生认为只是我最近工作太辛苦了。
+    M： 这可能就是原因。别担心。我们很快就会发现。
+
+    W:  Dear Dr. Ramsey, I seem to get colds all the time. Is there anything I can do to prevent them? What should I do after I've caught one?
+
+    M:  The common cold is the most frequent of all illnesses. At any given moment, about one out of every eight people has one. Most people get colds by touching things that a person with a cold has used. You can even catch a cold by shaking hands. So if someone you know has a cold, you should not use the same cups, glasses, dishes, or telephone. Although there is no permanent cure for the cold, doctors believe that vitamins can help prevent colds, and some doctors suggest that you take large amounts when you begin to get sick. Yet it is not really known whether vitamin C is truly helpful. The body needs healthy food to fight a cold. If you have a cold, you should eat well, but not overeat, and you should drink lots of liquids, especially juices. Also be sure to get enough rest and stay warm. If your body aches, you can take one or two aspirin every four hours. Some research shows, however, that taking aspirin can make your cold last longer. When you have a cold, you should also try to protect other people. Cover your mouth and nose when you cough or sneeze. Put all your used tissues in a paper bag and throw away the bag yourself so that no one else will have to touch it. Wash all objects that you touch with very hot water before anyone else uses them.
+
+    W： 亲爱的拉姆齐医生，我好像总是感冒。我能做些什么来阻止他们吗？我抓到一个后该怎么办？
+
+    M： 普通感冒是所有疾病中最常见的。在任何特定时刻，大约每八个人中就有一个人有一个。大多数人是通过触摸感冒患者使用过的东西而感冒的。你甚至可以通过握手来感冒。所以，如果你认识的人感冒了，你不应该用同样的杯子、玻璃杯、盘子或电话。虽然感冒没有永久的治疗方法，但医生认为维生素有助于预防感冒，一些医生建议你在开始生病时大量服用。然而，目前还不清楚维生素C是否真的有帮助。身体需要健康的食物来对抗感冒。如果你感冒了，你应该好好吃，但不要吃得过多，你应该多喝水，尤其是果汁。还要确保得到足够的休息和保暖。如果你的身体疼痛，你可以每四小时服用一到两片阿司匹林。然而，一些研究表明，服用阿司匹林会使感冒持续时间更长。当你感冒时，你也应该尽量保护其他人。咳嗽或打喷嚏时要捂住口鼻。把你用过的纸巾都放在纸袋里，自己扔掉，这样别人就不用碰了。在别人使用之前，用热水清洗你接触过的所有物体。
+
+### Section II Use of English
 
 In the last fifty years, modern medical research has made a number of important `advances` in heart surgery. For example, in 1954, Henry Swan, an American, established cryosurgery -- surgery in which the tissue to be cut up is frozen -- as a `standard` procedure. In that landmark operation, Swan `lowered` the patient's body temperature and `slowed down` the patient's circulation. This `allowed` the surgeon to perform the operation `in`. a dry area. This technique was successful ever since. `Another` major advance was the development of open heart surgery. C. Walter Lillehie first accomplished this in 1954. `Although` open heart surgery is still a `dangerous` operation, recently surgeons perform it. `with` greater and greater success. A discovery that `contributed` to the success of heart surgery was the `use` in 1963 of an artificial heart to circulate blood during the operation. This gave the patient `greater` safety and the doctor, Michael De Baker, more working time. `Perhaps` the most famous and most promising `action` in heart surgery was made in 1967 by Christian Barnard, a South African. He attempted to `transplant` a healthy human heart into a person who had a `defective` heart. Although the patient onlyu lived for a short while after the operation, Barnard `continued` his transplants in other patients `because` he hoped to perfect the transplanting operation. We all hope that this important advance in heart surgery can be `perfected` in the future.
 
