@@ -1,215 +1,115 @@
-1.  abdomen /ˈæbdəmən/
-
-    n.腹，腹部
-
-2.  ability /əˈbɪləti/
-
-    n.能力；技能，才能  
-    记忆 abili 能力 + -ity …状态,性质
-
-3.  above /əˈbʌv/
-
-    prep.在(或向)…上面；（音量或清晰度）超过（另一种声音）；  
-    adj.上面的，上述的；
-
-4.  abrupt /əˈbrʌpt/
-
-    adj.突然地；唐突的；  
-    记忆 ab- 离去,相反 + rupt 打破,破裂
-
-5.  absence /ˈæbsəns/
-
-    n.缺席
-
-6.  abstract /ˈæbstrækt , æbˈstrækt/
-
-    n.摘要；(文献等的)概要；  
-    adj.抽象的，理性的；
-
-7.  absurd /əbˈsɜːd/
-
-    adj.不合理的；可笑的；  
-    n.荒诞的事物；
-
-8.  abundant /əˈbʌndənt/
-
-    adj.丰富的，大量的
-
-9.  abuse /əˈbjuːs , əˈbjuːz/
-
-    v.虐待；辱骂；
-
-10. accelerate /əkˈseləreɪt/
-
-    v.加速，增长；
-
-11. accidental adj.偶然的，意外的；
-12. actually /ˈæktʃuəli/
-
-    adv.实际上;事实上;确实，说实在的;
-
-13. accommodation /əˌkɒməˈdeɪʃn/
-
-    n.住宿,膳宿；调解；
-
-14. accommodate /əˈkɒmədeɪt/
-
-    v.容纳
-
-15. accomplish /əˈkʌmplɪʃ/
-
-    vt.完成，实现；
-
-16. according to
-
-    prep.根据；据...所说；
-
-17. account /əˈkaʊnt/
-
-    n.账目，账号；
-
-18. accusation /ˌækjuˈzeɪʃn/
-
-    n.指控;控告;起诉;谴责;告发;
-
-19. accumulate /əˈkjuːmjəleɪt/
-
-    vt.积攒；  
-    vi.聚积；
-
-20. accustom /əˈkʌstəm/
-
-    v.使习惯于
-
-21. ache /eɪk/
-
-    n.疼痛；
-
-22. acid /ˈæsɪd/
-
-    n.酸；酸性物质；
-
-23. acquaint /əˈkweɪnt/
-
-    v.使熟悉；使认识；介绍；
-
-24. acquaintance /əˈkweɪntəns/
-
-    n.认识；对...有了解，熟知；
-
-25. acquire /əˈkwaɪə(r)/
-
-    v.获得
-
-26. additional /əˈdɪʃənl/
-
-    adj.附加的;额外的;外加的;
-
-27. administrative /ədˈmɪnɪstrətɪv/
-
-    adj.行政的;管理的;
-
-28. advance /ədˈvɑːns/
-
-    n.进展;（价格、价值的）上涨，提高;  
-    v.发展，进步;提前;  
-    adj.预先的;事先的;
-
-29. advantage /ədˈvɑːntɪdʒ/
-
-    n.优势;优点;有利条件;  
-    vt.有利于;有助于;使处于有利地位;
-
-30. advertisement 广告；启事；
-31. affair /əˈfeə(r)/
-
-    n.事件;事情;公共事务;政治事务;(尤指已婚男女的)私通，风流韵事;个人的事;私人业务;不寻常之物
-
-32. agricultural /ˌæɡrɪˈkʌltʃərəl/
-
-    adj.农业的；农用的；
-
-33. album /ˈælbəm/
-
-    n.相册
-
-34. alone /əˈləʊn/
-
-    adj./adv.单独;独自;仅仅，单，只;唯一，只有;孤独;单独地; 比较级： aloneer; 最高级： aloneest
-
-35. aloneness
-
-    单独;孤独;孤单;独处
-
-36. ambition /æmˈbɪʃn/
-
-    n.野心;雄心;抱负;志向;  
-    v.热望;
-
-37. anniversary /ˌænɪˈvɜːsəri/
-
-    n.周年纪念日
-
-38. anticipate /ænˈtɪsɪpeɪt/
-
-    vt.预期;预见，预计(并做准备);预料;期望;
-
-39. apologize /əˈpɒlədʒaɪz/
-
-    vi.道歉;谢罪
-
-40. appreciated /əˈpriːʃieɪtɪd/
-
-    v.理解;感谢; appreciate 的过去分词和过去式;
-
-41. approach /əˈprəʊtʃ/
-
-    n.方法;(待人接物或思考问题的)方式;  
-    v.(在数额、水平或质量上)接近;要求;建议;
-
-42. architecture /ˈɑːkɪtektʃə(r)/
-
-    n.结构;体系结构;建筑设计;建筑风格;建筑学;
-
-43. arouse /əˈraʊz/
-
-    vt.激起，引起(感情、态度);激发;唤醒;激起性欲;使行动起来;
-
-44. assertion /əˈsɜːʃn/
-
-    n.断言;主张;声称;
-
-45. assistant /əˈsɪstənt/
-
-    n.助理;助手;助教;  
-    adj.助理的;副的;
-
-46. assumption /əˈsʌmpʃn/
-
-    n.假设;假定;担任;(责任的)承担;(权力的)获得
-
-47. atomization
-
-    雾化
-
-48. attribute /əˈtrɪbjuːt/
-
-    n.属性;特征;性质;  
-    vt.把…归因于;认为…是由于;
-
-49. available /əˈveɪləbl/
-
-    adj.可获得的;有空的;可购得的;可找到的;
-
-50. avail /əˈveɪl/
-
-    n.帮助;利益;效用;  
-    vt.有用;有益;有帮助;
-
-51. avoidance /əˈvɔɪdəns/
-
-    n.避免;防止;避开;回避;
-
-52. avoid /əˈvɔɪd/
-
-    vt.避免;防止;避开;回避;躲避;
+1. abandon /a'bandan/ v. 放弃
+2. abbey /'aebi/ n. 修道院
+3. abdomen /aebdamen/ n. 腹部
+4. ability /o'bilat/ n. 能力
+5. abiotic /erbar'otuk/ adj. 无生命的；非生物的
+6. abode /o'boud/ n. 住所
+7. absolutely /'aebsalu:th/ adv. 的确如此；绝对地
+8. absorb /ab'so:b/ v. 吸收
+9. abstention /ab'stenJan/ n. 避开，放弃
+10. abstract /"aebstraekt/ adj. 抽象的，深奥的
+11. abundant /a'bandant/ adj. 丰富的
+12. abuse /a'bju:z/ v. 虐待；滥用
+13. academy /a'kaedam/ n. 学院
+14. accelerate /ak'selarert/ v. 加速，促进
+15. access /'aekses/ n. 入口，通道，途径
+16. accidentally /,aeksr'dentalt/ adv. 偶然地，意外地
+17. accompany /a'kAmpon/ v. 陪伴
+18. accomplish /a'kAmplif/ v. 完成，达到，实现
+19. account for 占
+20. accumulate /o'kju:mjulert/ v. 积累
+21. accuracy /'aekjurast/ n. 准确（度）
+22. accurate /'aekjurat/ adj. 准确的
+23. accuse /o'kju:z/ v. 指责；指控
+24. acknowledgement /ak'nolid3mant/ n. 承认，确认
+25. acre /'eika(r)/ n. 英亩
+26. activity /aek'trviti/ n. 活动
+27. adaptation /aedaep'teifan/ n. 改编（本），改制（物）
+28. additional /o'diJonl/ adj. 附加的，另外的
+29. add-on /'aedon/ n. (计算机的)附加设备
+30. adjust /o'd3Ast/ v. 调整；调节
+31. administrative /ad'mmistratrv/ adj. 行政（的）方面的
+32. adolescent /aedau'lesant/ n. 青少年
+33. adoption /'dopJan/ n. 正式通过；采纳
+34. advocacy /'edvakasi/ n. 拥护，积极支持
+35. aerogramme /'earagraem/ n. 航空邮件
+36. affect /a'fekt/ v. 影响
+37. affiliate /o'filiet/ v. (with) 使紧密联系
+38. agency /'eid3onsi/ n. (行政或职能)机构
+39. agenda /o'd3enda/ n. 议事日程
+40. agent /'eid3ont/ n. 代理人，代理商
+41. agony /'aegont/ n. 苦恼，极大的痛苦
+42. agricultural /aegrn'kltforol/ adj. 农业的
+43. airfare /'eafea(r)/ n. 飞机票价
+44. airline /'eolam/ n. 航空公司
+45. aim /eɪm/ v. & n. 目标
+46. akin to /ə'kin/ prep. 与…相似
+47. album /aelbam/ n. 相册；（同一人的歌曲或音乐）专辑
+48. all of a sudden /ɔːl ɒv ə 'sʌbdən/ 突然地
+49. alter /'o:lta(r)/ v. 改变
+50. alternative /5:l'ts:natrv/ adj. 另类的
+51. amateur /'emoto(r)/ adj. 非职业的
+52. amazing /o'merzm/ adj. 令人惊异地
+53. ambiguous /aem'brgjuas/ adj. 不清楚的
+54. ambitious /aem'brJas/ adj. 雄心勃勃的
+55. ambulance /'embjulans/ n. 救护车
+56. amenity /o'mi:natr/ n. (多用复数) 使人愉快的环境，事物
+57. ammonia /a'maunja/ n. [化]氨，氨水
+58. amnesia /aem'ni:zja/ n. 健忘症
+59. amount /a'maunt/ n. 数量
+60. ample /'empl/ adj. 充足的
+61. ancient /'emJant/ adj. 古老的；古代的
+62. and so forth 等等
+63. anew /o'nju:/ adv. 再一次，重新
+64. anniversary /eni'v3:sort/ n. 周年纪念
+65. anonymously /a'nonimaslt/ adv. 匿名地
+66. antibody /'aentibodi/ n. 抗体
+67. antique /aen'ti:k/ adj. 古时的，古老的
+68. apartment /a'pa:tmant/ n. 公寓套房
+69. apologetic /,pola'd3etik/ adj. 道歉的，认错的
+70. apostle /a'posl/ n. 使徒，门徒
+71. apparently /'paerontli/ adv. 显然地
+72. appeal /o'pi:l/ v. 吸引
+73. appetite /'aepitart/ n. 胃口，食欲；爱好
+74. appointment /a'pomtmant/ n. 委任职位
+75. apprentice /a'prentus/ n. 学徒
+76. approach /a'proutf/ n. 方法；途径
+77. appropriately /a'praupriotlu/ adv. 恰当地
+78. approval /o'pru:val/ n. 正式批准；赞成；承认
+79. approve /a'pru:v/ v. 赞成；批准
+80. approximately /a'proksimithh/ adv. 大约
+81. aquarium /o'kweoriom/ n. 水族馆
+82. arched /a:tJt/ adj. 拱形（结构）的
+83. architect /'a:kitekt/ n. 建筑师；设计师
+84. architecture /'a:kitektJa(r)/ n. 建筑学；建筑物
+85. arena /a'ri:na/ n. 运动场
+86. arise /a'raiz/ v. 出现；产生
+87. armchair /'a:mtfea(r)/ n. 扶手椅
+88. artificial /a:tr'ftJl/ adj. 人造的；人为的
+89. assault /a'so:lt/ n. 攻击，袭击
+90. assemble /a'sembal/ v. 装配
+91. assembler /a'sembla(r)/ n. 装配工
+92. assert /a'ss:t/ v. 声称，扬言
+93. asset /'aeset/ n. 优点；财产
+94. assume /a'sju:m/ v. 假定，设想；担任，承担
+95. assure /a'fuə(r)/ v. 使放心
+96. astronomy /a'stronami/ n. 天文学
+97. astute /o'stju:t/ adj. 精明的
+98. a succession of 一系列，一连串
+99. at odds with 与…意见不一致
+100. atom /'aetom/ n. 原子
+101. attached /o'taetft/ adj. 关心的；喜爱的；附上的
+102. attachment /a'taetfmant/ n. 附属品，附件；恋情
+103. attractive /a'traektrv/ adj. 吸引人的
+104. attribute to 归因于
+105. audacity /5:'daesati/ n. 大胆
+106. auditor /'5:dita(r)/ n. 审计员
+107. authentic /o:'0entik/ adj. 真实的，真正的
+108. authority /o:'0rat/ n. 威信，影响力
+109. auto (汽车，简写)
+110. automobile /o:ta'maubil/ n. 汽车
+111. autonomous /o:'tonamas/ adj. 自治的，独立的，自发的
+112. avenue /'aevanju:/ n. 大街
+113. award /o'wo:d/ n. 奖品，奖项
+114. awareness /a'wea(r)nis/ n. 意识，察觉
+115. awe-inspiring /'o:m,sparorm/ adj. 使人惊叹的，令人敬畏的
