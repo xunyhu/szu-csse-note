@@ -1,61 +1,77 @@
-1. tablespoonful
-2. tablet
-3. technically /ˈteknɪkli/
-
-   adv.在技术上;
-
-4. tend /tend/
-
-   v.倾向;趋于;趋向;往往会;常常就;招待，侍候，照顾，照料;
-
-5. tense
-
-   紧张的
-
-6. term /tɜːm/
-
-   n.术语;期限;任期;项;期;到期;词语;措辞;学期;  
-   vt.把…称为;把…叫做;
-
-7. terms /tɜːmz/
-
-   n.(协议、合同等的)条件，条款;(交易的)条件;费用;说法;措辞;  
-   term 的第三人称单数和复数
-
-8. therefore /ˈðeəfɔː(r)/
-
-   adv.因此;所以;因而;
-
-9. thought /θɔːt/
-
-   n.思想;思考;想法;思维;考虑;看法;  
-   v.思想;认为;想;以为;  
-   think 的过去分词和过去式
-
-10. throat
-11. tie /taɪ/
-
-    n.领带;线;联系;  
-    v.连接;(用线、绳等)系，拴，绑，捆，束;束缚;捆绑;
-    现在分词： tying;
-
-12. tolerance /ˈtɒlərəns/
-
-    n.容忍；公差；宽容
-
-13. tonic
-14. traditional /trəˈdɪʃənl/
-
-    adj.传统的;习俗的;惯例的;守旧的;因袭的;
-
-15. trait /treɪt/
-
-    n.特质；(人的个性的)特征，特性，特点
-
-16. turnover /ˈtɜːnəʊvə(r)/
-
-    n.（一定时期内的）营业额，成交量;<经> （资本、现金等的）周转，周转数;翻倒，翻转;
-
-17. tutor /ˈtjuːtə(r)/
-
-    n.家庭教师；导师；指导教师
+1. tablespoonful /'terblspuːnfʊl/ n. - 一汤匙的量
+2. tablet /'tæblɪt/ n. [药]片剂，一片
+3. tabletop /'terbltɑp/ adj. 在桌上进行的
+4. taco /'tɑːkoʊ/ n. 墨西哥煎玉米卷
+5. tailor /'teɪlər/ v. 量身裁衣；根据（原文此处有省略，但通常不影响理解）
+6. talent /'tælənt/ n. 才华，能力
+7. tame /teɪm/ v. 驯服，制服
+8. tangle /'tæŋɡəl/ n. 混乱；纠纷
+9. target /'tɑːrɡɪt/ v. 以…为目标
+10. tax-free /'tæks'friː/ adj. 免税的，无税的
+11. telephone booth /'tɛləfoʊn buːθ/ - 电话亭
+12. telescope /'tɛlɪskoʊp/ n. 望远镜
+13. teletext /'tɛlɪtɛkst/ n. 电视的字幕新闻
+14. teller /'tɛlər/ n. (银行)出纳员
+15. temper /'tɛmpər/ n. 脾气；情绪
+16. temple /'tɛmpəl/ n. 庙，寺
+17. temporary /'tɛmpərɛri/ adj. 临时的
+18. tempt /tɛmpt/ v. 吸引，诱惑
+19. tenant /'tɛnənt/ n. 租户；房客
+20. tense /tɛns/ adj. 紧张的
+21. tension /ˈtɛnʃən/ n. 紧张
+22. territory /'tɛrɪtɔːri/ n. 地区，地域
+23. terror /'tɛrər/ n. 惊骇；恐怖
+24. terrorist /ˈtɛrərɪst/ adj. 恐怖主义的
+25. terrorist /'terərɪst/ n. 恐怖分子
+26. textbook /'tɛkstbʊk/ n. 教科书
+27. the Atlantic /ðə ə'tlæntɪk/ n. 大西洋
+28. therapy /'θerəpi/ n. 治疗
+29. the military /'mɪləteri/ n. 军方
+30. thereby /ðɛə'baɪ/ adv. 因此
+31. therefore /'ðɛəfɔːr/ adv. 因此
+32. trend /trɛnd/ n. 趋势
+33. tremendous /trɪ'mendəs/ adj. 令人震惊的
+34. rivial /'trɪviəl/ adj. 不重要的
+35. tread /trɛd/ v. 踩踏
+36. trick /trɪk/ n. 把戏
+37. traffic /'træfɪk/ n. 交通
+38. transit /'trænzɪt/ n. 通过
+39. transparent /'trænspærənt/ adj. 透明的
+40. trek /trɛk/ n. 徒步旅行
+41. tremble /'trɛmbl/ v. 颤抖
+42. theme /θiːm/ v. 以…为主题（但通常作为 n. 主题）
+43. thorough /'θʌrə/ adj. 全面的
+44. thoughtful /'θɔːtfl/ adj. 关心人的，想得周到的
+45. threaten /'θrɛtən/ v. 威胁
+46. thrive /θraɪv/ v. 繁荣
+47. thriller /'θrɪlə(r)/ n. 惊险读物或影片
+48. throat /θrəʊt/ n. 喉咙
+49. tidal /'taɪdl/ adj. 潮汐的
+50. timetable /'taɪmteɪbl/ n. 时间表
+51. to be frank (with somebody) 坦白地说
+52. tolerance /'tɒlərəns/ n. 宽容
+53. tonic /'tɒnɪk/ n. 补药，补剂
+54. topography /tə'pɒɡrəfi/ n. 地形；地势
+55. tough /tʌf/ adj. 苛刻的
+56. tourism /'tʊərɪzəm/ n. 旅游业
+57. trace /treɪs/ n. 丝毫；微量
+58. tractor /'træktə(r)/ n. 拖拉机
+59. tradition /trə'dɪʃn/ n. 传统
+60. tragically /'trædʒɪkli/ adv. 悲剧性地，悲壮地
+61. trail /treɪl/ n. 小径，小道
+62. trait /treɪt/ n. 品质，特征
+63. transaction /træn'zækʃn/ n. 交易
+64. transfer /træns'fɜː(r)/ v. 调任
+65. transmission /trænz'mɪʃn/ n. 传输，传送
+66. transparency /træns'pærənsi/ n. 幻灯片（但此处可能指透明度）
+67. traumatic /trɔː'mætɪk/ adj. 痛苦而难忘的
+68. trekker /'trekə(r)/ n. 长途徒步旅行者
+69. trial /'traral/ n. 审判
+70. tribunal /trar'bju:nal/ n. 法庭
+71. trio /'tri:u/ n. 三重唱
+72. tropical /'tropikel/ adj. 热带的
+73. tub /tAb/ n. 浴盆
+74. tuition /tju:'ifen/ n. 指导
+75. tunnel /'tAnal/ n. 隧道，地道
+76. turbulent /'t3:bjulant/ adj. 动荡的
+77. twist /twɪst/ n. 扭曲

@@ -1,141 +1,145 @@
-1. passion /ˈpæʃn/
-
-   n.激情;酷爱;强烈情感;强烈的爱(尤指两性间的);盛怒;激愤;耶稣的受难
-
-2. passionate /ˈpæʃənət/
-
-   adj.热情的;狂热的;热诚的;
-
-3. peer /pɪə(r)/
-
-   n.同龄人; 同辈; (英国)贵族成员; 身份(或地位)相同的人;  
-   vi.仔细看; 端详;
-
-4. perform
-
-   执行
-
-5. perfume
-
-   香水
-
-6. period /ˈpɪəriəd/
-
-   n.（练习、训练、学习的）时间，时段;周期;  
-   adj.过去的，古代的;早期的;  
-   adv.到此为止，不再说了;
-
-7. perseverance /ˌpɜːsəˈvɪərəns/
-
-   n.毅力；不屈不挠的精神；韧性
-
-8. personality /ˌpɜːsəˈnæləti/
-
-   n.个性
-
-9. personnel /ˌpɜːsəˈnel/
-
-   n.（组织或军队中的）全体人员，职员；人事部门，人事科（或处等）
-
-10. philosophy /fəˈlɒsəfi/
-
-    n.哲学;人生哲学;哲学体系;思想体系;生活的信条(或态度)
-
-11. photocopying /ˈfəʊtəʊkɒpiɪŋ/
-
-    v.复印;影印;复制;
-
-12. plants /plɑːnts/
-
-    n.植物;(工业用的)大型机器，设备;工厂;发电厂;  
-    v.种植;播种; plant 的第三人称单数和复数;
-
-13. political /pəˈlɪtɪkl/
-
-    adj.政治的;政府的;
-
-14. popularity /ˌpɒpjuˈlærəti/
-
-    n.流行;受欢迎;普及;人气
-
-15. praise /preɪz/
-
-    n.赞扬;赞美;称赞;  
-    vt.赞扬;称赞;表扬;
-
-16. prepare /prɪˈpeə(r)/
-
-    v.准备;做(饭);调制，配制（药品等）;预备(饭菜);使(自己)有准备;防范;把…预备好
-
-17. present /ˈpreznt , prɪˈzent/
-
-    n.目前;现在;礼物;礼品;  
-    adj.存在;当前的;  
-    vt.提出;(以某种方式)展现，显示，表现;
-
-18. pretend /prɪˈtend/
-
-    v.假装; 佯装; (在游戏中)装扮，扮作，模拟;  
-    adj.假装的; 想象的;
-
-19. preparation /ˌprepəˈreɪʃn/
-
-    n.准备;(医药、化妆品等)配制品，制剂;准备工作;预备;
-
-20. principal /ˈprɪnsəpl/
-
-    adj.主要的;最重要的;  
-    n.本金;当事人，委托人;资本;主角;
-
-21. professional /prəˈfeʃənl/
-
-    adj.专业的；职业的；
-    n.专业人员；专业人士；专家；
-
-22. proficient /prəˈfɪʃnt/
-
-    adj.熟练的;精通的;娴熟的;  
-    n.专家;能手;老手;
-
-23. progress /ˈprəʊɡres/
-
-    n.进展;进步;进程;  
-    vt.进展;进步;前进;
-
-24. projected
-
-    预计的
-
-25. project
-
-    项目
-
-26. proper /ˈprɒpə(r)/
-
-    adj.适当的;正确的;恰当的;
-
-27. property /ˈprɒpəti/
-
-    n.财产;性质;房地产;不动产;财物;庄园;所有物;
-
-28. propose
-
-    建议
-
-29. prosperity /prɒˈsperəti/
-
-    n.繁荣;成功;兴旺;昌盛
-
-30. providers /prəˈvaɪdəz/
-
-    n.提供者; 供应者; 供养人;  
-    provider 的复数;
-
-31. punctuality /ˌpʌŋktjʊˈælɪti/
-
-    n. 准时；严守时间；敏捷
-
-32. purpose /ˈpɜːpəs/
-
-    n.目的;用途;目标;意图;意志;重要意义;情势的需要;有价值的意义;  
-    vt.有意;打算;企图（做）;决意（做）;
+1. pace /peis/ n. 步速；速度
+2. Pacific /pa'sifik/ n. 太平洋
+3. packet /"paekit/ n. 小包裹；小盒
+4. pamper /'pempa(r)/ v. 纵容；娇惯
+5. panic /'paenik/ n. 恐慌；惊慌
+6. parade /po'reid/ n. 游行；阅兵
+7. parcel /'pa:sl/ n. 包裹；小包
+8. partially /'pa: Joh/ adv. 部分地；不完全地
+9. participate /pa:'tusipert/ v. 参与；参加
+10. participation /pa: tust'perJon/ n. 参与；参加
+11. partly /'pa:th/ adv. 部分地
+12. partner /'pa:tne(r)/ n. 合伙人；伙伴
+13. passbook /'pa:sbuk/ n. 存折
+14. passerby /pa:sa'bai/ n. 路人
+15. passionate /'paeJonat/ adj. 充满激情的；热情的
+16. paste /peist/ n. 糊状物；浆糊
+17. pastime /'pa:starm/ n. 消遣；娱乐
+18. pastry /'peistri/ n. 糕点；点心
+19. patch /paetJ/ v. 补丁；修补
+20. patch up 补缀；调停
+21. patchy /'paetfi/ adj. 斑驳的；不均匀的
+22. patience /'perfans/ n. 耐心
+23. patriot /'patrist/ n. 爱国者
+24. patriotism /'pactriatuzm/ n. 爱国精神
+25. paycheck /'pertfek/ n. 工资，薪金
+26. payment /'peimont/ n. 支付
+27. pea /pi:/ n. 豌豆
+28. peach /pi:tf/ n. 桃树
+29. pearl /p3:l/ n. 珍珠
+30. peel /pi:l/ v. 削（皮）；剥（皮）
+31. peer /pto(r)/ n. 贵族
+32. penalty /'penltu/ n. 苦难
+33. penetrate /'penitreit/ v. 进入；穿透
+34. pepper /'pepa(r)/ n. 胡椒（粉）；辣椒粉
+35. periodical /prorr'odikol/ n. 期刊，杂志
+36. permanent /'p3:monant/ adj. 永久的
+37. perseverance /p3:si'viarons/ n. 坚持不懈
+38. personality /p3:sa'naeliti/ n. 个性
+39. personnel /p3:so'nel/ n. [总称]人员
+40. perspective /pa'spektrv/ n. 观点，看法
+41. persuasion /pa'swer3on/ n. 说服
+42. pervade /p3:'veid/ v. 渗透
+43. pest /pest/ n. 害虫
+44. petroleum /pi'trauliam/ n. 石油
+45. phase /ferz/ n. 阶段；状态
+46. phenomenon /fr'nominan/ n. 现象
+47. philanthropic /,ftlan'Oropik/ adj. 慈善（事业）的
+48. philosophy /fr'losaft/ n. 哲学
+49. photosynthesis /fautou'sn0IsIs/ n. 光合作用
+50. physician /fr'zrJan/ n. 医生
+51. physics /'fiziks/ n. 物理学
+52. pickle /'pikl/ n. 泡菜（尤指酸黄瓜）；腌制食品
+53. pill /pil/ n. 药片
+54. pit /pit/ n. (物体表面上的)凹陷；坑
+55. pizzeria /pi:tso'ri:a/ n. 皮杂（或匹萨）饼店
+56. planet /'plaenit/ n. 行星
+57. plaything /'pler0m/ n. 玩具
+58. plentiful /'plentrful/ adj. 大量的，丰富的
+59. plush /plaJ/ adj. 豪华的，舒服的
+60. pneumonia /nju:'maunja/ n. 肺炎
+61. poetry /'pouitri/ n. 诗歌
+62. poison /'poizn/ n. 毒药
+63. poisonous /'poiznas/ adj. 有毒的
+64. poke /pouk/ v. 拨弄
+65. polar /'poulə(r)/ adj. 极地的
+66. polish /'poliʃ/ v. 擦亮；润饰
+67. politician /ˌpɔlɪ'tiʃən/ n. 政治家
+68. pollutant /pə'lu:tənt/ n. 污染性物质
+69. pollute /pə'lu:t/ v. 污染
+70. pollution /pə'lu:ʃən/ n. 污染
+71. pop /pɒp/ n. 流行音乐
+72. portable /'pɔ:təbl/ adj. 便携式的，手提式的
+73. portrait /'pɔ:trɪt/ n. 肖像
+74. Portugal /'pɔ:tjugəl/ 葡萄牙
+75. pose /pouz/ v. 形成；提出
+76. postage /'pəustɪdʒ/ n. 邮资
+77. poster /'pəustə(r)/ n. 贴在墙、门、窗等上的画
+78. postman /'pəustmən/ n. 邮递员
+79. postpone /pəust'pəun/ v. 推迟
+80. potential /pə'tenʃl/ adj. 潜在的
+81. poverty /'pɒvəti/ n. 贫困
+82. pow /pau/ int. 模仿爆炸声
+83. practitioner /præk'tɪʃənə(r)/ n. 从事者；开业者
+84. preceding /prɪ'si:dɪŋ/ adj. 在前面的
+85. precise /prɪ'saɪs/ adj. 恰好的；准确的
+86. predecessor /'pri:dɪsesə(r)/ n. 前任
+87. predictable /prɪ'dɪktəbl/ adj. 可预见的
+88. predominantly /prɪ'dɒmɪnəntli/ adv. 主要地
+89. preference /'prefərəns/ n. 偏爱
+90. preheat /pri:'hi:t/ v. 预热
+91. prejudice /'predʒədɪs/ n. 偏见
+92. premium /'pri:miəm/ n. 保险费
+93. presence /'prezns/ n. 在场，出席，存在
+94. preserve /prɪ'zɜ:v/ v. 保护，保持
+95. preside /prɪ'zaɪd/ v. 主持
+96. presume /prɪ'zju:m/ v. 假定，假设，认为
+97. prevail /prɪ'veɪl/ v. 盛行；占优势
+98. prevalent /'prevələnt/ adj. 流行的，盛行的
+99. previously /'pri:vjasli/ adv. 以前，先前
+100. prick /prik/ n. 刺痛
+101. primarily /'praɪmərəli/ adv. 首先
+102. primary /'praɪməri/ n. 主要的；初级的
+103. prime /praɪm/ adj. 第一位的；主要的；初级的
+104. prime minister 首相
+105. prime-time /'praɪm'taɪm/ adj. 黄金时段
+106. principal /'prɪnsəpl/ adj. 主要的
+107. principle /'prɪnsəpl/ n. 原则
+108. printer /'prɪntə(r)/ n. 打印机
+109. priority /praɪ'ɔrɪti/ n. 重点；优先考虑的
+110. privacy /'praɪvəsi/ n. 隐私
+111. private /'praɪvɪt/ adj. 私人（用）的
+112. privilege /'prɪvɪlɪdʒ/ n. 优惠；特权
+113. pro /proʊ/ n. 专家；职业运动员
+114. probably /'prɒbəbli/ adv. 很可能
+115. procedure /prə'siːdʒə(r)/ n. 程序
+116. processor /'proʊsɛsə(r)/ n. 处理器
+117. proclaim /proʊ'kleɪm/ v. 宣布
+118. proclamation /proʊklə'meɪʃən/ n. 宣布
+119. productive /proʊ'dʌktɪv/ adj. 多产的；建设性的
+120. productivity /ˌproʊdʌk'tɪvɪti/ n. 生产力
+121. professional /prə'feʃənl/ adj. 职业的；从事特定专业的
+122. proficiency /prə'fɪʃənsi/ n. 水平，熟练程度
+123. profit /'prɒfɪt/ n. 利润
+124. profound /proʊ'faʊnd/ adj. 深刻的
+125. prolong /prə'lɒŋ/ v. 延长
+126. prominent /'prɒmɪnənt/ adj. 著名的
+127. promising /'prɒmɪsɪŋ/ adj. 有希望的
+128. promotion /prə'moʊʃən/ n. 促销
+129. proposal /prə'poʊzəl/ n. 求婚
+130. propose /prə'poʊz/ v. 建议；计划
+131. prosecutor /'prɒsɪkjuːtə(r)/ n. 起诉人
+132. prospective /prə'spɛktɪv/ adj. 有希望的，预期的
+133. prosperity /prɒ'spɛrɪti/ n. 繁荣
+134. prosperous /'prɒspərəs/ adj. 繁荣的
+135. protective /prə'tɛktɪv/ adj. 保护的
+136. publication /ˌpʌblɪ'keɪʃən/ n. 出版物
+137. pull over 靠边停车
+138. pulpit /'pʊlpɪt/ n. 布道
+139. punctuality /ˌpʌŋktʃu'ælɪti/ n. 严守时刻
+140. punishment /'pʌnɪʃmənt/ n. 惩罚
+141. purchase /'pɜːtʃɪs/ v. 购买
+142. pursue /pə'sjuː/ v. 追；努力追求或完成
+143. putrid /'pjuːtrɪd/ adj. 有毒的（未在图中明确对应英文）
+144. puzzle /'pʌzl/ n. 谜题
+145. pyramid /'pɪrəmɪd/ n. 金字塔

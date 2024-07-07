@@ -1,206 +1,161 @@
-1. satellite
-
-   卫星
-
-2. schedule /ˈʃedjuːl/
-
-   n.(价格、收费或条款等的)一览表，明细表，清单;日程安排;  
-   vt.安排;预定;列入，收进(正式目录、清单等中);为…安排时间;
-
-3. science /ˈsaɪəns/
-
-   n.科学;自然科学;学科，学;理科;
-
-4. secretary /ˈsekrətri/
-
-   n.秘书; 部长; 助理; 大臣; (俱乐部、社团等的)干事，文书; 复数 secretaries；
-
-5. sell /sel/
-
-   v.出售;卖;卖出…;转让;  
-   n.让人失望的东西; 过去式： sold; 过去分词： sold;
-
-6. senior /ˈsiːniə(r)/
-
-   n.上级;中学生;上司;毕业班学生;高水平运动员;级别(或地位)较高者;  
-   adj.(父子同名时，加在父亲的名字前)老，大;成人的;中等学校
-
-7. seriously 非常
-8. service /ˈsɜːvɪs/
-
-   n.（对顾客的）接待，服务;  
-   vt.维修;提供服务;  
-   adj.服务性的；
-
-9. several /ˈsevrəl/
-
-   det./pron.几个;一些;数个  
-   adj.不同的，各种各样的;天量的，许多的;
-
-10. severe /sɪˈvɪə(r)/
-
-    adj.严峻的;严厉的;重的;苛刻的;艰难的;
-
-11. sew
-
-    缝制
-
-12. sharply
-
-    急剧地
-
-13. shift /ʃɪft/
-
-    v.转移;换（挡）;变换;  
-    n.转移;（计算机键盘或打字机上的）转换（键），换档（键）;
-
-14. shortage /ˈʃɔːtɪdʒ/
-
-    n.短缺;不足;缺少
-
-15. shortcoming /ˈʃɔːtkʌmɪŋ/
-
-    n.缺点;短处
-
-16. shoplift /ˈʃɒplɪft/
-
-    v.在商店行窃;商店偷窃
-
-17. shrink /ʃrɪŋk/
-
-    n.精神病学家;心理学家;  
-    v.收缩;缩小;(使)减少;(使)缩水;
-
-18. shut /ʃʌt/
-
-    v.关闭;  
-    adj.关闭;关门;停业;  
-    n.关闭;冷塞;
-
-19. sincere /sɪnˈsɪə(r)/
-
-    adj.真诚的; 比较级： sincerer; 最高级： sincerest; 派生词： sincerity n.诚意;真挚;
-
-20. simple /ˈsɪmpl/
-
-    adj.简单的;简单的，一般的;  
-    n.单体;头脑简单的人;药用植物;药草制剂;
-
-21. simply /ˈsɪmpli/
-
-    adv.简单地;不过，只是;(强调简单)仅仅，只，不过;
-
-22. sister-in-law
-
-    n.嫂子，弟媳
-
-23. skinny
-
-    adj.极瘦的
-
-24. sneeze
-25. specific /spəˈsɪfɪk/
-
-    adj.具体的;特定的;明确的;  
-    n.特性;细节;特效药;
-
-26. spill /spɪl/
-
-    v.溢出; (使)洒出; 涌出; 泼出; 蜂拥而出;  
-    n.泄漏(量); 溢出(量); 洒出(量); 跌落; 泼出(量);
-
-27. standard /ˈstændəd/
-
-    n.标准;规范;(品质的)水平;规格;行为标准;  
-    adj.标准的;通常的;正常的;
-
-28. statesman
-
-    n.政治家
-
-29. straightforward /ˌstreɪtˈfɔːwəd/
-
-    adj.简单的;直截了当的;坦率的;易懂的;率直的;  
-    straightforwardly adv.直接;正直地;  
-    straightforwardness n.坦率;直率;坦诚;直爽;爽直
-
-30. streamline /ˈstriːmlaɪn/
-
-    n.流线;流线型;  
-    adj.流线型的;
-
-31. streamlining /ˈstriːmlaɪnɪŋ/
-
-    v.使成流线型;使(系统、机构等)效率更高;  
-    n.吝形化，流线型化;
-
-32. stiff /stɪf/
-
-    adj.僵硬的; 比较级： stiffer; 最高级： stiffest;
-    n.死尸;  
-     派生词： stiffly adv. stiffness n.
-
-33. strained
-34. stretch /stretʃ/
-
-    v.伸展; 第三人称单数： stretches; 现在分词： stretching; 过去式： stretched
-
-35. stretching
-
-    拉伸
-
-36. stroke /strəʊk/
-
-    n.中风;击球(动作);一笔;(打、击等的)一下;轻抚;一击;钟声;游泳姿势;  
-    vt. 轻抚(动物的毛皮);抚摩(物体表面或头发等);  
-    第三人称单数： strokes; 现在分词： stroking; 过去式： stroked
-
-37. sister-in-law
-
-    n.嫂子，弟媳
-
-38. situation /ˌsɪtʃuˈeɪʃn/
-
-    n.情况;状况;形势;局面;职业;(建筑物或城镇的)地理位置，环境特点;工作岗位;
-
-39. social /ˈsəʊʃl/
-
-    adj.社会的；社交的；社会地位的；社会上的；交际的；群居的；联谊的
-    n.联谊会；联欢会;
-    记忆 soci 同伴,结交,联合 + -al ...的
-
-40. soldier /ˈsəʊldʒə(r)/
-
-    n.士兵;军人;
-    v.当兵;磨洋工;坚持干;假称害病;
-
-41. solution /səˈluːʃn/
-
-    n.解决方案;溶液;解;解决办法;溶解（过程）;答案;
-
-42. somehow
-
-    以某种方式
-
-43. sore
-44. spread
-
-    传播
-
-45. squeeze /skwiːz/
-
-    v.挤压;(从某物中)榨出，挤出，拧出;  
-    n.挤压;挤;捏;减少，削减;
-
-46. suit /suːt/
-
-    vt.适合;适宜;相配;有利于;合身;  
-    n.西装;套装;西服;
-
-47. summarize /ˈsʌməraɪz/
-
-    v.总结;概述;概括;
-
-48. surrounding
-
-    周围的
+1. sacrifice /'saekrifars/ v. 牺牲；n. 祭品
+2. salary /'saelort/ n. 工资，薪水
+3. salesman /'seilzman/ n. 售货员
+4. sarcastic /sa:'kestik/ adj. 讽刺的；尖刻的
+5. satisfactory /satis'facktorn/ adj. 满意的
+6. save /seiv/ v. 保存
+7. scanner /'skaenar/ n. 扫描仪（单数）
+8. scanners /'skaenarz/ n. 扫描仪（复数）
+9. scarcely /'skeasli/ adv. 几乎不
+10. scare /skeo(r)/ n. 恐慌；惊恐
+11. scarf /ska:f/ n. 薄头巾；围巾
+12. scenery /'si:mori/ n. 风景，景色
+13. scheme /ski:m/ n. 计划
+14. scope /skaup/ n. (发挥能力等的)余地，机会；范围
+15. screen /skri:n/ v. 放映（电影等）
+16. seafood /'si:fu:d/ n. 海味，海鲜
+17. secretary-general /'sekrotorr'd3enaral/ n. 秘书长
+18. select /sr'lekt/ v. 选择，挑选
+19. selfish /'selfif/ adj. 自私的
+20. semi-final /semi'faml/ n. 半决赛
+21. sensibility /sensi'bilitr/ n. 情感
+22. separate /'sepereit/ v. 分开，分离
+23. session /'sefon/ n. (从事某一活动的)一段时间
+24. set aside 留出，拨出
+25. settlement /'setlmant/ n. 定居
+26. severe /sI'via(r)/ adj. 恶劣的
+27. sheer /Jio(r)/ adj. (用于强调)非常的；绝对的
+28. shellfish /"Jelfif/ n. 有壳的水生动物
+29. shelf /Jelf/ n. 架子
+30. shift /Jift/ n. 轮班
+31. shopping mall (商店林立、绿树成行的)步行街；购物中心
+32. showery /'ʃaʊəri/ adj. 阵雨的
+33. showgirl /'ʃəʊgɜːl/ n. 歌舞女郎
+34. showiness /'ʃəʊɪnɪs/ n. 炫耀
+35. shuttle /'ʃʌtəl/ v. 短程穿梭般运送
+36. sightseeing /'saɪtsiːɪŋ/ n. 观光
+37. signal /'sɪgnəl/ adj. 显著的
+38. signature /'sɪgnɪtʃər/ n. 署名，签名
+39. significant /sɪg'nɪfɪkənt/ adj. 重大的
+40. simulate /'sɪmjuleɪt/ v. 模拟
+41. Singaporean /ˌsɪŋɡə'pɔːrɪən/ adj. 新加坡的
+42. sip /sɪp/ n. 小口喝
+43. sister-in-law /'sɪstə(r) ɪn lɔː/ n. 嫂子，弟媳
+44. situation comedy 情景戏剧
+45. sketch /sketʃ/ n. 素描；梗概
+46. ski /skiː/ v. 滑雪
+47. skilled /skɪld/ adj. 有技艺的，擅长的
+48. skinny /'skɪnɪ/ adj. 极瘦的
+49. skull-crushing /'skʌl krʌʃɪŋ/ adj. 令人无计可施的，难于克服的
+50. skyrocket /'skaɪrɒkɪt/ v. 突升，猛涨
+51. skyscraper /'skaɪskreɪpər/ n. 摩天楼
+52. slavery /'sleɪvərɪ/ n. 奴隶制
+53. slender /'slendər/ adj. 细长的；苗条的
+54. slice /slaɪs/ v. 切片
+55. slight /slaɪt/ adj. 轻微的
+56. slim /slɪm/ adj. 苗条的；微小的
+57. slot /slɒt/ n. 狭窄的空间；狭槽；投币口
+58. slot machine 自动贩卖机
+59. smash /smæʃ/ v. 猛力开（冲）
+60. sneak /sniːk/ v. 偷偷地走
+61. sneeze /sniːz/ v. 打喷嚏
+62. sober /'səʊbər/ v. 使清醒，使安静
+63. social /'səʊʃəl/ adj. 社交的
+64. socialize with 交往，交际
+65. socket /'sɒkɪt/ n. 插座
+66. soda /'səʊdə/ n. 苏打，碳酸水
+67. software /'sɒftweər/ n. 软件
+68. solar /'səʊlər/ adj. 太阳的
+69. solely /'səʊllɪ/ adv. 单独地
+70. sophisticated /sə'fɪstɪkeɪtɪd/ adj. 高度发展的
+71. sophomore /'səʊfəmɔːr/ n. 二年级大学生
+72. sore /so:(r)/ adj. 疼痛的
+73. sorrow /'sprou/ n. 悲伤
+74. southward /'sau0wad/ adv. 向南
+75. souvenir /su:va'nia(r)/ n. 纪念品
+76. spaceship /'spesJip/ n. 太空飞船
+77. spatial /'sperfoʊl/ adj. 空间上的
+78. spec /spek/ n. 规格（=specification）
+79. specialise in 专长于…
+80. specialist /'speʃəlɪst/ n. 专家
+81. specialty /'speʃəlti/ n. 专业，专长
+82. species /'spi:ʃi:z/ n. 物种
+83. spectacular /spek'tækjʊlər/ adj. 引人注目的；公开展示的
+84. spectator /spek'teɪtər/ n. 观众
+85. spell /spel/ n. (一种活动中的)一小段时间
+86. spherical /'sferɪkəl/ adj. 球形的；圆形的
+87. spinster /'spɪnstər/ n. 未婚女性，老处女
+88. spit /spɪt/ v. 吐（口水）
+89. splash /splæʃ/ v. 溅落
+90. split away 分离
+91. sponsor /'spɒnsər/ v. 资助，担保；n. 助人，担保人
+92. sprain /spreɪn/ v. 扭伤
+93. spreadsheet /'spredʃiːt/ n. 电子制表软件，电子数据表
+94. springy /'sprɪŋi/ adj. 有弹性的
+95. stabilize /'steɪbəlaɪz/ v. 稳定
+96. staircase /'steərkeɪs/ n. 楼梯
+97. stake /steɪk/ n. 危险
+98. stalagmite /'stæləgmaɪt/ n. 石笋
+99. staple /'steɪpəl/ n. 重要部分；主食
+100. startling /'stɑːrtlɪŋ/ adj. 令人惊异的
+101. statute /'stætʃuːt/ n. 法令，条例
+102. steady /'stedi/ adj. 稳定的
+103. steak /steɪk/ n. 牛排
+104. steeply /'stiːpli/ adv. 急剧地
+105. stem /stem/ v. (from)源自
+106. stereotyped /'steriətaɪpt/ adj. (观念等)定型的；反复使
+107. stir /stɜːr/ v. 搅拌
+108. stock /stɒk/ v. 提供货物
+109. stock up on 一次买上很多以备后用
+110. stoppage /'stɒpɪdʒ/ n. 中止，停止
+111. stow /stəʊ/ v. 装载
+112. straighten /'strertn/ v. 矫正
+113. strained /streɪnd/ adj. 紧张的
+114. strategy /'strætɪdʒi/ n. 策略
+115. straw /strɔː/ n. 稻草，麦秆
+116. straw mushroom 草菇
+117. stream /striːm/ v. 流动
+118. street-smart /'striːt smɑːt/ adj. 熟悉都市生活方式和世态
+119. strengthen /'streŋθən/ v. 加强
+120. stress /stres/ n. 压力；造成紧张的因素
+121. stressful /'stressfʊl/ adj. 充满压力的
+122. striking /'straɪkɪŋ/ adj. 显著的，惊人的
+123. stroke /stroʊk/ n. 中风
+124. style /staɪl/ n. 方法；风格
+125. subset /'sʌbset/ n. [数]子集
+126. substantial /səb'stænʃəl/ adj. 实质的；大量的
+127. suburb /'sʌbɜːb/ n. 郊区
+128. subway /'sʌbweɪ/ n. 地铁
+129. succession /sək'sɛʃən/ n. 连续
+130. suddenly /'sʌdnli/ adv. 突然地
+131. sufficiency /sə'fɪʃənsi/ n. 充足，足量
+132. sum /sʌm/ n. 总数，和
+133. sunshine /'sʌnʃaɪn/ n. 阳光
+134. super /'suːpər/ adj. 极好的
+135. supplement /'sʌplɪmənt/ n. 补充
+136. surge /sɜːrdʒ/ n. 汹涌，澎湃
+137. surgeon /'sɜːrdʒən/ n. 外科医生
+138. surgery /'sɜːrdʒəri/ n. 手术
+139. surly /'sɜːrli/ adj. 脾气坏的；不友好的
+140. surpass /sə'pɑːs/ v. 超越，胜过
+141. surplus /'sɜːrpləs/ n. 剩余
+142. surround /sə'raʊnd/ v. (包)围
+143. survive /sər'vaɪv/ v. 从（困境等）中挺过来；幸存
+144. suspect /sə'spɛkt/ v. 怀疑
+145. sustain /sə'steɪn/ v. 支撑，维持
+146. sustained /sə'steɪnd/ adj. 持续的
+147. swallow /'swɑːloʊ/ v. 吞下
+148. swap /swɒp/ v. 交换
+149. Sweden /'swiːdən/ n. 瑞典
+150. Swedish /'swi:diʃ/ adj. 瑞典的
+151. sweltering /'sweltərɪŋ/ adj. 非常炎热的
+152. swimsuit /'swɪmsuːt/ n. 游泳衣
+153. Swiss /swɪs/ adj. 瑞士的
+154. switch on 打开，接通（电源）
+155. Switzerland /'swɪtsərlənd/ n. 瑞士
+156. syllabus /'sɪləbəs/ n. 教学大纲
+157. sympathy /'sɪmpəθi/ n. 同情
+158. symphony /'sɪmfəni/ n. 交响乐；交响乐团
+159. synthesize /'sɪnθɪsaɪz/ v. 综合，合成
+160. syringe /'sɪrɪndʒ/ n. 注射器，针筒
+161. system /'sɪstəm/ n. 系统；理论体系

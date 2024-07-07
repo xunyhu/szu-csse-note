@@ -1,210 +1,82 @@
-1. eagerness /ˈiːgənɪs/
-
-   n.渴望；热情；殷切；热忱
-
-2. ease
-
-   缓解
-
-3. ecological
-
-   生态的
-
-4. economic /ˌiːkəˈnɒmɪk/
-
-   adj.经济的;经济学的;
-
-5. economics
-
-   经济学
-
-6. economy /ɪˈkɒnəmi/
-
-   n.经济;组织，系统;经济结构，经济制度;  
-   adj.经济的，廉价的;
-
-7. educator /ˈedʒukeɪtə(r)/
-
-   n.教师;教育工作者;教育家;
-
-8. educate /ˈedʒukeɪt/
-
-   vt.(在学校)教育;训练;教养;教导;
-
-9. effect /ɪˈfekt/
-
-   n.影响;(艺术家或作家所要创造的特定)外观，声响，印象，效果;效应;  
-   vt.使发生;实现;引起;
-
-10. effective /ɪˈfektɪv/
-
-    adj.有效的;  
-    n.有生力量;精兵; 复数： effectives; 比较级： more effective; 最高级： most effective; 派生词： effectiveness n.
-
-11. elections /ɪˈlɛkʃənz/
-
-    n.选举，推选(尤指从政); election 的复数;
-
-12. electric /ɪˈlektrɪk/
-
-    adj.电的;电动的;发电的;  
-    n.供电;
-
-13. electricity /ɪˌlekˈtrɪsəti/
-
-    n.电;电能;兴奋;激动;强烈的感情;
-
-14. elevator
-
-    电梯
-
-15. emphasize /ˈemfəsaɪz/
-
-    v.重读，强调(词或短语);强调;着重;重视;使突出;使明显;加强…的语气;
-
-16. employee /ɪmˈplɔɪiː/
-
-    n.雇员;雇工;受雇者;
-
-17. employer
-
-    n.雇主;
-
-18. enable /ɪˈneɪbl/
-
-    vt.使能够;使实现;使可能;
-
-19. encourage /ɪnˈkʌrɪdʒ/
-
-    vt.鼓励;支持;促进;激励;
-
-20. energetic /ˌenəˈdʒetɪk/
-
-    adj.精力充沛的; 派生词： energetically  
-    adv.积极地；精力充沛地;
-
-21. energy /ˈenədʒi/
-
-    n.能量;能源;能;精力;活力;力量;干劲
-
-22. engage /ɪnˈɡeɪdʒ/
-
-    v.从事;（使）衔接，啮合;聘用;雇用;与（某人）交战;吸引住(注意力、兴趣);与…建立密切关系;尽力理解;
-
-23. engine /ˈendʒɪn/
-
-    n.发动机;引擎;机车;  
-    vt.给…安装发动机;
-
-24. engineer /ˌendʒɪˈnɪə(r)/
-
-    n.工程师;设计师;技师;  
-    vt.密谋策划;设计制造;
-
-25. engineering
-
-    工程
-
-26. enthusiasm /ɪnˈθjuːziæzəm/
-
-    n.热情;热忱;热心;热衷的事物;激发热情的事物
-
-27. entire
-
-    整个的
-
-28. equipped /ɪˈkwɪpt/
-
-    v.装备;配备;使有能力;  
-    adj.装备齐全的；使有准备，使有能力;  
-    equip 的过去分词和过去式;
-
-29. especially /ɪˈspeʃəli/
-
-    adv.特别;尤其; especial adj.特别的;
-
-30. essay /ˈeseɪ /
-
-    n.散文;(作为课程作业，学生写的)文章，短文;小品文;  
-    vt.企图;试图;
-
-31. essential /ɪˈsenʃl/
-
-    adj.基本的;本质的;必不可少的;  
-    n.要素;实质;要点;必需品;
-
-32. eventual /ɪˈventʃuəl/
-
-    adj.最终的;最后的;结果的
-
-33. evidence /ˈevɪdəns/
-
-    n.证据;(法庭上的)证据，证词，人证，物证;  
-    vt.证明;表明;作为…的证据;
-
-34. exactly /ɪɡˈzæktli/
-
-    adv.究竟，到底;准确地;正是如此;
-
-35. examine /ɪɡˈzæmɪn/
-
-    vt.检查;审查;(仔细地)检验;调查;考察;考查;测验(某人);（尤指在法庭上）审问，查问;
-
-36. excellent /ˈeksələnt/
-
-    adj.极好的;杰出的;非凡的;
-
-37. except /ɪkˈsept/
-
-    prep.除了;(用于所言不包括的人或事物前)除…之外;  
-    conj.除了;只是
-
-38. exception /ɪkˈsepʃn/
-
-    n.例外;规则的例外;一般情况以外的人(或事物);例外的事物;
-
-39. exceptional /ɪkˈsepʃənl/
-
-    adj.异常的;杰出的，卓越的;罕见的;
-
-40. exclusively /ɪkˈskluːsɪvli/
-
-    adv.专有地;完全地;
-
-41. expanding /ɪkˈspændɪŋ/
-
-    v.扩大，增加; expand 的现在分词
-
-42. expansion
-
-    膨胀
-
-43. expensive /ɪkˈspensɪv/
-
-    adj.昂贵的;价格高的;花钱多的;
-
-44. expect /ɪkˈspekt/
-
-    v.预期;预计;期待;
-
-45. expert /ˈekspɜːt/
-
-    n.专家;行家;能手;  
-    adj.专家的;经验(或知识)丰富的;熟练的;内行的;
-
-46. exposure /ɪkˈspəʊʒə(r)/
-
-    n.暴露;曝光时间;面临，遭受(危险或不快);（照一张照片的）软片，底片，胶片;
-
-47. extraordinary /ɪkˈstrɔːdnri/
-
-    adj.特别的，临时的;非凡的; 派生词： extraordinarily adv.
-
-48. extremely /ɪkˈstriːmli/
-
-    adv.极端;非常;极其
-
-49. extreme /ɪkˈstriːm/
-
-    n.极端;极度;极限;  
-    adj.极端的;极度的;
+1. earth /'s:0kweik/ n. 地震
+2. earnestly /'s:nisth/ adv. 认真地，诚挚地
+3. ease /i:z/ v. 减轻，放松
+4. eco-friendly /'ekau'frendlh/ adj. 环保的
+5. ecology /i:'kld3/ n. 生态学
+6. economic /i:ko'nomik/ adj. 经济的
+7. economical /i:ke'nmikel/ adj. 节约的，经济的
+8. economics /i:ka'nomiks/ n. 经济学
+9. ecosphere /'i:kousfio(r)/ n. 生物圈
+10. ecosystem /'i:kau sistom/ n. 生态系统
+11. edit /'edrt/ v. 编辑
+12. efficient /I'fiJant/ adj. 效率高的
+13. elbow /'elbau/ n. 肘
+14. elective /r'lektrv/ adj. 选修的
+15. electrical /r'lektrikl/ adj. 电的
+16. electric shock 电击
+17. electronic /1lek'tronik/ adj. 电子的
+18. element /'elmant/ n. 要素
+19. eliminate /r'lImmert/ v. 消除
+20. elixir /'lIkso(r)/ n. 灵丹妙药
+21. embarrass /Im'baeros/ v. 使困窘；使尴尬
+22. embitter /Im'brta(r)/ v. 使（更）痛苦
+23. embody /Im'bodr/ v. 体现
+24. embrace /Im'breIs/ v.（欣然）接受；拥抱
+25. emerge /1'm3:d3/ v. 出现
+26. emission /I'mifan/ n.（光、热等的）散发
+27. emotional /r'mauJanl/ adj. 感情（上）的；情绪的
+28. empire /'empara(r)/ n. 帝国
+29. empower /im'paua(r)/ v. 授权；使能够
+30. enactment /'naektmant/ n.（法律的）制定
+31. encounter /m'kaunta(r)/ v. 遭遇
+32. endeavor /m'dev(r)/ n. 努力，尽力
+33. endlessly /'endlaslt/ adv. 无止境地，不断地
+34. endorsement /m'da:smant/ n. 认可
+35. engine /'end3m/ n. 发动机
+36. engineering /end3t'nuartn/ n. 工程（学）
+37. enlarge /n'la:d3/ v. 扩大
+38. enhancement /n'ha:nsmant/ n. 提高，增强
+39. enlightenment /m'lattnmant/ n. 启迪；觉悟
+40. enterprise /'entapraiz/ n. 企业
+41. entertain /ento'tem/ v. 款待；请客
+42. entertainer /enta'tema(r)/ n. 演艺人员
+43. enthusiasm /n'0ju:ziaezom/ n. 热情
+44. enthusiastic /m,0ju:zr'aestuk/ adj. 极感兴趣的
+45. entity /'entrtr/ n. 实体
+46. entry /'entri/ n. 记录，登陆，进入
+47. envision /m'vr3an/ v. 想象
+48. equip /r'kwrp/ v. (智力、体力上)使有准备
+49. era /'rora/ n. 时代
+50. eraser /I'reizo(r)/ n. 橡皮
+51. erode /'raud/ v. 腐蚀；逐步被削弱
+52. essence /'esans/ n. 精髓；实质
+53. essential /r'senJal/ adj. 不可少的，必要的
+54. essentially /r'senfol/ adv. 实质上
+55. estate /I'stert/ n. 财产，地产
+56. ethic /'e0Ik/ n. 道德准则；伦理标准
+57. evaluate /r'vaeljueit/ v. 评价
+58. evaporate /I'vaeparert/ v. 蒸发；消失
+59. eventually /i'ventfuoli/ adv. 最后
+60. evil /'i:vl/ adj. 邪恶的
+61. evolve /r'volv/ v. 发展；演变
+62. exceptionalism /ik'sepJanalizom/ n. 优越性；独特性
+63. exchange /iks'tfemd3/ v. 交换
+64. exclude /ik'sklu:d/ v. 把…排除在外
+65. exclusively /ik'sklu:stvlt/ adv. 除外地
+66. exclusivity /eksklu:'srvatu/ n. 专有（权）
+67. executive /ig'zekjutrv/ adj. 行政的
+68. exemplify /ig'zemplifai/ v. 举例证明
+69. exhausted /ig'zo:stid/ adj. 疲惫的
+70. exhibit /1g'zibit/ n. 展品
+71. exile /'eksail/ v. 流放;使流亡
+72. expand /ik'spand/ v. 扩大;发展
+73. expansion /ik'spænʃən/ n. 扩展
+74. expertise /'ekspɜːrtiːz/ n. 专门知识, 专家意见
+75. expire /ɪk'spaɪə(r)/ v. 过期
+76. explosion /ɪk'spləʊʒən/ n. 爆发，激增
+77. exposed /ɪk'spəʊzd/ adj. 无掩盖的
+78. exposure /ɪk'spəʊʒə(r)/ n. 暴露
+79. extinct /ɪk'stɪŋkt/ adj. 灭绝的
+80. extraordinary /ɪk'strɔːdɪnəri/ adj. 特别的
+81. extravagance /ɪk'strævəɡəns/ n. 奢侈，浪费
+82. eyesight /'aɪsaɪt/ n. 视力

@@ -1,35 +1,27 @@
-1. wagon /ˈwæɡən/ n.马车;(铁路)货车车厢，车皮;
-2. wealthy /ˈwelθi/ adj.富有的; n.富人;
-3. wear /weə(r)/ v.磨损，穿破;穿;戴，佩戴; n.磨损;衣着，穿着; 现在分词： wearing; 过去式： wore; 过去分词： worn;
-4. were /wə(r)/ v.be 的过去时复数和第二人称单数形式;是;在
-5. whether /ˈweðə(r)/
-
-   conj.是否;（表示两种情况都真实）是…（还是），或者…（或者）;  
-   pron.哪一个;（两个中的）任何一个;
-
-6. widespread /ˈwaɪdspred/
-
-   adj.广泛的;普遍的;分布广的
-
-7. wonder /ˈwʌndə(r)/
-
-   v.想知道;琢磨; n.奇迹;奇观;  
-   adj.极好的;非常美丽的;  
-   第三人称单数： wonders; 复数： wonders; 现在分词： wondering; 过去式： wondered;
-
-8. workout
-
-   训练;锻炼
-
-9. workplace /ˈwɜːkpleɪs/
-
-   n.工作场所
-
-10. worldwide /ˌwɜːldˈwaɪd/
-
-    adv.在全世界;遍及全球地  
-    adj.世界各地的;影响全世界的;
-
-11. worsening
-
-    变得更坏
+1. wade /weɪd/ v. 蹚（河）
+2. wagon /'wæɡən/ n. 铁路货车
+3. warlord /'wɔːlɔːd/ n. 军阀
+4. waterway /'wɔːtəweɪ/ n. 水路
+5. weary /'wɪəri/ adj. 厌烦的
+6. website /'websaɪt/ n. WWW(万维网)的
+7. weekday /'wiːkdeɪ/ n. 工作日，一般指除了周末的任一天
+8. weekly /'wiːkli/ adj. 每周的
+9. well-informed /ˌwel ɪn'fɔːmd/ adj. 见识广博的
+10. wetland /'wetlənd/ n. 湿地
+11. wharf /wɔːf/ n. 码头
+12. whatsoever /ˌwɒtsəʊ'evə/ adj. 任何的（=whatever）
+13. wherein /weər'in/ adv. 在那方面
+14. wholesale /'həʊlseɪl/ n. 批发
+15. widow /'wɪdəʊ/ n. 寡妇
+16. wing /wɪŋ/ n. 侧厅，侧楼
+17. wiring /'waɪərɪŋ/ n. 电线线路
+18. wisdom /'wɪzdəm/ n. 智慧
+19. withdraw /wɪð'drɔː/ v. 从银行取款或提取资金
+20. withdrawal /wɪð'drɔːəl/ n. 从银行取回的款或提取
+21. witness /'wɪtnɪs/ v. 目睹
+22. wits /wɪts/ n. [pl.] 能力，判断力
+23. workaholic /ˌwɜːkə'hɒlɪk/ n. 工作狂
+24. workforce /'wɜːkfɔːs/ n. 劳动力；职工总数
+25. workout /'wɜːkaʊt/ n. (尤指体育的)训练
+26. wrist /rɪst/ n. 手腕
+27. writer /'raɪtə(r)/ n. 作家

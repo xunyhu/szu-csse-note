@@ -1,48 +1,46 @@
-1. lack /læk/
-
-   n.缺乏;匮乏;短缺;  
-   vt.缺乏;没有;不足;短缺;
-
-2. launch /lɔːntʃ/
-
-   n.(航天器的)发射;(事件的)发起;(产品的)上市;(船的)下水;交通艇;  
-   vt.发射;开始从事，发起，发动;
-
-3. launched /lɔːntʃt/
-
-   v.开始从事，发起，发动(尤指有组织的活动);(首次)上市，发行;
-
-4. law /lɔː/
-
-   n.法律;法规;规律;规则;  
-   vt.控告;对…起诉;
-
-5. least
-
-   最少的
-
-6. lecture
-
-   讲座
-
-7. legal /ˈliːɡl/
-
-   adj.法律的;合法的;  
-   n.法定权利;依法必须登报的声明;
-
-8. liberate /ˈlɪbəreɪt/
-
-   vt.解放;使自由;使摆脱约束(或限制);
-
-9. lift
-
-   移动
-
-10. limb
-11. lonely /ˈləʊnli/
-
-    adj.孤独的;寂寞的;偏僻的; 比较级： lonelier; 最高级： loneliest; 派生词： loneliness n.
-
-12. loose /luːs/
-
-    vt.松开，放开(尤指束紧或紧握的东西);释放; adj.宽松的;疏松的;自由;零散的;
+1. laboratory /'la'bretor/ n. 实验室
+2. landmark /'laendma:k/ n. (树、建筑等)易于识别的地点；地标
+3. landscape /'laendskerp/ n. 景色；v. 进行景观美化
+4. lap /laep/ v. (波浪等)拍打
+5. largely /'la:d3li/ adv. 主要地；大量地；很大
+6. latitude /'laetrtju:d/ n. 纬度
+7. launch /lo:ntf/ v. 开展；发起
+8. laundry /'lo:ndri/ n. 衣服的洗熨
+9. lavatory /'laevetor/ n. 抽水马桶；卫生间
+10. layout /'leraut/ n. 陈列；布局
+11. lean /li:n/ v. 倾斜
+12. leave someone alone 不打扰、不干涉某人
+13. legacy /'legast/ n. 遗产
+14. legend /'led3and/ n. 传说
+15. legislation /led3s'lefon/ n. 立法
+16. legislative /'led3Islatrv/ adj. 立法的
+17. legislature /'led3rslertJa(r)/ n. 立法机关
+18. legitimate /Ir'd3itumit/ adj. 正规的；合乎常规的
+19. lemon /'leman/ n. 柠檬
+20. let /let/ v. 出租
+21. lever /'li:vo(r)/ n. 控制杆
+22. license /'larsans/ n. 许可证，执照
+23. life span 平均寿命
+24. likely /'laikli/ adj. 很可能的，有希望的
+25. like-minded /'lark'mamdid/ adj. 兴趣相投的
+26. likewise /'larkwarz/ adv. 同样地；也
+27. limb /lIm/ n. 肢
+28. limestone /'laumstaun/ n. 石灰岩
+29. linoleum /Ir'nauljam/ n. (亚麻)油毡
+30. liquor /'like(r)/ n. 酒类
+31. lithosphere /'lr0asfia(r)/ n. 岩石圈
+32. livestock /'larvstok/ n. 家畜，牲畜
+33. loan /loun/ n. 贷款，借出
+34. lobby /'lobt/ n. (剧院、旅馆等入口处的)穿堂，大厅，休息室
+35. locality /lau'kaeltt/ n. 地方
+36. location /la(u)'keifan/ n. 场所
+37. lodge /lod3/ n. 旅馆；山林小屋
+38. longevity /lon'd3evrt/ n. 长寿
+39. Lord /lo:d/ n. 贵族；男性头衔
+40. lorry /'lorn/ n. 卡车
+41. lounge /laund3/ n. 休息厅，休息室；酒吧间
+42. lucky /'lAkI/ adj. 幸运的
+43. lunar /'lju:na(r)/ adj. 月亮的
+44. lunar month 阴历月份
+45. lung /lAn/ n. 肺
+46. luxurious /lag'zjuornas/ adj. 豪华的

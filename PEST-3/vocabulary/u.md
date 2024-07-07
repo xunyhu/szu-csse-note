@@ -1,35 +1,27 @@
-1. ultimate /ˈʌltɪmət/
-
-   adj.最终的;终极的;  
-   n.精华;极品;
-
-2. unavoidable /ˌʌnəˈvɔɪdəbl/
-
-   adj.不可避免的;无法避免的;难以预防的
-
-3. understood /ˌʌndəˈstʊd/
-
-   v.理解; understand 的过去分词和过去式;
-
-4. uniform /ˈjuːnɪfɔːm/
-
-   n.制服;校服;  
-   adj.一致的;统一的;一律的;  
-   v.使均一；使穿制服;
-
-5. uninterrupted
-
-   不间断的
-
-6. unnecessary /ʌnˈnesəsəri/
-
-   adj.不必要的，多余的;  
-   n.非必需品;
-
-7. urban /ˈɜːbən/
-
-   adj.城市的;城镇的;都市的;
-
-8. upset
-
-   难过
+1. ultimately /'ʌltɪmətli/ adv. 最终；终于
+2. ultra-light /'ʌltrəˌlaɪt/ adj. 超轻的
+3. undergrad /'ʌndəˌɡræd/ n. 大学生（尤指本科生）
+4. undergo /ˌʌndə'ɡəʊ/ v. 经历，经受
+5. underneath /ˌʌndə'niːθ/ prep. 在…下面
+6. understatement /ˌʌndə'steɪtmənt/ n. 不充分的描述，轻描淡写
+7. uneventful /ˌʌnɪ'ventfl/ adj. 平凡的；过程平淡的
+8. unhesitatingly /ˌʌn'hezɪteɪtɪŋli/ adv. 毫不犹豫地
+9. uninsured /ˌʌnɪn'ʃʊəd/ adj. 未保险的
+10. unique /juː'niːk/ adj. 唯一的，独特的
+11. unity /'juːnəti/ n. 团结
+12. universal /ˌjuːnɪ'vɜːsl/ adj. 普遍的；全世界的
+13. unleash /ʌn'liːʃ/ v. 解开…的链索（或皮带）；释放
+14. unlicensed /ʌn'laɪsnsd/ adj. 没有执照的
+15. unobstructed /ˌʌnəb'strʌktɪd/ adj. 没有阻碍的
+16. unpaid /ʌn'peɪd/ adj. 未付酬的
+17. unsurpassed /ˌʌnsə'pæst/ adj. 未被超越的；无比的，卓绝的
+18. upgrade /ʌp'ɡreɪd/ n. 升级
+19. uplift /ʌp'lɪft/ v. (在道德等方面)提高；振奋
+20. upper /'ʌpər/ adj. 上（面）的
+21. upset /ʌp'set/ adj. 心烦意乱的
+22. up-to-date /ˌʌptə'deɪt/ adj. 最新的
+23. urge /ɜːdʒ/ v. 促进，催促，强烈主张
+24. urgent /'ɜːdʒənt/ adj. 急迫的，紧急的
+25. usage /'juːsɪdʒ/ n. 使用；用法
+26. user-friendly /'juːzəˌfrɛndli/ adj. 用户界面友好的，用户容易掌握的
+27. utilization /ˌjuːtɪlaɪ'zeɪʃn/ n. 利用

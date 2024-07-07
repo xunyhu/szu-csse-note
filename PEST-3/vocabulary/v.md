@@ -1,26 +1,38 @@
-1. valid /ˈvælɪd/
-
-   adj.(法律上)有效的;合理的; 派生词： validly adv.
-
-2. vast /vɑːst/
-
-   adj.巨大的;大量的;庞大的;辽阔的;  
-   n.广大无边的空间;大海
-
-3. vertical /ˈvɜːtɪkl/
-
-   adj.垂直的；纵向的；竖的；直立的
-   n.垂直线；垂直位置
-
-4. virtue /ˈvɜːtʃuː/
-
-   n. 美德；优点；德行；长处；优秀品质；
-
-5. vision /ˈvɪʒn/
-
-   n.视力；视野；
-   v.在梦(幻)中看见；想像
-
-6. vocational /vəʊˈkeɪʃənl/
-
-   adj.职业的；职业技术的；业务知识的
+1. vacancy /'veɪkənsi/ n. 空缺，空位，空闲
+2. vague /veɪɡ/ adj. 模糊的，不清楚的
+3. valid /'vælɪd/ adj. 有效的，有根据的
+4. validity /və'lɪdɪti/ n. 合理性
+5. vapor /'veɪpə(r)/ n. 水蒸气
+6. ventilate /'ventɪleɪt/ v. 使通风
+7. ventilation /ˌventɪ'leɪʃən/ n. 通风
+8. venture /'ventʃər/ n. (风险)商业投资
+9. verbally /'vɜːbəli/ adv. 口头地
+10. version /'vɜːrʒən/ n. 版本
+11. vertical /'vɜːtɪkəl/ adj. 垂直的；立式的
+12. vessel /'vesəl/ n. 容器
+13. veteran /'vetərən/ n. 老兵，退伍军人
+14. via /'vaɪə/ prep. 通过
+15. victim /'vɪktɪm/ n. 受害人；牺牲者
+16. videogame /'vɪdɪoʊˌɡeɪm/ n. 视频游戏
+17. viewer /'vjuːə(r)/ n. 观众
+18. viewpoint /'vjuːpɔɪnt/ n. 观点
+19. vigor /'vɪɡə(r)/ n. 精力，活力
+20. vigorously /'vɪɡərəsli/ adv. 强有力地；精力充沛地
+21. villa /'vɪlə/ n. 别墅
+22. violence /'vaɪələns/ n. 暴力
+23. violet /'vaɪələt/ adj. 紫罗兰色的
+24. violin /ˌvaɪə'lɪn/ n. 小提琴
+25. violinist /ˌvaɪə'lɪnɪst/ n. 小提琴手
+26. virtually /'vɜːtʃuəli/ adv. 事实上，实际上
+27. virtue /'vɜːtʃuː/ n. 美德；优点
+28. visible /'vɪzəbəl/ adj. 看得见的
+29. vision /'vɪʒən/ n. 远见；视觉
+30. vital /'vaɪtəl/ adj. 生气勃勃的
+31. vivid /'vɪvɪd/ adj. 生动的
+32. vocational /voʊ'keɪʃənl/ adj. (与)职业（有关）的
+33. voice-over /'vɔɪsˌoʊvər/ n. 旁白；画外音
+34. volcano /vɒl'keɪnoʊ/ n. 火山
+35. volume /'vɒljuːm/ n. 量，数量
+36. vote /voʊt/ v. n. 投票
+37. voucher /'vaʊtʃər/ n. 代金券
+38. vulnerable /ˈvʌlnərəbl/ adj.脆弱的；易受…伤害的

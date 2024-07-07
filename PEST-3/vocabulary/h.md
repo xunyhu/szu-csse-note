@@ -1,48 +1,51 @@
-1. hardware /ˈhɑːdweə(r)/
-
-   n.硬件;(家庭及园艺用)工具，设备，五金制品;硬件设备;机器;车辆
-
-2. hate /heɪt/
-
-   v.仇恨(某人);憎恨;厌恶(某事物);  
-   n.憎恨;厌恶;所憎恶的人(或事物)
-
-3. harm
-
-   伤害
-
-4. heal /hiːl/
-
-   v.治愈(病人);(使)康复，复原;(使)结束，较容易忍受;使又愉快起来;
-
-5. healing /ˈhiːlɪŋ/
-
-   n.(情感创伤的)愈合;治疗;康复;  
-   adj.痊愈中的；医治用的;  
-   v.(使)康复，复原;治愈(病人); heal 的现在分词
-
-6. hire /ˈhaɪə(r)/
-
-   v.雇用;聘用;租用;  
-   n.租用;租赁;新员工;租借;新雇员;
-
-7. hole
-
-   孔
-
-8. hollow
-
-   中空的
-
-9. horizontal
-
-   水平的
-
-10. household /ˈhaʊshəʊld/
-
-    n.家庭;一家人;同住一所房子的人;  
-    adj.家庭的，家内的，一家的;
-
-11. hundred /hʌndrəd/
-
-    num.一百;许多;
+1. habitat /ˈhæbɪtæt/ n. (动植物的)栖息地，居留地
+2. hail /heɪl/ n. 冰雹
+3. hail from v. 来自
+4. handler /ˈhændlər/ n. 训练者
+5. hardship /ˈhɑːrdʃɪp/ n. 艰难，辛苦
+6. hardware /ˈhɑːrdwɛr/ n. 硬件
+7. harness /ˈhɑːrnɪs/ v. 治理
+8. harsh /hɑːrʃ/ adj. 严酷的；苛刻的
+9. hassle /ˈhæsl/ n. 烦恼；混乱；麻烦
+10. hastily /'heɪstɪli/ adv. 仓促地；急速地
+11. haunted /'hɔːntɪd/ v. 闹鬼的
+12. haute cuisine /oʊt kwɪˈziːn/ n. 高级烹饪术；高级菜肴
+13. headquarters /ˈhɛdˌkwɔːrtərz/ n. 总部
+14. heal /hiːl/ v. 治疗，治愈
+15. heat-trapping /'hiːtˌtræpɪŋ/ adj. 吸热的
+16. hectic /ˈhɛktɪk/ adj. 紧张忙碌的
+17. hell /hɛl/ n. 地狱
+18. hence /hɛns/ adv. 由此
+19. heroine /ˈhɛroʊɪn/ n. (小说的)女主角
+20. heroism /ˈhɛroʊɪzəm/ n. 英雄气概
+21. hide /haɪd/ v. 隐藏
+22. highway /ˈhaɪweɪ/ n. 高速公路
+23. hijack /ˈhaɪdʒæk/ v. 劫持
+24. hindsight /ˈhaɪndsaɪt/ n. 事后的认识
+25. hint /hɪnt/ n. 暗示，提示，线索
+26. hiss /hɪs/ v. (蛇、沸水等)嘶嘶作声
+27. historian /hɪˈstɔːriən/ n. 历史学家
+28. hollow /ˈhɒloʊ/ adj. 空（心）的
+29. holy /ˈhoʊli/ adj. 神圣的
+30. homemaker /ˈhoʊmˌmeɪkər/ n. 家庭主妇
+31. homo-centred /ˌhoʊmoʊˈsɛntərd/ adj. 以人类为中心的
+32. honey /ˈhʌni/ n. 蜜，蜂蜜
+33. hooked /hʊkt/ adj. 上瘾的
+34. horizon /həˈraɪzən/ n. 地平线
+35. hormone /ˈhɔːrmoʊn/ n. 荷尔蒙
+36. horrible /ˈhɔːrɪbəl/ adj. 难看的，令人不愉快的
+37. host /hoʊst/ n. 节目主持人
+38. hostess /ˈhoʊstɪs/ n. 女主持人
+39. hostility /hɒˈstɪlɪti/ n. 敌意，对抗
+40. hothouse /ˈhɒtˌhaʊs/ n. 温室
+41. household /ˈhaʊshoʊld/ n. 家庭
+42. housekeeping /ˈhaʊskiːpɪŋ/ n. 家政，家务
+43. hum /hʌm/ v. 嗡嗡叫
+44. humanities /hjuːˈmænɪtiz/ n. 人文学科
+45. humble /ˈhʌmbəl/ adj. 谦卑的
+46. humidification device 加湿器；润湿器
+47. hunting /ˈhʌntɪŋ/ n. 打猎
+48. hydrogen-powered /ˈhaɪdrədʒən ˈpaʊərd/ adj. 氢动力的
+49. hydrosphere /ˈhaɪdrəˌsfɪər/ n. 水圈
+50. hypertension /ˌhaɪpərˈtɛnʃən/ n. 高血压
+51. hypothesis /haɪˈpɒθəsɪs/ n.假设

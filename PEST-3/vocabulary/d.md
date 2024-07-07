@@ -1,141 +1,114 @@
-1. deal /diːl/
-
-   v.处理;经营，交易;  
-   n.交易;（尤指商业或政治方面的）协议;大量;局面，情况;很多;  
-   现在分词： dealing; 过去式： dealt;
-
-2. debate /dɪˈbeɪt/
-
-   n.辩论;(各自发表不同意见的)争论，讨论;  
-   v.(尤指正式)讨论;思考;仔细考虑;盘算;
-
-3. deceive /dɪˈsiːv/
-
-   v.欺骗(自己);误导;蒙骗;诓骗;使人误信;
-
-4. definitely
-
-   adv.无疑地；确切地
-
-5. degree /dɪˈɡriː/
-
-   n.度;程度;（大学）学位;学位课程;
-
-6. delivering /dɪˈlɪvərɪŋ/
-
-   v.交付;传送;递送;发表; deliver 的现在分词
-
-7. demand /dɪˈmɑːnd/
-
-   n.(顾客的)需求;(尤指困难、使人劳累、令人烦恼等的)要求;需要;所需之物;  
-   v.需要；
-
-8. density
-
-   密度
-
-9. dental
-
-   牙科的
-
-10. dentist
-
-    牙医
-
-11. dependability /dɪˌpɛndəˈbɪlɪti/
-
-    n.可靠性；可信赖性
-
-12. depression
-
-    n.萧条；沮丧
-
-13. describe /dɪˈskraɪb/
-
-    vt.描述;形容;把…称为;形成…形状;做…运动;画出…图形
-
-14. deserved /dɪˈzɜːvd/
-
-    v.值得;  
-    adj.该奖[罚]的;  
-    deserve 的过去分词和过去式;
-
-15. deserve /dɪˈzɜːv/
-
-    v.值得;应得;应受;
-
-16. desirable /dɪˈzaɪərəbl/
-
-    adj. 可取的；向往的；性感的；
-
-17. despite /dɪˈspaɪt/
-
-    prep.尽管;即使;尽管(自己)不愿意;  
-    n.恶意;侮辱;怨恨;轻蔑;
-
-18. development /dɪˈveləpmənt/
-
-    n.发展;开发;（尤指房地产的）开发;研制;
-
-19. dials /ˈdaɪəlz/
-
-    v.拨(电话号码);  
-    n.表盘;刻度盘;(旧式电话机的)拨号盘;标度盘;仪表盘;  
-    dial 的第三人称单数和复数;
-
-20. digital /ˈdɪdʒɪtl/
-
-    adj.数字的;数码的;数字式的;  
-    n.数字电视;
-
-21. direct /dəˈrekt/
-
-    adj.直接的;最近的;  
-    v.指示;指导;管理;  
-    adv.直接;亲自;径直;
-
-22. disadvantage /ˌdɪsədˈvɑːntɪdʒ/
-
-    n.缺点;不利因素;障碍;不便之处;
-
-23. disc
-
-    圆盘
-
-24. disease /dɪˈziːz/
-
-    n.疾病;
-
-25. divorce /dɪˈvɔːs/
-
-    n.离婚;脱离;分离;  
-    v.与(某人)离婚;使脱离;使分离;判(某人)离婚;
-
-26. doctrine /ˈdɒktrɪn/
-
-    n.学说;教义;主义;教条;信条;(政府政策的)正式声明;
-
-27. domestic /dəˈmestɪk/
-
-    adj.国内的;家庭的;本国的;家用的;  
-    n.佣人;家佣;家庭纠纷;家庭矛盾;  
-    派生词： domestically adv.
-
-28. dormitory /ˈdɔːmətri/
-
-    n.<美>(大学、学院等的)学生宿舍;大寝室，集体寝室;(市内工作者的)郊外住宅区
-
-29. dread /dred/
-
-    v.畏惧;担忧，忧虑;  
-    n.畏惧，恐惧;担忧，忧虑;  
-    adj.可怕的;令人担忧的;
-
-30. drive /draɪv/
-
-    v.驱动;驾驶;开车;激励;迫使;  
-    n.驱动器;有组织的努力，运动;传动(或驱动)装置;
-
-31. drop
-
-    下降
+1. damn /dam/ adj. 该死的
+2. darling /'da:rlɪŋ/ adj. 心爱的，惹人喜爱的
+3. database /'deɪtəbeɪs/ n. 数据库
+4. date back to 追溯到
+5. daytime /ˈdeɪtaɪm/ n. 白天
+6. dazzlingly /ˈdæzəlɪŋli/ adv. 令人惊叹地
+7. deadline /ˈdɛdlaɪn/ n. 最后期限
+8. dealer /ˈdiːlər/ n. 商人
+9. debut /ˈdeɪbjuː/ n. 初次登场
+10. deceive /dɪˈsiːv/ v. 蒙骗
+11. decisive /dɪˈsaɪsɪv/ adj. 决定性的
+12. declare /dɪˈklɛər/ v. 申报（纳税品）
+13. decline /dɪˈklaɪn/ n. 衰落
+14. decree /dɪˈkriː/ n. 政令；法令
+15. dedicated /ˈdɛdɪkeɪtɪd/ adj. 专用的；献身的
+16. define /dɪˈfaɪn/ v. 给...下定义
+17. definitely /ˈdɛfɪnɪtli/ adv. 无疑地；确切地
+18. deforestation /diːˌfɒrɪˈsteɪʃn/ n. 森林砍伐
+19. delicate /ˈdɛlɪkət/ adj. 脆弱的；微妙的；灵敏的
+20. delighted /dɪˈlaɪtɪd/ adj. 高兴的
+21. delivery /dɪˈlɪvəri/ n. 交付；送货
+22. delve /dɛlv/ v. 钻研
+23. dematerialize /ˌdiːməˈtɪərɪəlaɪz/ v. （使）非物质化
+24. democracy /di'mokrast/ n. 民主（制度）
+25. demonstrate /'demanstreit/ v. 表现
+26. dematerialize /ˌdiːməˈtɪərɪəlaɪz/ v. （使）非物质化
+27. denature /di:'nertfa(r)/ v. 改变…的性质
+28. dentist /'dentust/ n. 牙医
+29. dentistry /'dentistrr/ n. 牙科
+30. deny /dr'nat/ v. 否认
+31. departure /di'pa:tfa(r)/ n. 启程，出发，离开
+32. dependability /drpenda'bilrti/ n. 可靠性
+33. dependent /dr'pendant/ adj. 依靠的
+34. depress /di'pres/ v. 按下
+35. depression /di'preJan/ n. 萧条（期）；沮丧
+36. deputy /'depjutr/ adj. 副的
+37. derive /dr'rarv/ v. 源自
+38. deschool /di:'sku:l/ v. 提倡废除学校制
+39. designate /'dezignert/ v. 指定
+40. desirable /di'zararabl/ adj. 理想的，令人满意的
+41. desperately /'desparitlh/ adv. 特别想得到地；不顾一切地
+42. despite /dr'spart/ prep. 尽管
+43. destabilize /di:'sterbilaiz/ v. 使动摇
+44. destiny /'destini/ n. 命运
+45. destruction /dr'strakJon/ n. 毁灭
+46. destructive /dr'straktrv/ adj. 破坏性的
+47. detection /di'tekJon/ n. 检测
+48. detergent /dr'ts:d3ant/ n. 清洁剂
+49. devil /'devl/ n. 魔鬼，恶棍
+50. diabetes /dara'bi:ti:z/ n. 糖尿病
+51. diagnosis /daiog'nousts/ n. 诊断
+52. dial /'darol/ v. 拨号
+53. dice /dars/ v. 切丁
+54. diesel /di:zal/ n. 柴油机
+55. diet /'daiət/ n. 饮食
+56. dietary /'daratar/ adj. 饮食的
+57. digital /'drd3itl/ adj. 数字的
+58. dilemma /dr'lema/ n. 进退两难的困境，难题
+59. diligent /'drlid3ont/ adj. 勤奋的
+60. dim /dm/ adj. 昏暗的
+61. diner /'damar/ n. 就餐者
+62. dip /dip/ v. 下降
+63. diplomat /'diplamaet/ n. 外交官
+64. diplomatic /drplo'matuk/ adj. 有外交手腕的；外交上的
+65. disabled /dis'eibld/ adj. 残疾的
+66. disagree /disa'gri:/ v. 不同意
+67. disaster /di'za:sta(r)/ n. 彻底失败（的事）；灾难
+68. discipline /'drsrplm/ n. 学科；科目
+69. dismay /dis'meid/ n. 沮丧
+70. dismayed /dis'meid/ adj. 沮丧的
+71. discriminate /dr'skrminert/ v. 歧视
+72. displacement /dis'pleismant/ n. 迁移；（被迫）离开家园
+73. disk /disk/ n. 盘（状物）
+74. display /dr'spler/ n. 显示器
+75. display /dr'splei/ n. v. 显示；陈列，展出
+76. displeasing /drs'pli:zm/ adj. 使人不愉快的
+77. disruption /drs'rapJon/ n. 破坏
+78. dispute /dr'spju:t/ n. 争论；争议
+79. distinct /dr'stmkt/ adj. 不同的，有区别的
+80. distinctiveness /dis'tmktrvnus/ n. 特色
+81. distinguished /drs'tmgwift/ adj. 著名的
+82. distract /dr'straekt/ v. 转移（注意力）
+83. distraction /dis'traekJan/ n. 分心
+84. disturbance /dr'st3:bans/ n. 打扰，干扰
+85. diversify /dar'v3:sifat/ v. 多样化
+86. divert /dar'v3:t/ v. 转向，转移
+87. divorce /dr'vo:s/ n. 离婚；分离
+88. dizziness /'dizmis/ n. 头晕
+89. dock /dok/ n. 船坞
+90. documentary /dokju'mentort/ n. 记录片
+91. doll /dol/ n. 洋娃娃
+92. domestic /dau'mestik/ adj. 国产的；家庭的
+93. domestic violence 家庭暴力
+94. dominate /'dominert/ v. 在…中占首要地位；支配
+95. dominating class 统治阶级
+96. dormitory /'do:mitari/ n. 宿舍
+97. dough /dau/ n. 生面团
+98. dove /dav/ n. 鸽子
+99. down /daun/ adj. 沮丧的，情绪低落的
+100. downfall /'daunfo:l/ n. 垮台
+101. downhill /'daun'hil/ adv. 向下地，更坏地
+102. downplay /'daunpler/ v. 对…轻描淡写；贬低
+103. downside /'daunsard/ n. 不利方面
+104. down-to-earth /'dauntu:'s: 0/ adj. 脚踏实地的
+105. downturn /'daunts:n/ n. 下降，衰退
+106. drag /draeg/ v. （硬）拖；（硬）拉
+107. dragon /'draegan/ n. 龙
+108. drought /draut/ n. 干旱
+109. dread /dred/ v. 惧怕
+110. dung /dʌŋ/ n. 粪肥
+111. dusk /dʌsk/ n. 黄昏
+112. dying /'daɪɪŋ/ adj. 即将死去的
+113. dynamics /daɪ'næmɪks/ n. 动态
+114. dynasty /'dɪnəsti/ n. 朝代，王朝

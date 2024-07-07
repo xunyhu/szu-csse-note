@@ -1,4 +1,9 @@
-1. junior /ˈdʒuːniə(r)/
-
-   n.青少年;小学生;（中学或大学的）三年级学生;  
-   adj.青少年的;三年级生的，三年级的;地位(或职位、级别)低下的;
+1. jade /dʒeɪd/ n. 碧玉，翡翠
+2. jailor /'dʒeɪlər/ n. 监狱看守
+3. jetliner /'dʒetˌlaɪnər/ n. 喷气式飞机
+4. Jew /dʒuː/ n. 犹太人，犹太教徒
+5. jewelry /'dʒuːəlri/ n. 珠宝
+6. joint /dʒɔɪnt/ adj. 联合的
+7. journalist /'dʒɜrnəlɪst/ n. 记者
+8. joystick /'dʒɔɪstɪk/ n. 操纵杆
+9. judgment /'dʒʌdʒmənt/ n. 判断
