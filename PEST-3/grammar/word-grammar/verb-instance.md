@@ -20,3 +20,7 @@
 3. He `attempted` to escape through a window.
 4. India `attained` independence in 1947, after decades of struggle.
 5. He suddenly `appeared` in the doorway.
+
+## 单及物动词（动词 + 宾语）
+
+1. The priest `blessed` _their marriage_.

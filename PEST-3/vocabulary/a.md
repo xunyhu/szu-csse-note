@@ -65,107 +65,108 @@
 53. alternative /5:l'ts:natrv/ adj. 另类的
 54. amateur /'emoto(r)/ adj. 非职业的
 55. amazing /o'merzm/ adj. 令人惊异地
-56. ambiguous /aem'brgjuas/ adj. 不清楚的
-57. ambitious /aem'brJas/ adj. 雄心勃勃的
-58. ambulance /'embjulans/ n. 救护车
-59. amenity /o'mi:natr/ n. (多用复数) 使人愉快的环境，事物
-60. ammonia /a'maunja/ n. [化]氨，氨水
-61. amnesia /aem'ni:zja/ n. 健忘症
-62. amount /a'maunt/ n. 数量
-63. ample /'empl/ adj. 充足的
+56. ambassador /æmˈbæs.ə.dər/ n.大使
+57. ambiguous /aem'brgjuas/ adj. 不清楚的
+58. ambitious /aem'brJas/ adj. 雄心勃勃的
+59. ambulance /'embjulans/ n. 救护车
+60. amenity /o'mi:natr/ n. (多用复数) 使人愉快的环境，事物
+61. ammonia /a'maunja/ n. [化]氨，氨水
+62. amnesia /aem'ni:zja/ n. 健忘症
+63. amount /a'maunt/ n. 数量
+64. ample /'empl/ adj. 充足的
 
     There's ample evidence that the lawyer knew exactly what she was doing.
 
-64. ancient /'emJant/ adj. 古老的；古代的
-65. and so forth 等等
-66. anew /o'nju:/ adv. 再一次，重新
-67. anniversary /eni'v3:sort/ n. 周年纪念
-68. anonymously /a'nonimaslt/ adv. 匿名地
-69. antibody /'aentibodi/ n. 抗体
-70. antique /aen'ti:k/ adj. 古时的，古老的
-71. apartment /a'pa:tmant/ n. 公寓套房
-72. apologetic /,pola'd3etik/ adj. 道歉的，认错的
-73. apostle /a'posl/ n. 使徒，门徒
-74. apparently /'paerontli/ adv. 显然地
-75. appeal /o'pi:l/ v. 吸引
-76. appear /əˈpɪə(r)/ v.出现
+65. ancient /'emJant/ adj. 古老的；古代的
+66. and so forth 等等
+67. anew /o'nju:/ adv. 再一次，重新
+68. anniversary /eni'v3:sort/ n. 周年纪念
+69. anonymously /a'nonimaslt/ adv. 匿名地
+70. antibody /'aentibodi/ n. 抗体
+71. antique /aen'ti:k/ adj. 古时的，古老的
+72. apartment /a'pa:tmant/ n. 公寓套房
+73. apologetic /,pola'd3etik/ adj. 道歉的，认错的
+74. apostle /a'posl/ n. 使徒，门徒
+75. apparently /'paerontli/ adv. 显然地
+76. appeal /o'pi:l/ v. 吸引
+77. appear /əˈpɪə(r)/ v.出现
 
     He suddenly appeared in the doorway. doorway 门口门道出入口
 
-77. appetite /'aepitart/ n. 胃口，食欲；爱好
+78. appetite /'aepitart/ n. 胃口，食欲；爱好
 
     I haven't got much of an appetite (= I am not hungry).
 
-78. appointment /a'pomtmant/ n. 委任职位
-79. apprentice /a'prentus/ n. 学徒
-80. approach /a'proutf/ n. 方法；途径
-81. appropriately /a'praupriotlu/ adv. 恰当地
-82. approval /o'pru:val/ n. 正式批准；赞成；承认
-83. approve /a'pru:v/ v. 赞成；批准
+79. appointment /a'pomtmant/ n. 委任职位
+80. apprentice /a'prentus/ n. 学徒
+81. approach /a'proutf/ n. 方法；途径
+82. appropriately /a'praupriotlu/ adv. 恰当地
+83. approval /o'pru:val/ n. 正式批准；赞成；承认
+84. approve /a'pru:v/ v. 赞成；批准
 
     He doesn't approve of smoking.
 
-84. approximately /a'proksimithh/ adv. 大约
-85. aquarium /o'kweoriom/ n. 水族馆
-86. arched /a:tJt/ adj. 拱形（结构）的
-87. architect /'a:kitekt/ n. 建筑师；设计师
+85. approximately /a'proksimithh/ adv. 大约
+86. aquarium /o'kweoriom/ n. 水族馆
+87. arched /a:tJt/ adj. 拱形（结构）的
+88. architect /'a:kitekt/ n. 建筑师；设计师
 
     After years of study, Tim is now a fully-fledged architect. fully-fledged 完全成熟的；羽翼丰满的
 
-88. architecture /'a:kitektJa(r)/ n. 建筑学；建筑物
-89. arena /a'ri:na/ n. 运动场
-90. arise /a'raiz/ v. 出现；产生
-91. armchair /'a:mtfea(r)/ n. 扶手椅
-92. artificial /a:tr'ftJl/ adj. 人造的；人为的
-93. aspect /ˈæspekt/ n.方面；层面；
+89. architecture /'a:kitektJa(r)/ n. 建筑学；建筑物
+90. arena /a'ri:na/ n. 运动场
+91. arise /a'raiz/ v. 出现；产生
+92. armchair /'a:mtfea(r)/ n. 扶手椅
+93. artificial /a:tr'ftJl/ adj. 人造的；人为的
+94. aspect /ˈæspekt/ n.方面；层面；
 
     That's the most worrying aspect of the situation.
 
-94. assault /a'so:lt/ n. 攻击，袭击
-95. assemble /a'sembal/ v. 装配
-96. assembler /a'sembla(r)/ n. 装配工
-97. assert /a'ss:t/ v. 声称，扬言
-98. asset /'aeset/ n. 优点；财产
-99. associate /əˈsəʊ.si.eɪt/ v.联系；联合；联想; n.伙伴；同事；合伙人；
+95. assault /a'so:lt/ n. 攻击，袭击
+96. assemble /a'sembal/ v. 装配
+97. assembler /a'sembla(r)/ n. 装配工
+98. assert /a'ss:t/ v. 声称，扬言
+99. asset /'aeset/ n. 优点；财产
+100.  associate /əˈsəʊ.si.eɪt/ v.联系；联合；联想; n.伙伴；同事；合伙人；
 
-    associate sth with: Most people associate this brand with good quality.
+      associate sth with: Most people associate this brand with good quality.
 
-100.  assume /a'sju:m/ v. 假定，设想；担任，承担
-101.  assure /a'fuə(r)/ v. 使放心
-102.  astronomy /a'stronami/ n. 天文学
-103.  astute /o'stju:t/ adj. 精明的
-104.  a succession of 一系列，一连串
-105.  at odds with 与…意见不一致
-106.  atom /'aetom/ n. 原子
-107.  attached /o'taetft/ adj. 关心的；喜爱的；附上的
-108.  attachment /a'taetfmant/ n. 附属品，附件；恋情
-109.  attain /əˈteɪn/ vt.达到(某年龄、水平、状况)；(通常经过努力)获得；
+101.  assume /a'sju:m/ v. 假定，设想；担任，承担
+102.  assure /a'fuə(r)/ v. 使放心
+103.  astronomy /a'stronami/ n. 天文学
+104.  astute /o'stju:t/ adj. 精明的
+105.  a succession of 一系列，一连串
+106.  at odds with 与…意见不一致
+107.  atom /'aetom/ n. 原子
+108.  attached /o'taetft/ adj. 关心的；喜爱的；附上的
+109.  attachment /a'taetfmant/ n. 附属品，附件；恋情
+110.  attain /əˈteɪn/ vt.达到(某年龄、水平、状况)；(通常经过努力)获得；
 
       India attained independence in 1947, after decades of struggle.
 
-110.  attempt /əˈtempt/ n.企图；尝试；v. 尝试；试图；努力;
+111.  attempt /əˈtempt/ n.企图；尝试；v. 尝试；试图；努力;
 
       There's no point in even attempting an explanation - he'll never listen.（verb）  
       This is my second attempt at the exam. (noun)
 
-111.  attractive /a'traektrv/ adj. 吸引人的
-112.  attribute /əˈtrɪbjuːt , ˈætrɪbjuːt/ n.属性；特征；定语; vt.把…归因于；认为…是由于；
+112.  attractive /a'traektrv/ adj. 吸引人的
+113.  attribute /əˈtrɪbjuːt , ˈætrɪbjuːt/ n.属性；特征；定语; vt.把…归因于；认为…是由于；
 
       Many people's success can be attributed to hard work and a bit of luck.
 
-113.  audacity /5:'daesati/ n. 大胆
-114.  audience /ˈɔːdiəns/ n.观众；
+114.  audacity /5:'daesati/ n. 大胆
+115.  audience /ˈɔːdiəns/ n.观众；
 
       The audience in the conference hall stayed quiet during the speech.
       conference hall 会议厅; during 介词, 在…期间
 
-115.  auditor /'5:dita(r)/ n. 审计员
-116.  authentic /o:'0entik/ adj. 真实的，真正的
-117.  authority /o:'0rat/ n. 威信，影响力
-118.  auto (汽车，简写)
-119.  automobile /o:ta'maubil/ n. 汽车
-120.  autonomous /o:'tonamas/ adj. 自治的，独立的，自发的
-121.  avenue /'aevanju:/ n. 大街
-122.  award /o'wo:d/ n. 奖品，奖项
-123.  awareness /a'wea(r)nis/ n. 意识，察觉
-124.  awe-inspiring /'o:m,sparorm/ adj. 使人惊叹的，令人敬畏的
+116.  auditor /'5:dita(r)/ n. 审计员
+117.  authentic /o:'0entik/ adj. 真实的，真正的
+118.  authority /o:'0rat/ n. 威信，影响力
+119.  auto (汽车，简写)
+120.  automobile /o:ta'maubil/ n. 汽车
+121.  autonomous /o:'tonamas/ adj. 自治的，独立的，自发的
+122.  avenue /'aevanju:/ n. 大街
+123.  award /o'wo:d/ n. 奖品，奖项
+124.  awareness /a'wea(r)nis/ n. 意识，察觉
+125.  awe-inspiring /'o:m,sparorm/ adj. 使人惊叹的，令人敬畏的

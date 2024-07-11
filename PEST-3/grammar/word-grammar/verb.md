@@ -1,12 +1,13 @@
-## [动词](https://baike.baidu.com/item/%E5%8A%A8%E8%AF%8D/502192?fr=ge_ala)
+# [动词](https://baike.baidu.com/item/%E5%8A%A8%E8%AF%8D/502192?fr=ge_ala)
 
-- 用来表示人或事物的动作或状态的词语
+用来`表示`人或事物的`动作或状态`的词语
 
 ## 分类
 
-- 英语中按照动词的意义可以分为实义动词，系动词，助动词
+英语中按照动词的意义可以分为`实义动词`，`系动词`，`助动词`
 
 1. [实义动词](https://baike.baidu.com/item/%E5%AE%9E%E4%B9%89%E5%8A%A8%E8%AF%8D/0?fromModule=lemma_inlink)
+
    实义动词（实意动词）与系动词是相对的，系动词亦称连系动词（Linking Verb），作为系动词，它本身有词义，但不能单独用作谓语，后边必须跟表语（亦称补语），构成系表结构说明主语的状况、性质、特征等情况。实义动词意思完全相反，能独立用作谓语。实义动词有及物动词和不及物动词（及物动词是指后面要求有直接宾语的动词；不及物动词指后面不需要跟宾语的动词，如果跟宾语要加介词。） 即行为动词,表示动作的动词。
 
 2. [系动词](https://baike.baidu.com/item/%E7%B3%BB%E5%8A%A8%E8%AF%8D/0?fromModule=lemma_inlink)
@@ -31,12 +32,13 @@
 
 1. 四类句中功能
 
-   - 分别是：实义动词（Notional Verb）、系动词（Link Verb/Copular Verb/Copula）、助动词（Auxiliary Verb）、情态动词（Modal Verb）。
+   分别是：实义动词（Notional Verb）、系动词（Link Verb/Copular Verb/Copula）、助动词（Auxiliary Verb）、`情态动词（Modal Verb）`。
 
 2. 其后带有多少宾语
 
-   - 分别是：及物动词（Transitive Verb）、不及物动词（Intransitive Verb）、双及物动词（Ditransitive Verb）、双重及物动词（Double Transitive Verb），前两者`缩写形式分别为 vt. 和 vi.`，后两者词典中一般只当做及物动词，语言学家也用 Vg（“Give”型动词）和 Vc（“Consider”型动词）描述后两者。
-   - 同一动词有时可用作及物动词，有时可用作不及物动词。
+   分别是：`及物动词（Transitive Verb）`、`不及物动词（Intransitive Verb）`、双及物动词（Ditransitive Verb）、双重及物动词（Double Transitive Verb），前两者缩写形式分别为 vt. 和 vi.，后两者词典中一般只当做及物动词，语言学家也用 Vg（“Give”型动词）和 Vc（“Consider”型动词）描述后两者。
+
+   同一动词有时可用作及物动词，有时可用作不及物动词。
 
 3. 根据是否受主语的人称和数的限制
 
