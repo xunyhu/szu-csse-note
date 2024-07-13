@@ -56,8 +56,12 @@ Layth: Okay! That's a good idea. But I enjoyed looking at the pictures.
 Mr.lrving, chairman of a new vocational school, is talking with Mrs.Schmidt, the school's human resources manager, about qualities needed in their personnel.
 伊尔文先生，一所新建职业学校的董事长，正在和施密特女士，学校的人力资源经理，讨论他们的人员所需素质。
 
-Mr.Irving: Now, Mrs.Schmidt, it's time for us to discuss qualities needed in our personnel, since we're going to recruit some staff so that we can get our new school going in time. Naturally the staff of a model school should be representative in character. Have you thought of which traits we should be looking for? I'd like to hear your suggestions.
-伊尔文先生：施密特女士，现在是时候讨论我们人员的所需素质了，因为我们要招聘一些工作人员，以便我们及时启动这所新学校。作为一个模范学校的教职员工，自然在性格方面应该具有代表性。您有没有想过我们应该寻找哪些特质？ 我想听听您的建议。
+Mr.Irving: Now, Mrs.Schmidt, it's time for us to discuss qualities needed in our personnel, since we're going to recruit some staff so that we can get our new school going in time.
+伊尔文先生：施密特女士，现在是时候讨论我们人员的所需素质了，因为我们要招聘一些工作人员，以便我们及时启动这所新学校。
+Naturally the staff of a model school should be representative in character.
+作为一个模范学校的教职员工，自然在性格方面应该具有代表性。
+Have you thought of which traits we should be looking for? I'd like to hear your suggestions.
+您有没有想过我们应该寻找哪些特质？ 我想听听您的建议。
 
 Mrs.Schmidt: Yes, according to psychological research, generally speaking, the traits most necessary for interpersonal success are honesty, dependability, tolerance, cooperativeness, and perseverance, and in the professional world particularly, vision, competency, fair-mindedness, and punctuality are important.
 施密特女士：是的，根据心理学研究，一般来说，人际交往成功最需要的特质是诚实、可靠、宽容、合作和坚持不懈，在专业领域尤其重要的心理素质是视野、能力、公正和准时。
