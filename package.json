@@ -11,5 +11,8 @@
   },
   "devDependencies": {
     "vuepress": "^1.9.9"
+  },
+  "dependencies": {
+    "towxml": "^3.0.6"
   }
 }
