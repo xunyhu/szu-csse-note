@@ -49,7 +49,7 @@
 49. resemblance /rr'zemblons/n. 相似
 50. resemble /rn'zembl/v. 像，类似
 51. resent /ri'zent/v. 怨恨，愤恨
-52. reservation /reza'veiJan/n. 预定
+52. reservation /reza'veiJan/n. 预定; [可数名词] 预订；预约; 复数：reservations
 53. reserve /ri'z3:v/n. 保留地；专用地
 54. residence /'rezidans/n. 居住，住处
 55. residue /'rezidju:/n. 残余

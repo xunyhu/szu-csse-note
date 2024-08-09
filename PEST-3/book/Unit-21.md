@@ -2,8 +2,8 @@
 
 ## Dialogue/Monologue 1
 
-David is the Operations manager of the Waldorf Meridien Hotel in London. Now he is answering questions about reservations.  
-David 是伦敦华尔道夫艾美酒店的运营经理。现在他负责回答有关预订的问题。
+David is the `Operations manager` of the Waldorf Meridien Hotel in London. Now he is answering questions about `reservations`.  
+David 是伦敦华尔道夫艾美酒店的`运营经理`。现在他负责回答有关`预订`的问题。
 
 John: Could you please tell me how I can make reservations in your hotel?  
 约翰：您能告诉我怎样预订你们的酒店吗？
