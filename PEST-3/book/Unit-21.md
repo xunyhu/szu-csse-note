@@ -5,57 +5,77 @@
 David is the `Operations manager` of the Waldorf Meridien Hotel in London. Now he is answering questions about `reservations`.  
 David 是伦敦华尔道夫艾美酒店的`运营经理`。现在他负责回答有关`预订`的问题。
 
-John: Could you please tell me how I can make reservations in your hotel?  
+John: Could you please tell me how I can `make reservations` in your hotel?  
 约翰：您能告诉我怎样预订你们的酒店吗？
 
-David: You can book rooms in a number of ways, including, the most recently, the Internet, which is becoming more and more important for hotel bookings. I wouldn't say overall it is going to increase our bookings, but we have to be aware of it because it's a different method of the way guests can book.  
-David：您可以通过多种方式预订房间，包括最近流行的互联网，互联网对酒店预订越来越重要。我不会说它总体上会增加我们的预订量，但我们必须意识到这一点，因为这是客人预订的一种不同方式。
+David: You can book rooms in `a number of` ways, `including`, the most recently, the Internet, which is becoming more and more important for hotel `bookings`.  
+David：您可以通过`多种`方式预订房间，包括最近流行的互联网，互联网对酒店预订越来越重要。  
+I wouldn't say `overall` it is going to increase our bookings, but we `have to` be aware of it because it's a different `method of the way` guests can book.  
+我不会说它`总体`上会增加我们的预订量，但我们`必须`意识到这一点，因为这是客人预订的一种不同`方式`。
 
 John: Could you give me some tips on booking?  
 约翰：您能给我一些预订方面的建议吗？
 
-David: When making a booking, I suppose the most important thing to remember, if you are a leisure traveler, is to book as early as possible because that's when most of the discount or promotional offers will be available. When you make the reservation always, ask if you are making it by phone or the Internet, always ask for or write down the confirmation number. And they will then be able to easily find your booking, even if they have spelt your name wrong or something has gone wrong. If you have any preferences for rooms, such as you'd like a room which is quiet, or at the front of the hotel, or it's not near a lift or it is near a lift, then again I would advise you to write down the confirmation number. would suggest, or recommend, that you make these at the time of booking. Once you check in on the day, those preferences will be available. To guarantee your room, hotels in London, or in England specially, will ask for a credit card or a confirmation which will guarantee that your room is held, basically all night or for late arrival. Most U.K. hotels will, if it is not guaranteed by a credit card, or some form of payment, will release the room between 2 and 4 p.m. now.  
-David：预订时，我认为最重要的是要记住，如果你是休闲旅客，请尽早预订，因为那时大多数折扣或促销优惠都有效。预订时，请务必询问是通过电话还是互联网预订，务必索要或记下确认号码。这样，他们就可以轻松找到您的预订，即使他们拼错了您的名字或出了问题。如果您对房间有任何偏好，例如您想要一间安静的房间，或者位于酒店前面的房间，或者靠近电梯或不在电梯附近，那么我再次建议您记下确认号码。我建议或推荐您在预订时就做出这些选择。当您当天办理入住手续时，这些偏好将可用。为了保证您的房间，伦敦或英格兰的酒店会要求您提供信用卡或确认信息，以保证您的房间被保留，基本上是整晚或晚到。如果没有信用卡担保或某种形式的付款，大多数英国酒店将在现在下午 2 点到 4 点之间释放房间。
+David: When making a booking, I suppose the most important thing to remember, if you are a `leisure traveler`, is to book as early as possible because that's when most of the discount or `promotional` offers will be available.  
+David：预订时，我认为最重要的是要记住，如果你是`休闲旅客`，请尽早预订，因为那时大多数折扣或`促销`优惠都有效。  
+When you make the reservation always, ask if you are making it by phone or the Internet, always ask for or write down the `confirmation` number.  
+预订时，请务必询问是通过电话还是互联网预订，务必索要或记下`确认`号码。  
+And they will then `be able to` easily find your booking, even if they have `spelt` your name wrong or something has `gone` wrong.  
+这样，他们就可以轻松找到您的预订，即使他们`拼`错了您的名字或出了问题。  
+If you have any `preferences` for rooms, such as you'd like a room which is `quiet`, or at the front of the hotel, or it's not near a `lift` or it is near a lift, then again I would advise you to write down the confirmation number. `would suggest`, or `recommend`, that you make these at the time of booking.  
+如果您对房间有任何`偏好`，例如您想要一间`安静`的房间，或者位于酒店前面的房间，或者靠近`电梯`或不在电梯附近，那么我再次建议您记下确认号码。我`建议`或`推荐`您在预订时就做出这些选择。  
+Once you check in on the day, those preferences will be available. To `guarantee` your room, hotels in London, or in England specially, will ask for a `credit card` or a confirmation which will `guarantee` that your room is `held`, basically all night or for late arrival.  
+当您当天办理入住手续时，这些偏好将可用。为了`保证`您的房间，伦敦或英格兰的酒店会要求您提供`信用卡`或确认信息，以`保证`您的房间被`保留`，基本上是整晚或晚到。  
+Most U.K. hotels will, if it is not `guaranteed` by a credit card, or some form of payment, will release the room between 2 and 4 p.m. now.  
+如果没有信用卡`担保`或某种形式的付款，大多数英国酒店将在现在下午 2 点到 4 点之间释放房间。
 
 ## Dialogue/Monologue 2
 
-Clifford is a new arrival in London. He wants to know more about the cinemas in London. Now he is asking Kenneth about going to cinemas in London.  
-Clifford 刚到伦敦。他想了解更多有关伦敦电影院的信息。现在他正在向 Kenneth 询问去伦敦电影院的事情。
+Clifford is `a new arrival` in London. He wants to know more about the `cinemas` in London. Now he is asking Kenneth about going to cinemas in London.  
+Clifford 刚到伦敦。他想了解更多有关伦敦`电影院`的信息。现在他正在向 Kenneth 询问去伦敦电影院的事情。
 
-Clifford: Hello, Kenneth. There seems to be a variety of films going on every day in London. How shall I choose the cinema to enjoy the films?  
-Clifford：你好，Kenneth。伦敦似乎每天都有各种各样的电影上映。我该如何选择电影院来欣赏电影呢？
+Clifford: Hello, Kenneth. There seems to be `a variety of` films `going on` every day in London. How `shall` I choose the cinema to enjoy the films?  
+Clifford：你好，Kenneth。伦敦似乎每天都有`各种各样`的电影`上映`。我该如何选择电影院来欣赏电影呢？
 
-Kenneth: It could be fairly difficult to go to the cinema in London, because here are too many films and cinemas to choose from! Most of the central cinemas are around Leicester Square, showing big blockbuster movies. You can wander around and see which film is to your appetite. There's a lot of information telling you what's on if you look on the Internet or in Time Out magazine. But be warned-seeing a film can be an expensive night out in the center of town!  
-Kenneth：在伦敦去电影院可能相当困难，因为这里有太多的电影和电影院可供选择！大多数中心电影院都在莱斯特广场附近，放映大片。你可以四处逛逛，看看哪部电影合你的胃口。如果你在网上或《Time Out》杂志上查找，有很多信息告诉你正在放映什么。但要注意——在市中心看电影可能是一个昂贵的夜晚！
+Kenneth: It `could` be `fairly difficult` to go to the cinema in London, because here are too many films and cinemas to choose from! Most of the central cinemas are around Leicester Square, showing big `blockbuster` movies.  
+Kenneth：在伦敦去电影院可能`相当困难`，因为这里有太多的电影和电影院可供选择！大多数中心电影院都在莱斯特广场附近，放映`大片`。  
+You can `wander` around and see which film `is to your appetite`. There's a lot of information telling you what's on if you look on the Internet or in Time Out magazine. `But be warned`-seeing a film can be an `expensive night` out in the center of town!  
+你可以四处`逛逛`，看看哪部电影`合你的胃口`。如果你在网上或《Time Out》杂志上查找，有很多信息告诉你正在放映什么。`但要注意`——在市中心看电影可能是一个`昂贵的夜晚`！
 
-Clifford: That's not good news for me. As you know, I am a poor student. So what can I do if I want to see cheap films?  
-克利福德：这对我来说可不是个好消息。你知道，我是个穷学生。那么如果我想看便宜的电影，我该怎么办呢？
+Clifford: That's not good news for me. As you know, I am a poor student. So what can I do if I want to see `cheap` films?  
+克利福德：这对我来说可不是个好消息。你知道，我是个穷学生。那么如果我想看`便宜`的电影，我该怎么办呢？
 
-Kenneth: The cheapest cinema in Leicester Square is The Prince Charles. This cinema often shows films a few weeks later than some of the others, so if you don't mind being a bit behind the times and want to save a couple of quid this could be the precise place for you. If you become a member (five pounds per year) you can see films as little as 1.50 pounds, very good value for money!  
-肯尼斯：莱斯特广场最便宜的电影院是查尔斯王子电影院。这家电影院放映电影的时间通常比其他电影院晚几个星期，所以如果你不介意有点落后，而且想省几英镑，那么这里可能是你的最佳选择。如果你成为会员（每年 5 英镑），你只需 1.50 英镑就可以看电影，非常物有所值！
+Kenneth: The `cheapest` cinema in Leicester Square is The Prince Charles. This cinema often shows films a few weeks later than some of the others, so if you don't mind being `a bit behind` the times and want to save `a couple of quid` this could be the `precise` place for you.  
+肯尼斯：莱斯特广场`最便宜的`电影院是查尔斯王子电影院。这家电影院放映电影的时间通常比其他电影院晚几个星期，所以如果你不介意有点`落后`，而且想省`几英镑`，那么这里可能是你的`最佳`选择。  
+If you become a member (five pounds per year) you can see films as little as 1.50 pounds, very `good value for money`!  
+如果你成为会员（每年 5 英镑），你只需 1.50 英镑就可以看电影，非常`物有所值`！
 
 Clifford: Very good advice. Is there any other kind of cinemas in London?  
 克利福德：非常好的建议。伦敦还有其他类型的电影院吗？
 
-Kenneth: There are other smaller art-house cinemas in town; one of these is 'Metro Cinema' on Rupert Street in Soho. It shows a wide variety of movies but tends not to show more mainstream films. These films are made by independent filmmakers and are not aimed at mass audiences. Every year it also has the Latin American Film Festival. Another art-house cinema is the 'Curzon Soho'; Time Out readers recently voted this as London's number one cinema. It also shows a broad range of art-house films.  
-Kenneth：伦敦还有其他一些较小的艺术影院，其中之一是位于苏豪区鲁珀特街的“Metro Cinema”。它放映的电影种类繁多，但往往不放映主流电影。这些电影由独立电影人制作，不面向大众观众。它每年还会举办拉丁美洲电影节。另一家艺术影院是“Curzon Soho”；《Time Out》的读者最近将其评为伦敦第一影院。它还放映各种艺术电影。
+Kenneth: There are other smaller `art-house cinemas` in town; one of these is 'Metro Cinema' on Rupert Street in Soho.  
+Kenneth：伦敦还有其他一些较小的`艺术影院`，其中之一是位于苏豪区鲁珀特街的“Metro Cinema”。  
+It shows `a wide variety` of movies but `tends` not to show more `mainstream` films. These films are made by `independent filmmakers` and are not aimed at `mass` audiences.  
+它放映的电影`种类繁多`，但`往往`不放映`主流`电影。这些电影由`独立电影人`制作，不面向`大众`观众。  
+Every year it also has the Latin American `Film Festival`. Another art-house cinema is the 'Curzon Soho'; Time Out readers recently `voted` this as London's number one cinema. It also shows `a broad range` of art-house films.  
+它每年还会举办拉丁美洲`电影节`。另一家艺术影院是“Curzon Soho”；《Time Out》的读者最近将其`评为`伦敦第一影院。它还放映`各种`艺术电影。
 
-Clifford: Fantastic! London is truly a metropolitan city. I have to think a lot before I make a decision and go to the cinema.  
-克利福德：太棒了！伦敦真是个大都市。我得仔细考虑一下才能决定去不去电影院。
+Clifford: `Fantastic`! London is truly a `metropolitan` city. I `have to` think a lot before I make a `decision` and go to the cinema.  
+克利福德：`太棒了`！伦敦真是个`大都市`。我`得`仔细考虑一下才能`决定`去不去电影院。
 
-Kenneth: It truly is. Going to the cinema in London requires a lot of thinking, maybe you want to see a famous star, or perhaps a film by your favorite director, or just sit, eat popcorn and enjoy the latest Hollywood action movie. If you take time to look, there's something for everyone.  
-Kenneth：确实如此。去伦敦的电影院需要深思熟虑，也许你想看一个著名明星，或者你最喜欢的导演的电影，或者只是坐下来，吃着爆米花，欣赏最新的好莱坞动作片。如果你花时间去寻找，每个人都能找到适合自己的电影。
+Kenneth: It truly is. Going to the cinema in London requires a lot of thinking, maybe you want to see a `famous star`, or `perhaps` a film by your favorite `director`, or just sit, eat `popcorn` and enjoy the latest Hollywood action movie. If you take time to look, there's something for everyone.  
+Kenneth：确实如此。去伦敦的电影院需要深思熟虑，也许你想看一个`著名明星`，`或者`你最喜欢的`导演`的电影，或者只是坐下来，吃着`爆米花`，欣赏最新的好莱坞动作片。如果你花时间去寻找，每个人都能找到适合自己的电影。
 
 ## Dialogue/Monologue 3
 
-Myrtle is now at a Fast-food Restaurant. He is ordering his food and asking for the information about discount. A clerk is greeting him.  
-Myrtle 现在在一家快餐店。他正在点菜并询问有关折扣的信息。一名店员正在招呼他。
+Myrtle is now at a Fast-food Restaurant. He is ordering his food and asking for the information about discount. A clerk is `greeting` him.  
+Myrtle 现在在一家快餐店。他正在点菜并询问有关折扣的信息。一名店员正在`招呼`他。
 
 Clerk: Hello there! What can I get for you today?  
 店员：您好！今天我能为您做些什么？
 
-Myrtle: Well, your restaurant specializes in hamburgers and chicken, right? But I don't care for fried chicken. I'm going to have the bacon cheeseburger with a can of orange soda. And, you're having an introductory special for free french fries with every sandwich order, is that right?  
-默特尔：嗯，你们餐厅主打汉堡和鸡肉，对吧？但我不喜欢炸鸡。我要培根芝士汉堡和一罐橙汁汽水。而且，你们推出特别优惠，每份三明治都免费赠送一份炸薯条，对吗？
+Myrtle: Well, your `restaurant` `specializes` in hamburgers and chicken, right? But I don't care for `fried chicken`. I'm going to have the bacon cheeseburger with a can of orange soda. And, you're having an introductory special for free french fries with every sandwich order, is that right?  
+默特尔：嗯，你们` 餐厅``主打 `汉堡和鸡肉，对吧？但我不喜欢`炸鸡`。我要培根芝士汉堡和一罐橙汁汽水。而且，你们推出特别优惠，每份三明治都免费赠送一份炸薯条，对吗？
 
 Clerk: Yes.And as an unadvertised special,you can have a trip to the salad bar with your order for only a dollar more.  
 店员：是的。另外，作为一项未经宣传的特别优惠，您只需多花一美元即可在点餐时享受一次去沙拉吧的优惠。
