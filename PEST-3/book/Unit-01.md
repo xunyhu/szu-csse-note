@@ -1,12 +1,12 @@
 ## Dialogue/Monologue 1
 
-Melanie Sanders brings out her photo album to show her new Egyptian friend, Layth, pictures of her family.
+Melanie Sanders brings out her photo album to show her new Egyptian friend, Layth, pictures of her family.  
 Melanie 拿出了她的相册，想给她认识的新埃及朋友 Layth 展示她家人的照片。
 
-Melanie: Oh, Layth, I'm sure you recognize Grandmother in this picture? She's in the blue dress.
+Melanie: Oh, Layth, I'm sure you recognize Grandmother in this picture? She's in the blue dress.  
 梅兰妮 (Méi Lán Ní) ：哦，莱思 (Lái sī)，这张照片你肯定认得出来吧？穿蓝色衣服的就是我祖母。
 
-Layth: Sure, and who's that holding the hand of a boy?
+Layth: Sure, and who's that `holding` the hand of a boy?  
 莱思：嗯，没错。那个牵着小男孩的人是谁？
 
 Melanie: That's my older brother, Lester, with my nephew, Nicky, when he was two years old. My sister-in-law, Dorothy, is next to him but she's not smiling because she was angry with Lester. Lester always leaves her and goes out of town on business.
@@ -33,19 +33,19 @@ Malanie: Here's a more recent picture showing all three generations together. He
 Layth: Yes. He looks like he's fun to be with. You know what? I can see a strong family resemblance. Oh, who's this?
 莱思：是的，他看起来很好相处。你知道吗？我能看到强烈的家族相似性。哦，这是谁？
 
-Melanie: That's Curtis Lane, Lester's brother-in-law, his wife's brother. You ought to meet this man. He really knows how to bring a person out. I wish I had his social skills.
+Melanie: That's Curtis Lane, Lester's brother-in-law, his wife's brother. You ought to meet this man. He really knows how to bring a person out. I wish I had his social skills.  
 梅兰妮：那是柯蒂斯·莱恩 (Kē dì sī · lái èn)，莱斯特的连襟，他妻子的弟弟。你应该认识他，他很擅长调动气氛，我希望我也有他的社交能力。
 
 Layth: Who's this lady with Curtis Lane?
 莱思：和柯蒂斯·莱恩在一起的这位女士是谁？
 
-Melanie: That's his and Dorothy's mother, Lester's mother-in-law, Mrs.Lane.
-梅兰妮：那是他和多萝西的母亲，莱斯特的岳母，莱恩夫人 (Lái èn Fū Rén)。
+Melanie: That's his and Dorothy's mother, Lester's `mother-in-law`, Mrs.Lane.  
+梅兰妮：那是他和多萝西的母亲，莱斯特的`岳母`，莱恩夫人 (Lái èn Fū Rén)。
 
 Layth: Dose Mrs.Lane live with Lester and Dorothy?
 莱思：莱恩夫人和莱斯特和多萝西住在一起吗？
 
-Melanie: Oh, no! Lester always said he would never live with his in-laws. Well, Layth, since we've looked at all the pictures, would you like to go out and stretch your legs?
+Melanie: Oh, no! Lester always said he would never live with his in-laws. Well, Layth, since we've looked at all the pictures, would you like to go out and `stretch` your legs?  
 梅兰妮：哦，不！莱斯特总是说他永远不会和岳父母住在一起。好了，莱思，既然我们看完了所有的照片，你想出去走动一下吗？
 
 Layth: Okay! That's a good idea. But I enjoyed looking at the pictures.
@@ -53,74 +53,74 @@ Layth: Okay! That's a good idea. But I enjoyed looking at the pictures.
 
 ## Dialogue/Monologue 2
 
-Mr.lrving, chairman of a new vocational school, is talking with Mrs.Schmidt, the school's human resources manager, about qualities needed in their personnel.
+Mr.lrving, chairman of a new vocational school, is talking with Mrs.Schmidt, the school's human resources manager, about qualities needed in their personnel.  
 伊尔文先生，一所新建职业学校的董事长，正在和施密特女士，学校的人力资源经理，讨论他们的人员所需素质。
 
-Mr.Irving: Now, Mrs.Schmidt, it's time for us to discuss qualities needed in our personnel, since we're going to recruit some staff so that we can get our new school going in time.
-伊尔文先生：施密特女士，现在是时候讨论我们人员的所需素质了，因为我们要招聘一些工作人员，以便我们及时启动这所新学校。
-Naturally the staff of a model school should be representative in character.
-作为一个模范学校的教职员工，自然在性格方面应该具有代表性。
-Have you thought of which traits we should be looking for? I'd like to hear your suggestions.
+Mr.Irving: Now, Mrs.Schmidt, it's time for us to discuss qualities needed in our personnel, since we're going to recruit some staff so that we can get our new school going in time.  
+伊尔文先生：施密特女士，现在是时候讨论我们人员的所需素质了，因为我们要招聘一些工作人员，以便我们及时启动这所新学校。  
+Naturally the staff of a model school should be representative in character.  
+作为一个模范学校的教职员工，自然在性格方面应该具有代表性。  
+Have you thought of which traits we should be looking for? I'd like to hear your suggestions.  
 您有没有想过我们应该寻找哪些特质？ 我想听听您的建议。
 
-Mrs.Schmidt: Yes, according to psychological research, generally speaking, the traits most necessary for interpersonal success are honesty, dependability, tolerance, cooperativeness, and perseverance, and in the professional world particularly, vision, competency, fair-mindedness, and punctuality are important.
-施密特女士：是的，根据心理学研究，一般来说，人际交往成功最需要的特质是诚实、可靠、宽容、合作和坚持不懈，在专业领域尤其重要的心理素质是视野、能力、公正和准时。
+Mrs.Schmidt: Yes, according to `psychological research`, generally speaking, the traits most necessary for interpersonal success are honesty, dependability, tolerance, cooperativeness, and perseverance, and in the professional world particularly, vision, competency, fair-mindedness, and punctuality are important.  
+施密特女士：是的，根据`心理学研究`，一般来说，人际交往成功最需要的特质是诚实、可靠、宽容、合作和坚持不懈，在专业领域尤其重要的心理素质是视野、能力、公正和准时。
 
-Mr.lrving: Those are good qualities that we would want in every employee. Now, perhaps we should discuss virtues needed in a director. What do you want to tell me in this respect?
+Mr.lrving: Those are good qualities that we would want in every employee. Now, perhaps we should discuss virtues needed in a director. What do you want to tell me in this respect?  
 伊尔文先生：这些是我们希望每个员工都具备的良好素质。现在，我们应该讨论一下一个主任需要具备的美德。你对此有什么要告诉我的吗？
 
-Mrs.Schmidt: Some of my acquaintances have accumulated quite a lot of experience in the international business that enables them to make valuable suggestions. So I have talked to them for his matter.
+Mrs.Schmidt: Some of my acquaintances have accumulated quite a lot of experience in the international business that enables them to make valuable suggestions. So I have talked to them for his matter.  
 施密特女士：我的一些熟人曾在国际商务领域积累了相当丰富的经验，可以提出宝贵的建议。所以我为了这件事咨询了他们。
 
-Mr.Irving: Oh have you? What dis they say?
+Mr.Irving: Oh have you? What dis they say?  
 伊尔文先生：哦，是吗？他们怎么说？
 
-Mrs.Schmidt: According to them, a desirable director is humble, diplomatic, and flexible but well-educated and experienced. He should also be concerned, and even generous.
+Mrs.Schmidt: According to them, a desirable director is humble, diplomatic, and flexible but well-educated and experienced. He should also be concerned, and even generous.  
 施密特女士：据他们所说，一个理想的主任应该谦逊、圆通和灵活，但也应该受过良好教育并有经验。他还应该关心他人，甚至慷慨。
 
-Mr.lrving: Absolutely! Now, would you address character description for the Commercial and Industrial Arts staff? You used to operate a vocational school, so your experience must have given you many ideas.
+Mr.lrving: Absolutely! Now, would you address character description for the Commercial and Industrial Arts staff? You used to operate a vocational school, so your experience must have given you many ideas.  
 伊尔文先生：绝对正确！现在，您能谈谈商贸和工业艺术类教师的性格描述吗？您以前经营过职业学校，所以您的经验一定给您提供了很多想法。
 
-Mrs.Schmidt: In addition to those general assets, our school should seek practical leaders who are skillful and diligent. The best ones are also creative but modest, clever but humble.
+Mrs.Schmidt: In addition to those general assets, our school should seek practical leaders who are skillful and diligent. The best ones are also creative but modest, clever but humble.  
 施密特女士：除了那些一般素质之外，我们学校还应该寻找实干型的领导者，他们应该技巧熟练、勤奋刻苦。最好的人选还富有创造力但谦虚谨慎，聪明能干但谦逊低调。
 
-Mr.Irving: There are a number of other positions to consider. We have done good work so far. We can discuss the remaining items after lunch.
+Mr.Irving: There are a number of other positions to consider. We have done good work so far. We can discuss the remaining items after lunch.  
 伊尔文先生：还有许多其他职位需要考虑。到目前为止，我们已经做了很好的工作。剩下的部分我们可以午饭后讨论。
 
 ## Dialogue/Monologue 3
 
 Listen to the follwing monologue about Mary, a store detective.
 
-Mary was an eighteen-year-old girl. She was only five feet tow inches tall and 105 pounds heavy. When she was offered a job of a store detective she felt surprised. The manager explained that they just needed persons like Mary for she didn't look like a detective. He said, "Most shoplifters are well-dressed, and many of them have much money and good jobs."
+Mary was an `eighteen-year-old` girl. She was only five feet tow inches tall and 105 pounds heavy. When she was offered a job of a store detective she felt surprised. The manager explained that they just needed persons like Mary for she didn't look like a detective. He said, "Most shoplifters are well-dressed, and many of them have much money and good jobs."  
 玛丽今年 18 岁，身高只有五尺二英寸，体重 105 磅。当她被破格录用为商店侦探时，她感到非常惊讶。经理解释说，他们需要像玛丽这样的人，因为她看起来一点都不像侦探。他说：“大多数商店窃贼都衣着光鲜，许多人都有钱又有体面的工作。”
 
-The manager was right. One morning, Mary saw someone who looked like a businessman standing at the tie counter. The salesclerk showed the man expensive silk ties. Then the clerk went to help another customer. As soon as the clerk turned around, the man put three ties in his briefcase. Two minutes later when the clerk turned, the man said, "I don't like these silk ties. They aren't of good quality."
-经理说得没错。一天早上，玛丽看到一个看起来像商界人士的男人站在领带柜台前。售货员向男人展示昂贵的丝绸领带。然后店员去帮助另一位顾客。店员刚一转身，那个男人就把三条领带放进了他的公文包。两分钟后，当店员转过身来时，男人说：“我不喜欢这些丝绸领带。质量太差了。”
+The manager was right. One morning, Mary saw someone who looked like a businessman standing at the tie counter. The salesclerk showed the man expensive silk ties. Then the clerk went to help another customer. As soon as the clerk turned around, the man put three ties in his `briefcase`. Two minutes later when the clerk turned, the man said, "I don't like these silk ties. They aren't of good quality."  
+经理说得没错。一天早上，玛丽看到一个看起来像商界人士的男人站在领带柜台前。售货员向男人展示昂贵的丝绸领带。然后店员去帮助另一位顾客。店员刚一转身，那个男人就把三条领带放进了他的`公文包`。两分钟后，当店员转过身来时，男人说：“我不喜欢这些丝绸领带。质量太差了。”
 
-The man walked as quickly as possible out of the front door. Mary followed him. When the man was about to step on a magnificent Rolls-Royce, Mary went up to him and said, "Excuse me, sir, would you mind letting me take a look in your briefcase?" The man was seized with terror but soon he calmed down and said, "I'm afraid I certainly do mind, if it's all the same to you. Now go away."
-那个男人尽可能快地走出了大门。玛丽跟着他。当男人正要踏进一辆华丽的劳斯莱斯轿车时，玛丽走上前去，对他说：“先生，打扰一下，请问您介意我看看您的公文包吗？” 那个男人惊恐万状，但很快镇定下来，说道：“恐怕我真的很介意，如果您无事的话，请走吧。”
+The man walked as quickly as possible out of the front door. Mary followed him. When the man was about to step on a magnificent Rolls-Royce, Mary went up to him and said, "Excuse me, sir, would you mind letting me take a look in your briefcase?" The man was seized with terror but soon he calmed down and said, "`I'm afraid I certainly do mind`, if it's all the same to you. Now go away."  
+那个男人尽可能快地走出了大门。玛丽跟着他。当男人正要踏进一辆华丽的劳斯莱斯轿车时，玛丽走上前去，对他说：“先生，打扰一下，请问您介意我看看您的公文包吗？” 那个男人惊恐万状，但很快镇定下来，说道：“`恐怕我真的很介意`，如果您无事的话，请走吧。”
 
-Mary produced her identity card indicating that she was a store detective and she insisted on having a look into the man's briefcase. The man had no way out, saying, "Oh, very well. Anything to help a woman detective." Mary took out from the briefcase three silk ties. "Can you explain?" Mary asked. "Yes, nothing unusual in that," the man said. "I'll go to attend respectively a negotiation, a wedding and a funeral. I like to wear differently colored ties on different occasions."
+Mary produced her identity card indicating that she was a store detective and she insisted on having a look into the man's briefcase. The man had no way out, saying, "Oh, very well. Anything to help a woman detective." Mary took out from the briefcase three silk ties. "Can you explain?" Mary asked. "Yes, nothing unusual in that," the man said. "I'll go to attend respectively a negotiation, a wedding and a funeral. I like to wear differently colored ties on different occasions."  
 玛丽出示了她的身份证明，表明自己是商店侦探，并坚持要查看一下那个男人的公文包。那个男人别无选择，只好说：“好吧，为了帮助一位女侦探，没问题。” 玛丽从公文包里拿出了三条丝绸领带。“你能解释一下吗？” 玛丽问道。“没什么奇怪的，”那人说，“我分别要去参加谈判、婚礼和葬礼。我喜欢在不同的场合戴不同颜色的领带。”
 
 ## Dialogue/Monologue 4
 
-Jules Verne was not an inventor and he was not a scientist, but he read a great many scientific books.
+Jules Verne was not an inventor and he was not a scientist, but he read a great many scientific books.  
 朱尔·凡尔讷既不是发明家，也不是科学家，但他博览群书，尤其热衷于科学著作。
 
-He had a very strong imagination and he loved adventure although he did not have many great adventures himself.
+He had a very strong imagination and he loved adventure although he did not have many great adventures himself.  
 他拥有天马行空的想象力和一颗冒险的心，尽管现实生活中鲜有惊险经历。
 
-He wrote a number of exciting books about the things which he thought that scientists and inventors would one day be able to do. At the time, his stories seemed like fairy stories!
+He wrote a number of exciting books about the things which he thought that scientists and inventors would one day be able to do. At the time, his stories seemed like fairy stories!  
 他创作了许多引人入胜的故事，描述了科学家和发明家未来可能实现的种种事物。在当时，人们觉得这些故事就像童话一样！
 
-Many of Jules Verne's attempts to look into the future, however, were surprisingly accurate.
+Many of Jules Verne's attempts to look into the future, however, were surprisingly accurate.  
 然而，凡尔讷许多预言未来的尝试都令人惊讶地准确。
 
-For example, one book was called From Earth to Moon. In this book, three men and a dog made a journey around the moon. They dis this in a hollow "ship" fired from a gun. After going round the moon, they returned to the earth and splashed down into the sea not far from where the first real moon travelers landed in July 1969, about a hundred years later!
+For example, one book was called From Earth to Moon. In this book, three men and a dog made a journey around the moon. They dis this in a hollow "ship" fired from a gun. After going round the moon, they returned to the earth and splashed down into the sea not far from where the first real moon travelers landed in July 1969, about a hundred years later!  
 例如，他的一部小说名为《从地球到月球》。书中讲述了三个人和一条狗乘坐一个空心“炮弹”被发射升空，环绕月球后返回地球，溅落到大海中，而这距离人类首次登月（1969 年 7 月）竟然相差不到一百年，地点也十分接近！
 
-In all his books Jules Verne used his scientific knowledge as well as his imagination in describing future inventions. Sometimes he was wrong, of course, but often the accuray of his descriptions is very surprising.
+In all his books Jules Verne used his scientific knowledge as well as his imagination in describing future inventions. Sometimes he was wrong, of course, but often the accuray of his descriptions is very surprising.  
 凡尔讷在他的所有作品中，都巧妙地结合了科学知识和想象力，描绘了未来的发明创造。当然，他有时也会出错，但其描述的准确性往往令人惊叹。
 
 ## Passage
