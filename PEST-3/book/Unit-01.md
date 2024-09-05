@@ -159,78 +159,88 @@ Mississippi too seems to be mellowing out into a more congenial place than it wa
 
 ### Section I Listening Comprehension
 
-#### Part A
+**Part A**
 
-    W: You seem to take great pride in your daughter. She's such a successful manager.
-    M: Yes, she is a wonderful daughter. But I'm proud of her because of her pleasant and attractive personality even more than for her success.
-    2. M: I ran into David Preston downtown today.
-    W: Really? Did he say anything about his sister?
-    M: Yes. She should be leaving Los Angeles very soon, because her husband has taken a job in Alaska.
-    3. W: Professor Philips seems serious.
-    M: But his lectures are quite humorous, aren't they?
+W: You seem to `take great pride in` your daughter. She's such a successful manager.  
+M: Yes, she is `a wonderful daughter`. But I'm proud of her because of `her pleasant and attractive personality` even more than for her success.  
+女：你似乎对你的女儿感到非常自豪。她是一个如此成功的经理。  
+男：是的，她是一个很棒的女儿。但我更为`她愉快和有魅力的个性`感到自豪，而不是她的成功。
 
-    翻译如下：
+M: I `ran into` David Preston `downtown` today.  
+W: Really? Did he say anything about his sister?  
+M: Yes. She should be leaving Los Angeles `very soon`, because her husband has taken a job in `Alaska`.  
+男：我今天在` 市中心``遇到  `了大卫·普雷斯顿。  
+女：真的吗？他说他妹妹的事了吗？  
+男：是的。她`很快`就要离开洛杉矶了，因为她的丈夫在`阿拉斯加`找到了一份工作。
 
-    1.女：你似乎对你的女儿感到非常自豪。她是一个如此成功的经理。
-      男：是的，她是一个很棒的女儿。但我更为她愉快和有魅力的个性感到自豪，而不是她的成功。
+W: `Professor` Philips seems `serious`.  
+M: But his `lectures` are quite `humorous`, aren't they?
+女：菲利普斯`教授`看起来很`严肃`。  
+男：但他的讲座相当幽默，不是吗？
 
-    2.男：我今天在市中心遇到了大卫·普雷斯顿。
-      女：真的吗？他说他妹妹的事了吗？
-      男：是的。她很快就要离开洛杉矶了，因为她的丈夫在阿拉斯加找到了一份工作。
-
-    3.女：菲利普斯教授看起来很严肃。
-      男：但他的讲座相当幽默，不是吗？
-
-#### Part B
+**Part B**
 
 Questions 4-6 are based on the following story.
 
-    A gentleman put an advertisement in a newspaper for a boy to work in his office. Out of nearly fifty persons who came to apply, the man selected one and dismissed the others.
-    "I should like to know," said a friend, "the reason you preferred that boy, who brought not a single letter, not a single recommendation."
-    "You are wrong," said the gentleman. "He had a great many. He wiped his feet at the door and closed the door behind him, showing that he was careful. He gave his seat immediately to that old man, showing that he was kind and thoughtful. He took off his cap when he came in and answered my questions promptly, showing that he was polite and gentlemanly."
-    "All the rest stepped over the book which I had purposely put on the floor. He picked it up and placed it on the table, and he waited quietly for his turn instead of pushing and crowding. When I talked to him, I noticed his tidy clothing, his neatly brushed hair and his clean finger nails. Can't you see that these things are excellent recommendations? I consider them more significant than letters."
+A gentleman `put an advertisement in a newspaper` for a boy to `work in` his office. Out of `nearly fifty persons who came to apply`, the man selected one and `dismissed` the others.  
+一位先生在报纸上登了一则广告，招聘一个男孩到他的办公室工作。在将`近五十个前来应聘的人`中，这位先生选中了一个并`打发`走了其他人。
 
-    翻译如下：
+"`I should like to know`," said a friend, "the reason you `preferred` that boy, who brought not a single `letter`, not a single `recommendation`."  
+“`我想知道`，”一位朋友说，“你为什么会选择那个既没有带`介绍`信也没有`推荐`信的男孩？”
 
-    一位先生在报纸上登了一则广告，招聘一个男孩到他的办公室工作。在将近五十个前来应聘的人中，这位先生选中了一个并打发走了其他人。
-    “我想知道，”一位朋友说，“你为什么会选择那个既没有带介绍信也没有推荐信的男孩？”
-    “你错了，”那位先生说。“他有很多推荐信。他在门口擦了脚并关上了门，说明他很细心。他立即把座位让给了那位老人，说明他很善良和体贴。他进来时摘下了帽子，并迅速回答了我的问题，说明他很有礼貌和绅士风度。”
-    “其他所有人都跨过了我故意放在地上的书，而他捡起来放在了桌上，并且他安静地等候轮到自己，而不是推挤。当我和他交谈时，我注意到他的衣服整洁，头发梳理得很整齐，指甲也很干净。你难道看不出这些都是很好的推荐信吗？我认为这些比信件更重要。”
+"You are wrong," said the gentleman. "He had `a great many`. He `wiped his feet` at the door and closed the door behind him, showing that `he was careful`. He `gave` his seat `immediately` to that old man, showing that `he was kind and thoughtful`. He took off his cap when he came in and answered my questions `promptly`, showing that `he was polite and gentlemanly`."  
+“你错了，”那位先生说。“他有很多推荐信。他在门口擦了脚并关上了门，说明`他很细心`。他`立即`把座位让给了那位老人，说明`他很善良和体贴`。他进来时摘下了帽子，并`迅速`回答了我的问题，说明`他很有礼貌和绅士风度`。”
+
+"All the `rest` `stepped over` the book which I had `purposely` put on the floor. He picked it up and placed it on the table, and he waited quietly for his turn `instead of pushing and crowding`. When I talked to him, I noticed his `tidy clothing`, his `neatly brushed hair` and his `clean finger nails`. Can't you see that these things are `excellent` recommendations? I consider them more `significant` than letters."  
+“其他所有`人`都`跨过`了我`故意`放在地上的书，而他捡起来放在了桌上，并且他安静地等候轮到自己，`而不是推挤`。当我和他交谈时，我注意到他的`衣服整洁`，`头发梳理得很整齐`，`指甲`也很干净。你难道看不出这些都是`很好`的推荐信吗？我认为这些比信件更`重要`。”
 
 Questions 7-10 are based on the following story.
 
-    The year was 1912. Mrs. Straus and her husband were passengers on the Titanic during its fateful voyage. Not many women went down with the ship, but Mrs. Straus was one of the few women who did not survive for one simple reason: She could not bear to leave her husband.
-    This is how Mabel Bird, Mrs. Straus's servant, who survived the disaster, told the story after she was saved.
-    When the Titanic began to sink, frightened women and children were the first ones loaded into lifeboats. Mr. and Mrs. Straus were calm and comforting other passengers, and helped many of them into the boats.
-    Then, Mr. Straus begged his wife to get into the lifeboat with her servant and others. Mrs. Straus started to get in. She had one foot on the edge, but then suddenly, she changed her mind, turned away and stepped back onto the sinking ship.
-    'Please, dear, get into the boat!' her husband urged.
-    'No,' Mrs. Straus is said to have replied with resistance. 'I will not get into the boat. We have been together through a great many years. We are old now. I will not leave you. Where you go, I will go.'
-    And that is where they were last seen, standing arm in arm on the deck, this devoted wife clinging courageously to her husband, this loving husband clinging protectively to his wife, as the ship sank."
+The year was 1912. Mrs. Straus and her husband were `passengers` on the Titanic during its `fateful voyage`. Not many women went down with the ship, but Mrs. Straus was one of the few women who did not survive for one simple reason: She could not `bear to leave` her husband.  
+那是 1912 年。斯特劳斯夫妇是泰坦尼克号上不幸的一次航行的乘客。虽然下沉时没有多少女性随船沉没，但斯特劳斯夫人是少数几个没有幸存的女性之一，原因很简单：她无法`忍受离开`她的丈夫。
 
-    翻译如下：
+This is how Mabel Bird, Mrs. Straus's `servant`, who `survived the disaster`, told the story after she was saved.  
+这是斯特劳斯夫人的`仆人`梅贝尔·伯德在获救后讲述的故事。
 
-    那是1912年。斯特劳斯夫妇是泰坦尼克号上不幸的一次航行的乘客。虽然下沉时没有多少女性随船沉没，但斯特劳斯夫人是少数几个没有幸存的女性之一，原因很简单：她无法忍受离开她的丈夫。
-    这是斯特劳斯夫人的仆人梅贝尔·伯德在获救后讲述的故事。
-    当泰坦尼克号开始下沉时，惊恐的妇女和儿童是最先被安置在救生艇上的。斯特劳斯夫妇保持冷静，并安慰其他乘客，帮助许多人上了救生艇。
-    然后，斯特劳斯先生恳求他的妻子和她的仆人及其他人一起上救生艇。斯特劳斯夫人开始上船。她的一只脚已经踩在了边缘上，但突然之间，她改变了主意，转身回到了正在下沉的船上。
-    “亲爱的，请上船！”她的丈夫催促道。
-    “不，”据说斯特劳斯夫人坚决地回答。“我不会上船的。我们一起度过了很多年。我们现在都老了。我不会离开你。你去哪里，我就去哪里。”
-    最后一次看到他们时，他们正臂挽着臂站在甲板上，这位忠诚的妻子勇敢地依偎着她的丈夫，这位深爱的丈夫保护性地抱着他的妻子，随着船一起沉没。
+When the Titanic began to `sink`, `frightened` women and children were the first `ones` loaded into `lifeboats`. Mr. and Mrs. Straus were calm and comforting other passengers, and helped many of them into the boats.  
+当泰坦尼克号开始`下沉`时，`惊恐的`妇女和儿童是最先被安置在`救生艇`上的。斯特劳斯夫妇保持冷静，并安慰其他乘客，帮助许多人上了救生艇。
+
+Then, Mr. Straus `begged` his wife to get into the lifeboat with her servant and others. Mrs. Straus started to get in. She had one foot on the `edge`, but then suddenly, `she changed her mind`, turned away and stepped back onto the sinking ship.  
+然后，斯特劳斯先生`恳求`他的妻子和她的仆人及其他人一起上救生艇。斯特劳斯夫人开始上船。她的一只脚已经踩在了`边缘`上，但突然之间，她改变了主意，转身回到了正在下沉的船上。
+
+'Please, dear, get into the boat!' her husband `urged`.  
+“亲爱的，请上船！”她的丈夫`催促`道。
+
+'No,' Mrs. Straus is said to have `replied with resistance`. 'I will not get into the boat. We have been together through `a great many years`. We are old now. I will not leave you. `Where you go, I will go`.'  
+“不，”据说斯特劳斯夫人`坚决地回答`。“我不会上船的。我们一起度过了`很多年`。我们现在都老了。我不会离开你。你去哪里，我就去哪里。”
+
+And that is where they were last seen, standing` arm in arm` on the `deck`, this `devoted wife` `clinging courageously` to her husband, this loving husband clinging `protectively` to his wife, as the ship `sank`."
+最后一次看到他们时，他们正`臂挽着臂`站在`甲板`上，这位` 忠诚的妻子``勇敢地依偎着 `她的丈夫，这位深爱的丈夫`保护性地`抱着他的妻子，随着船一起沉没。
 
 ### Section II Use of English
 
-In the spring of 2000, when we were working to secure $435 million in debt relief for the developing world that President Clinton had promised, a friendly senator took Bono and me to a private office near the U.S. Capitol. "I think we can `make` a deal at about $200 million," the `lawmaker` said. He had been told that by "certain people". We knew that the original `offer` was just $60 million to $70 million. "`Declare` victory and go home," our friend `advised`.  
-Bono said, "No, we need the full $435 million." There was an `awkward` moment. "And another thing," Bono continued. "If 'certain people' `fight` it, tell them U2 will come to their `districts`, get 50,000 kids in a stadium and put their photo on 30-ft. screens with the words, 'This guy `killed` African women and children.'"  
+In the spring of 2000, when we were working to secure $435 million in debt relief for the developing world that President Clinton had promised, a friendly senator took Bono and me to a private office near the U.S. Capitol.  
+在 2000 年春天，当我们努力为发展中国家争取克林顿总统承诺的 4.35 亿美元债务减免时，一位友好的参议员带着 Bono 和我到美国国会大厦附近的一间私人办公室。
+
+"I think we can `make` a deal at about $200 million," the `lawmaker` said. He had been told that by "certain people".  
+“我认为我们可以**达成**大约 2 亿美元的协议，”这位**立法者**说。他是从“某些人”那里得知这个消息的。
+
+We knew that the original `offer` was just $60 million to $70 million. "`Declare` victory and go home," our friend `advised`.  
+我们知道最初的**报价**只是 6000 万到 7000 万美元。“**宣布**胜利然后回家吧，”我们的朋友**建议**道。
+
+Bono said, "No, we need the full $435 million." There was an `awkward` moment.  
+Bono 说：“不，我们需要全部的 4.35 亿美元。”场面有点**尴尬**。
+
+"And another thing," Bono continued. "If 'certain people' `fight` it, tell them U2 will come to their `districts`, get 50,000 kids in a stadium and put their photo on 30-ft. screens with the words, 'This guy `killed` African women and children.'"  
+“还有一件事，”Bono 继续说道。“如果‘某些人’**反对**，就告诉他们 U2 会去他们的**选区**，在体育场聚集 5 万名孩子，并在 30 英尺的屏幕上展示他们的照片，并写上‘这个家伙**杀死了**非洲的妇女和儿童’。”
+
 That's `why` Bono is a hero. Not because he's a rock star, but because he's a rock star who is `willing` to spend time on things that are `boring` - like long sessions with senators and `meetings` at the World Bank.  
-Why?  
-Here's the `answer`. When Bono and his wife Ali first went to `Africa`, they worked in a refugee camp for a mounth. On the day they were leaving, a man `approached` him carrying a baby. "This is my son," the man said. "Please take him with you when you leave. if you do, he will live. `Otherwise` he will die."  
-I have heard Bono `tell` that story several times. Each time, I think he is haunted by the horror `that` this unjust moment is repeated every day across Africa. He has `devoted` his life to making sure that such extreme poverty comes to an end.
-
-翻译如下：
-
-在 2000 年春天，当我们努力为发展中国家争取克林顿总统承诺的 4.35 亿美元债务减免时，一位友好的参议员带着 Bono 和我到美国国会大厦附近的一间私人办公室。“我认为我们可以**达成**大约 2 亿美元的协议，”这位**立法者**说。他是从“某些人”那里得知这个消息的。我们知道最初的**报价**只是 6000 万到 7000 万美元。“**宣布**胜利然后回家吧，”我们的朋友**建议**道。
-Bono 说：“不，我们需要全部的 4.35 亿美元。”场面有点**尴尬**。“还有一件事，”Bono 继续说道。“如果‘某些人’**反对**，就告诉他们 U2 会去他们的**选区**，在体育场聚集 5 万名孩子，并在 30 英尺的屏幕上展示他们的照片，并写上‘这个家伙**杀死了**非洲的妇女和儿童’。”
 这就是 Bono 成为英雄的**原因**。不是因为他是摇滚明星，而是因为他是愿意花时间在**枯燥**事务上的摇滚明星——比如和参议员长时间的会谈和在世界银行的**会议**。
-为什么？
+
+Why?
+
+Here's the `answer`. When Bono and his wife Ali first went to `Africa`, they worked in a refugee camp for a mounth. On the day they were leaving, a man `approached` him carrying a baby. "This is my son," the man said. "Please take him with you when you leave. if you do, he will live. `Otherwise` he will die."  
 这里是**答案**。当 Bono 和他的妻子 Ali 第一次去**非洲**时，他们在一个难民营工作了一个月。就在他们离开的那天，一名男子**走近**他，抱着一个婴儿。“这是我的儿子，”那名男子说。“请你在离开时带上他。如果你带走他，他将活下来。**否则**他会死。”
+
+I have heard Bono `tell` that story several times. Each time, I think he is haunted by the horror `that` this unjust moment is repeated every day across Africa. He has `devoted` his life to making sure that such extreme poverty comes to an end.  
 我听 Bono**讲述**这个故事很多次了。每次，我都觉得他被这种不公正的时刻所**困扰**，而这种时刻每天都在非洲重复。他**致力于**确保这种极端贫困能够结束。
