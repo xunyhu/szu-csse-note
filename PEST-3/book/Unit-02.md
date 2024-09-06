@@ -37,26 +37,34 @@ David Andrews, a successful businessman and an `amateur pilot`, is talking with 
 Johnson: Are your kids having a much different experience than you did growing up?  
 约翰逊：你的孩子们的成长经历和你小时候有什么不同吗？
 
-Andrews: We were more important than my parents were, in their eyes. I feel that that's how my wife and I are with out kids. They're the starts of our family. `They're everything to us, and we are secondary to them`. People may disagree with that viewpoint, but I don't know how to be any other way.  
+Andrews: We were more important than my parents were, in their eyes. I feel that that's how my wife and I are with out kids. They're the starts of our family. `They're everything to us, and we are secondary to them`. People may disagree with that `viewpoint`, but I don't know how to be any other way.  
 安德鲁斯：在我父母眼中，我们比他们自己更重要。我觉得这也是我和妻子对待孩子的方式。他们是我们家庭的明星，他们对我们来说就是一切，而我们是次要的。人们可能不同意这种观点，但我不知道该怎么做其他方式。
 
 Johnson: What has brought you the greatest personal happiness in you life?  
 约翰逊：在你的生活中，什么带给你最大的个人幸福？
 
-Andrews: My children. I know that sounds chiche, but there's a reason things are chiche. Because they're true.  
+Andrews: My children. I know that sounds **chiche**, but there's a reason things are chiche. Because they're true.  
 安德鲁斯：我的孩子们。我知道这听起来像陈词滥调，但陈词滥调之所以存在是有原因的。因为它们是真的。
 
 Johnson: What kinds of things do you do just for fun?  
 约翰逊：你为了娱乐会做些什么事情？
 
-Andrews: Last weekend, I took the kids to Orlando. We stayed at the RitzCarlton and just had a blast. Or I'll give everybody a ride in the Ultra-light -- it's a flying kite. But we alse do the regular stuff -- go to a movie, have a Sunday barbecue, swim. At the end of the day, we go to Dairy Queen. It's funny because that's exactly what I used to do on Sundays during the summer with my mother and father.  
-安德鲁斯：上个周末，我带孩子们去了奥兰多。我们住在丽思卡尔顿酒店，玩得非常开心。或者我会带大家乘坐超轻型飞机——它是一种飞行风筝。不过我们也做些普通的事情——去看电影，举办周日烧烤，游泳。一天结束时，我们会去冰淇淋店。有趣的是，这正是我小时候夏天的周日与父母一起做的事情。
+Andrews: Last weekend, I took the kids to Orlando. We stayed at the RitzCarlton and `just had a blast`.  
+安德鲁斯：上个周末，我带孩子们去了奥兰多。我们住在丽思卡尔顿酒店，`玩得非常开心`。  
+Or I'll give everybody `a ride` in the` Ultra-light` -- it's a flying kite.  
+或者我会带大家`乘坐`超轻型飞机——它是一种飞行风筝。  
+But we alse do the `regular stuff` -- go to a movie, have a Sunday barbecue, swim.  
+不过我们也做些普通的事情——去看电影，举办周日烧烤，游泳。  
+At the end of the day, we go to `Dairy Queen`. It's funny because that's `exactly` what I used to do on Sundays during the summer with my mother and father.  
+一天结束时，我们会去冰淇淋店。有趣的是，这`正是`我小时候夏天的周日与父母一起做的事情。
 
 Johnson: Are you just as happy as you were a child?  
 约翰逊：你现在和小时候一样幸福吗？
 
-Andrews: Oh, were, more. Because I have my own kids. I loved my life as a child. But that's the time that you're saying, "One day I'll have my own barbecue." In other words, every generation gets to improve on the dreams of the last generation.  
-安德鲁斯：哦，更幸福。因为我有了自己的孩子。我小时候的生活很美好。但那是你说“有一天我会有自己的烧烤派对”的时候。换句话说，每一代人都能在上一代人的梦想基础上有所改进。
+Andrews: Oh, were, more. Because I have my own kids. I loved my life as a child.  
+安德鲁斯：哦，更幸福。因为我有了自己的孩子。我小时候的生活很美好。  
+But that's the time that you're saying, "One day I'll have my own barbecue." In other words, `every generation gets to improve on the dreams of the last generation`.  
+但那是你说“有一天我会有自己的烧烤派对”的时候。换句话说，`每一代人都能在上一代人的梦想基础上有所改进`。
 
 ## Dialogue/Monologue 3
 
