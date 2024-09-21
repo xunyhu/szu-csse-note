@@ -132,13 +132,16 @@ Adam spent two yuan for the call that night!
 A brief introduction to China EMS at a seminar.  
 研讨会上对中国 EMS 的简单介绍。
 
-The International Express Service (EMS) in China genuinely started in 1980, which was formally introduced by China Post. To satisfy the further requirements of the service, State Post Bureau of China set up its specialized postal express company CCSC(China Courier Service Corporation) in 1985, which is in charge of the operations, marketing and management of nationwide EMS service.  
+The International Express Service (EMS) in China genuinely started in 1980, which was formally introduced by China Post. To satisfy the further requirements of the service, State Post Bureau of China set up its specialized postal express company CCSC(China Courier Service Corporation) in 1985, which is in charge of the operations, marketing and management of nationwide EMS service.
+
 中国的国际快递业务（EMS）真正起步于 1980 年，由中国邮政正式开办。为了满足该项服务的进一步发展需要，中国国家邮政局于 1985 年组建了专业邮政快递公司中国快递服务公司，负责全国 EMS 业务的经营、营销和管理。
 
-Taking “Best service and time guaranteed" as its sole purpose, CCSC provides the customers with worldwide, domestic and local EMS services, the internet-post service, the domestic COD service, the gift service, the PBA(paid by addressee) service, and so on. The company also offers some extended services such as declaring, packaging, storing, insuring and advertising as well.  
+Taking “Best service and time guaranteed" as its sole purpose, CCSC provides the customers with worldwide, domestic and local EMS services, the internet-post service, the domestic COD service, the gift service, the PBA(paid by addressee) service, and so on. The company also offers some extended services such as declaring, packaging, storing, insuring and advertising as well.
+
 公司以“优质服务、保证时效”为唯一宗旨，为客户提供全球、国内及本地 EMS 服务、网上邮递服务、国内货到付款服务、礼品服务、PBA（到付）服务等，并提供申报、包装、仓储、保险、广告等延伸服务。
 
-The time limit and safety is not only the core of express service but also the aim pursued by EMS. From the moment when the service started, EMS constantly stick to serving the economic reform and opening to the outside world by reorganizing the operational procedures and accelerating the transmission of the items to meet the various needs of the people, by increasing the investment to the production capacity and adopting high-tech to improve services, by offering 11185, the hotline and desk-to-desk, door-to-door service to qualify the services.  
+The time limit and safety is not only the core of express service but also the aim pursued by EMS. From the moment when the service started, EMS constantly stick to serving the economic reform and opening to the outside world by reorganizing the operational procedures and accelerating the transmission of the items to meet the various needs of the people, by increasing the investment to the production capacity and adopting high-tech to improve services, by offering 11185, the hotline and desk-to-desk, door-to-door service to qualify the services.
+
 时效和安全是快递服务的核心，也是 EMS 追求的目标。EMS 自开办以来，始终坚持服务经济改革和对外开放，不断重组业务流程，加快物品运输速度，满足人民群众的各种需求；加大生产能力投入，采用高新技术改进服务；开通 11185 热线和门到门服务，不断提高服务质量。
 
 China EMS is now capable of assuming the great trust of the customers.  

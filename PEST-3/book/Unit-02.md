@@ -43,7 +43,7 @@ Andrews: We were more important than my parents were, in their eyes. I feel that
 Johnson: What has brought you the greatest personal happiness in you life?  
 约翰逊：在你的生活中，什么带给你最大的个人幸福？
 
-Andrews: My children. I know that sounds **chiche**, but there's a reason things are chiche. Because they're true.  
+Andrews: My children. I know that sounds `cliche`, but there's a reason things are cliche. Because they're true.  
 安德鲁斯：我的孩子们。我知道这听起来像陈词滥调，但陈词滥调之所以存在是有原因的。因为它们是真的。
 
 Johnson: What kinds of things do you do just for fun?  
@@ -51,7 +51,7 @@ Johnson: What kinds of things do you do just for fun?
 
 Andrews: Last weekend, I took the kids to Orlando. We stayed at the RitzCarlton and `just had a blast`.  
 安德鲁斯：上个周末，我带孩子们去了奥兰多。我们住在丽思卡尔顿酒店，`玩得非常开心`。  
-Or I'll give everybody `a ride` in the` Ultra-light` -- it's a flying kite.  
+Or I'll give everybody `a ride` in the `Ultra-light` -- it's a flying kite.  
 或者我会带大家`乘坐`超轻型飞机——它是一种飞行风筝。  
 But we alse do the `regular stuff` -- go to a movie, have a Sunday barbecue, swim.  
 不过我们也做些普通的事情——去看电影，举办周日烧烤，游泳。  
@@ -74,8 +74,10 @@ Tom Lee, an established lawyer, is talking with Kate Jones, a reporter, about th
 Jones: You had a traumatic childhood. How did it shape who you've become?  
 Jones: 你的童年经历了创伤。这些经历如何塑造了你的现在？
 
-Lee: My mother was and is so loving, but she had to work all the time. I had an alcoholic father. I had sisters who married in high school to escape, and I just had absolutely no leadership whatsoever. A lot of what I ultimately defined myself to be was a reaction against that. My dad was beaten and abused by his mother all through his childhoodl. She was a mean woman. I knew what he grew up with and why he was so embittered, but it doesn't make it any easier to live with.  
-Lee: 我妈妈非常爱我，但她不得不一直工作。我爸爸是个酗酒者。我有几个姐姐是高中就结婚了逃离家庭，我从小完全没有领导力可言。我最终定义自己的很多东西都是对此的反应。我爸爸在童年时被他的母亲殴打和虐待。她是个刻薄的女人。我知道他成长的环境，以及他为何如此愤怒，但这并不让生活变得更容易。
+Lee: My mother was and is so loving, but she had to work all the time. I had an alcoholic father. I had sisters who married in high school to `escape`, and I just had absolutely `no leadership whatsoever`. A lot of what I `ultimately defined` myself to be was a reaction against that.  
+Lee: 我妈妈非常爱我，但她不得不一直工作。我爸爸是个酗酒者。我有几个姐姐是高中就结婚了`逃离`家庭，我从小完全`没有领导力可言`。我`最终定义`自己的很多东西都是对此的反应。
+My dad was beaten and abused by his mother all through his childhoodl. She was a `mean` woman. I knew what he grew up with and why he was so `embittered`, but it doesn't make it any easier to live with.  
+我爸爸在童年时被他的母亲殴打和虐待。她是个`刻薄`的女人。我知道他成长的环境，以及他为何如此`愤怒`，但这并不让生活变得更容易。
 
 Jones: Especially when you're a child.  
 Jones: 特别是当你还是个孩子的时候。

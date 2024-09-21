@@ -1,3 +1,5 @@
+# Greeting and Introduction
+
 ## Dialogue/Monologue 1
 
 Melanie Sanders brings out her photo album to show her new Egyptian friend, Layth, pictures of her family.  
@@ -159,7 +161,7 @@ Mississippi too seems to be mellowing out into a more congenial place than it wa
 
 ### Section I Listening Comprehension
 
-**Part A**
+Part A
 
 W: You seem to `take great pride in` your daughter. She's such a successful manager.  
 M: Yes, she is `a wonderful daughter`. But I'm proud of her because of `her pleasant and attractive personality` even more than for her success.  
@@ -169,7 +171,7 @@ M: Yes, she is `a wonderful daughter`. But I'm proud of her because of `her plea
 M: I `ran into` David Preston `downtown` today.  
 W: Really? Did he say anything about his sister?  
 M: Yes. She should be leaving Los Angeles `very soon`, because her husband has taken a job in `Alaska`.  
-男：我今天在` 市中心``遇到  `了大卫·普雷斯顿。  
+男：我今天在` 市中心``遇到 `了大卫·普雷斯顿。  
 女：真的吗？他说他妹妹的事了吗？  
 男：是的。她`很快`就要离开洛杉矶了，因为她的丈夫在`阿拉斯加`找到了一份工作。
 
@@ -178,7 +180,7 @@ M: But his `lectures` are quite `humorous`, aren't they?
 女：菲利普斯`教授`看起来很`严肃`。  
 男：但他的讲座相当幽默，不是吗？
 
-**Part B**
+Part B
 
 Questions 4-6 are based on the following story.
 
@@ -214,7 +216,7 @@ Then, Mr. Straus `begged` his wife to get into the lifeboat with her servant and
 'No,' Mrs. Straus is said to have `replied with resistance`. 'I will not get into the boat. We have been together through `a great many years`. We are old now. I will not leave you. `Where you go, I will go`.'  
 “不，”据说斯特劳斯夫人`坚决地回答`。“我不会上船的。我们一起度过了`很多年`。我们现在都老了。我不会离开你。你去哪里，我就去哪里。”
 
-And that is where they were last seen, standing` arm in arm` on the `deck`, this `devoted wife` `clinging courageously` to her husband, this loving husband clinging `protectively` to his wife, as the ship `sank`."
+And that is where they were last seen, standing `arm in arm` on the `deck`, this `devoted wife` `clinging courageously` to her husband, this loving husband clinging `protectively` to his wife, as the ship `sank`."
 最后一次看到他们时，他们正`臂挽着臂`站在`甲板`上，这位` 忠诚的妻子``勇敢地依偎着 `她的丈夫，这位深爱的丈夫`保护性地`抱着他的妻子，随着船一起沉没。
 
 ### Section II Use of English
