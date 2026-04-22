@@ -6,13 +6,14 @@
   "author": "xunyhu <xunyihu@163.com>",
   "license": "MIT",
   "scripts": {
-    "docs:dev": "vitepress dev docs-vitepress",
-    "docs:build": "vitepress build docs-vitepress",
-    "docs:preview": "vitepress preview docs-vitepress"
+    "docs:dev": "vitepress dev .",
+    "docs:build": "vitepress build .",
+    "docs:preview": "vitepress preview ."
   },
   "devDependencies": {
+    "@vue/server-renderer": "^3.5.33",
     "vitepress": "^1.6.4",
-    "vuepress": "^1.9.9"
+    "vue": "^3.5.33"
   },
   "engines": {
     "node": ">=18"

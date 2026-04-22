@@ -4,3 +4,5 @@
 C++/Code.xcodeproj
 node_modules
 docs/.vuepress
+.vitepress/cache
+.vitepress/dist

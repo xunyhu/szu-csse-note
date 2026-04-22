@@ -1,18 +1,27 @@
-# README
+# HuRui 的知识库
 
-## 环境要求
+这是一个基于 **VitePress** 搭建的个人知识库网站，按课程组织「计算机科学与技术」相关学习笔记与复习材料，目标是做到 **可展示、可持续扩展、可长期维护**。
 
-nvm use 16
+## 内容结构
 
-## 招生信息
+- **首页**：`index.md`
+- **课程笔记**：`szu/`（按课程与章节组织）
+- **站点配置**：`.vitepress/`
 
-- [研招网](https://yz.chsi.com.cn/)
+## 本地开发
 
-## 深大
+```bash
+npm run docs:dev
+```
 
-- [招生网](https://yz.szu.edu.cn/)
-- [专业目录](http://ehall.szu.edu.cn/gsapp/sys/zsjzapp/index.do#/2024/4/110/085404)
+## 构建与预览
 
-## 暨南大学
+```bash
+npm run docs:build
+npm run docs:preview
+```
 
-- [招生网](https://yz.jnu.edu.cn/2024nssyjszszyml/list.htm)
+## 技术栈
+
+- **VitePress**（文档站点）
+- **Vue 3 / @vue/server-renderer**（VitePress 运行所需）
