@@ -1,3 +1,9 @@
+# README
+
+## 环境要求
+
+nvm use 16
+
 ## 招生信息
 
 - [研招网](https://yz.chsi.com.cn/)

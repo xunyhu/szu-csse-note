@@ -9,9 +9,7 @@ features:
     details: 计算机科学与技术
   - title: Web前端
     details: 前端开发相关笔记
-  - title: 阅读笔记
-    details: 一些阅读过的书籍摘录
-  - title: 计算机程序设计员
-    details: 课程笔记
+  - title: AI相关
+    details: 关于AI使用及学习的笔记
 footer: Made by hurui with ❤️
 ---
